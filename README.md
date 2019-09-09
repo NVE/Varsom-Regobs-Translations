@@ -3,8 +3,10 @@ Translation files for Varsom Regobs.
 
 Use i18n-editor v2.0.0-beta.1 to edit files.
 https://github.com/jcbvm/i18n-editor/releases/tag/2.0.0-beta.1
-Select File -> Import project and choose the folder containing the translation files.
 
+Open the different language files in one project by: `Select File` -> `Import project` and choose the folder containing the translation files.
+
+## Folder layout
 Language files for the api and web (beta.regobs.no) are found in the folder `api`.
 
 The app has static content such as label names, tags and most menu items. Language files for the static content in the app are found in `app/i18n`. Some translations are for the native components and are found in `app/native-dialogs`.
