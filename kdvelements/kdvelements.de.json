@@ -3,7 +3,7 @@
         "Dirt_DangerSignKDV": [
             {
                 "Id": 200,
-                "Name": "Nicht angegeben ",
+                "Name": "Nicht angegeben",
                 "Description": null
             },
             {
@@ -169,7 +169,7 @@
         "Dirt_LandSlideTriggerKDV": [
             {
                 "Id": 0,
-                "Name": "Nicht angegeben ",
+                "Name": "Nicht angegeben",
                 "Description": null
             },
             {
@@ -196,7 +196,7 @@
         "Dirt_LandSlideSizeKDV": [
             {
                 "Id": 0,
-                "Name": "nicht angegeben ",
+                "Name": "Nicht angegeben",
                 "Description": null
             },
             {
@@ -619,7 +619,7 @@
             },
             {
                 "Id": 99,
-                "Name": "Andere Gefahrenzeichen (spezifiziere)",
+                "Name": "Andere Gefahren (spezifiziere)",
                 "Description": null
             }
         ],
@@ -728,7 +728,7 @@
             },
             {
                 "Id": 40,
-                "Name": "Wächtenbruch  ",
+                "Name": "Wächtenbruch",
                 "Description": null
             },
             {
@@ -740,32 +740,32 @@
         "Snow_AvalancheDangerKDV": [
             {
                 "Id": 0,
-                "Name": "0 Nicht angegeben ",
+                "Name": "0 Nicht angegeben",
                 "Description": null
             },
             {
                 "Id": 1,
-                "Name": "1 Gering ",
+                "Name": "1 Gering",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "2 Mässig ",
+                "Name": "2 Mässig",
                 "Description": null
             },
             {
                 "Id": 3,
-                "Name": "3 Erheblich ",
+                "Name": "3 Erheblich",
                 "Description": null
             },
             {
                 "Id": 4,
-                "Name": "4 Gross ",
+                "Name": "4 Gross",
                 "Description": null
             },
             {
                 "Id": 5,
-                "Name": "5 Sehr gross ",
+                "Name": "5 Sehr gross",
                 "Description": null
             }
         ],
@@ -1090,7 +1090,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Einige Schneeverwehungen ",
+                "Name": "Einige Schneeverwehungen
                 "Description": null
             },
             {
@@ -1144,7 +1144,7 @@
             },
             {
                 "Id": 1,
-                "Name": "Unten weiß ",
+                "Name": "Unten weiß",
                 "Description": null
             },
             {
@@ -1277,22 +1277,22 @@
             },
             {
                 "Id": 10,
-                "Name": "Steilhang ",
+                "Name": "Steilhang",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Leeseite ",
+                "Name": "Leeseite",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Gratnähe ",
+                "Name": "Gratnähe",
                 "Description": null
             },
             {
                 "Id": 40,
-                "Name": "In einem Graben oder einer Rinne ",
+                "Name": "In einem Graben oder einer Rinne",
                 "Description": null
             },
             {
@@ -1418,17 +1418,17 @@
             },
             {
                 "Id": 1,
-                "Name": "Gut  ",
+                "Name": "Gut",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "Mittel ",
+                "Name": "Mittel",
                 "Description": null
             },
             {
                 "Id": 3,
-                "Name": "Schwach ",
+                "Name": "Schwach",
                 "Description": null
             }
         ],
@@ -1457,7 +1457,7 @@
         "Snow_PropagationKDV": [
             {
                 "Id": 0,
-                "Name": "Nicht angegeben ",
+                "Name": "Nicht angegeben",
                 "Description": null
             },
             {
@@ -1467,42 +1467,42 @@
             },
             {
                 "Id": 22,
-                "Name": "ECTP ",
+                "Name": "ECTP",
                 "Description": null
             },
             {
                 "Id": 23,
-                "Name": "ECTN ",
+                "Name": "ECTN",
                 "Description": null
             },
             {
                 "Id": 24,
-                "Name": "ECTX ",
+                "Name": "ECTX",
                 "Description": null
             },
             {
                 "Id": 11,
-                "Name": "CTV ",
+                "Name": "CTV",
                 "Description": null
             },
             {
                 "Id": 12,
-                "Name": "CTE ",
+                "Name": "CTE",
                 "Description": null
             },
             {
                 "Id": 13,
-                "Name": "CTM ",
+                "Name": "CTM",
                 "Description": null
             },
             {
                 "Id": 14,
-                "Name": "CTH ",
+                "Name": "CTH",
                 "Description": null
             },
             {
                 "Id": 15,
-                "Name": "CTN ",
+                "Name": "CTN",
                 "Description": null
             }
         ],
@@ -1616,17 +1616,17 @@
             },
             {
                 "Id": 11,
-                "Name": "1F+ ",
+                "Name": "1F+",
                 "Description": null
             },
             {
                 "Id": 12,
-                "Name": "1F-B ",
+                "Name": "1F-B",
                 "Description": null
             },
             {
                 "Id": 13,
-                "Name": "B- ",
+                "Name": "B-",
                 "Description": null
             },
             {
@@ -1962,7 +1962,7 @@
             },
             {
                 "Id": 623,
-                "Name": "Hoher Wasserstand. Überschwemmung. ",
+                "Name": "Hoher Wasserstand/Überschwemmung",
                 "Description": null
             },
             {
@@ -2754,22 +2754,22 @@
         "UsageFlagKDV": [
             {
                 "Id": 0,
-                "Name": "Keine Flagge gesetzt ",
+                "Name": "Keine Flagge gesetzt",
                 "Description": null
             },
             {
                 "Id": 1,
-                "Name": "Bereit für die historische db ",
+                "Name": "Bereit für die historische db",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "Weitergeleitet an die historische db ",
+                "Name": "Weitergeleitet an die historische db",
                 "Description": null
             },
             {
                 "Id": 10,
-                "Name": "Genehmigt vom Datenadministrator ",
+                "Name": "Genehmigt vom Datenadministrator",
                 "Description": null
             },
             {
@@ -2779,7 +2779,7 @@
             },
             {
                 "Id": 61,
-                "Name": "Vom Datenadministrator abgelehnt ",
+                "Name": "Vom Datenadministrator abgelehnt",
                 "Description": null
             },
             {

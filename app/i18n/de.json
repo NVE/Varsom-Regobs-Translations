@@ -1,4 +1,4 @@
-﻿{
+{
   "ADD_MENU": {
     "DRAFT": "Entwurd",
     "NEW_OBSERVATION": "Neu",
@@ -41,7 +41,7 @@
     "DELETE": "Löschen",
     "NEXT": "Nächster",
     "NO": "Nein",
-    "OF": "von",
+    "OF": "Von",
     "OK": "Ok",
     "OK_BACK": "Ok, zurück zum Überblick",
     "PREVIOUS": "Früher",
@@ -109,7 +109,7 @@
     "SEARCH_TEXT": "Suche nach Orten"
   },
   "MENU": {
-    "ABOUT_REGOBS": "Über Daten in RegObs",
+    "ABOUT_REGOBS": "Über Daten in Regobs",
     "AND": "and",
     "CONTACT_REGOBS": "Kontaktiere uns",
     "CONTACT_REGOBS_ERROR": "Fehler melden",
@@ -175,16 +175,16 @@
       "URL": "Url"
     },
     "BACK_TO_OBSERVATION": "Zurück zu Beobachtung",
-    "CONFIRM_RESET": "Möchten Sie wirklich alle Felder zurücksetzen??",
+    "CONFIRM_RESET": "Möchten Sie wirklich alle Felder zurücksetzen?",
     "DANGER_OBS": {
       "AREA": "Bereich",
       "COMMENT": "Kommentar",
       "COMMENT_PLACEHOLDER": "Beschreiben Sie das Gefahrenzeichen",
       "DESCRIPTION": "Beschreibung",
       "FOR_MUNICIPAL": "Für die Gemeinde",
-      "FOR_REGION": "Land / Warnregion",
+      "FOR_REGION": "Land/Warnregion",
       "GENERAL_ON_MOUNTAIN": "Generell in den Bergen",
-      "IN_THE_VALLEY_OR_FJORD": "Im Tal / Fjord",
+      "IN_THE_VALLEY_OR_FJORD": "Im Tal/Fjord",
       "MANY_WATER_NEARBY": "Viele nahe gelegene Seen",
       "NEW_DANGER_OBS": "Fügen Sie ein Gefahrenzeichen hinzu",
       "NO_DAMAGE_SIGN": "Keine Gefahrenzeichen",
@@ -203,9 +203,9 @@
         "DAMAGE_EXTENT": "Schadensumfang",
         "DESTRUCTIVE_SIZE": "Größe",
         "DIRT_ACTIVITY_INFLUENCED": "Was war betroffen?",
-        "DIRT_FORECAST_ACCURATE": "War die Warnstufe korrekt??",
+        "DIRT_FORECAST_ACCURATE": "War die Warnstufe korrekt?",
         "DT_LAND_SLIDE_TIME": "Wann begann der Erdrutsch?",
-        "DT_LAND_SLIDE_TIME_END": "Wann endete der Erdrutsch?",
+        "DT_LAND_SLIDE_TIME_END": "Wann endete der Erdrutsch",
         "END_POSITION": "Endposition",
         "IN_MAP": "in der Karte",
         "LANDSLIDE_TYPE": "Erdrutschtyp",
@@ -298,7 +298,7 @@
       "SHARE_WITH_GROUP": "Mit Gruppe teilen",
       "TITLE": "Beobachtung"
     },
-    "REQUIRED_FIELDS_MISSING": "Einige Felder sind ungültig. Möchten Sie das Formular zurücksetzen und zurückgehen??",
+    "REQUIRED_FIELDS_MISSING": "Einige Felder sind ungültig. Möchten Sie das Formular zurücksetzen und zurückgehen?",
     "RESEND": "Versuchen Sie erneut zu senden",
     "RESET": "Zurücksetzen",
     "SAVED_DESCRIPTION": "Die Syncronisation erfolgt bei bestehender Netzwerkverbindung.",
@@ -659,7 +659,7 @@
     "STOP_TRIP": "Route stoppen",
     "TITLE": "Routen",
     "TRIP": "Route",
-    "TRIP_END_DESCRIPTION": "Beobachtungen werden vor ... erwartet",
+    "TRIP_END_DESCRIPTION": "Beobachtungen werden erwartet",
     "TRIP_TYPE": "Routenart"
   },
   "TRIP_LOG": {

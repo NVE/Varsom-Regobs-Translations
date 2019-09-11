@@ -1,4 +1,4 @@
-﻿{
+{
   "AppearanceName": "Darstellung:",
   "Converters": {
     "Above": "Über",
@@ -33,7 +33,7 @@
     "SHORT_LIST": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
   },
   "MapMode": "Karte",
-  "MultipleRegistrations": "Anmeldungen",
+  "MultipleRegistrations": "anmeldungen",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Aspect",
@@ -288,7 +288,7 @@
   "PictureMode": "Bilder",
   "Reg": {
     "ObservedTime": "Beobachtet",
-    "ObserverNickName": "durch",
+    "ObserverNickName": "Durch",
     "RegisteredTime": "Eingetragen",
     "UpdatedTime": "Upgedated"
   },
@@ -329,13 +329,13 @@
         "Label": "Prognoseregionen"
       },
       "TimePeriod": {
-        "ChooseDate": "Datum auswählen:",
-        "Day": "Tag",
-        "FromDate": "von",
+        "ChooseDate": "datum auswählen:",
+        "Day": "tag",
+        "FromDate": "Von",
         "Label": "Zeitraum",
         "Last": "zuletzt",
         "Or": "oder",
-        "ToDate": "von"
+        "ToDate": "Von"
       }
     },
     "GetMoreRegistrationsBtn": "Mehr Beobachtungen ansehen",
@@ -358,7 +358,7 @@
   "ShowLess": "Zeige weniger",
   "ShowMore": "Zeige mehr",
   "ShowSearchButtonName": "Zeige Suchleiste",
-  "SingleRegistration": "Anmeldung",
+  "SingleRegistration": "anmeldung",
   "SortByName": "Sortiert nach:",
   "TableModes": {
     "CompactKey": "Kompakt",
@@ -366,12 +366,12 @@
     "ShortKey": "Kurz"
   },
   "from": "von",
-  "is": "Eis",
-  "jord": "Erde",
+  "is": "eis",
+  "jord": "erde",
   "metersOverSeaLevel": "müA",
-  "observation": " Beobachtungen",
-  "observations": "Beobachtung(en)",
-  "snø": "Schnee",
+  "observation": "beobachtungen",
+  "observations": "beobachtung(en)",
+  "snø": "schnee",
   "to": "zu",
-  "vann": "Wasser"
+  "vann": "wasser"
 }

@@ -1,10 +1,12 @@
 # Varsom-Regobs-Translations
 Translation files for Varsom Regobs.
 
-Use i18n-editor v2.0.0-beta.1 to edit files.
+Use i18n-editor v2.0.0-beta.1 to edit the `api` and `app` files.
 https://github.com/jcbvm/i18n-editor/releases/tag/2.0.0-beta.1
 
 Open the different language files in one project by: `Select File` -> `Import project` and choose the folder containing the translation files.
+
+A normal text editor with a possibility for a split view will be useful to edit the `kdvelements` and the `helptexts`. E.g Atom (https://atom.io/).
 
 ## Folder layout
 Language files for the api and web (beta.regobs.no) are found in the folder `api`.

@@ -325,7 +325,7 @@
         "ToDate": "Til"
       },
       "Regions": {
-        "BRegionInfo": "Regioner i med * varsles kun ved faregrad 4 og 5",
+        "BRegionInfo": "Regioner i med * varsles kun ved faregrad 4 og 5.",
         "Label": "Regioner"
       },
       "TimePeriod": {
