@@ -898,22 +898,22 @@
         "Snow_AvalCauseAttributeFlags": [
             {
                 "Id": 1,
-                "Name": "Šibka plast se zruši enostavno in čisto (enostavno širjenje)",
+                "Name": "Šibka plast se zruši enostavno in čisto (enostavno širjenje).",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "Zrušena šibka plast je tanjša od 3 cm",
+                "Name": "Zrušena šibka plast je tanjša od 3 cm.",
                 "Description": null
             },
             {
                 "Id": 4,
-                "Name": "Prekrivajoča kloža je mehka",
+                "Name": "Prekrivajoča kloža je mehka.",
                 "Description": null
             },
             {
                 "Id": 8,
-                "Name": "Veliki, prepoznavni kristali v šibki plasti",
+                "Name": "Veliki, prepoznavni kristali v šibki plasti.",
                 "Description": null
             }
         ],
