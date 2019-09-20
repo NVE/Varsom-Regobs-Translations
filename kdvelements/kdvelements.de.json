@@ -1090,7 +1090,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Einige Schneeverwehungen",
+                "Name": "Leichte Schneeverwehungen",
                 "Description": null
             },
             {
@@ -1240,7 +1240,7 @@
             },
             {
                 "Id": 26,
-                "Name": "Auslösung durch einen Mensch",
+                "Name": "Auslösung durch Person(en)",
                 "Description": null
             },
             {
@@ -1255,7 +1255,7 @@
             },
             {
                 "Id": 23,
-                "Name": "Künstliche Auslösung - Testgebiet",
+                "Name": "Künstliche Auslösung - Testhang",
                 "Description": null
             },
             {
@@ -1942,12 +1942,12 @@
             },
             {
                 "Id": 611,
-                "Name": "Wegen Eis blockierte Wasserstraße",
+                "Name": "Wegen Eis blockierte Drainage",
                 "Description": null
             },
             {
                 "Id": 612,
-                "Name": "Verstopfte Wasserstraße durch Ablagerungen",
+                "Name": "Verstopfte Drainage durch Ablagerungen",
                 "Description": null
             },
             {
@@ -2021,7 +2021,7 @@
             },
             {
                 "Id": 120,
-                "Name": "Beknnter Orientierungspunkt",
+                "Name": "Bekannter Orientierungspunkt",
                 "Description": null
             },
             {
@@ -2074,27 +2074,27 @@
             {
                 "Id": 0,
                 "Name": "Unbekannt",
-                "Description": "unknown water level"
+                "Description": "Unbekannter Wasserstand"
             },
             {
                 "Id": 1,
                 "Name": "Der Wasserstand sinkt",
-                "Description": "Water level is decreasing"
+                "Description": "Der Wasserstand sinkt"
             },
             {
                 "Id": 2,
                 "Name": "Der Wasserstand steigt",
-                "Description": "Water level is increasing"
+                "Description": "Der Wasserstand steigt"
             },
             {
                 "Id": 3,
-                "Name": "Der Wasserstand ist stabil",
-                "Description": "Water level is stable"
+                "Name": "Der Wasserstand ist unverändert",
+                "Description": "Der Wasserstand ist unverändert"
             },
             {
                 "Id": 4,
                 "Name": "Der Wasserstand kann nicht bestimmt werden",
-                "Description": "Can not determine that now"
+                "Description": "Der Wasserstand kann nicht bestimmt werden"
             }
         ],
         "Water_WaterAstrayKDV": [
@@ -2106,29 +2106,29 @@
             {
                 "Id": 1,
                 "Name": "Ja",
-                "Description": "Yes"
+                "Description": "Ja"
             },
             {
                 "Id": 2,
                 "Name": "Nein",
-                "Description": "No"
+                "Description": "Nein"
             }
         ],
         "Water_ObservationTimingKDV": [
             {
                 "Id": 0,
                 "Name": "Unbekannt",
-                "Description": "Unknown"
+                "Description": "Unbekannt"
             },
             {
                 "Id": 1,
                 "Name": "Spur von früherem Wasserstand",
-                "Description": "Earlier water trace"
+                "Description": "Spur von früherem Wasserstand"
             },
             {
                 "Id": 2,
                 "Name": "Aktueller Wasserstand",
-                "Description": "Current water level"
+                "Description": "Aktueller Wasserstand"
             }
         ],
         "Water_WaterLevelMethodKDV": [
@@ -2327,7 +2327,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Warnung zu nieder",
+                "Name": "Warnung zu niedrig",
                 "Description": null
             },
             {
@@ -2374,7 +2374,7 @@
             },
             {
                 "Id": 20,
-                "Name": "Nur Materialschaden",
+                "Name": "Nur Materialschäden",
                 "Description": null
             },
             {
@@ -2417,7 +2417,7 @@
             {
                 "Id": 110,
                 "Name": "*",
-                "Description": "Der Beobachter verfügt über grundlegende Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter ist nicht geschult, wie regObs und Varsom die Lawinengefahr kommunizieren."
+                "Description": "Der Beobachter verfügt über grundlegende Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter ist nicht darin geschult, wie regObs und [Varsom?] die Lawinengefahr kommunizieren."
             },
             {
                 "Id": 115,
@@ -2427,12 +2427,12 @@
             {
                 "Id": 120,
                 "Name": "***",
-                "Description": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen Grundkurs, wie regObs und Varsom die Lawinengefahr kommunizieren."
+                "Description": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen Grundkurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren."
             },
             {
                 "Id": 130,
                 "Name": "****",
-                "Description": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen erweiterten Kurs, wie regObs und Varsom die Lawinengefahr kommunizieren."
+                "Description": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen erweiterten Kurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren."
             },
             {
                 "Id": 150,
@@ -2502,7 +2502,7 @@
             {
                 "Id": 350,
                 "Name": "*****",
-                "Description": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
+                "Description": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
             },
             {
                 "Id": 400,
@@ -2532,7 +2532,7 @@
             {
                 "Id": 450,
                 "Name": "*****",
-                "Description": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
+                "Description": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
             },
             {
                 "Id": 600,
@@ -2562,7 +2562,7 @@
             {
                 "Id": 650,
                 "Name": "*****",
-                "Description": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
+                "Description": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare."
             },
             {
                 "Id": 700,
@@ -2698,7 +2698,7 @@
             {
                 "Id": 30,
                 "Name": "Nasse Erde",
-                "Description": "Flood slide"
+                "Description": "Mure"
             },
             {
                 "Id": 33,
