@@ -4,49 +4,49 @@
         "RegistrationTID": 0,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "Kein deutscher Hilfetext vorhanden."
+        "Text": "Kein Hilfetext vorhanden."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 0,
         "GeoHazardTID": 20,
         "LangKey": 3,
-        "Text": "Kein deutscher Hilfetext vorhanden."
+        "Text": "Kein Hilfetext vorhanden."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 0,
         "GeoHazardTID": 60,
         "LangKey": 3,
-        "Text": "Kein deutscher Hilfetext vorhanden."
+        "Text": "Kein Hilfetext vorhanden."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 0,
         "GeoHazardTID": 70,
         "LangKey": 3,
-        "Text": "Kein deutscher Hilfetext vorhanden."
+        "Text": "Kein Hilfetext vorhanden."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 10,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "Kein deutscher Hilfetext vorhanden."
+        "Text": "Kein Hilfetext vorhanden."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 10,
         "GeoHazardTID": 20,
         "LangKey": 3,
-        "Text": "Wollen Sie etwas teilen, aber die anderen Formen passten nicht ganz? Verwende das hier! Ein Foto und ein informativer Text, der beschreibt, was Sie sehen, sind sehr nützlich. "
+        "Text": "Wollen Sie etwas mitteilen, aber die anderen Formen passten nicht ganz? Verwende dieses hier! Ein Foto und ein informativer Text, der beschreibt, was Sie sehen, sind sehr nützlich. "
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 10,
         "GeoHazardTID": 60,
         "LangKey": 3,
-        "Text": "Wollen Sie etwas teilen, aber die anderen Formen passten nicht ganz? Verwende das hier! Ein Foto und ein informativer Text, der beschreibt, was Sie sehen, sind sehr nützlich. "
+        "Text": "Wollen Sie etwas mitteilen, aber die anderen Formen passten nicht ganz? Verwende dieses hier! Ein Foto und ein informativer Text, der beschreibt, was Sie sehen, sind sehr nützlich. "
     },
     {
         "ApplicationName": "regObsApp 2016",
@@ -81,14 +81,14 @@
         "RegistrationTID": 11,
         "GeoHazardTID": 70,
         "LangKey": 3,
-        "Text": "Wir und alle anderen möchten aus Ihren Fehlern lernen. Wenn Sie Informationen teilen, wenn etwas schief geht, können andere aus dem Unfall lernen und dies kann vorbeugende Auswirkungen haben.\n\nDas Wissen über Unfälle und das Erkennen von Unfallmustern ermöglichen es uns, relevantere Eisprognosen zu erstellen, um ähnliche Unfälle zu verhindern.\n\nBasierend auf der Statistik von Eisunfällen können wir präventiv mit Informationen und Aufklärung arbeiten, zum Beispiel durch Isskolen (Eisschule) auf Varsom."
+        "Text": "Wir und alle anderen möchten aus Ihren Fehlern lernen. Wenn Sie Informationen teilen, wenn etwas schief geht, können andere aus dem Unfall lernen und dies kann vorbeugende Auswirkungen haben.\n\nDas Wissen über Unfälle und das Erkennen von Unfallmustern ermöglichen es uns, relevantere Eisprognosen zu erstellen, um ähnliche Unfälle zu verhindern.\n\nBasierend auf der Statistik von Eisunfällen können wir präventiv mit Informationen und Aufklärung arbeiten."
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 13,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "Sehen Sie Anzeichen von Instabilität, wenn Sie in den Bergen unterwegs sind? Der einfachste Weg, sie zu verbreiten, ist in dieser Form.\nDie Anzeichen für Instabilität, die Sie melden können, sind:: <br><br>\n ** Aktuelle Lawinen ** - Lawinenaktivität während Sie auf Tour sind. Das beste Zeichen für Instabilität in der Schneedecke.<br>\n**Wumm-Geräusch** - Wumm-Geräusche werden erzeugt, wenn schwache Schichten in der Schneedecke zusammenbrechen. <br>\n**Neue Risse** - Eine Kombination aus einer kompakten Schneetafel mit einer schwachen Schicht darunter. <br>\n**Starker Schneefall** -Mehr als 30 cm / 24h.<br>\n** Oberflächenreif** - Kein Problem, wenn er an der Oberfläche ist, aber er kann ein Problem werden, wenn er von gebundenem Schnee überdeckt wird.<br>\n**Schnelle Temperaturänderung** -Wenn die Temperatur in 3 Stunden um mehr als 5 Grad steigt.<br>\n**Viel Wasser im Schnee** -Regen erhöht das Gewicht der Schneedecke und schwäche die Bindungen im Schnee.<br>\n**Frische Schneeverwehung** -Hat der Wind in den letzten 24 Stunden für Triebschnee gesorgt?<br>"
+        "Text": "Sehen Sie Anzeichen von Instabilität, wenn Sie in den Bergen unterwegs sind? Der einfachste Weg, sie zu verbreiten, ist in dieser Form.\nDie Anzeichen für Instabilität, die Sie melden können, sind:: <br><br>\n ** Aktuelle Lawinen ** - Lawinenaktivität während Sie auf Tour sind. Das beste Zeichen für Instabilität in der Schneedecke.<br>\n**Wumm-Geräusch** - Wumm-Geräusche werden erzeugt, wenn schwache Schichten in der Schneedecke zusammenbrechen. <br>\n**Neue Risse** - Eine Kombination aus einer kompakten Schneetafel mit einer schwachen Schicht darunter. <br>\n**Starker Schneefall** -Mehr als 30 cm / 24h.<br>\n** Oberflächenreif** - Kein Problem, wenn er an der Oberfläche ist, aber er kann ein Problem werden, wenn er von gebundenem Schnee überdeckt wird.<br>\n**Schneller Temperaturanstieg** -Wenn die Temperatur in 3 Stunden um mehr als 5 Grad steigt.<br>\n**Viel Wasser im Schnee** -Regen erhöht das Gewicht der Schneedecke und schwäche die Bindungen im Schnee.<br>\n**Frische Schneeverwehung** -Hat der Wind in den letzten 24 Stunden für Triebschnee gesorgt?<br>"
     },
     {
         "ApplicationName": "regObsApp 2016",
@@ -137,7 +137,7 @@
         "RegistrationTID": 23,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "Wir haben eine Funktion zum Zeichnen von Schneeprofilen auf regobs.no (web). In Kürze wird es diese Funktion auch im App geben.\n\n\nDer Schneeprofilort muss repräsentativ für die zu bewertenden Lawinenprobleme sein.\n \nDie Schneeprofilaufnahme wird im Schatten ausgeführt, um direktes Sonnenlicht auf dem Schneeprofil zu vermeiden. Überprüfen Sie auch den Schnee am Boden.\nWenn Sie Zweifel haben, welche Art von Schneekristallen Sie im Profil finden, kann diese Tabelle helfen:\n\n![Symbol i snøprofil.] (http://www.varsom.no/media/2098/kornform-og-hardhet.jpg \"Kornform og hardheit.\")"
+        "Text": "Wir haben eine Funktion zum Erstellen von Schneeprofilen auf regobs.no (web). In Kürze wird es diese Funktion auch im App geben.\n\n\nDer Schneeprofilort muss repräsentativ für die zu bewertenden Lawinenprobleme sein.\n \nDie Schneeprofilaufnahme wird im Schatten ausgeführt, um direktes Sonnenlicht auf dem Schneeprofil zu vermeiden. Überprüfen Sie auch den Schnee am Boden.\nWenn Sie Zweifel haben, welche Art von Schneekristallen Sie im Profil finden, kann diese Tabelle helfen:\n\n![Symbol i snøprofil.] (http://www.varsom.no/media/2098/kornform-og-hardhet.jpg \"Kornform og hardheit.\")"
     },
     {
         "ApplicationName": "regObsApp 2016",
@@ -165,14 +165,14 @@
         "RegistrationTID": 31,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "\nEine ** Lawinengefahrenbeurteilung ** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingereichten Tests und Beobachtungen.\n\n* Wie ist die Schneestabilität? Lesen Sie die von Ihnen durchgeführten Tests.\n* Wie sieht die erwartete Entwicklung aus? Warum?\n* Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker.\n\nWir verwenden die ADAM-Matrix, um das Gefährdungsniveau zu bestimmen. Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix.\n\n![ADAM.] (http://www.varsom.no/media/2001/adamnov18.jpg \"\")"
+        "Text": "\nEine ** Lawinengefahrenbeurteilung ** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingereichten Tests und Beobachtungen.\n\n* Wie ist die Schneedeckenstabilität? Lesen Sie die von Ihnen durchgeführten Tests.\n* Wie sieht die erwartete Entwicklung aus? Warum?\n* Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker.\n\nWir verwenden die EAWS-Matrix, um das Gefährdungsniveau zu bestimmen. IS THAT RELEVANT? Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix.\n\n![ADAM.] (http://www.varsom.no/media/2001/adamnov18.jpg \"\")"
     },
     {
         "ApplicationName": "regObsApp 2016",
         "RegistrationTID": 32,
         "GeoHazardTID": 10,
         "LangKey": 3,
-        "Text": "Das Lawinenproblem gliedert sich in drei Teile.\n1. Beurteilung der schwachen Schicht - der wichtigste Teil. **Was ist die schwache Schicht?**\n2. Möglichkeit von Lawinen\n3. Räumliche Verteilung des Lawinenproblems\n\nDefinitionen:\n\n**Auslösewahrscheinlichkeit** <br>\nAuslösewahrscheinlichkeit beschreibt, wie einfach es für eine einzelne Person ist, eine Lawine auszulösen. <br>\n* **Reaktiv (sehr schwer auszulösen)**\nEs gibt kein oder nur ein geringfügiges Lawinenproblem. Die Schneedecke enthält keine gut entwickelten schwachen Schichten. Brüche sind schwer zu initiieren und breiten sich nicht aus.\nTypische Beobachtungen: Lockerer trockener / nasser Schnee; harter und kompakter Schnee; Fehlen von Gefahrenzeichen (z. B. Wumms, spontane Risse); Ergebnisse von Stabilitätstests weisen eine gute Schneedeckenstabilität auf (z. B. EXTX / ECTN> 20).\n* **Hartnäckig (schwer auszulösen)**\nEin Lawinenproblem besteht, ist aber nicht gut entwickelt. Die Schneedecke hat mindestens eine schwache Schicht, aber sie ist nicht sehr verbreitet oder ist durch eine darüber liegende dicke und harte Schicht gut geschützt. Große Zusatzbelastungen wie eine Gruppe von Skifahrern, Sprengstoff oder Schneemobile können zu Brüchen führen.\nTypische Beobachtungen: Wenige Gefahrenzeichen (z. B. kaum Wummgeräusche, seltene spontane Risse); Stabilitätstest zeigen keine klaren Hinweise auf eher stabil oder instabil (z. B. ECTN / ECTP> 20).\n* **Reaktiv (leicht auszulösen)**\nEin Lawinenproblem liegt vor. Eine oder mehrere gut entwickelte schwache Schichten sind in der Schneedecke vorhanden. Brüche können in der Regel durch eine geringe Zusatzbelastung wie eine Person / einen Skifahrer ausgelöst werden, weisen jedoch häufig eine geringe Auslauflänge auf (breiten sich selten weit aus).\nTypische Beobachtungen: Einige Gefahrenzeichen (z.B. Wummgeräusche, einige kleine spontane Risse); Stabilitätstests weisen auf Instabilität hin (z. B. ECTP <20).\n* **Große Auslösewahrscheinlichkeit (sehr leicht auszulösen)**\nEin Lawinenproblem liegt vor. Eine oder mehrere gut entwickelte schwache Schichten befinden sich im oberen Meter der Schneedecke. Brüche lassen sich sehr leicht durch eine geringe Zusatzbelastung wie eine Person / einen Skifahrer auslösen und haben große Auslauflängen (können sich weit ausbreiten). Fernauslösung ist typisch.\nTypische Beobachtungen: Offensichtliche Gefahrenzeichen (z.b. Wummgeräusche, spontane Risse); Stabilitätstests weisen auf Instabilität und große Auslauflängen hin (z. B. ECTP <10).\n\n**Verbreitung**\n\n**Vereinzelt:**\n* Das Lawinenproblem ist nur in wenigen Geländeteilen zu finden.\n* Gefahrenzeichen sind selten und schwer zu finden.\n\n**Spezifisch (einige):**\n* Das Lawinenproblem besteht in Geländeteilen mit ähnlichen Merkmalen.\n* Gefahrenzeichen sind vorhanden, aber nicht immer offensichtlich (z.B. gelegentliche Gefahrenzeichen).\n* Die Beschreibung für weder 'vereinzelte' noch 'viele / weit verbreitete' Gefahrenzeichen.\n\n**Weitverbreitet (viele):**\n* Das Lawinenproblem ist an vielen Orten und in vielen Geländeteilen anzutreffen.\n* Gefahrenzeichen sind überall und leicht zu finden (zB offensichtliche Gefahrenzeichen).\n\n\n"
+        "Text": "Das Lawinenproblem gliedert sich in drei Teile.\n1. Beurteilung der schwachen Schicht - der wichtigste Teil. **Was ist die schwache Schicht?**\n2. Möglichkeit von Lawinen\n3. Räumliche Verteilung des Lawinenproblems\n\nDefinitionen:\n\n**Auslösewahrscheinlichkeit** <br>\nAuslösewahrscheinlichkeit beschreibt, wie einfach es für eine einzelne Person ist, eine Lawine auszulösen. <br>\n* **Reaktiv (sehr schwer auszulösen)**\nEs gibt kein oder nur ein geringfügiges Lawinenproblem. Die Schneedecke enthält keine gut entwickelten schwachen Schichten. Brüche sind schwer zu initiieren und breiten sich nicht aus.\nTypische Beobachtungen: Lockerer trockener / nasser Schnee; harter und kompakter Schnee; Fehlen von Gefahrenzeichen (z. B. Wummgeräusche, spontane Risse); Ergebnisse von Stabilitätstests weisen eine gute Schneedeckenstabilität auf (z. B. EXTX / ECTN> 20).\n* **Hartnäckig (schwer auszulösen)**\nEin Lawinenproblem besteht, ist aber nicht gut entwickelt. Die Schneedecke hat mindestens eine schwache Schicht, aber sie ist nicht sehr verbreitet oder ist durch eine darüber liegende dicke und harte Schicht gut geschützt. Große Zusatzbelastungen wie eine Gruppe von Skifahrern, Sprengstoff oder Schneemobile können zu Brüchen führen.\nTypische Beobachtungen: Wenige Gefahrenzeichen (z. B. kaum Wummgeräusche, seltene spontane Risse); Stabilitätstest zeigen keine klaren Hinweise auf eher stabil oder instabil (z. B. ECTN / ECTP> 20).\n* **Reaktiv (leicht auszulösen)**\nEin Lawinenproblem liegt vor. Eine oder mehrere gut entwickelte schwache Schichten sind in der Schneedecke vorhanden. Brüche können in der Regel durch eine geringe Zusatzbelastung wie eine Person / einen Skifahrer ausgelöst werden, weisen jedoch häufig eine geringe Auslauflänge auf (breiten sich selten weit aus).\nTypische Beobachtungen: Einige Gefahrenzeichen (z.B. Wummgeräusche, einige kleine spontane Risse); Stabilitätstests weisen auf Instabilität hin (z. B. ECTP <20).\n* **Große Auslösewahrscheinlichkeit (sehr leicht auszulösen)**\nEin Lawinenproblem liegt vor. Eine oder mehrere gut entwickelte schwache Schichten befinden sich im oberen Meter der Schneedecke. Brüche lassen sich sehr leicht durch eine geringe Zusatzbelastung wie eine Person / einen Skifahrer auslösen und haben große Auslauflängen (können sich weit ausbreiten). Fernauslösung ist typisch.\nTypische Beobachtungen: Offensichtliche Gefahrenzeichen (z.b. Wummgeräusche, spontane Risse); Stabilitätstests weisen auf Instabilität und große Auslauflängen hin (z. B. ECTP <10).\n\n**Verbreitung**\n\n**Vereinzelt:**\n* Das Lawinenproblem ist nur in wenigen Geländeteilen zu finden.\n* Gefahrenzeichen sind selten und schwer zu finden.\n\n**Spezifisch (einige):**\n* Das Lawinenproblem besteht in Geländeteilen mit ähnlichen Merkmalen.\n* Gefahrenzeichen sind vorhanden, aber nicht immer offensichtlich (z.B. gelegentliche Gefahrenzeichen).\n* Die Beschreibung für weder 'vereinzelte' noch 'viele / weit verbreitete' Gefahrenzeichen.\n\n**Weitverbreitet (viele):**\n* Das Lawinenproblem ist an vielen Orten und in vielen Geländeteilen anzutreffen.\n* Gefahrenzeichen sind überall und leicht zu finden (zB offensichtliche Gefahrenzeichen).\n\n\n"
     },
     {
         "ApplicationName": "regObsApp 2016",
