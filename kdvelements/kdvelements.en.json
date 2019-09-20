@@ -3,7 +3,7 @@
         "Dirt_DangerSignKDV": [
             {
                 "Id": 200,
-                "Name": "Not given ",
+                "Name": "Not given",
                 "Description": null
             },
             {
@@ -169,7 +169,7 @@
         "Dirt_LandSlideTriggerKDV": [
             {
                 "Id": 0,
-                "Name": "Not given ",
+                "Name": "Not given",
                 "Description": null
             },
             {
@@ -196,7 +196,7 @@
         "Dirt_LandSlideSizeKDV": [
             {
                 "Id": 0,
-                "Name": "not given ",
+                "Name": "not given",
                 "Description": null
             },
             {
@@ -728,7 +728,7 @@
             },
             {
                 "Id": 40,
-                "Name": "Cornice fall  ",
+                "Name": "Cornice fall",
                 "Description": null
             },
             {
@@ -740,32 +740,32 @@
         "Snow_AvalancheDangerKDV": [
             {
                 "Id": 0,
-                "Name": "0 Not given ",
+                "Name": "0 Not given",
                 "Description": null
             },
             {
                 "Id": 1,
-                "Name": "1 Low ",
+                "Name": "1 Low",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "2 Moderate ",
+                "Name": "2 Moderate",
                 "Description": null
             },
             {
                 "Id": 3,
-                "Name": "3 Considerable ",
+                "Name": "3 Considerable",
                 "Description": null
             },
             {
                 "Id": 4,
-                "Name": "4 High ",
+                "Name": "4 High",
                 "Description": null
             },
             {
                 "Id": 5,
-                "Name": "5 Extreme ",
+                "Name": "5 Extreme",
                 "Description": null
             }
         ],
@@ -1090,7 +1090,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Some snow drift ",
+                "Name": "Some snow drift",
                 "Description": null
             },
             {
@@ -1144,7 +1144,7 @@
             },
             {
                 "Id": 1,
-                "Name": "Bottom white ",
+                "Name": "Bottom white",
                 "Description": null
             },
             {
@@ -1277,22 +1277,22 @@
             },
             {
                 "Id": 10,
-                "Name": "Steep slope ",
+                "Name": "Steep slope",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Lee side ",
+                "Name": "Lee side",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Close to ridge ",
+                "Name": "Close to ridge",
                 "Description": null
             },
             {
                 "Id": 40,
-                "Name": "In gully or concave form ",
+                "Name": "In gully or concave form",
                 "Description": null
             },
             {
@@ -1418,17 +1418,17 @@
             },
             {
                 "Id": 1,
-                "Name": "Good  ",
+                "Name": "Good",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "Medium ",
+                "Name": "Medium",
                 "Description": null
             },
             {
                 "Id": 3,
-                "Name": "Poor ",
+                "Name": "Poor",
                 "Description": null
             }
         ],
@@ -1457,7 +1457,7 @@
         "Snow_PropagationKDV": [
             {
                 "Id": 0,
-                "Name": "Not given ",
+                "Name": "Not given",
                 "Description": null
             },
             {
@@ -1467,42 +1467,42 @@
             },
             {
                 "Id": 22,
-                "Name": "ECTP ",
+                "Name": "ECTP",
                 "Description": null
             },
             {
                 "Id": 23,
-                "Name": "ECTN ",
+                "Name": "ECTN",
                 "Description": null
             },
             {
                 "Id": 24,
-                "Name": "ECTX ",
+                "Name": "ECTX",
                 "Description": null
             },
             {
                 "Id": 11,
-                "Name": "CTV ",
+                "Name": "CTV",
                 "Description": null
             },
             {
                 "Id": 12,
-                "Name": "CTE ",
+                "Name": "CTE",
                 "Description": null
             },
             {
                 "Id": 13,
-                "Name": "CTM ",
+                "Name": "CTM",
                 "Description": null
             },
             {
                 "Id": 14,
-                "Name": "CTH ",
+                "Name": "CTH",
                 "Description": null
             },
             {
                 "Id": 15,
-                "Name": "CTN ",
+                "Name": "CTN",
                 "Description": null
             }
         ],
@@ -1616,17 +1616,17 @@
             },
             {
                 "Id": 11,
-                "Name": "1F+ ",
+                "Name": "1F+",
                 "Description": null
             },
             {
                 "Id": 12,
-                "Name": "1F-P ",
+                "Name": "1F-P",
                 "Description": null
             },
             {
                 "Id": 13,
-                "Name": "P- ",
+                "Name": "P-",
                 "Description": null
             },
             {
@@ -1962,7 +1962,7 @@
             },
             {
                 "Id": 623,
-                "Name": "High water level. Flooding. ",
+                "Name": "High water level. Flooding.",
                 "Description": null
             },
             {
@@ -2754,22 +2754,22 @@
         "UsageFlagKDV": [
             {
                 "Id": 0,
-                "Name": "No flag given ",
+                "Name": "No flag given",
                 "Description": null
             },
             {
                 "Id": 1,
-                "Name": "Ready for historical db ",
+                "Name": "Ready for historical db",
                 "Description": null
             },
             {
                 "Id": 2,
-                "Name": "Forwarded to historical db ",
+                "Name": "Forwarded to historical db",
                 "Description": null
             },
             {
                 "Id": 10,
-                "Name": "Approved by data admin ",
+                "Name": "Approved by data admin",
                 "Description": null
             },
             {
@@ -2779,7 +2779,7 @@
             },
             {
                 "Id": 61,
-                "Name": "Dissaproved by data admin ",
+                "Name": "Dissaproved by data admin",
                 "Description": null
             },
             {
