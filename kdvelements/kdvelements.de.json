@@ -132,7 +132,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Trümmerlawine",
+                "Name": "Erdrutsch",
                 "Description": null
             },
             {
@@ -162,7 +162,7 @@
             },
             {
                 "Id": 10,
-                "Name": "Schnelle Sedimentrutsch",
+                "Name": "Quicktonrutsch",
                 "Description": null
             }
         ],
@@ -263,7 +263,7 @@
             },
             {
                 "Id": 730,
-                "Name": "Erhöhte Entladung",
+                "Name": "Erhöhte Durchfluss",
                 "Description": null
             },
             {
@@ -310,7 +310,7 @@
             },
             {
                 "Id": 772,
-                "Name": "Eislauf",
+                "Name": "Eislauf - ???",
                 "Description": null
             },
             {
@@ -337,7 +337,7 @@
             },
             {
                 "Id": 1,
-                "Name": "Kein Eis vor Ort",
+                "Name": "Kein Eis am Messpunkt",
                 "Description": null
             },
             {
@@ -352,7 +352,7 @@
             },
             {
                 "Id": 3,
-                "Name": "Eisbedeckt vor Ort",
+                "Name": "Eisbedeckt am Messpunkt",
                 "Description": null
             },
             {
@@ -400,7 +400,7 @@
             {
                 "Id": 1,
                 "Name": "Kein Eis, jetzt erstmal Eis vor Ort",
-                "Description": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. \"Ort\" ist im Allgemeinen ein virtueller Punkt am See, der vom Ufer entfernt ist."
+                "Description": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt."
             },
             {
                 "Id": 3,
@@ -415,7 +415,7 @@
             {
                 "Id": 99,
                 "Name": "Pause - bis heute unbekannt",
-                "Description": "Messungen unterbrechen. Die Eisbedeckung aus früheren Beobachtungen ist wahrscheinlich nicht bis gestern gültig."
+                "Description": "Messungen unterbrochen. Die Eisbedeckung aus früheren Beobachtungen ist wahrscheinlich nicht bis gestern gültig."
             }
         ],
         "Ice_IceLayerKDV": [
@@ -510,22 +510,22 @@
             },
             {
                 "Id": 10,
-                "Name": "Geringe Gefahr beim Durchgehen",
+                "Name": "Geringe Gefahr einen Einbruch in Eis",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Normale Gefahr beim Durchgehen",
+                "Name": "Normale Gefahr einen Einbruch in Eis",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Große Gefahr beim Durchgehen",
+                "Name": "Große Gefahr einen Einbruch in Eis",
                 "Description": null
             },
             {
                 "Id": 40,
-                "Name": "Eis hält einer Person nicht stand",
+                "Name": "Eis trägt eine Person nicht",
                 "Description": null
             }
         ],
@@ -594,7 +594,7 @@
             },
             {
                 "Id": 5,
-                "Name": "Großer Schneefall",
+                "Name": "Starker Schneefall",
                 "Description": "Brukes i elrapp"
             },
             {
@@ -604,7 +604,7 @@
             },
             {
                 "Id": 7,
-                "Name": "Schnelle Temperaturänderung",
+                "Name": "Schneller Temperaturanstieg",
                 "Description": null
             },
             {
@@ -824,7 +824,7 @@
             },
             {
                 "Id": 11,
-                "Name": "Schwachschicht aus Oberflächenreif",
+                "Name": "Schwachschicht aus eingeschneitem Oberflächenreif",
                 "Description": "Schwachschicht aus Oberflächenreif"
             },
             {
@@ -839,7 +839,7 @@
             },
             {
                 "Id": 15,
-                "Name": "Schlechte Bindung innerhalb des Windharsches",
+                "Name": "Schlechte Bindung innerhalb des Triebschnees",
                 "Description": "Schlechte Bindung innerhalb des Windharsches"
             },
             {
@@ -898,7 +898,7 @@
         "Snow_AvalCauseAttributeFlags": [
             {
                 "Id": 1,
-                "Name": "Die Schwachschicht bricht leicht und sauber zusammen (leichte Bruchausbreitung).",
+                "Name": "Die Schwachschicht bricht leicht und glatt (gute Bruchausbreitung).",
                 "Description": null
             },
             {
@@ -913,7 +913,7 @@
             },
             {
                 "Id": 8,
-                "Name": "Erkennbare große Kristalle in der Schwachschicht.",
+                "Name": "Erkennbare, große Kristalle in der Schwachschicht.",
                 "Description": null
             }
         ],
@@ -962,7 +962,7 @@
             },
             {
                 "Id": 3,
-                "Name": "Weit verbreitete Steilhänge",
+                "Name": "Viele Steilhänge",
                 "Description": null
             }
         ],
@@ -994,7 +994,7 @@
             },
             {
                 "Id": 6,
-                "Name": "Die Schneedecke ist feucht\r\n",
+                "Name": "Die gesamte Schneedecke ist feucht\r\n",
                 "Description": "Die gesamte Schneedecke ist feucht und instabil.\r\n"
             },
             {
@@ -1036,7 +1036,7 @@
             },
             {
                 "Id": 22,
-                "Name": "Spontan auszulösen",
+                "Name": "Spontanauszulösungen",
                 "Description": null
             }
         ],
@@ -1080,7 +1080,7 @@
         "Snow_SnowDriftKDV": [
             {
                 "Id": 0,
-                "Name": "Noicht beobachtet",
+                "Name": "Nicht beobachtet",
                 "Description": null
             },
             {
