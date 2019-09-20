@@ -515,12 +515,12 @@
             },
             {
                 "Id": 20,
-                "Name": "Normal fare for å gå gjennom\r\n",
+                "Name": "Normal fare for å gå gjennom",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Stor fare for å gå gjennom\r\n",
+                "Name": "Stor fare for å gå gjennom",
                 "Description": null
             },
             {
@@ -537,17 +537,17 @@
             },
             {
                 "Id": 10,
-                "Name": "Isgang/ispropp \r\n",
+                "Name": "Isgang/ispropp ",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Kjøving/svelling\r\n",
+                "Name": "Kjøving/svelling",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Bunnisdam \r\n",
+                "Name": "Bunnisdam ",
                 "Description": null
             },
             {
@@ -975,7 +975,7 @@
             {
                 "Id": 1,
                 "Name": "I nysnøen",
-                "Description": "Skred vil løsne i nysnøen.\r\n"
+                "Description": "Skred vil løsne i nysnøen."
             },
             {
                 "Id": 2,
@@ -985,7 +985,7 @@
             {
                 "Id": 3,
                 "Name": "Nede ved bakken",
-                "Description": "Skred vil løsne nede ved bakken.\r\n"
+                "Description": "Skred vil løsne nede ved bakken."
             },
             {
                 "Id": 4,
@@ -994,8 +994,8 @@
             },
             {
                 "Id": 6,
-                "Name": "Fuktig helt til bakken\r\n",
-                "Description": "Hele snødekket er gjennomfuktet og ustabilt.\r\n"
+                "Name": "Fuktig helt til bakken",
+                "Description": "Hele snødekket er gjennomfuktet og ustabilt."
             },
             {
                 "Id": 7,

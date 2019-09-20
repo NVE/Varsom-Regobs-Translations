@@ -974,38 +974,38 @@
             },
             {
                 "Id": 1,
-                "Name": "Im Neuschnee\r\n",
-                "Description": "Lawinen lösen im Neuschnee aus.\r\n"
+                "Name": "Im Neuschnee",
+                "Description": "Lawinen lösen im Neuschnee aus."
             },
             {
                 "Id": 2,
-                "Name": "Zwischen Alt- und Neuschnee\r\n",
-                "Description": "Lawinen lösen zwischen Alt- und Neuschnee aus.\r\n"
+                "Name": "Zwischen Alt- und Neuschnee",
+                "Description": "Lawinen lösen zwischen Alt- und Neuschnee aus."
             },
             {
                 "Id": 3,
-                "Name": "Am Boden\r\n",
-                "Description": "Lawinen lösen am Boden aus.\r\n"
+                "Name": "Am Boden",
+                "Description": "Lawinen lösen am Boden aus."
             },
             {
                 "Id": 4,
-                "Name": "Im Altschnee\r\n",
-                "Description": "Lawinen lösen im Altschnee aus.\r\n"
+                "Name": "Im Altschnee",
+                "Description": "Lawinen lösen im Altschnee aus."
             },
             {
                 "Id": 6,
-                "Name": "Die gesamte Schneedecke ist feucht\r\n",
-                "Description": "Die gesamte Schneedecke ist feucht und instabil.\r\n"
+                "Name": "Die gesamte Schneedecke ist feucht",
+                "Description": "Die gesamte Schneedecke ist feucht und instabil."
             },
             {
                 "Id": 7,
-                "Name": "Mit Wasser gesättigt\r\n",
-                "Description": "Die gesamte Schneedecke ist mit Wasser gesättigt und instabil.\r\n"
+                "Name": "Mit Wasser gesättigt",
+                "Description": "Die gesamte Schneedecke ist mit Wasser gesättigt und instabil."
             },
             {
                 "Id": 8,
                 "Name": "Nur Altschnee",
-                "Description": "Lawinen lösen im Altschnee aus.\r\n"
+                "Description": "Lawinen lösen im Altschnee aus."
             }
         ],
         "Snow_AvalTriggerSimpleKDV": [
