@@ -8,7 +8,7 @@
             },
             {
                 "Id": 201,
-                "Name": "Keine Gefahrenzeichen beobachtet",
+                "Name": "Keine Gefahrenzeichen gesehen",
                 "Description": null
             },
             {
@@ -78,7 +78,7 @@
             },
             {
                 "Id": 299,
-                "Name": "Sonstige Gefahrenzeichen (spezifizieren)",
+                "Name": "Sonstige Gefahrenzeichen",
                 "Description": null
             }
         ],
@@ -189,7 +189,7 @@
             },
             {
                 "Id": 9,
-                "Name": "Andere (spezifiziere im Kommentar)",
+                "Name": "Andere (weiterer Kommentar)",
                 "Description": null
             }
         ],
@@ -228,7 +228,7 @@
             },
             {
                 "Id": 701,
-                "Name": "Kein Gefahrenzeichen beobachtet",
+                "Name": "Kein Gefahrenzeichen gesehen",
                 "Description": null
             },
             {
@@ -268,7 +268,7 @@
             },
             {
                 "Id": 799,
-                "Name": "Andere (spezifiziere im Kommentar)",
+                "Name": "Andere (weiterer Kommentar)",
                 "Description": null
             }
         ],
@@ -290,7 +290,7 @@
             },
             {
                 "Id": 720,
-                "Name": "Motorschlittenfahren auf dem Eis",
+                "Name": "Snowmobile auf dem Eis",
                 "Description": null
             },
             {
@@ -362,7 +362,7 @@
             },
             {
                 "Id": 10,
-                "Name": "Eis bricht entlang des Ufers auf",
+                "Name": "Eis bricht entlang des Ufers",
                 "Description": null
             },
             {
@@ -394,22 +394,22 @@
             },
             {
                 "Id": 2,
-                "Name": "Kein Eis, jetzt erstes Eis am Ufer",
+                "Name": "Jetzt erstes Eis am Ufer",
                 "Description": "Kein Eis am Ufer gestern."
             },
             {
                 "Id": 1,
-                "Name": "Kein Eis, jetzt erstmal Eis vor Ort",
+                "Name": "Jetzt erstmal Eis vor Ort",
                 "Description": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt."
             },
             {
                 "Id": 3,
-                "Name": "Bislang kein Eis, auch heute nicht",
+                "Name": "Bis heute kein Eis",
                 "Description": "Kein Eis in dieser Wintersaison, auch heute nicht."
             },
             {
                 "Id": 10,
-                "Name": "Letzte Beobachtung gilt bis gestern",
+                "Name": "Beobachtung gilt bis gestern",
                 "Description": "Kontinuierliche Beobachtungen. Wir können davon ausgehen, dass die Eisbedeckung der vorherigen Beobachtung bis zum heutigen Tag gültig ist. Heute ist ein neuer Wert (oder die gleiche Eisdecke)"
             },
             {
@@ -441,7 +441,7 @@
             },
             {
                 "Id": 7,
-                "Name": "wahrscheinlich Schneeeis und Glatteis",
+                "Name": "Wahrscheinlich Schneee-/Glatteis",
                 "Description": null
             },
             {
@@ -510,17 +510,17 @@
             },
             {
                 "Id": 10,
-                "Name": "Geringe Gefahr einen Einbruch in Eis",
+                "Name": "Geringe Gefahr: Einbruch in Eis",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Normale Gefahr einen Einbruch in Eis",
+                "Name": "Normale Gefahr: Einbruch in Eis",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Große Gefahr einen Einbruch in Eis",
+                "Name": "Große Gefahr: Einbruch in Eis",
                 "Description": null
             },
             {
@@ -574,7 +574,7 @@
             },
             {
                 "Id": 1,
-                "Name": "Keine Gefahrenzeichen beobachtet",
+                "Name": "Keine Gefahrenzeichen erfasst",
                 "Description": null
             },
             {
@@ -844,17 +844,17 @@
             },
             {
                 "Id": 16,
-                "Name": "Aufbauend umgewandelte Kristalle in Bodennähe",
+                "Name": "Kantige Kristalle in Bodennähe",
                 "Description": "Aufbauend umgewandelte Kristalle in Bodennähe"
             },
             {
                 "Id": 19,
-                "Name": "Aufbauend umgewandelte Kristalle unter einer Kruste",
+                "Name": "Kantige Kristalle unter einer Kruste",
                 "Description": "Aufbauend umgewandelte Kristalle unter einer Kruste"
             },
             {
                 "Id": 18,
-                "Name": "Aufbauend umgewandelte Kristalle über einer Kruste",
+                "Name": "Kantige Kristalle über einer Kruste",
                 "Description": "Aufbauend umgewandelte Kristalle über einer Kruste"
             },
             {
@@ -994,7 +994,7 @@
             },
             {
                 "Id": 6,
-                "Name": "Die gesamte Schneedecke ist feucht",
+                "Name": "Die Schneedecke ist feucht",
                 "Description": "Die gesamte Schneedecke ist feucht und instabil."
             },
             {
@@ -1245,7 +1245,7 @@
             },
             {
                 "Id": 27,
-                "Name": "Ausgelöst durch ein Schneemobil",
+                "Name": "Ausgelöst durch ein Snowmobile",
                 "Description": null
             },
             {
@@ -1255,7 +1255,7 @@
             },
             {
                 "Id": 23,
-                "Name": "Künstliche Auslösung - Testhang",
+                "Name": "Künstliche Auslösung: Testhang",
                 "Description": null
             },
             {
@@ -1292,7 +1292,7 @@
             },
             {
                 "Id": 40,
-                "Name": "In einem Graben oder einer Rinne",
+                "Name": "Im Graben oder in einer Rinne",
                 "Description": null
             },
             {
@@ -1937,7 +1937,7 @@
             },
             {
                 "Id": 601,
-                "Name": "Keine Gefahrenzeichen beobachtet",
+                "Name": "Keine Gefahrenzeichen erfasst",
                 "Description": null
             },
             {
@@ -1947,7 +1947,7 @@
             },
             {
                 "Id": 612,
-                "Name": "Verstopfte Drainage durch Ablagerungen",
+                "Name": "Verstopfte Drainage: Ablagerungen",
                 "Description": null
             },
             {
@@ -1962,12 +1962,12 @@
             },
             {
                 "Id": 623,
-                "Name": "Hoher Wasserstand/Überschwemmung",
+                "Name": "Überschwemmung",
                 "Description": null
             },
             {
                 "Id": 699,
-                "Name": "Ander (spezifiziere in Kommentare)",
+                "Name": "Weitere Kommentare",
                 "Description": null
             }
         ],
@@ -2026,12 +2026,12 @@
             },
             {
                 "Id": 130,
-                "Name": "Denkmal für historische Überschwemmungen",
+                "Name": "Denkmal für Überschwemmungen",
                 "Description": null
             },
             {
                 "Id": 140,
-                "Name": "Wie auf dem beigefügten Foto gezeigt",
+                "Name": "Das beigefügte Foto zeigt",
                 "Description": null
             },
             {
@@ -2051,7 +2051,7 @@
             },
             {
                 "Id": 212,
-                "Name": "Max/min Markierung zur Regulierung",
+                "Name": "Max/min zur Regulierung",
                 "Description": null
             },
             {
@@ -2061,12 +2061,12 @@
             },
             {
                 "Id": 221,
-                "Name": "Denkmal für historische Überschwemmungen",
+                "Name": "Denkmal für Überschwemmungen",
                 "Description": null
             },
             {
                 "Id": 240,
-                "Name": "Wie auf dem beigefügten Foto gezeigt",
+                "Name": "Das beigefügte Foto zeigt",
                 "Description": null
             }
         ],
@@ -2379,12 +2379,12 @@
             },
             {
                 "Id": 27,
-                "Name": "Niemand verschüttet, aber knapp entkommen",
+                "Name": "Niemand verschüttet, rausgefahren",
                 "Description": null
             },
             {
                 "Id": 28,
-                "Name": "Person verschüttet, aber keine Verletzungen",
+                "Name": "Person verschüttet, unverletzt",
                 "Description": null
             },
             {
@@ -2764,12 +2764,12 @@
             },
             {
                 "Id": 2,
-                "Name": "Weitergeleitet an die historische db",
+                "Name": "Weitergeleitet an die hist db",
                 "Description": null
             },
             {
                 "Id": 10,
-                "Name": "Genehmigt vom Datenadministrator",
+                "Name": "Genehmigt vom Administrator",
                 "Description": null
             },
             {
@@ -2779,7 +2779,7 @@
             },
             {
                 "Id": 61,
-                "Name": "Vom Datenadministrator abgelehnt",
+                "Name": "Vom Administrator abgelehnt",
                 "Description": null
             },
             {
