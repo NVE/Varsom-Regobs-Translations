@@ -1005,7 +1005,7 @@
             {
                 "Id": 8,
                 "Name": "Only old snow",
-                "Description": "Avalanches will release int the old snow."
+                "Description": "Avalanches will release in the old snow."
             }
         ],
         "Snow_AvalTriggerSimpleKDV": [
@@ -2313,7 +2313,73 @@
                 "Description": null
             }
         ],
-        "AnticipatedObservationTimeKDV": [],
+        "AnticipatedObservationTimeKDV": [
+          	{
+                "Id": 0,
+                "Name": "0",
+                "Description": "Not specified"
+            },
+            {
+                "Id": 10,
+                "Name": "480",
+                "Description": "08:00"
+            },
+            {
+                "Id": 20,
+                "Name": "540",
+                "Description": "09:00"
+            },
+            {
+                "Id": 30,
+                "Name": "600",
+                "Description": "10:00"
+            },
+            {
+                "Id": 40,
+                "Name": "660",
+                "Description": "11:00"
+            },
+            {
+                "Id": 50,
+                "Name": "720",
+                "Description": "12:00"
+            },
+            {
+                "Id": 60,
+                "Name": "780",
+                "Description": "13:00"
+            },
+            {
+                "Id": 70,
+                "Name": "840",
+                "Description": "14:00"
+            },
+            {
+                "Id": 80,
+                "Name": "900",
+                "Description": "15:00"
+            },
+            {
+                "Id": 90,
+                "Name": "960",
+                "Description": "16:00"
+            },
+            {
+                "Id": 100,
+                "Name": "1080",
+                "Description": "18:00"
+            },
+            {
+                "Id": 110,
+                "Name": "1200",
+                "Description": "20:00"
+            },
+            {
+                "Id": 120,
+                "Name": "1320",
+                "Description": "22:00"
+            }
+  		  ],
         "ForecastAccurateKDV": [
             {
                 "Id": 0,
