@@ -28,17 +28,17 @@
             },
             {
                 "Id": 206,
-                "Name": "Hoher Durchfluss in Bächen/Flüssen",
+                "Name": "Hoher Durchfluss in Flüsse",
                 "Description": null
             },
             {
                 "Id": 207,
-                "Name": "Braun gefärbte Bäche/Flüsse",
+                "Name": "Braun gefärbte Flüsse",
                 "Description": null
             },
             {
                 "Id": 230,
-                "Name": "Erosion entlang von Bächen/Flüssen",
+                "Name": "Erosion entlang von Flüsse",
                 "Description": null
             },
             {
@@ -441,7 +441,7 @@
             },
             {
                 "Id": 7,
-                "Name": "Wahrscheinlich Schneee-/Glatteis",
+                "Name": "Wahrscheinlich Schnee-Glatteis",
                 "Description": null
             },
             {
@@ -510,17 +510,17 @@
             },
             {
                 "Id": 10,
-                "Name": "Geringe Gefahr: Einbruch in Eis",
+                "Name": "Geringe Gefahr zu Einbruch",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Normale Gefahr: Einbruch in Eis",
+                "Name": "Normale Gefahr zu Einbruch",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Große Gefahr: Einbruch in Eis",
+                "Name": "Große Gefahr zu Einbruch",
                 "Description": null
             },
             {
@@ -1947,7 +1947,7 @@
             },
             {
                 "Id": 612,
-                "Name": "Verstopfte Drainage: Ablagerungen",
+                "Name": "Reisig blockierte Drainage",
                 "Description": null
             },
             {
@@ -1957,7 +1957,7 @@
             },
             {
                 "Id": 622,
-                "Name": "Plötzlicher Anstieg des Wasserspiegels",
+                "Name": "Plötzlich erhöhter Wasserstand",
                 "Description": null
             },
             {
@@ -2379,7 +2379,7 @@
             },
             {
                 "Id": 27,
-                "Name": "Niemand verschüttet, rausgefahren",
+                "Name": "Nicht verschüttet,rausgefahren",
                 "Description": null
             },
             {
