@@ -974,38 +974,38 @@
             },
             {
                 "Id": 1,
-                "Name": "V novem snegu\r\n",
-                "Description": "Plazovi se bodo sprožali v novem snegu.\r\n"
+                "Name": "V novem snegu",
+                "Description": "Plazovi se bodo sprožali v novem snegu."
             },
             {
                 "Id": 2,
-                "Name": "Med starim in novim snegom\r\n",
-                "Description": "Plazovi se bodo sprožali med starim in novim snegom.\r\n"
+                "Name": "Med starim in novim snegom",
+                "Description": "Plazovi se bodo sprožali med starim in novim snegom."
             },
             {
                 "Id": 3,
-                "Name": "Pri tleh\r\n",
-                "Description": "Plazovi se bodo sprožali pri tleh.\r\n"
+                "Name": "Pri tleh",
+                "Description": "Plazovi se bodo sprožali pri tleh."
             },
             {
                 "Id": 4,
-                "Name": "V starem snegu\r\n",
-                "Description": "Plazovi se bodo sprožali v starem snegu.\r\n"
+                "Name": "V starem snegu",
+                "Description": "Plazovi se bodo sprožali v starem snegu."
             },
             {
                 "Id": 6,
-                "Name": "Snežna odeja je vlažna\r\n",
-                "Description": "Celotna snežna odeja je vlažna in nestabilna.\r\n"
+                "Name": "Snežna odeja je vlažna",
+                "Description": "Celotna snežna odeja je vlažna in nestabilna."
             },
             {
                 "Id": 7,
-                "Name": "Zasičena z vodo\r\n",
-                "Description": "Celotna snežna odeja je prezasičena z vodo in nestabilna.\r\n"
+                "Name": "Zasičena z vodo",
+                "Description": "Celotna snežna odeja je prezasičena z vodo in nestabilna."
             },
             {
                 "Id": 8,
                 "Name": "Samo star sneg",
-                "Description": "Plazovi se bodo sprožali samo v starem snegu.\r\n"
+                "Description": "Plazovi se bodo sprožali samo v starem snegu."
             }
         ],
         "Snow_AvalTriggerSimpleKDV": [
