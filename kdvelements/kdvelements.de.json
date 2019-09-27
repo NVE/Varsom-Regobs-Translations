@@ -28,17 +28,17 @@
             },
             {
                 "Id": 206,
-                "Name": "Hoher Durchfluss in Flüsse",
+                "Name": "Hoher Durchfluss in Flüssen",
                 "Description": null
             },
             {
                 "Id": 207,
-                "Name": "Braun gefärbte Flüsse",
+                "Name": "Braun gefärbte Flüssen",
                 "Description": null
             },
             {
                 "Id": 230,
-                "Name": "Erosion entlang von Flüsse",
+                "Name": "Erosion entlang von Flüssen",
                 "Description": null
             },
             {
@@ -510,17 +510,17 @@
             },
             {
                 "Id": 10,
-                "Name": "Geringe Gefahr zu Einbruch",
+                "Name": "Geringe Gefahr: Eiseinbruch",
                 "Description": null
             },
             {
                 "Id": 20,
-                "Name": "Normale Gefahr zu Einbruch",
+                "Name": "Normale Gefahr: Eiseinbruch",
                 "Description": null
             },
             {
                 "Id": 30,
-                "Name": "Große Gefahr zu Einbruch",
+                "Name": "Große Gefahr: Eiseinbruch",
                 "Description": null
             },
             {
