@@ -1,0 +1,377 @@
+{
+  "AppearanceName": "Utseende:",
+  "Converters": {
+    "Above": "Över",
+    "AboveSeaLevel": "möh",
+    "And": "och",
+    "Below": "Under",
+    "Between": "Mellan",
+    "East": "Ost",
+    "EastShort": "O",
+    "North": "Nord",
+    "NorthEast": "Nordost",
+    "NorthEastShort": "NO",
+    "NorthShort": "N",
+    "NorthWest": "Nordväst",
+    "NorthWestShort": "NV",
+    "NotBetween": "Inte mellan",
+    "South": "Syd",
+    "SouthEast": "Sydost",
+    "SouthEastShort": "SO",
+    "SouthShort": "S",
+    "SouthWest": "Sydväst",
+    "SouthWestShort": "SV",
+    "UnknownDirection": "Okänd riktning",
+    "West": "Väst",
+    "WestShort": "V"
+  },
+  "CountOf": "Antal",
+  "GoToObservation": "Gå till observation",
+  "HeightKey": "Höjd",
+  "LanguageLabel": "Språk:",
+  "MONTHS": {
+    "SHORT_LIST": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Aug, Sep, Okt, Nov, Dec"
+  },
+  "MapMode": "Karta",
+  "MultipleRegistrations": "Registreringar",
+  "Observations": {
+    "AvalancheActivityObs": {
+      "Aspect": "Väderstreck",
+      "AvalancheTID": "Typ",
+      "AvalancheTriggerTID": "Lavinen utlöst av",
+      "Comment": "Kommentar",
+      "DtAvalancheTime": "Tid",
+      "HeigthStartZone": "Höjd startzone",
+      "MetersOverSeaLevel": "möh",
+      "NumberAndSize": "Antal och storlek",
+      "ObsName": "Lavinaktivitet"
+    },
+    "AvalancheActivityObs2": {
+      "AvalancheExtTID": "Typ",
+      "AvalancheTID": "Typ",
+      "Comment": "Kommentar",
+      "DtAvalancheTime": "Tid",
+      "DuringTheDay": "Under dagen",
+      "MetersOverSeaLevel": "möh",
+      "NumberAndSizeAndTrigger": "Antal, storlek och Lavinutlösare",
+      "ObsName": "Lavinaktivitet",
+      "Prevalence": "Utbredning"
+    },
+    "AvalancheDangerObs": {
+      "Comment": "Kommentar",
+      "DangerSignTID": "Typ",
+      "ObsName": "Tecken på Lavinfara"
+    },
+    "AvalancheEvalProblem2": {
+      "AvalCauseAttributeLightTID": "Egenskaper på det svaga lagret",
+      "AvalCauseDepthTID": "Avstånd från snöytan till det svaga lagret",
+      "AvalCauseTID": "Typ av svagt lager",
+      "AvalProbabilityTID": "Sannolikeht för lavin",
+      "AvalTriggerSimpleTID": "Trolig belastning för att utlösa lavin",
+      "AvalancheExtTID": "Lavintyp",
+      "Comment": "Kommentar",
+      "DestructiveSizeTID": "Förväntad lavinsstorlek",
+      "ObsName": "Lavinproblem",
+      "PrevalenceArea": "Lavinproblemets utbredning"
+    },
+    "AvalancheEvaluation": {
+      "AvalancheDangerTID": "Lavinfara",
+      "AvalancheEvaluation1": "Utvärdering",
+      "AvalancheProblemTID1": "Lavinproblem 1",
+      "AvalancheProblemTID2": "Lavinproblem 2",
+      "AvalancheProblemTID3": "Lavinproblem 3",
+      "Comment": "Utveckling",
+      "ObsName": "Utvärdering av lavinfara",
+      "ValidExposition": "Vädersträck"
+    },
+    "AvalancheEvaluation2": {
+      "AvalancheDangerTID": "Lavinfara",
+      "AvalancheDevelopment": "Utveckling",
+      "AvalancheEvaluation": "Utveckling",
+      "AvalancheProblem": "Lavinproblem",
+      "ExposedTerrain": "Exponerad terräng",
+      "ObsName": "Utvärdering av lavinfara"
+    },
+    "AvalancheEvaluation3": {
+      "AvalancheDangerTID": "Lavinfara",
+      "AvalancheDevelopment": "Utveckling",
+      "AvalancheEvaluation": "Utveckling",
+      "ForecastComment": "Kommentar",
+      "ForecastCorrectTID": "Är lavinfaran korrekt?",
+      "ObsName": "Utvärdering av lavinfara"
+    },
+    "AvalancheObs": {
+      "AvalCauseTID": "Svagt lager",
+      "Avalanche": "Lavinen",
+      "AvalancheTID": "Lavintyp",
+      "AvalancheTriggerTID": "Lavinen utlöst av",
+      "Comment": "Kommentar",
+      "DestructiveSizeTID": "lavinsstorlek",
+      "DtAvalancheTime": "Tid",
+      "Facing": "vänd mot",
+      "Fracture": "Brottkant",
+      "FractureHeigth": "Höjd",
+      "FractureWidth": "Bredd",
+      "HeightStartZoneText": "startat på",
+      "HeigthStartZone": "Höjd startzon",
+      "HeigthStopZone": "Höjd utloppszon ",
+      "HeigthStopZoneText": "slutat på",
+      "ObsName": "Lavinaktivitet",
+      "TerrainStartZoneTID": "Terräng i startzonen",
+      "Trajectory": "Namn på lavinbana",
+      "ValidExposition": "Exponering"
+    },
+    "CompressionTest": {
+      "Comment": "Kommentar",
+      "ObsName": "Test",
+      "StabilityEvalTID": "Stabilitet",
+      "Test": "Test"
+    },
+    "DamageObs": {
+      "Comment": "Kommentar",
+      "DamageTypeTID": "Typ",
+      "ObsName": "Skador"
+    },
+    "DangerObs": {
+      "Comment": "Kommentar",
+      "DangerSignTName": "Typ",
+      "ObsName": "Tecken på lavinfara"
+    },
+    "GeneralObservation": {
+      "Comment": "Kommentar",
+      "ObsComment": "Text",
+      "ObsHeader": "Överskrift",
+      "ObsName": "Anteckningar",
+      "Urls": "Länkar"
+    },
+    "IceCoverObs": {
+      "Comment": "Kommentar",
+      "IceCapacityTName": "Bärighet",
+      "IceCoverAfterTName": "Istäckningsgrad efter observation",
+      "IceCoverBeforeTName": "Istäckninsgrad före observation",
+      "IceCoverTName": "Isdekning",
+      "IceSkateabilityTName": "Åkbarhet",
+      "ObsName": "Istäckninsgrad"
+    },
+    "IceThickness": {
+      "BeforeDrilling": "före borrning",
+      "Comment": "Kommentar",
+      "IceThicknessLayers": "Islager (topp till botten)",
+      "IceThicknessSum": "Total isistjocklektjocklek",
+      "IsEqualToIceSurface": "Vattenytan är lika med isytan",
+      "LowerThanIceSurface": "från isytan till vattenytan i borrhålen",
+      "ObsName": "istjocklek",
+      "OverIce": "Över isen ",
+      "OverWater": "ytvatten",
+      "OverWaterAfterDrilling": "ytvatten efter borrning",
+      "SlushSnow": "slask",
+      "Snow": "snö",
+      "Total": "totalt",
+      "UnknownIceLayer": "okänt islager",
+      "WaterSurfaceInHole": "Vattennivå i hålet"
+    },
+    "Incident": {
+      "ActivityInfluencedTID": "Aktivitet",
+      "Comment": "Kommentar",
+      "DamageExtentTID": "Skadeomfattning",
+      "GeoHazardTID": "Observationstyp",
+      "IncidentHeader": "Överskrift",
+      "IncidentIngress": "ingress",
+      "IncidentText": "Beskrivning",
+      "ObsName": "Olycka / tillbud",
+      "Urls": "Länkar"
+    },
+    "LandslideObs": {
+      "ActivityInfluencedTName": "Vad påverkades?",
+      "And": " och ",
+      "Between": "mellan",
+      "Comment": "Kommentar",
+      "DamageExtentTName": "Omfattning",
+      "ForecastAccurateTName": "Var varningen på varsom.no korrekt?",
+      "LandSlideSizeTName": "Storlek",
+      "LandSlideTName": "Typ av jordskred",
+      "LandSlideTriggerTName": "Utlösare",
+      "ObsName": "Jordskredsobservation",
+      "Time": "Tid",
+      "Urls": "Länkar"
+    },
+    "Picture": {
+      "Aspect": "Orientering",
+      "Comment": "Kommentar",
+      "Copyright": "Copyright",
+      "ObsName": "Bild",
+      "Photographer": "Fotograf",
+      "PictureComment": "Kommentar",
+      "RegistrationTID": "Av"
+    },
+    "SnowCover": {
+      "CriticalLayer": "Svagt lager",
+      "CriticalLayerFound": "Svagt lager observerats",
+      "CriticalLayerLocation": "Plats",
+      "CriticalLayerNotFound": "Svagt lager finns ej.",
+      "CriticalLayerTID": "Typ",
+      "DepthHoar": "Bägarkristaller",
+      "DepthHoarInSnowCover": "med bägarkristaller längst ned i snötäcket",
+      "ObsName": "Snöprofil",
+      "SnowPilotRefTID": "Snöprofil",
+      "UnderSurface": "under ytan"
+    },
+    "SnowProfile": {
+      "Comment": "Kommentar",
+      "CompressionTest": "Test",
+      "CompresstionTestConnectedToProfile": "Tester anslutna till snöprofil",
+      "LayersObserved": "lager observerade",
+      "ObsName": "Snöprofil",
+      "SnowDensity": "Snödensitet",
+      "SnowDensityLayersObserved": "snödensitets lager observerad",
+      "SnowTemperature": "Temperatur",
+      "SnowTemperatureLayersObserved": "temperaturpunkter observerad",
+      "StartProfileLayersObserved": "lagerindelning observerad ",
+      "StratLayers": "Lagerindelning"
+    },
+    "SnowSurfaceObservation": {
+      "FootPenetration": "Fot penetration",
+      "HeightLimitLayeredSnow": "Gräns för snöl med lagerindelning",
+      "Kommentar": "Kommentar",
+      "NewSnow": "nysnö",
+      "NewSnowDepth24": "Nysnö senaste 24 timmarn",
+      "NewSnowLine": "Höjd för nysnögräns",
+      "ObsName": "Snöyta",
+      "SnowDepth": "Snödjup",
+      "SnowDriftTName": "Snö som drevar",
+      "SnowLine": "Snögräns på",
+      "SnowLines": "Snögärns",
+      "SnowSurfaceTName": "Hårdhet snöytat",
+      "SurfaceRougnessTName": "Snöytan ojämhet",
+      "SurfaceWaterContentTName": "Vatteninnehåll i snön",
+      "Total": "totalt"
+    },
+    "WaterLevel": {
+      "AppliesFor": "Gäller",
+      "Comment": "Kommentar",
+      "Lake": "Sjö",
+      "MeasuredDischarge": "Uppmätt vattenflöde",
+      "ObsName": "Vattennivå",
+      "River": "älv",
+      "WaterLevelDescribed": "Beskrivning vattennivå",
+      "WaterLevelRefTName": "Referensnivå",
+      "WaterLevelValue": "Värde"
+    },
+    "WaterLevel2": {
+      "Comment": "Kommentar",
+      "DtMeasurementTime": "Tid",
+      "MeasuredRelativeTo": "Mätning i förhållande till",
+      "MeasurementReferenceTName": "Vattenmärke på / i",
+      "MeasurementTypeTName": "Mätinstrument",
+      "ObsName": "Vattennivå",
+      "ObservationTimingTName": "Vad registrerar du?",
+      "WaterAstrayTName": "Finns det något vatten på väg?",
+      "WaterLevelStateTName": "situationen",
+      "WaterMarking": "Vattenmarkering",
+      "WaterMeasurement": "Vatten mätning",
+      "WaterMeasurementValue": "Värde",
+      "With": "med"
+    },
+    "WeatherObservation": {
+      "AirTemperature": "Lufttemperatur",
+      "CloudCover": "Molntäcke",
+      "Clouds": "moln",
+      "Comment": "Kommentar",
+      "ObsName": "Väder",
+      "PrecipitationTID": "Nederbördstyp",
+      "Wind": "Vind",
+      "WindDirection": "från"
+    }
+  },
+  "Of": "av",
+  "PictureKey": "Bild",
+  "PictureMode": "Bilder",
+  "Reg": {
+    "ObservedTime": "Observerad",
+    "ObserverNickName": "Av",
+    "RegisteredTime": "Registrert",
+    "UpdatedTime": "Uppdaterat"
+  },
+  "Search": {
+    "Criterias": {
+      "Country": {
+        "CountryInfo": "Om det saknas ett land beror det på att inga observationer har gjorts där.​",
+        "Label": "Andra land"
+      },
+      "ObservationTypes": {
+        "Label": "Observationtyp"
+      },
+      "Observers": {
+        "Label": "Observatörer",
+        "MyObservations": "Mina observationer",
+        "ObserverNickNamePlaceholder": "Sök efter observatörens användarnamn",
+        "SearchInCompetences": "Sök efter användarkompetens: "
+      },
+      "QuickSearch": {
+        "Label": "Snabbsökning"
+      },
+      "Recent": {
+        "CountryKey": "Land",
+        "Day": "dygn",
+        "FromDate": "Från",
+        "Label": "Mina senaste sökningar",
+        "Last": "senaste",
+        "MyObservations": "Mina observationer",
+        "ObserverCompetence": "Observatörens kompetens",
+        "ObserverName": "Observatörens namn",
+        "Regions": "Regioner",
+        "RegistrationTypes": "Observations yyper",
+        "Time": "Tid",
+        "ToDate": "Till"
+      },
+      "Regions": {
+        "BRegionInfo": "Regioner märkta med * utfärdas prognoser endast i händelse av faranivåer 4 och 5.",
+        "Label": "Regioner"
+      },
+      "TimePeriod": {
+        "ChooseDate": "välj datum:",
+        "Day": "dagen",
+        "FromDate": "Från",
+        "Label": "Tidsperiod",
+        "Last": "sista",
+        "Or": "eller",
+        "ToDate": "Till"
+      }
+    },
+    "GetMoreRegistrationsBtn": "Hämta fler observationer",
+    "HeadingColor": {
+      "black": "Svart",
+      "blue": "Blå"
+    },
+    "LoadMoreRegistrationsText": "Klicka här om observationer inte laddas automatiskt",
+    "SortOrder": {
+      "Observert tid": "Observerad tid",
+      "Registrert tid": "Registrerad tid",
+      "Siste oppdatert tid": "Senast uppdaterad tid"
+    }
+  },
+  "SearchButtonName": "Sök",
+  "SearchResultOfTotal": "av",
+  "Searching": "Söker, vänta",
+  "ShowAllObservations": "Visa alla observationer",
+  "ShowFilteredObservations": "Visa valda observationer",
+  "ShowLess": "Visa färre",
+  "ShowMore": "Visa fler",
+  "ShowSearchButtonName": "Visa sök",
+  "SingleRegistration": "registrering",
+  "SortByName": "Sortera på:",
+  "TableModes": {
+    "CompactKey": "Kompakt",
+    "CompleteKey": "Komplett",
+    "ShortKey": "Kort"
+  },
+  "from": "från",
+  "is": "is",
+  "jord": "jord",
+  "metersOverSeaLevel": "möh",
+  "observation": "observationer",
+  "observations": "observation(er)",
+  "snø": "snö",
+  "to": "till",
+  "vann": "vatten"
+}
