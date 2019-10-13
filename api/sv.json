@@ -41,7 +41,7 @@
       "AvalancheTriggerTID": "Lavinen utlöst av",
       "Comment": "Kommentar",
       "DtAvalancheTime": "Tid",
-      "HeigthStartZone": "Höjd startzone",
+      "HeigthStartZone": "Höjd startzon",
       "MetersOverSeaLevel": "möh",
       "NumberAndSize": "Antal och storlek",
       "ObsName": "Lavinaktivitet"
@@ -66,13 +66,13 @@
       "AvalCauseAttributeLightTID": "Egenskaper på det svaga lagret",
       "AvalCauseDepthTID": "Avstånd från snöytan till det svaga lagret",
       "AvalCauseTID": "Typ av svagt lager",
-      "AvalProbabilityTID": "Sannolikeht för lavin",
+      "AvalProbabilityTID": "Sannolikhet för lavin",
       "AvalTriggerSimpleTID": "Trolig belastning för att utlösa lavin",
       "AvalancheExtTID": "Lavintyp",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Förväntad lavinsstorlek",
+      "DestructiveSizeTID": "Förväntad lavinstorlek",
       "ObsName": "Lavinproblem",
-      "PrevalenceArea": "Lavinproblemets utbredning"
+      "PrevalenceArea": "Utbredning"
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Lavinfara",
@@ -82,7 +82,7 @@
       "AvalancheProblemTID3": "Lavinproblem 3",
       "Comment": "Utveckling",
       "ObsName": "Utvärdering av lavinfara",
-      "ValidExposition": "Vädersträck"
+      "ValidExposition": "Väderstreck"
     },
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Lavinfara",
@@ -97,16 +97,16 @@
       "AvalancheDevelopment": "Utveckling",
       "AvalancheEvaluation": "Utveckling",
       "ForecastComment": "Kommentar",
-      "ForecastCorrectTID": "Är lavinfaran korrekt?",
+      "ForecastCorrectTID": "Är publicerad lavinfaran korrekt?",
       "ObsName": "Utvärdering av lavinfara"
     },
     "AvalancheObs": {
       "AvalCauseTID": "Svagt lager",
-      "Avalanche": "Lavinen",
+      "Avalanche": "Lavin",
       "AvalancheTID": "Lavintyp",
       "AvalancheTriggerTID": "Lavinen utlöst av",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "lavinsstorlek",
+      "DestructiveSizeTID": "lavinstorlek",
       "DtAvalancheTime": "Tid",
       "Facing": "vänd mot",
       "Fracture": "Brottkant",
@@ -119,7 +119,7 @@
       "ObsName": "Lavinaktivitet",
       "TerrainStartZoneTID": "Terräng i startzonen",
       "Trajectory": "Namn på lavinbana",
-      "ValidExposition": "Exponering"
+      "ValidExposition": "Väderstreck"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -148,16 +148,16 @@
       "Comment": "Kommentar",
       "IceCapacityTName": "Bärighet",
       "IceCoverAfterTName": "Istäckningsgrad efter observation",
-      "IceCoverBeforeTName": "Istäckninsgrad före observation",
-      "IceCoverTName": "Isdekning",
+      "IceCoverBeforeTName": "Istäckningsgrad före observation",
+      "IceCoverTName": "Istäckning",
       "IceSkateabilityTName": "Åkbarhet",
-      "ObsName": "Istäckninsgrad"
+      "ObsName": "Istäckningsgrad"
     },
     "IceThickness": {
       "BeforeDrilling": "före borrning",
       "Comment": "Kommentar",
       "IceThicknessLayers": "Islager (topp till botten)",
-      "IceThicknessSum": "Total isistjocklektjocklek",
+      "IceThicknessSum": "Total istjocklek",
       "IsEqualToIceSurface": "Vattenytan är lika med isytan",
       "LowerThanIceSurface": "från isytan till vattenytan i borrhålen",
       "ObsName": "istjocklek",
@@ -190,7 +190,7 @@
       "ForecastAccurateTName": "Var varningen på varsom.no korrekt?",
       "LandSlideSizeTName": "Storlek",
       "LandSlideTName": "Typ av jordskred",
-      "LandSlideTriggerTName": "Utlösare",
+      "LandSlideTriggerTName": "Jordskredet utlöst av",
       "ObsName": "Jordskredsobservation",
       "Time": "Tid",
       "Urls": "Länkar"
@@ -231,18 +231,18 @@
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Fot penetration",
-      "HeightLimitLayeredSnow": "Gräns för snöl med lagerindelning",
+      "HeightLimitLayeredSnow": "Gräns för snö med lagerindelning",
       "Kommentar": "Kommentar",
       "NewSnow": "nysnö",
-      "NewSnowDepth24": "Nysnö senaste 24 timmarn",
+      "NewSnowDepth24": "Nysnö senaste 24 timmarna",
       "NewSnowLine": "Höjd för nysnögräns",
       "ObsName": "Snöyta",
       "SnowDepth": "Snödjup",
       "SnowDriftTName": "Snö som drevar",
       "SnowLine": "Snögräns på",
-      "SnowLines": "Snögärns",
-      "SnowSurfaceTName": "Hårdhet snöytat",
-      "SurfaceRougnessTName": "Snöytan ojämhet",
+      "SnowLines": "Snögräns",
+      "SnowSurfaceTName": "Hårdhet snöytan",
+      "SurfaceRougnessTName": "Snöytan ojämnhet",
       "SurfaceWaterContentTName": "Vatteninnehåll i snön",
       "Total": "totalt"
     },
@@ -268,7 +268,7 @@
       "WaterAstrayTName": "Finns det något vatten på väg?",
       "WaterLevelStateTName": "situationen",
       "WaterMarking": "Vattenmarkering",
-      "WaterMeasurement": "Vatten mätning",
+      "WaterMeasurement": "Vattenmätning",
       "WaterMeasurementValue": "Värde",
       "With": "med"
     },
@@ -289,7 +289,7 @@
   "Reg": {
     "ObservedTime": "Observerad",
     "ObserverNickName": "Av",
-    "RegisteredTime": "Registrert",
+    "RegisteredTime": "Registrerat",
     "UpdatedTime": "Uppdaterat"
   },
   "Search": {
@@ -299,7 +299,7 @@
         "Label": "Andra land"
       },
       "ObservationTypes": {
-        "Label": "Observationtyp"
+        "Label": "Observationstyp"
       },
       "Observers": {
         "Label": "Observatörer",
@@ -320,12 +320,12 @@
         "ObserverCompetence": "Observatörens kompetens",
         "ObserverName": "Observatörens namn",
         "Regions": "Regioner",
-        "RegistrationTypes": "Observations yyper",
+        "RegistrationTypes": "Observations typer",
         "Time": "Tid",
         "ToDate": "Till"
       },
       "Regions": {
-        "BRegionInfo": "Regioner märkta med * utfärdas prognoser endast i händelse av faranivåer 4 och 5.",
+        "BRegionInfo": "Regioner märkta med * utfärdas prognoser endast i händelse av lavinfara 4 och 5.",
         "Label": "Regioner"
       },
       "TimePeriod": {
