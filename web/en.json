@@ -1,0 +1,613 @@
+{
+  "Navbar": {
+    "ShowObservationsInMap": "Show observations in map",
+    "SearchInObservation": "Search in observations",
+    "RegisterObservation": "Register observation",
+    "All": {
+      "ObservationsFromLastSevenDays": "Show all observations from last 7 days"
+    },
+    "Snow": {
+      "ShowObservationsInMap": "Snow observations and steepness map",
+      "SearchInObservation": "Snow report",
+      "RegisterObservation": "New snow observation",
+      "RegisteredTrips": "Registered trips"
+    },
+    "Ice": {
+      "ShowObservationsInMap": "Ice observations and weakend ice map",
+      "SearchInObservation": "Ice report",
+      "RegisterObservation": "New ice observation"
+    },
+    "Water": {
+      "ShowObservationsInMap": "Water and soil observations and flood zone map",
+      "SearchInObservation": "Water and soil report",
+      "RegisterObservation": "New water observations"
+    },
+    "Soil": {
+      "ShowObservationsInMap": "Soil and water observations and landslid exposed terrain",
+      "SearchInObservation": "Soil and water report",
+      "RegisterObservation": "New soil observation"
+    }
+  },
+  "Geohazards": {
+    "Snow": "Snow",
+    "Water": "Water",
+    "Soil": "Soil",
+    "Ice": "Ice",
+    "WaterSoil": "Water & Soil",
+    "All": "All"
+  },
+  "Footer": {
+    "GoTo": "Go to",
+    "AboutRegObsHeader": "About Regobs",
+    "ContactUsHeader": "Contact Us",
+    "OtherToolsHeader": "Other Tools",
+    "RegObsGatheringPlace": "regObs is a gathering place for observations and events used in alert and emergency preparedness.",
+    "RegObsCovers": "Den dekker Snøskredsvarslingen, Isvarslingen, Jordskredvarslingen og Flomvarslingen.",
+    "NveVarsom": "Jordskredvarslingen og Flomvarslingen hos NVE og er en del av flere verktøy vi har etablert sammen med varsom.no.",
+    "AboutDataInRegObs": "About data in regObs",
+    "Collaboration": "Collaboration",
+    "ConditionOfUse": "Condition of Use",
+    "ReadMoreAboutRegobs": "Read more about regObs",
+    "RegObsFacebook": "Professional group regObs on Facebook",
+    "HearFromYou": "We would like to hear about your user experience or professional inquiries.",
+    "ContactIndividual": "Contact the individual warning service that suits your use of regObs.",
+    "FeedbackForm1": "You can also use a ",
+    "FeedbackForm2": "feedback form",
+    "FeedbackForm3": " to give us feedback on this service.",
+    "BeAwareThat": "Vær oppmerksom på at ting som haster best tas med varslingstjeneste direkte eller på facebookgruppen.",
+    "RegObsContactEmail": "Kontaktepost@regobs.no",
+    "VarsomAbout": "Varsom.no is a service provided by NVE, in cooperation with the Meteorological Institute, the Norwegian Public Roads Administration and Bane NOR.",
+    "VarsomAlt": "Logo for Varsom.no",
+    "IskartAbout": "Read the ice warnings prepared by NVE on the basis of available ice information and weather in winter.",
+    "IskartAlt": "Logo for Iskart.no",
+    "SeNorgeAbout": "seNorge is an open web portal that shows updated maps of snow, weather and water conditions and climate for Norway.",
+    "SeNorgeAlt": "Logo for Senorge.no",
+    "XGeoAbout": "xGeo is a tool used to alert, monitor and alert flooding, landslides and avalanches.",
+    "XGeoAlt": "Logo for Xgeo.no"
+  },
+  "Chip": {
+    "ShowAllObservations": "Show all",
+    "GoToObservation": "Go to observation"
+  },
+  "ObservationCard": {
+    "Observed": "Observed:",
+    "Registered": "Registered:",
+    "Updated": "Updated:",
+    "Forms": "Forms",
+    "AboveSeaLevel": "MASL",
+    "ObsId": "ID:",
+    "ForecastRegion": "Forecast region",
+    "SentInBy": "Sent in by",
+    "Download": "Download",
+    "Original": "See original"
+  },
+  "MyPage": {
+    "MyPage": "My Page",
+    "MyObservations": {
+      "Title": "My Observations",
+      "MyCompetences": "My Competences",
+      "Competence": "Competence",
+      "NoCompetence": "You have no competence added to your Regobs user.",
+      "ContactQuestion": "Feel free to contact us if you have any questions about competence."
+    },
+    "MyGroups": "My Groups",
+    "MyPlaces": "My Places",
+    "VarsomUser": "Varsom User"
+  },
+  "Login": {
+    "NoUser": "No user?",
+    "CreateNewRegObsUser": "Create regObs user here",
+    "EmailRequired": "Email is required.",
+    "ValidEmail": "Please enter a valid email address.",
+    "PasswordRequired": "Password is required."
+  },
+  "MapSideNav": {
+    "ShowMapSelection": "Show map selection",
+    "ShowObservationsInMapView": "Show observations in the map view",
+    "Hide": "Hide",
+    "MapSelection": "Map Selection",
+    "Observations": "Observations",
+    "ObservationsInMapView": "Observations in the map view",
+    "NoObservationsInMapView": "No observations in the map view.",
+    "MoveMap": "Zoom out or extend the time criteria to see more observations",
+    "ChosenObservation": "Chosen Observation",
+    "ShowInList": "ShowInList",
+    "Options": "Options"
+  },
+  "Map": {
+    "Loading": "Loading",
+    "LoadingObservations": "Loading observations",
+    "InMapView": "in map view"
+  },
+  "MapSelection": {
+    "SupportMaps": "Support Maps",
+    "ObservationsAndSupportMaps": "Observations and Support Maps",
+    "Observations": "Observations",
+    "SupportMap": "Support map: ",
+    "SnowWarningRegions": "Warning Regions",
+    "SupportSteepnessName": "Steepness",
+    "SupportSteepnessDescription": "The colors indicate the steepness of the terrain in degrees",
+    "SupportWeakenedIceName": "Weakened ice",
+    "SupportWeakenedIceDescription": "Støttekartet viser deler av vassdrag som oppfører seg uforutsigbart gjennom vinteren grunnet reguleringer for kraftproduksjon",
+    "SupportFloodZonesName": "Flood zones",
+    "SupportFloodZonesDescription": "Flood zones",
+    "SupportClayZonesName": "Clay zones",
+    "SupportClayZonesDescription": "Clay zones",
+    "Opacity": "Opacity",
+    "Ice": {
+      "FracturedIceAlongShore": "Fractured ice along shore",
+      "SignificantlyWeakenedIce": "Significantly weakened ice",
+      "OftenDangerousIceConditions": "Often dangerous ice conditions",
+      "WeakenedIce": "Weakened ice",
+      "Channel": "Channel",
+      "Penstock": "Penstock",
+      "PowerPlantTunnel": "Power Plant Tunnel"
+    },
+    "Water": {
+      "Current": "Current",
+      "ForReview": "For review",
+      "AjourRecognized": "Ajour recognized",
+      "UnderPlanning": "Under planning",
+      "RiverAndWater10YearFlood": "River and water 10-year flood",
+      "LowPoint": "Flooded low point at:",
+      "10YearFlood": "10-year flood",
+      "20YearFlood": "20-year flood",
+      "50YearFlood": "50-year flood",
+      "100YearFlood": "100-year flood",
+      "200YearFlood": "200-year flood",
+      "500YearFlood": "500-year flood",
+      "1000YearFlood": "1000-year flood",
+      "200YearFloodClimate": "200-year-flood (climate)"
+    },
+    "Soil": {
+      "MappedAreas": "Mapped areas",
+      "HighLoose": "High (loose area)",
+      "HighOutlet": "High (outlet area)",
+      "MediumLoose": "Medium (loose area)",
+      "MediumOutlet": "Medium (outlet area)",
+      "LowLoose": "Low (loose area)",
+      "LowOutlet": "Low (outlet area)",
+      "None": "None",
+      "PotentialHazards": "Potential hazards"
+    }
+  },
+  "PictureCarousel": {
+    "Image": "Image",
+    "Of": "Of",
+    "Copyright": "Copyright",
+    "Comment": "Comment",
+    "ObservedLocation": "Observed Location"
+  },
+  "HomeLocationSearch": {
+    "Change": "Edit",
+    "All": "All",
+    "NoMaps": "No support maps",
+    "Last": "Last",
+    "Days": "days",
+    "Search": "Search"
+  },
+  "Unknown": "Unknown",
+  "CopiedToClipboard": "Hyperlink to the observation copied to the clipboard.",
+  "GoBack": "Go back",
+  "Home": "Home",
+  "Menu": "Menu",
+  "SignIn": "Sign In",
+  "Register": "Create User",
+  "SignOut": "Sign Out",
+  "ChangePassword": "Change Password",
+  "Cancel": "Cancel",
+  "Password": "Password",
+  "Email": "Email",
+  "Forgotten": "Forgotten password?",
+  "RememberMe": "Remember me",
+  "Information": "Information",
+  "ShowLess": "Show fewer",
+  "ShowMore": "Show more",
+  "CountOf": "Count",
+  "snø": "snow",
+  "vann": "flood",
+  "is": "ice",
+  "jord": "landslide",
+  "observation": " observations",
+  "observations": "observation(s)",
+  "GoToObservation": "Go to observation",
+  "ShowAllObservations": "Show all observations",
+  "ShowFilteredObservations": "show only chosen observations",
+  "CreateObservation": "Create observation",
+  "GoToReportPage": "Go to report view",
+  "from": "fra",
+  "to": "to",
+  "PictureKey": "Picture",
+  "Of": "of",
+  "metersOverSeaLevel": "meters above sealevel",
+  "HeightKey": "Height",
+  "Reg": {
+    "ObserverNickName": "Nickname",
+    "ObservedTime": "Observed",
+    "UpdatedTime": "Updated",
+    "RegisteredTime": "Registred"
+  },
+  "Search": {
+    "SearchButton": "Search in observations",
+    "SearchFilters": "Search Filters",
+    "Header": {
+      "HideRegTypeFilter": "Hide filter",
+      "ShowRegTypeFilter": "Show filter",
+      "ViewMode": {
+        "ListKey": "List",
+        "PictureKey": "Picture",
+        "MapKey": "Map"
+      },
+      "Sort": {
+        "Label": "Sort on",
+        "LastUpdated": "Last updated date",
+        "Registered": "Registered date",
+        "Observed": "Observered date"
+      }
+    },
+    "LoadMoreRegistrationsText": "Observations aren't loading automatically?",
+    "GetMoreRegistrationsBtn": "Get more observations",
+    "HeadingColor": {
+      "black": "Black",
+      "blue": "Blue"
+    },
+    "SortOrder": {
+      "Siste oppdatert tid": "Last updated",
+      "Registrert tid": "Registered",
+      "Observert tid": "Observed"
+    },
+    "Criterias": {
+      "FreeText": {
+        "Label": "Text in observation",
+        "Placeholder": "Search for text"
+      },
+      "Recent": {
+        "Label": "My recent searches",
+        "Last": "Last",
+        "Day": "days",
+        "FromDate": "From",
+        "ToDate": "To",
+        "MyObservations": "My observations",
+        "ObserverName": "Observer name",
+        "ObserverCompetence": "Observer competence",
+        "Regions": "Regions",
+        "RegistrationTypes": "Observation types",
+        "Time": "Time period"
+      },
+      "QuickSearch": {
+        "Label": "Quick search"
+      },
+      "ObservationType": {
+        "Label": "Observation types"
+      },
+      "Regions": {
+        "Label": "Forecast regions",
+        "BRegionInfo": "* Forecasts are only issued for danger levels 4 and 5"
+      },
+      "Country": {
+        "Label": "Other Countries"
+      },
+      "Area": {
+        "Label": "Areas",
+        "Search": "Close by",
+        "List": "Regions"
+      },
+      "Observers": {
+        "Label": "Observers",
+        "MyObservations": "My observations",
+        "SearchInCompetences": "Search by user competence: ",
+        "CompetenceFilter": "Competence",
+        "SearchNickName": "Name search",
+        "ObserverNickNamePlaceholder": "Search by observer nickname",
+        "CompetenceLevelExplanation": "Competencelevel explanation"
+      },
+      "TimePeriod": {
+        "Label": "Time period",
+        "FilterByDays": "Show from last: ",
+        "Last": "Last",
+        "Day": "day",
+        "Days": "days",
+        "Or": "or",
+        "OrChooseDate": "eller velg dato",
+        "OrChooseRange": "Choose date range",
+        "ChooseDate": "choose date",
+        "FromDate": "From",
+        "ToDate": "To",
+        "InvalidDate": "Invalid date",
+        "InvalidDateRange": "Invalid date range",
+        "InvalidInteger": "Invalid integer",
+        "FromDatePicker": {
+          "Placeholder": "choose start date"
+        },
+        "ToDatePicker": {
+          "Placeholder": "choose end date"
+        },
+        "NumberOfDays": {
+          "Placeholder": "Number of days"
+        }
+      }
+    }
+  },
+  "SearchButtonName": "Search",
+  "Searching": "Searching, Please wait",
+  "SearchResultOfTotal": "of",
+  "MultipleRegistrations": "registrations",
+  "SingleRegistration": "registration",
+  "TableModes": {
+    "CompleteKey": "Complete",
+    "CompactKey": "Compact",
+    "ShortKey": "Short"
+  },
+  "PictureMode": "Pictures",
+  "MapMode": "Map",
+  "AppearanceName": "Appearance:",
+  "SortByName": "Sort by:",
+  "LanguageLabel": "Language:",
+  "ShowSearchButtonName": "Show Searchbar",
+  "Observations": {
+    "GeneralObservation": {
+      "ObsName": "General Observation",
+      "ObsComment": "Text",
+      "Comment": "Comment",
+      "ObsHeader": "Header",
+      "Urls": "Links",
+      "NoObservationsFound": "No observations found"
+    },
+    "Picture": {
+      "ObsName": "Picture",
+      "RegistrationTID": "Picture of",
+      "Photographer": "Photographer",
+      "Copyright": "Copyright",
+      "Aspect": "Orientation",
+      "PictureComment": "Comment",
+      "Comment": "Comment"
+    },
+    "SnowCover": {
+      "ObsName": "Snow profile",
+      "CriticalLayer": "Weak layer",
+      "CriticalLayerNotFound": "No weak layer observed.",
+      "CriticalLayerFound": "Weak layer observed.",
+      "CriticalLayerTID": "Type",
+      "CriticalLayerLocation": "Location",
+      "UnderSurface": "under the surface",
+      "DepthHoar": "Depth hoar",
+      "DepthHoarInSnowCover": "depth hoar observed.",
+      "SnowPilotRefTID": "Snow profile"
+    },
+    "Incident": {
+      "ObsName": "Incident",
+      "DamageExtentTID": "Extent",
+      "ActivityInfluencedTID": "Activity",
+      "IncidentHeader": "Heading",
+      "IncidentIngress": "Ingress",
+      "IncidentText": "Description",
+      "GeoHazardTID": "Observation type",
+      "Comment": "Comment",
+      "Urls": "Links"
+    },
+    "WeatherObservation": {
+      "ObsName": "Weather Observation",
+      "PrecipitationTID": "Precipitation type",
+      "AirTemperature": "Air temperature",
+      "Wind": "Wind conditions",
+      "Clouds": "clouds",
+      "WindDirection": "from",
+      "CloudCover": "Cloud coverage",
+      "Comment": "Comment"
+    },
+    "AvalancheActivityObs": {
+      "ObsName": "Avalanche activity",
+      "DtAvalancheTime": "Time",
+      "AvalancheTID": "Type",
+      "NumberAndSize": "Number of occurences and size",
+      "Aspect": "Exposition",
+      "HeigthStartZone": "Start height",
+      "AvalancheTriggerTID": "Trigger",
+      "Comment": "Comment",
+      "MetersOverSeaLevel": "meter above sea level"
+    },
+    "AvalancheActivityObs2": {
+      "ObsName": "Avalanche activity",
+      "DtAvalancheTime": "Time",
+      "AvalancheTID": "Type",
+      "NumberAndSizeAndTrigger": "Number, size and trigger",
+      "Prevalence": "Hazard distribution",
+      "Comment": "Comment",
+      "MetersOverSeaLevel": "meter above sea level"
+    },
+    "AvalancheDangerObs": {
+      "ObsName": "Avalanche danger observation",
+      "DangerSignTID": "Type",
+      "Comment": "Comment"
+    },
+    "AvalancheEvalProblem2": {
+      "ObsName": "Avalanche problem evaluation",
+      "AvalancheExtTID": "Type",
+      "AvalCauseTID": "Type of weak layer",
+      "AvalCauseDepthTID": "Distance from surface to weak layer",
+      "AvalCauseAttributeLightTID": "Unfavorable characteristics of the weak layer",
+      "AvalTriggerSimpleTID": "Expected load to trigger avalanche",
+      "AvalProbabilityTID": "Probablity for avalanche",
+      "DestructiveSizeTID": "Size of expected avalanche",
+      "PrevalenceArea": "Hazard distribution",
+      "Comment": "Comment"
+    },
+    "AvalancheEvaluation": {
+      "ObsName": "Avalanche Evaluation",
+      "AvalancheEvaluation1": "Evaluation",
+      "Comment": "Development",
+      "AvalancheDangerTID": "Danger Level",
+      "AvalancheProblemTID1": "Avalanche problem 1",
+      "AvalancheProblemTID2": "Avalanche problem 2",
+      "AvalancheProblemTID3": "Avalanche problem 3",
+      "ValidExposition": "Exposition"
+    },
+    "AvalancheEvaluation2": {
+      "ObsName": "Avalanche Evaluation",
+      "AvalancheEvaluation": "Evaluation",
+      "AvalancheDevelopment": "Development",
+      "AvalancheDangerTID": "Danger Level",
+      "ExposedTerrain": "Exposed terrain",
+      "AvalancheProblem": "Avalanche problem"
+    },
+    "AvalancheEvaluation3": {
+      "ObsName": "Avalanche Evaluation",
+      "AvalancheEvaluation": "Evaluation",
+      "AvalancheDevelopment": "Development",
+      "AvalancheDangerTID": "DangerLevel",
+      "ForecastCorrectTID": "Forecast correctness",
+      "ForecastComment": "Comment"
+    },
+    "AvalancheObs": {
+      "ObsName": "Avalanche observation",
+      "DtAvalancheTime": "Time",
+      "AvalancheTID": "Type",
+      "DestructiveSizeTID": "Size",
+      "AvalancheTriggerTID": "Trigger",
+      "ValidExposition": "Exposition",
+      "HeigthStartZone": "Loosened area start",
+      "HeigthStopZone": "Loosened area stop",
+      "AvalCauseTID": "Weak layer",
+      "FractureHeigth": "Break height",
+      "FractureWidth": "Break width",
+      "TerrainStartZoneTID": "Terrain startzone",
+      "Trajectory": "Trajectory",
+      "Comment": "Comment"
+    },
+    "CompressionTest": {
+      "ObsName": "Compression test",
+      "Test": "Test",
+      "StabilityEvalTID": "Stability",
+      "Comment": "Comment"
+    },
+    "DamageObs": {
+      "ObsName": "Damage Observation",
+      "DamageTypeTID": "Type",
+      "Comment": "Comment"
+    },
+    "DangerObs": {
+      "ObsName": "Danger observation",
+      "DangerSignTName": "Danger type",
+      "Comment": "Comment"
+    },
+    "IceCoverObs": {
+      "ObsName": "Ice cover observation",
+      "IceCoverTName": "Coverage",
+      "IceCoverBeforeTName": "Ice coverage before observation",
+      "IceCoverAfterTName": "Ice coverage after observation",
+      "IceCapacityTName": "Capacity",
+      "IceSkateabilityTName": "Skateability",
+      "Comment": "Comment"
+    },
+    "IceThickness": {
+      "ObsName": "Ice thickness",
+      "OverIce": "Over ice",
+      "SnowDepthBeforeDrilling": "snow before drilling.",
+      "SlushSnowBeforeDrilling": "Slush before drilling",
+      "OverWaterBeforeDrilling": "Water before drilling",
+      "WaterSurfaceInHole": "Water surface in hole",
+      "LowerThanIceSurface": "lower than ice surface ",
+      "IsEqualToIceSurface": "is equal to ice surface",
+      "OverWaterAfterDrilling": "over water after drilling",
+      "IceThicknessLayers": "Layers (top to bottom)",
+      "IceThicknessSum": "Total thickness",
+      "Comment": "Comment",
+      "Total": " total"
+    },
+    "LandslideObs": {
+      "ObsName": "Landslide observation",
+      "Time": "Time",
+      "Between": "Between",
+      "And": " and ",
+      "LandSlideTName": "Landslide type",
+      "LandSlideSizeTName": "Size",
+      "LandSlideTriggerTName": "Trigger",
+      "ActivityInfluencedTName": "What was affected?",
+      "DamageExtentTName": "Damage extent",
+      "ForecastAccurateTName": "Was forecast accurate?",
+      "Comment": "Comment",
+      "Urls": "Links"
+    },
+    "SnowSurfaceObservation": {
+      "ObsName": "Snow surface",
+      "SnowDepth": "Snow depth",
+      "Total": "total",
+      "SnowDriftTName": "Snow drift",
+      "NewSnowDepth24": "Snow depth in last 24 hours",
+      "NewSnow": "new snow",
+      "SnowLines": "Snow lines",
+      "NewSnowLine": "New snowlines",
+      "SnowLine": "Snowline",
+      "HeightLimitLayeredSnow": "Height limit for snow layer",
+      "SnowSurfaceTName": "Snow surface hardness",
+      "SurfaceWaterContentTName": "Snow water content",
+      "SurfaceRougnessTName": "Surface roughness",
+      "FootPenetration": "Foot penetration",
+      "Kommentar": "Comment"
+    },
+    "WaterLevel": {
+      "ObsName": "WaterLevel",
+      "AppliesFor": "Applies for",
+      "River": "river",
+      "Lake": "lake",
+      "WaterLevelDescribed": "Waterlevel description",
+      "WaterLevelValue": "Value",
+      "WaterLevelRefTName": "Waterlevel measurement reference",
+      "MeasuredDischarge": "Measured discharge",
+      "Comment": "Comment"
+    },
+    "WaterLevel2": {
+      "ObsName": "Waterlevel",
+      "WaterLevelStateTName": "Situation",
+      "WaterAstrayTName": "Is there any water astray?",
+      "ObservationTimingTName": "What is registered?",
+      "MeasurementTypeTName": "Measurement instrument",
+      "MeasuredRelativeTo": "Measurement relative to",
+      "MeasurementReferenceTName": "Watermarking on/with",
+      "With": "with",
+      "Comment": "Comment",
+      "WaterMarking": "Water marking",
+      "WaterMeasurement": "Water measurement",
+      "WaterMeasurementValue": "Water measurement value"
+    },
+    "SnowProfile": {
+      "ObsName": "Snow profile",
+      "StratLayers": "Strat layers",
+      "SnowTemperature": "Temperature",
+      "SnowDensity": "Snow density",
+      "CompressionTest": "Compression tests",
+      "CompresstionTestConnectedToProfile": "compression tests connected to snow profile",
+      "Comment": "Comment",
+      "LayersObserved": "layers observed"
+    }
+  },
+  "UserMenu": {
+    "User": "USER",
+    "Regobs": "REGOBS",
+    "Language": "LANGUAGE",
+    "Page": "PAGE"
+  },
+  "Cookies": {
+    "Label": "Cookies",
+    "Title": "Use of Cookies",
+    "AboutUseFirstParagraph": "Regobs uses cookies to improve your user experience when you visit the website. A cookie is a text file that, when visiting or interacting with a website, is placed in your browser's internal memory.",
+    "AboutUseSecondParagraph": "The basis for this is Article 6 (1) (f) of the Privacy Policy, which allows us to process information that is necessary to safeguard an interest that outweighs the individual's privacy. That interest is to make our website work well so that you get a good user experience.",
+    "AboutUseThirdParagraph": "Regobs does not use cookies to map individual users' usage patterns or other information that may violate their privacy.",
+    "Customize": "Customize",
+    "CustomizeDescription": "Most modern browsers (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) are set to automatically accept cookies, but you can choose to change your settings so that cookies are not accepted. We note that this could lead to regobs.no not working optimally.",
+    "CookiesDescription": "In the table below we list which cookies beta.regobs.no uses, which data is stored and why the site needs them.",
+    "TheWebsite": "The website",
+    "HowToAdminister": "explains how you can administer cookies yourself.",
+    "NameColumnLabel": "Cookie",
+    "DomainColumnLabel": "Domain",
+    "DescriptionColumnLabel": "Description",
+    "DataProcessorColumnLabel": "Data Processor",
+    "Descriptions": {
+      "__utma": "Used to distinguish users and sessions.",
+      "__utmt": "Used to throttle requests.",
+      "__utmb": "Used to determine new sessions/visits.",
+      "__utmc": "Used in determining new sessions/visits.",
+      "__utmz": "Used to store how the user arrived to the site."
+    }
+  }
+}
