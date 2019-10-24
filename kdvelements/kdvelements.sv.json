@@ -8,7 +8,7 @@
             },
             {
                 "Id": 201,
-                "Name": "Inga tecken på fara har observerats",
+                "Name": "Inga tecken på fara",
                 "Description": null
             },
             {
@@ -28,7 +28,7 @@
             },
             {
                 "Id": 206,
-                "Name": "Högt vattenflöde i bäckar/älvar",
+                "Name": "Högt vattenflöde",
                 "Description": null
             },
             {
@@ -68,7 +68,7 @@
             },
             {
                 "Id": 222,
-                "Name": "Rörelse längs med jordskredskanten",
+                "Name": "Rörelse i jordskredskanten",
                 "Description": null
             },
             {
@@ -78,7 +78,7 @@
             },
             {
                 "Id": 299,
-                "Name": "Andra tecken på fara (specificera)",
+                "Name": "Andra tecken på fara",
                 "Description": null
             }
         ],
@@ -228,7 +228,7 @@
             },
             {
                 "Id": 701,
-                "Name": "Inga tecken på fara observerats",
+                "Name": "Inga tecken på fara",
                 "Description": null
             },
             {
@@ -394,17 +394,17 @@
             },
             {
                 "Id": 2,
-                "Name": "Ingen is, nu första isen vid stranden",
+                "Name": "Förr ingen is, nu vid stranden",
                 "Description": "Ingen is hittills den här säsongen. Idag är längs land."
             },
             {
                 "Id": 1,
-                "Name": "Ingen is, nu första isen på mätplats",
+                "Name": "Förr ingen is, nu vid mätplats",
                 "Description": "Ingen is på mätplatsen före idag. Det kan ha varit is längs stranden. Mätplatsen är vanligtvis något ute på vattnet."
             },
             {
                 "Id": 3,
-                "Name": "Ingen is hittills, inklusive idag",
+                "Name": "Förr ingen is, sä även idag",
                 "Description": "Ingen is hittills den här säsongen, även i dag är den isfri."
             },
             {
@@ -483,17 +483,17 @@
             },
             {
                 "Id": 20,
-                "Name": "Tvivelaktiga skridskoförhållanden",
+                "Name": "Tvivelaktiga förhållanden",
                 "Description": ""
             },
             {
                 "Id": 30,
-                "Name": "Normala skridskoförhållanden",
+                "Name": "Normala förhållanden",
                 "Description": ""
             },
             {
                 "Id": 40,
-                "Name": "Mycket goda skridskoförhållanden",
+                "Name": "Mycket goda förhållanden",
                 "Description": ""
             },
             {
@@ -1255,7 +1255,7 @@
             },
             {
                 "Id": 23,
-                "Name": "Artificiellt utlöst testsluttning",
+                "Name": "Lavin utlöst på testsluttning",
                 "Description": null
             },
             {
@@ -1937,17 +1937,17 @@
             },
             {
                 "Id": 601,
-                "Name": "Inga tecken på fara observerad",
+                "Name": "Inga tecken på fara",
                 "Description": null
             },
             {
                 "Id": 611,
-                "Name": "Blockerad vattendrag pga. is",
+                "Name": "Is blockerad vattendrag",
                 "Description": null
             },
             {
                 "Id": 612,
-                "Name": "Blockerad vattendrag pga. sediment",
+                "Name": "Sediment blockerar vattendrag",
                 "Description": null
             },
             {
@@ -2026,7 +2026,7 @@
             },
             {
                 "Id": 130,
-                "Name": "Märke över historiska översvämningar",
+                "Name": "Märke tidigare översvämningar",
                 "Description": null
             },
             {
@@ -2835,7 +2835,7 @@
             },
             {
                 "Id": 2,
-                "Name": "Vidarebefordra till historiska db",
+                "Name": "Skickad till historisk db",
                 "Description": null
             },
             {
