@@ -1,0 +1,605 @@
+{
+  "Navbar": {
+    "ShowObservationsInMap": "Visa observationer i kartan",
+    "SearchInObservation": "Sök observationer",
+    "RegisterObservation": "Registrera observationer",
+    "All": {
+      "ObservationsFromLastSevenDays": "Visa alla observationer från senaste 7 dagarna"
+    },
+    "Snow": {
+      "ShowObservationsInMap": "Snöobservationer och lutningskarta",
+      "SearchInObservation": "Rapport snöobservationer",
+      "RegisterObservation": "Ny snöobservation",
+      "RegisteredTrips": "Se registrerade turer"
+    },
+    "Ice": {
+      "ShowObservationsInMap": "Is observationer och karta över svag is",
+      "SearchInObservation": "Rapport is observationer",
+      "RegisterObservation": "Ny is observation"
+    },
+    "Water": {
+      "ShowObservationsInMap": "Vatten-och jordobservationer och översvämningskarta",
+      "SearchInObservation": "Rapport vatten-och jordobservationer",
+      "RegisterObservation": "Ny vattenobservation"
+    },
+    "Soil": {
+      "ShowObservationsInMap": "Jord-och vattenobservationer och terräng utsatt för skred",
+      "SearchInObservation": "Rapport vatten-och jordobservationer",
+      "RegisterObservation": "Ny jordobservation"
+    }
+  },
+  "Geohazards": {
+    "Snow": "Snö",
+    "Water": "Vatten",
+    "Soil": "Jord",
+    "Ice": "Is",
+    "WaterSoil": "Vatten & jord",
+    "All": "Alla"
+  },
+  "Footer": {
+    "GoTo": "Gå till",
+    "AboutRegObsHeader": "Om Regobs",
+    "ContactUsHeader": "Kontakta oss",
+    "OtherToolsHeader": "Andra verktyg",
+    "RegObsGatheringPlace": "Regobs är en samlingsplats för observationer och händelser som används i varnings- och beredskapsarbete.",
+    "RegObsCovers": "Den täcker lavinprognoserna, isvarningarna, jordskredvarningarna och översvämningsvarningarna.",
+    "NveVarsom": "Jordskredvarningen och översvämningsvarningen vid NVE är en del av flera verktyg som vi har etablerat tillsammans med varsom.no.",
+    "AboutDataInRegObs": "Om data i Regobs",
+    "Collaboration": "Samarbeten",
+    "ConditionOfUse": "Användningsvillkor",
+    "ReadMoreAboutRegobs": "Läs mer om Regobs",
+    "RegObsFacebook": "Professionell grupp för regObs på Facebook",
+    "HearFromYou": "Vi vill höra om din användarupplevelse eller om du har frågor av professionell karakär.",
+    "ContactIndividual": "Kontakta då den del av varningstjänsten som passar din användning av regObs.",
+    "FeedbackForm1": "Du kan också använda en ",
+    "FeedbackForm2": "feedbackformulär",
+    "FeedbackForm3": " för att ge oss feedback om tjänsten.",
+    "BeAwareThat": "Observera att brådskande ärenden bäst tas med tjänsten direkt eller på Facebook-gruppen.",
+    "RegObsContactEmail": "kontaktepost@regobs.no",
+    "VarsomAbout": "Varsom.no är en tjänst som tillhandahålls av NVE, i samarbete med Meteorologisk institutt, Statens vegvesen og Bane NOR.",
+    "VarsomAlt": "Logo för Varsom.no",
+    "IskartAbout": "Läs isvarningarna som utarbetats av NVE baserat på tillgänglig isinformation och väder på vintern.",
+    "IskartAlt": "Logo för Iskart.no",
+    "SeNorgeAbout": "seNorge är en öppen portal som visar uppdaterade kartor över snö, väder och vattenförhållanden och klimat för Norge.",
+    "SeNorgeAlt": "Logo för Senorge.no",
+    "XGeoAbout": "xGeo är ett verktyg som används för beredskap, övervakning och varning för översvämningar, jordskred och laviner.",
+    "XGeoAlt": "Logo för Xgeo.no"
+  },
+  "Chip": {
+    "ShowAllObservations": "Visa alla",
+    "GoToObservation": "Gå till observation"
+  },
+  "ObservationCard": {
+    "Observed": "Observerade:",
+    "Registered": "Registrerad:",
+    "Updated": "Uppdaterad:",
+    "Forms": "Formulär",
+    "AboveSeaLevel": "möh",
+    "ObsId": "ID:",
+    "ForecastRegion": "Prognosområde",
+    "SentInBy": "Skickat in av",
+    "Original": "Se original"
+  },
+  "MyPage": {
+    "MyPage": "Min sida",
+    "MyObservations": {
+      "Title": "Mina observationer",
+      "MyCompetences": "Min kompetens",
+      "Competence": "Kompetens",
+      "NoCompetence": "Du har ingen kompetens kopplad till din Regobs-användare.",
+      "ContactQuestion": "Kontakta oss gärna om du har några frågor om kompetens."
+    },
+    "MyGroups": "Mina grupper",
+    "MyPlaces": "Mina platser",
+    "VarsomUser": "Varsom-användaren"
+  },
+  "Login": {
+    "NoUser": "Ingen användare?",
+    "CreateNewRegObsUser": "Skapa Regobs-användare här.",
+    "EmailRequired": "Ange e-postadress",
+    "ValidEmail": "Ange en giltig e-postadress.",
+    "PasswordRequired": "Ange ditt lösenord."
+  },
+  "MapSideNav": {
+    "ShowMapSelection": "Visa kartval",
+    "ShowObservationsInMapView": "Se observationer i kartan",
+    "Hide": "Dölj",
+    "MapSelection": "Kartval",
+    "Observations": "Observationer",
+    "ObservationsInMapView": "Observationer i kart vyn",
+    "NoObservationsInMapView": "Inga observationer i kart vyn.",
+    "MoveMap": "Zooma ut eller utöka tidsperioden för att se fler observationer",
+    "ChosenObservation": "Vald observation",
+    "ShowInList": "Visa i lista",
+    "Options": "Kartval"
+  },
+  "Map": {
+    "Loading": "Laddar",
+    "LoadingObservations": "Laddar observation",
+    "InMapView": "i kart vy"
+  },
+  "MapSelection": {
+    "SupportMaps": "Stödkarta",
+    "ObservationsAndSupportMaps": "Observationer och stödkarta",
+    "Observations": "Observationer ",
+    "SupportMap": "Stödkarta: ",
+    "SnowWarningRegions": "Prognosområde",
+    "SupportSteepnessName": "Lutningsgrad",
+    "SupportSteepnessDescription": "Färgerna indikerar terrängens branthet i grader",
+    "SupportWeakenedIceName": "Svag is",
+    "SupportWeakenedIceDescription": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av vattenkraftsproduktion",
+    "SupportFloodZonesName": "Översvämningszoner",
+    "SupportFloodZonesDescription": "Översvämningszoner",
+    "SupportClayZonesName": "Kvicklera/jordskred",
+    "SupportClayZonesDescription": "Kvicklera/jordskred",
+    "Opacity": "Genomskinlighet",
+    "Ice": {
+      "FracturedIceAlongShore": "Uppsprucken is längs land",
+      "SignificantlyWeakenedIce": "Betydligt försvagad is",
+      "OftenDangerousIceConditions": "Ofta farliga isförhållanden",
+      "WeakenedIce": "Försvagad is",
+      "Channel": "Kanal",
+      "Penstock": "Tilloppstub",
+      "PowerPlantTunnel": "Kraftverkstunnel"
+    },
+    "Water": {
+      "Current": "Aktuella",
+      "ForReview": "För granskning",
+      "AjourRecognized": "ajourförd",
+      "UnderPlanning": "Under planering",
+      "RiverAndWater10YearFlood": "Älv och vatten 10-års översvämning",
+      "LowPoint": "Översvämning lågpunkt vid:",
+      "10YearFlood": "10-årsöversvämning",
+      "20YearFlood": "20-årsöversvämning",
+      "50YearFlood": "50-årsöversvämning",
+      "100YearFlood": "100-årsöversvämning",
+      "200YearFlood": "200-årsöversvämning",
+      "500YearFlood": "500-årsöversvämning",
+      "1000YearFlood": "1000-årsöversvämning",
+      "200YearFloodClimate": "200-årsöversvämning (klimat)"
+    },
+    "Soil": {
+      "MappedAreas": "Kartlagda områden",
+      "HighLoose": "Hög (startområde)",
+      "HighOutlet": "Hög (utloppsområdet)",
+      "MediumLoose": "Medel (startområde)",
+      "MediumOutlet": "Medel (utloppsområdet)",
+      "LowLoose": "Låg (startområde)",
+      "LowOutlet": "Låg (utloppsområdet)",
+      "None": "Ingen",
+      "PotentialHazards": "Potentiellt jordskredsfara"
+    }
+  },
+  "PictureCarousel": {
+    "Image": "BIld",
+    "Of": "Av",
+    "Copyright": "Copyright",
+    "Comment": "Kommentar",
+    "ObservedLocation": "Observerad plats"
+  },
+  "HomeLocationSearch": {
+    "Change": "Redigera",
+    "All": "Alla",
+    "NoMaps": "Ingen stödkarta",
+    "Last": "Sista",
+    "Days": "dagar",
+    "Search": "Sök"
+  },
+  "Unknown": "Okänt",
+  "CopiedToClipboard": "Länk till observationen kopierad till urklipp.",
+  "GoBack": "Gå tillbaka",
+  "Home": "Hem",
+  "Menu": "Meny",
+  "SignOut": "Logga ut",
+  "Register": "Registrera användare",
+  "SignIn": "Logga in",
+  "ChangePassword": "Byt lösenord",
+  "Cancel": "Avbryt",
+  "Password": "Lösenord",
+  "Email": "Epost",
+  "Forgotten": "Glömt lösenord?",
+  "RememberMe": "Kom ihåg mig",
+  "Information": "Information",
+  "ShowLess": "Visa färre",
+  "ShowMore": "Visa fler",
+  "CountOf": "Antal",
+  "snø": "snö",
+  "vann": "vatten",
+  "is": "is",
+  "jord": "jord",
+  "observation": "observationer",
+  "observations": "observation(er)",
+  "GoToObservation": "Gå till observation",
+  "ShowAllObservations": "Visa alla observationer",
+  "ShowFilteredObservations": "Visa valda observationer",
+  "CreateObservation": "Skapa observation",
+  "GoToReportPage": "Gå till rapport vy",
+  "from": "från",
+  "to": "till",
+  "PictureKey": "Bilden",
+  "Of": "av",
+  "metersOverSeaLevel": "möh",
+  "HeightKey": "Höjd",
+  "Reg": {
+    "ObserverNickName": "Av",
+    "ObservedTime": "Observerad",
+    "UpdatedTime": "Uppdaterad",
+    "RegisteredTime": "Registrerat"
+  },
+  "Search": {
+    "SearchButton": "Sök i observationerna",
+    "SearchFilters": "Sökfilter",
+    "Header": {
+      "HideRegTypeFilter": "Dölj filtrering",
+      "ShowRegTypeFilter": "Visa filtrering",
+      "ViewMode": {
+        "ListKey": "Lista",
+        "PictureKey": "Bilder",
+        "MapKey": "Karta"
+      },
+      "Sort": {
+        "Label": "Sortera på",
+        "LastUpdated": "Senast uppdaterad tid",
+        "Registered": "Registrerad tid",
+        "Observed": "Observerad tid"
+      }
+    },
+    "LoadMoreRegistrationsText": "Klicka här för att manuellt ladda upp flera registreringar",
+    "GetMoreRegistrationsBtn": "Hämta fler observationer",
+    "HeadingColor": {
+      "black": "Svart",
+      "blue": "Blå"
+    },
+    "SortOrder": {
+      "Siste oppdatert tid": "Senast uppdaterad tid",
+      "Registrert tid": "Registrerad tid",
+      "Observert tid": "Observerad tid"
+    },
+    "Criterias": {
+      "FreeText": {
+        "Label": "Text i observation",
+        "Placeholder": "Sök på text"
+      },
+      "Recent": {
+        "Label": "Senaste sökning",
+        "Last": "sista",
+        "Day": "dygn",
+        "FromDate": "Från",
+        "ToDate": "Till",
+        "MyObservations": "Mina observationer",
+        "ObserverName": "Observatörens namn",
+        "ObserverCompetence": "Observatörens kompetens",
+        "Regions": "Regioner",
+        "RegistrationTypes": "Observationstyp",
+        "Time": "Tid"
+      },
+      "QuickSearch": {
+        "Label": "Snabb sök"
+      },
+      "ObservationType": {
+        "Label": "Observationstyp"
+      },
+      "Regions": {
+        "Label": "Regioner",
+        "BRegionInfo": "* Varning utfärdas endast vid fara 4 och 5"
+      },
+      "Country": {
+        "Label": "Andra länder"
+      },
+      "Area": {
+        "Label": "Område",
+        "Search": "I närheten",
+        "List": "Regioner"
+      },
+      "Observers": {
+        "Label": "Observatör",
+        "MyObservations": "Mina observationer",
+        "SearchInCompetences": "Sök på kompetens: ",
+        "SearchNickName": "Namn sök",
+        "ObserverNickNamePlaceholder": "Sök på Observatör",
+        "CompetenceFilter": "Kompetens",
+        "CompetenceLevelExplanation": "Kompetensförklaring"
+      },
+      "TimePeriod": {
+        "Label": "Tidsperiod",
+        "FilterByDays": "Visa från senaste ",
+
+        "Last": "sista",
+        "Day": "dygn",
+        "Days": "dygn",
+        "Or": "eller",
+        "OrChooseDate": "eller välj datum",
+        "OrChooseRange": "Välj datumintervall",
+        "ChooseDate": "välj datum:",
+        "FromDate": "Från",
+        "ToDate": "Till",
+        "InvalidDate": "Ogiltigt datum",
+        "InvalidDateRange": "Ogiltigt datumintervall",
+        "InvalidInteger": "Ogiltigt heltal",
+        "FromDatePicker": {
+          "Placeholder": "Från datum"
+        },
+        "ToDatePicker": {
+          "Placeholder": "Till datum"
+        },
+        "NumberOfDays": {
+          "Placeholder": "Välj antal dygn"
+        }
+      }
+    }
+  },
+  "SearchButtonName": "Sök",
+  "Searching": "Söker",
+  "SearchResultOfTotal": "av",
+  "MultipleRegistrations": "registreringar",
+  "SingleRegistration": "registrering",
+  "TableModes": {
+    "CompleteKey": "Komplett",
+    "CompactKey": "Kompakt",
+    "ShortKey": "Kort"
+  },
+  "PictureMode": "Bara bilder",
+  "MapMode": "Karta",
+  "AppearanceName": "Utseende:",
+  "SortByName": "Sortera på:",
+  "LanguageLabel": "Språk:",
+  "ShowSearchButtonName": "Visa sök",
+  "Observations": {
+    "GeneralObservation": {
+      "ObsName": "Fritext",
+      "ObsComment": "Text",
+      "Comment": "Kommentar",
+      "ObsHeader": "Överskrift",
+      "Urls": "Länkar",
+      "NoObservationsFound": "Inga observationer hittas"
+    },
+    "Picture": {
+      "ObsName": "Bilder",
+      "RegistrationTID": "Av",
+      "Photographer": "Fotograf",
+      "Copyright": "Copyright",
+      "Aspect": "Väderstreck",
+      "PictureComment": "Kommentar",
+      "Comment": "Kommentar"
+    },
+    "SnowCover": {
+      "ObsName": "Snöprofil",
+      "CriticalLayer": "Svagt lager",
+      "CriticalLayerNotFound": "Inga svaga lager observerades.",
+      "CriticalLayerFound": "Svaga lager observerades.",
+      "CriticalLayerTID": "Typ",
+      "CriticalLayerLocation": "Placering",
+      "UnderSurface": "under ytan",
+      "DepthHoar": "Bägarkristaller",
+      "DepthHoarInSnowCover": "med bägarkristaller längst ner i snötäcket",
+      "SnowPilotRefTID": "Snöprofil"
+    },
+    "Incident": {
+      "ObsName": "Olycka / Tillbud",
+      "DamageExtentTID": "Omfattning",
+      "ActivityInfluencedTID": "Aktivitet",
+      "IncidentHeader": "Rubrik",
+      "IncidentIngress": "Ingress",
+      "IncidentText": "Beskrivning",
+      "GeoHazardTID": "Observationstyp",
+      "Comment": "Kommentar",
+      "Urls": ""
+    },
+    "WeatherObservation": {
+      "ObsName": "Väderobservation",
+      "PrecipitationTID": "Nederbördstyp",
+      "AirTemperature": "Temperatur",
+      "Wind": "Vind",
+      "WindDirection": "från",
+      "CloudCover": "Molntäcke",
+      "Clouds": "moln",
+      "Comment": "Kommentar"
+    },
+    "AvalancheActivityObs": {
+      "ObsName": "Lavin aktivitet",
+      "DtAvalancheTime": "Tid",
+      "AvalancheTID": "Typ",
+      "NumberAndSize": "Antal och storlek",
+      "Aspect": "Vädersträck",
+      "HeigthStartZone": "Höjd startzon",
+      "AvalancheTriggerTID": "Lavinen utlöst av",
+      "Comment": "Kommentar",
+      "MetersOverSeaLevel": "möh"
+    },
+    "AvalancheActivityObs2": {
+      "ObsName": "Lavin aktivitet",
+      "DtAvalancheTime": "Tid",
+      "AvalancheTID": "Typ",
+      "NumberAndSizeAndTrigger": "Antal, storlek och utlöst av",
+      "Prevalence": "Utbredning",
+      "Comment": "Kommentar",
+      "MetersOverSeaLevel": "meter över havet"
+    },
+    "AvalancheDangerObs": {
+      "ObsName": "Tecken på lavinfara",
+      "DangerSignTID": "Typ",
+      "Comment": "Kommentar"
+    },
+    "AvalancheEvalProblem2": {
+      "ObsName": "Lavinproblem",
+      "AvalancheExtTID": "Typ",
+      "AvalCauseTID": "Typ av svagt lager",
+      "AvalCauseDepthTID": "Avstånd från snöytan till det svaga lagret",
+      "AvalCauseAttributeLightTID": "Ogynnsamma egenskaper hos det svaga lagret",
+      "AvalTriggerSimpleTID": "Förväntad belastning för att utlösa laviner",
+      "AvalProbabilityTID": "Sannolikhet för laviner",
+      "DestructiveSizeTID": "Storlek på förväntat laviner",
+      "PrevalenceArea": "Utbredning",
+      "Comment": "Kommentar"
+    },
+    "AvalancheEvaluation": {
+      "ObsName": "Bedömning av lavinfara",
+      "AvalancheEvaluation1": "Bedömning",
+      "Comment": "Utveckling",
+      "AvalancheDangerTID": "Lavinfara",
+      "AvalancheProblemTID1": "Lavinproblem 1",
+      "AvalancheProblemTID2": "Lavinproblem 2",
+      "AvalancheProblemTID3": "Lavinproblem 3",
+      "ValidExposition": "Exponering"
+    },
+    "AvalancheEvaluation3": {
+      "ObsName": "Bedömning av lavinfara",
+      "AvalancheEvaluation": "Bedömning",
+      "AvalancheDevelopment": "Utveckling",
+      "AvalancheDangerTID": "Lavinfara",
+      "ForecastCorrectTID": "Prognosens korrekthet",
+      "ForecastComment": "Kommentar"
+    },
+    "AvalancheObs": {
+      "ObsName": "Lavinobservation",
+      "DtAvalancheTime": "Tid",
+      "AvalancheTID": "Typ",
+      "DestructiveSizeTID": "Storlek",
+      "AvalancheTriggerTID": "Lavinen utlöst av",
+      "ValidExposition": "Väderstreck",
+      "HeigthStartZone": "Startzon",
+      "HeigthStopZone": "Utloppszon",
+      "AvalCauseTID": "Svagt lager",
+      "FractureHeigth": "Höjd brottkant",
+      "FractureWidth": "Bredd brottkant",
+      "TerrainStartZoneTID": "Terräng i startzon",
+      "Trajectory": "Namn på lavinbana",
+      "Comment": "Kommentar"
+    },
+    "CompressionTest": {
+      "ObsName": "Stabilitetstest",
+      "Test": "Test",
+      "StabilityEvalTID": "Stabilitet",
+      "Comment": "Kommentar"
+    },
+    "DamageObs": {
+      "ObsName": "Skador",
+      "DamageTypeTID": "Typ",
+      "Comment": "Kommentar"
+    },
+    "DangerObs": {
+      "ObsName": "Tecken på fara",
+      "DangerSignTName": "Typ",
+      "Comment": "Kommentar"
+    },
+    "IceCoverObs": {
+      "ObsName": "Is observation",
+      "IceCoverTName": "Istäcke",
+      "IceCoverBeforeTName": "Istäcke för observation",
+      "IceCoverAfterTName": "Istäcke efter observation",
+      "IceCapacityTName": "Kapacitet",
+      "IceSkateabilityTName": "Åkbarhet",
+      "Comment": "Kommentar"
+    },
+    "IceThickness": {
+      "ObsName": "Is tjocklek",
+      "OverIce": "Över isen ",
+      "SnowDepthBeforeDrilling": "snö före borrning",
+      "SlushSnowBeforeDrilling": "slask före borrning",
+      "OverWaterBeforeDrilling": "vatten före borrning",
+      "WaterSurfaceInHole": "Vattennivå i hålet",
+      "LowerThanIceSurface": "lägre än isytan",
+      "IsEqualToIceSurface": "är lika med isytan",
+      "OverWaterAfterDrilling": "övervatten efter borrning",
+      "IceThicknessLayers": "Islager (ytan till botten)",
+      "IceThicknessSum": "Total is tjocklek",
+      "Comment": "Kommentar",
+      "Total": " totalt"
+    },
+    "LandslideObs": {
+      "ObsName": "Jordskredobservation",
+      "Time": "Tid",
+      "Between": "Mellan",
+      "And": " och ",
+      "LandSlideTName": "Jordskredstyp",
+      "LandSlideSizeTName": "storlek",
+      "LandSlideTriggerTName": "Utlösare",
+      "ActivityInfluencedTName": "Vad blev påverkat?",
+      "DamageExtentTName": "Omfattning",
+      "ForecastAccurateTName": "Stämde varningen på varsom.no?",
+      "Comment": "Kommentar",
+      "Urls": "Länkar"
+    },
+    "SnowSurfaceObservation": {
+      "ObsName": "Snötäcke",
+      "SnowDepth": "Snödjup",
+      "Total": "totalt",
+      "SnowDriftTName": "Snödrev",
+      "NewSnowDepth24": "Senaste dygnet",
+      "NewSnow": "nysnö",
+      "SnowLines": "Gräns för snö",
+      "NewSnowLine": "Gräns för nysnö på",
+      "SnowLine": "Gräns för snö på",
+      "HeightLimitLayeredSnow": "Gränsen för snö med lager är på",
+      "SnowSurfaceTName": "Snöytans hårdhet",
+      "SurfaceWaterContentTName": "Snöns vatteninnehåll",
+      "SurfaceRougnessTName": "Snöytan",
+      "FootPenetration": "Fot penetration",
+      "Kommentar": "Kommentar"
+    },
+    "WaterLevel": {
+      "ObsName": "Vattennivå",
+      "AppliesFor": "Gäller för",
+      "River": "älv",
+      "Lake": "Insjö",
+      "WaterLevelDescribed": "Beskrivning av vattennivå",
+      "WaterLevelValue": "Storlek",
+      "WaterLevelRefTName": "Referensnivå",
+      "MeasuredDischarge": "Uppmätt vattenflöde",
+      "Comment": "Kommentar"
+    },
+    "WaterLevel2": {
+      "ObsName": "Vattennivå",
+      "WaterLevelStateTName": "Situationen",
+      "WaterAstrayTName": "Rinner vattnet utanför sina normala vägar?",
+      "ObservationTimingTName": "Vad registrerar du?",
+      "MeasurementTypeTName": "Mätinstrument",
+      "MeasuredRelativeTo": "Mätning i förhållande till",
+      "MeasurementReferenceTName": "Vattenmärke på/i",
+      "With": "med",
+      "Comment": "Kommentar",
+      "WaterMarking": "Vattenmärke",
+      "WaterMeasurement": "Vattenmätning",
+      "WaterMeasurementValue": "Vattenmätvärde"
+    },
+    "SnowProfile": {
+      "ObsName": "Snöprofil",
+      "StratLayers": "Indelning av lager",
+      "SnowTemperature": "Temperatur",
+      "SnowDensity": "Snödensitet",
+      "CompressionTest": "Stabilitetstest",
+      "CompresstionTestConnectedToProfile": "test anknuten till snöprofil",
+      "Comment": "Kommentar",
+      "LayersObserved": "Observerade lager"
+    }
+  },
+  "UserMenu": {
+    "User": "ANVÄNDARE",
+    "Regobs": "REGOBS",
+    "Language": "SPRÅK",
+    "Page": "SIDA"
+  },
+  "Cookies": {
+    "Label": "Cookies",
+    "Title": "Om Cookies",
+    "AboutUseFirstParagraph": "Regobs använder så kallade cookies för att förbättra din användarupplevelse när du besöker webbplatsen. En cookie är en textfil som, när du besöker eller interagerar med en webbplats, placeras i webbläsarens interna minne.",
+    "AboutUseSecondParagraph": "Grunden för detta är artikel 6 nr 1 f i sekretessförordningen, som tillåter oss att behandla information som är nödvändig för att skydda ett intresse som uppväger den enskildas integritet. Detta intresse är att få vår webbplats att fungera bra så att du får en bra användarupplevelse.",
+    "AboutUseThirdParagraph": "Regobs använder inte cookies för att kartlägga enskilda användares användningsmönster eller annan information som kan kränka deras integritet.",
+    "Customize": "Anpassa",
+    "CustomizeDescription": "De flesta moderna webbläsare (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) är inställda på att automatiskt acceptera cookies, men du kan välja att ändra inställningarna själv så att cookies inte accepteras. Notera att detta kan leda till att regobs.no inte fungerar optimalt.",
+    "CookiesDescription": "I tabellen nedan listar vi vilken information som cookies på beta.regobs.no använder, vilka data som lagras och varför webbplatsen behöver dem.",
+    "TheWebsite": "Webbplats",
+    "HowToAdminister": "förklarar hur du själv hanterar cookies.",
+    "NameColumnLabel": "Cookie",
+    "DomainColumnLabel": "Domän",
+    "DescriptionColumnLabel": "Beskrivning",
+    "DataProcessorColumnLabel": "Datahanterare",
+    "Descriptions": {
+      "__utma": "Används för att skilja användare och sessioner.",
+      "__utmt": "Används för att minska förfrågningar.",
+      "__utmb": "Används för att bestämma nya sessioner / besök.",
+      "__utmc": "Används som hjälp vid bestämmande av nya sessioner / besök.",
+      "__utmz": "Används för att lagra hur användaren kom till webbplatsen."
+    }
+  }
+}
