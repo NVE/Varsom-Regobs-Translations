@@ -78,6 +78,7 @@
     "ObsId": "ID:",
     "ForecastRegion": "Prognosområde",
     "SentInBy": "Skickat in av",
+    "Download": "Nedladdning",
     "Original": "Se original"
   },
   "MyPage": {
@@ -441,6 +442,14 @@
       "AvalancheProblemTID2": "Lavinproblem 2",
       "AvalancheProblemTID3": "Lavinproblem 3",
       "ValidExposition": "Exponering"
+    },
+    "AvalancheEvaluation2": {
+      "ObsName": "Bedömning av lavinfara",
+      "AvalancheEvaluation": "Bedömning",
+      "AvalancheDevelopment": "Utveckling",
+      "AvalancheDangerTID": "Lavinfara",
+      "ExposedTerrain": "Exponering",
+      "AvalancheProblem": "Lavinproblem"
     },
     "AvalancheEvaluation3": {
       "ObsName": "Bedömning av lavinfara",

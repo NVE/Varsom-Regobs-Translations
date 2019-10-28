@@ -442,6 +442,14 @@
       "AvalancheProblemTID3": "Skredfareproblem 3",
       "ValidExposition": "Eksposisjon"
     },
+    "AvalancheEvaluation2": {
+      "ObsName": "Skredfarevurdering",
+      "AvalancheEvaluation": "Skredvurdering",
+      "AvalancheDevelopment": "Utvikling",
+      "AvalancheDangerTID": "Faregrad",
+      "ExposedTerrain": "Utsatt terreng",
+      "AvalancheProblem": "Skredproblem"
+    },
     "AvalancheEvaluation3": {
       "ObsName": "Skredfarevurdering",
       "AvalancheEvaluation": "Skredvurdering",
