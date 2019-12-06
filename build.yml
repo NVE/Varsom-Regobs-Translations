@@ -64,7 +64,7 @@ steps:
     publishEndpoint: 'NPM public registry'
 
 - script: |
-   git push origin master
+   git push --follow-tags origin master
   displayName: 'Git push new package version and tags'
 - task: GitHubRelease@1
   displayName: 'GitHub release (create)'
