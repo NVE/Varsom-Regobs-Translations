@@ -58,7 +58,7 @@ steps:
     publishEndpoint: 'NPM public registry'
 
 - script: |
-   git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origin master
+   git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origin
   displayName: 'Git push new package version and tags'
 - task: GitHubRelease@1
   displayName: 'GitHub release (create)'
