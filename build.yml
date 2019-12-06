@@ -19,6 +19,9 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
+- checkout: self
+  clean: true
+  persistCredentials: true
 - task: NodeTool@0
   displayName: 'Use Node 12.x'
   inputs:
@@ -41,11 +44,9 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
-      Add-Content "$HOME\.git-credentials" "https://$(GitHubPAT):x-oauth-basic@github.com"
       git switch -c master
       git config --global user.email "regobs@nve.no"
       git config --global user.name "Azure DevOps Pipeline"
-      git config --global --add url."git@github.com:".insteadOf "https://github.com/"
 
 - task: Npm@1
   displayName: 'npm version patch'
@@ -63,7 +64,7 @@ steps:
     publishEndpoint: 'NPM public registry'
 
 - script: |
-   git push -u origin master
+   git push origin master
   displayName: 'Git push new package version and tags'
 - task: GitHubRelease@1
   displayName: 'GitHub release (create)'
