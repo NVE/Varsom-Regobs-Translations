@@ -16,3 +16,14 @@ The app has static content such as label names, tags and most menu items. Langua
 Some content is dynamic. Eg content in select-menus and help texts. These can be updated in the database, and api and app (and web) will sync the changes without the need for a new release. These files are found in `kdvelements` and `helptexts`. They do not follow the i18n standard so editing must be done in the json files directly. Again, Atom might be a good editor for this.
 
 *Note, that in the kdvelements file, most of the "name" elements are restricted to 30chars. This is because the elements are used in select-menus which often are restricted in width (e.g. on a mobile phone). Exceptions from this rule may be seen when norwegian or english name are larger than 30 chars.*
+
+
+## Validation
+Make sure you have Node.js installed.
+
+Install npm packages: `npm install`
+
+Run build script: `npm run build`
+
+This script will automatically run when a new master is pushed. If build validates successfully, a new NPM package is published to:
+https://www.npmjs.com/package/@varsom-regobs-common/translations

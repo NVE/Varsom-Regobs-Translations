@@ -356,7 +356,8 @@
       "IncidentHeader": "Overskrift",
       "IncidentIngress": "Ingress",
       "IncidentText": "Beskrivelse",
-      "ObsName": "Ulykke / Hendelse"
+      "ObsName": "Ulykke / Hendelse",
+      "Urls": "Lenker"
     },
     "LandslideObs": {
       "ActivityInfluencedTName": "Hva ble påvirket?",

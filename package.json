@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Varsom Regobs Translations",
   "scripts": {
-    "build": "echo \"TODO: Should validate translation files\" && exit 0"
+    "build": "ts-node validate.ts"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/NVE/Varsom-Regobs-Translations/issues"
   },
-  "homepage": "https://github.com/NVE/Varsom-Regobs-Translations#readme"
+  "homepage": "https://github.com/NVE/Varsom-Regobs-Translations#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3"
+  }
 }
