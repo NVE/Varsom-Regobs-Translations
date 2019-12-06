@@ -1,0 +1,18 @@
+{
+  "name": "@varsom-regobs-common/translations",
+  "version": "1.0.0",
+  "description": "Varsom Regobs Translations",
+  "scripts": {
+    "build": "echo \"TODO: Should validate translation files\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NVE/Varsom-Regobs-Translations.git"
+  },
+  "author": "NVE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NVE/Varsom-Regobs-Translations/issues"
+  },
+  "homepage": "https://github.com/NVE/Varsom-Regobs-Translations#readme"
+}
