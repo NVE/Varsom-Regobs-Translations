@@ -37,6 +37,11 @@ steps:
     verbose: false
     customCommand: 'run build'
 
+- script: |
+   git config user.email "regobs@nve.no" 
+   git config user.name "Azure CI Pipeline"
+  displayName: 'Set git user'
+
 - task: Npm@1
   displayName: 'npm version patch'
   inputs:
