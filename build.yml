@@ -8,8 +8,12 @@ trigger:
   include:
       - master
  paths:
-     exclude:
-         - packages.json
+     include:
+         - api/*
+         - app/*
+         - helptexts/*
+         - kdvelements/*
+         - web/*
 
 pool:
   vmImage: 'ubuntu-latest'
