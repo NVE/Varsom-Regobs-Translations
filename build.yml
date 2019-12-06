@@ -37,11 +37,15 @@ steps:
     verbose: false
     customCommand: 'run build'
 
-- script: |
-   git switch -c master
-   git config user.email "regobs@nve.no" 
-   git config user.name "Azure CI Pipeline"
-  displayName: 'Set git user and swithc to master'
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: |
+      Add-Content "$HOME\.git-credentials" "https://$(GitHubPAT):x-oauth-basic@github.com"
+      git switch -c master
+      git config --global user.email "regobs@nve.no"
+      git config --global user.name "Azure DevOps Pipeline"
+      git config --global --add url."git@github.com:".insteadOf "https://github.com/"
 
 - task: Npm@1
   displayName: 'npm version patch'
@@ -59,7 +63,7 @@ steps:
     publishEndpoint: 'NPM public registry'
 
 - script: |
-   git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push -u origin master
+   git push -u origin master
   displayName: 'Git push new package version and tags'
 - task: GitHubRelease@1
   displayName: 'GitHub release (create)'
