@@ -1,6 +1,6 @@
 {
   "name": "@varsom-regobs-common/translations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Varsom Regobs Translations",
   "scripts": {
     "build": "echo \"TODO: Should validate translation files\" && exit 0"
