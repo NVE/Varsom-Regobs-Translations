@@ -26,14 +26,18 @@
     "WestShort": "W"
   },
   "CountOf": "Count",
+  "From": "fra",
   "GoToObservation": "Go to observation",
   "HeightKey": "Height",
+  "Ice": "ice",
   "LanguageLabel": "Language:",
-  "MONTHS": {
-    "SHORT_LIST": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
-  },
   "MapMode": "Map",
+  "Months": {
+    "ShortList": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+  },
   "MultipleRegistrations": "registrations",
+  "Observation": " observations",
+  "ObservationPlural": "observation(s)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Aspect",
@@ -219,7 +223,8 @@
     "SnowProfile": {
       "Comment": "Comment",
       "CompressionTest": "Tests",
-      "CompresstionTestConnectedToProfile": "Tests connected to snow profile",
+      "CompressionTests": "Tests",
+      "CompressionTestsConnectedToProfile": "connected to snow profile",
       "LayersObserved": "layers observed",
       "ObsName": "Snow Profile",
       "SnowDensity": "Snow density",
@@ -345,9 +350,9 @@
     },
     "LoadMoreRegistrationsText": "Click here if observations aren't loading automatically",
     "SortOrder": {
-      "Observert tid": "Observed",
-      "Registrert tid": "Registered",
-      "Siste oppdatert tid": "Last updated"
+      "LastUpdated": "Last updated",
+      "ObservedTime": "Observed",
+      "RegistrationTime": "Registered"
     }
   },
   "SearchButtonName": "Search",
@@ -359,19 +364,14 @@
   "ShowMore": "Show more",
   "ShowSearchButtonName": "Show search bar",
   "SingleRegistration": "registration",
+  "Snow": "snow",
+  "Soil": "earth",
   "SortByName": "Sort by:",
   "TableModes": {
     "CompactKey": "Compact",
     "CompleteKey": "Complete",
     "ShortKey": "Short"
   },
-  "from": "fra",
-  "is": "ice",
-  "jord": "earth",
-  "metersOverSeaLevel": "masl",
-  "observation": " observations",
-  "observations": "observation(s)",
-  "snø": "snow",
-  "to": "to",
-  "vann": "water"
+  "To": "to",
+  "Water": "water"
 }

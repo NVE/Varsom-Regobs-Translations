@@ -26,14 +26,18 @@
     "WestShort": "W"
   },
   "CountOf": "Anzahl",
+  "From": "von",
   "GoToObservation": "Gehe zur Beobachtung",
   "HeightKey": "Höhe",
+  "Ice": "Eis",
   "LanguageLabel": "Sprache:",
-  "MONTHS": {
-    "SHORT_LIST": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
-  },
   "MapMode": "Karte",
+  "Months": {
+    "ShortList": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
+  },
   "MultipleRegistrations": "Beobachtungen",
+  "Observation": "Beobachtungen",
+  "ObservationPlural": "Beobachtung(en)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Hangrichtung",
@@ -219,7 +223,8 @@
     "SnowProfile": {
       "Comment": "Kommentart",
       "CompressionTest": "Tests",
-      "CompresstionTestConnectedToProfile": "Tests mit Schneeprofil verbunden",
+      "CompressionTests": "Tests",
+      "CompressionTestsConnectedToProfile": "mit Schneeprofil verbunden",
       "LayersObserved": "Vorhandene Schichten",
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
@@ -345,9 +350,9 @@
     },
     "LoadMoreRegistrationsText": "Klicken Sie hier, wenn die Beobachtungen nicht automatisch geladen werden",
     "SortOrder": {
-      "Observert tid": "Beobachtet",
-      "Registrert tid": "Erstellt",
-      "Siste oppdatert tid": "Letztes Update"
+      "LastUpdated": "Letztes Update",
+      "ObservedTime": "Beobachtet",
+      "RegistrationTime": "Erstellt"
     }
   },
   "SearchButtonName": "Suche",
@@ -359,19 +364,14 @@
   "ShowMore": "Zeige mehr",
   "ShowSearchButtonName": "Zeige Suchleiste",
   "SingleRegistration": "Anmeldung",
+  "Snow": "Schnee",
+  "Soil": "Erde",
   "SortByName": "Sortiert nach:",
   "TableModes": {
     "CompactKey": "Kompakt",
     "CompleteKey": "Vollständig",
     "ShortKey": "Kurz"
   },
-  "from": "von",
-  "is": "Eis",
-  "jord": "Erde",
-  "metersOverSeaLevel": "müM",
-  "observation": "Beobachtungen",
-  "observations": "Beobachtung(en)",
-  "snø": "Schnee",
-  "to": "zu",
-  "vann": "Wasser"
+  "To": "zu",
+  "Water": "Wasser"
 }

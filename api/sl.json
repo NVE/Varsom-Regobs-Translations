@@ -26,14 +26,18 @@
     "WestShort": "Z"
   },
   "CountOf": "Število",
+  "From": "od",
   "GoToObservation": "Pojdi na opažanje",
   "HeightKey": "Višina",
+  "Ice": "led",
   "LanguageLabel": "Jezik:",
-  "MONTHS": {
-    "SHORT_LIST": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec"
-  },
   "MapMode": "Zemljevid",
+  "Months": {
+    "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec"
+  },
   "MultipleRegistrations": "registracije",
+  "Observation": "opažanja",
+  "ObservationPlural": "opažanje/-a",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Usmerjenost pobočja",
@@ -219,7 +223,8 @@
     "SnowProfile": {
       "Comment": "Komentar",
       "CompressionTest": "Test",
-      "CompresstionTestConnectedToProfile": "Testi povezani s snežnim profilom",
+      "CompressionTests": "Testi",
+      "CompressionTestsConnectedToProfile": "povezani s snežnim profilom",
       "LayersObserved": "opažene plasti",
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
@@ -345,9 +350,9 @@
     },
     "LoadMoreRegistrationsText": "Kliknite sem, če se opažanja ne naložijo samodejno.",
     "SortOrder": {
-      "Observert tid": "Opaženo",
-      "Registrert tid": "Ustvarjeno",
-      "Siste oppdatert tid": "Zadnjič posodobljeno"
+      "LastUpdated": "Zadnjič posodobljeno",
+      "ObservedTime": "Opaženo",
+      "RegistrationTime": "Ustvarjeno"
     }
   },
   "SearchButtonName": "Išči",
@@ -359,19 +364,14 @@
   "ShowMore": "Pokaži več",
   "ShowSearchButtonName": "Pokaži iskalno vrstico",
   "SingleRegistration": "registracija",
+  "Snow": "sneg",
+  "Soil": "zemlja",
   "SortByName": "Razvrsti po:",
   "TableModes": {
     "CompactKey": "Strnjeno",
     "CompleteKey": "Popolno",
     "ShortKey": "Kratko"
   },
-  "from": "od",
-  "is": "led",
-  "jord": "zemlja",
-  "metersOverSeaLevel": "m.n.v.",
-  "observation": "opažanja",
-  "observations": "opažanje/-a",
-  "snø": "sneg",
-  "to": "do",
-  "vann": "voda"
+  "To": "do",
+  "Water": "voda"
 }

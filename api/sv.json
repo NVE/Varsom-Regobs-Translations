@@ -26,14 +26,18 @@
     "WestShort": "V"
   },
   "CountOf": "Antal",
+  "From": "från",
   "GoToObservation": "Gå till observation",
   "HeightKey": "Höjd",
+  "Ice": "is",
   "LanguageLabel": "Språk:",
-  "MONTHS": {
-    "SHORT_LIST": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Aug, Sep, Okt, Nov, Dec"
-  },
   "MapMode": "Karta",
+  "Months": {
+    "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Aug, Sep, Okt, Nov, Dec"
+  },
   "MultipleRegistrations": "Registreringar",
+  "Observation": "observationer",
+  "ObservationPlural": "observation(er)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Väderstreck",
@@ -219,7 +223,8 @@
     "SnowProfile": {
       "Comment": "Kommentar",
       "CompressionTest": "Test",
-      "CompresstionTestConnectedToProfile": "Tester anslutna till snöprofil",
+      "CompressionTests": "Tester",
+      "CompressionTestsConnectedToProfile": "anslutna till snöprofil",
       "LayersObserved": "lager observerade",
       "ObsName": "Snöprofil",
       "SnowDensity": "Snödensitet",
@@ -345,9 +350,9 @@
     },
     "LoadMoreRegistrationsText": "Klicka här om observationer inte laddas automatiskt",
     "SortOrder": {
-      "Observert tid": "Observerad tid",
-      "Registrert tid": "Registrerad tid",
-      "Siste oppdatert tid": "Senast uppdaterad tid"
+      "LastUpdated": "Senast uppdaterad tid",
+      "ObservedTime": "Observerad tid",
+      "RegistrationTime": "Registrerad tid"
     }
   },
   "SearchButtonName": "Sök",
@@ -359,19 +364,14 @@
   "ShowMore": "Visa fler",
   "ShowSearchButtonName": "Visa sök",
   "SingleRegistration": "registrering",
+  "Snow": "snö",
+  "Soil": "jord",
   "SortByName": "Sortera på:",
   "TableModes": {
     "CompactKey": "Kompakt",
     "CompleteKey": "Komplett",
     "ShortKey": "Kort"
   },
-  "from": "från",
-  "is": "is",
-  "jord": "jord",
-  "metersOverSeaLevel": "möh",
-  "observation": "observationer",
-  "observations": "observation(er)",
-  "snø": "snö",
-  "to": "till",
-  "vann": "vatten"
+  "To": "till",
+  "Water": "vatten"
 }

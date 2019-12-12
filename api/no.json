@@ -26,14 +26,18 @@
     "WestShort": "V"
   },
   "CountOf": "Antall",
+  "From": "fra",
   "GoToObservation": "Gå til observasjon",
   "HeightKey": "Høyde",
+  "Ice": "is",
   "LanguageLabel": "Språk:",
-  "MONTHS": {
-    "SHORT_LIST": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Des"
-  },
   "MapMode": "Kart",
+  "Months": {
+    "ShortList": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Des"
+  },
   "MultipleRegistrations": "registreringer",
+  "Observation": "observasjoner",
+  "ObservationPlural": "observasjon(er)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Eksposisjon",
@@ -219,7 +223,8 @@
     "SnowProfile": {
       "Comment": "Kommentar",
       "CompressionTest": "Test",
-      "CompresstionTestConnectedToProfile": "Tester knyttet til snøprofilen",
+      "CompressionTests": "Tester",
+      "CompressionTestsConnectedToProfile": "knyttet til snøprofilen",
       "LayersObserved": "lag observert",
       "ObsName": "Snøprofil",
       "SnowDensity": "Snøtetthet",
@@ -345,9 +350,9 @@
     },
     "LoadMoreRegistrationsText": "Klikk her for å laste flere registreringer manuelt",
     "SortOrder": {
-      "Observert tid": "Observert tid",
-      "Registrert tid": "Registrert tid",
-      "Siste oppdatert tid": "Siste oppdatert tid"
+      "LastUpdated": "Siste oppdatert tid",
+      "ObservedTime": "Observert tid",
+      "RegistrationTime": "Registrert tid"
     }
   },
   "SearchButtonName": "Søk",
@@ -359,19 +364,14 @@
   "ShowMore": "Vis flere",
   "ShowSearchButtonName": "Vis søk",
   "SingleRegistration": "registrering",
+  "Snow": "snø",
+  "Soil": "jord",
   "SortByName": "Sorter på:",
   "TableModes": {
     "CompactKey": "Kompakt",
     "CompleteKey": "Komplett",
     "ShortKey": "Kort"
   },
-  "from": "fra",
-  "is": "is",
-  "jord": "jord",
-  "metersOverSeaLevel": "moh",
-  "observation": "observasjoner",
-  "observations": "observasjon(er)",
-  "snø": "snø",
-  "to": "til",
-  "vann": "vann"
+  "To": "til",
+  "Water": "vann"
 }
