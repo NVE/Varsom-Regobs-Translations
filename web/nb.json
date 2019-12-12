@@ -1,4 +1,8 @@
 {
+  "AddObsDetails": {
+    "Add": "Legg til",
+    "HideHelptext": "Skjul helpeteksten"
+  },
   "AppearanceName": "Utseende:",
   "Cancel": "Avbryt",
   "ChangePassword": "Bytt passord",
@@ -32,6 +36,23 @@
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Antall",
   "CreateObservation": "Create observation",
+  "Date": "dato",
+  "Dialogs": {
+    "Buttons": {
+      "Back": "Tilbake",
+      "Next": "OK, gå videre"
+    },
+    "Location": {
+      "Description": "Marker i kartet hvor observasjonen ble gjort. Finn frem ved hjelp av søk eller ved å zoome med pluss og minusknappene.",
+      "DescriptionMobile": "Marker i kartet hvor observasjonen ble gjort.",
+      "Title": "Hvor ble observasjonen gjort?"
+    },
+    "Time": {
+      "AdditionalInformation": "Tilleggsinformasjon",
+      "Description": "Legg inn tidspunkt som observasjonen ble gjort. Bruk lokaltid på observasjonsstedet.",
+      "Title": "Når ble observasjonen gjort?"
+    }
+  },
   "Email": "Epost",
   "Footer": {
     "AboutDataInRegObs": "Om data i regObs",
@@ -208,6 +229,7 @@
       "ShowObservationsInMap": "Vann-og jordobservasjoner og flomsonekart"
     }
   },
+  "Now": "nå",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
     "Download": "Last ned",
@@ -458,6 +480,7 @@
     }
   },
   "Of": "av",
+  "Ok": "Ok",
   "Password": "Passord",
   "PictureCarousel": {
     "Comment": "Kommentar",
@@ -475,12 +498,28 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
-  "RememberMe": "Husk meg",
-  "Routes": {
-    "About": "Om",
-    "Cookies": "Informasjonskapsler",
-    "Home": "Hjem"
+  "Registration": {
+    "Dirt": {
+      "LandSlideObs": {
+        "AvalTrigger": "Skredutløser",
+        "DamageExtent": "Skadeomfang",
+        "DestructiveSize": "Størrelse",
+        "DirtActivityInfluenced": "Hva ble påvirket?",
+        "DirtForecastAccurate": "Stemte varslet?",
+        "DtLandSlideTime": "Når skjedde skredet tidligst",
+        "DtLandSlideTimeEnd": "Når skjedde skredet senest",
+        "EndPosition": "Sluttpunkt",
+        "InMap": "i kart",
+        "LandslideType": "Type skred",
+        "Position": "Skredposisjon",
+        "SetLandslidePosition": "Sett skredposisjon",
+        "StartPosition": "Startpunkt",
+        "Title": "Skredhendelse"
+      }
+    }
   },
+  "RememberMe": "Husk meg",
+  "RequiredField": "*Obligatorisk felt",
   "Search": {
     "Criterias": {
       "Area": {
@@ -599,6 +638,7 @@
     "CompleteKey": "Komplett",
     "ShortKey": "Kort"
   },
+  "Time": "tidspunkt",
   "Unknown": "Ukjent",
   "UserMenu": {
     "Language": "SPRÅK",
@@ -612,7 +652,13 @@
   "metersOverSeaLevel": "moh",
   "observation": "observasjoner",
   "observations": "observasjon(er)",
+  "picture": "bilde",
   "snø": "snø",
   "to": "to",
-  "vann": "vann"
+  "vann": "vann",
+  "Routes": {
+    "About": "Om",
+    "Cookies": "Informasjonskapsler",
+    "Home": "Hjem"
+  }
 }

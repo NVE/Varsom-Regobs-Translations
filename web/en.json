@@ -1,4 +1,8 @@
 {
+  "AddObsDetails": {
+    "Add": "Add",
+    "HideHelptext": "Hide helptext"
+  },
   "AppearanceName": "Appearance:",
   "Cancel": "Cancel",
   "ChangePassword": "Change Password",
@@ -32,6 +36,23 @@
   "CopiedToClipboard": "Hyperlink to the observation copied to the clipboard.",
   "CountOf": "Count",
   "CreateObservation": "Create observation",
+  "Date": "date",
+  "Dialogs": {
+    "Buttons": {
+      "Back": "Back",
+      "Next": "OK"
+    },
+    "Location": {
+      "Description": "Place the observation on the map. Find the location by searching, or zoom with the plus and minus buttons.",
+      "DescriptionMobile": "Place the observation on the map.",
+      "Title": "Where was the observation made?"
+    },
+    "Time": {
+      "AdditionalInformation": "Additional information",
+      "Description": "Enter the time the observation was made. Use local time at the observation site.",
+      "Title": "When was the observation made?"
+    }
+  },
   "Email": "Email",
   "Footer": {
     "AboutDataInRegObs": "About data in regObs",
@@ -208,6 +229,7 @@
       "ShowObservationsInMap": "Water and soil observations and flood zone map"
     }
   },
+  "Now": "now",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
@@ -458,6 +480,7 @@
     }
   },
   "Of": "of",
+  "Ok": "Ok",
   "Password": "Password",
   "PictureCarousel": {
     "Comment": "Comment",
@@ -475,12 +498,28 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
-  "RememberMe": "Remember me",
-  "Routes": {
-    "About": "About",
-    "Cookies": "Cookies",
-    "Home": "Home"
+  "Registration": {
+    "Dirt": {
+      "LandSlideObs": {
+        "AvalTrigger": "Landslide trigger",
+        "DamageExtent": "Damage extent",
+        "DestructiveSize": "Size",
+        "DirtActivityInfluenced": "What was affected?",
+        "DirtForecastAccurate": "Was the warning level correct?",
+        "DtLandSlideTime": "When did the landslide start",
+        "DtLandSlideTimeEnd": "When did the landslide end",
+        "EndPosition": "End position",
+        "InMap": "in map",
+        "LandslideType": "Landslide type",
+        "Position": "Landslide position",
+        "SetLandslidePosition": "Set landslide position",
+        "StartPosition": "Start position",
+        "Title": "Landslide Incident"
+      }
+    }
   },
+  "RememberMe": "Remember me",
+  "RequiredField": "*Required field",
   "Search": {
     "Criterias": {
       "Area": {
@@ -599,6 +638,7 @@
     "CompleteKey": "Complete",
     "ShortKey": "Short"
   },
+  "Time": "time",
   "Unknown": "Unknown",
   "UserMenu": {
     "Language": "LANGUAGE",
@@ -612,7 +652,13 @@
   "metersOverSeaLevel": "meters above sealevel",
   "observation": " observations",
   "observations": "observation(s)",
+  "picture": "picture",
   "snø": "snow",
   "to": "to",
-  "vann": "flood"
+  "vann": "flood",
+  "Routes": {
+    "About": "About",
+    "Cookies": "Cookies",
+    "Home": "Home"
+  }
 }
