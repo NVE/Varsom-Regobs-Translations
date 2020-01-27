@@ -39,6 +39,7 @@
   "Date": "date",
   "Dialogs": {
     "Buttons": {
+      "AddForm": "Add form",
       "Back": "Back",
       "Next": "OK"
     },
@@ -229,6 +230,7 @@
       "ShowObservationsInMap": "Water and soil observations and flood zone map"
     }
   },
+  "No": "No",
   "Now": "now",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
@@ -341,6 +343,7 @@
     "GeneralObservation": {
       "Comment": "Comment",
       "NoObservationsFound": "No observations found",
+      "Notes": "Notes",
       "ObsComment": "Text",
       "ObsHeader": "Header",
       "ObsName": "General Observation",
@@ -384,15 +387,31 @@
     "LandslideObs": {
       "ActivityInfluencedTName": "What was affected?",
       "And": " and ",
+      "AvalTrigger": "Landslide trigger",
       "Between": "Between",
       "Comment": "Comment",
+      "DamageExtent": "Extent of damage",
       "DamageExtentTName": "Damage extent",
+      "DtLandSlideTime": "When did the landslide start?",
+      "DtLandSlideTimeEnd": "When did the landslide end?",
       "ForecastAccurateTName": "Was forecast accurate?",
+      "InMap": "in map",
       "LandSlideSizeTName": "Size",
       "LandSlideTName": "Landslide type",
       "LandSlideTriggerTName": "Trigger",
+      "LandslideTime": "Landslide time",
+      "LandslideType": "Landslide type",
       "ObsName": "Landslide observation",
+      "Position": "Landslide position",
+      "PositionDescription": "Specify the start and end points of the landslide if you know it.",
+      "Required": "Required",
+      "Reset": "Reset",
+      "SetEndPosition": "Set end positions",
+      "SetLandslidePosition": "Set landslide position",
+      "SetStartPosition": "Set starting position",
       "Time": "Time",
+      "TimeDescription": "Enter the time at which the landslide occurred. The time should be local time in the area of observation.",
+      "Title": "Landslide Incident",
       "Urls": "Links"
     },
     "Picture": {
@@ -417,14 +436,24 @@
       "UnderSurface": "under the surface"
     },
     "SnowProfile": {
+      "AddDensity": "Add density",
+      "AddLayers": "Add layers",
+      "AddTemperature": "Add temperature",
+      "AddTests": "Add tests",
       "Comment": "Comment",
       "CompressionTest": "Compression tests",
       "CompresstionTestConnectedToProfile": "compression tests connected to snow profile",
+      "Density": "Density",
+      "IsProfileDugToTheGround": "Is the profile dug to the ground?",
+      "Layers": "Layers",
       "LayersObserved": "layers observed",
+      "Main": "Main",
       "ObsName": "Snow profile",
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
-      "StratLayers": "Strat layers"
+      "StratLayers": "Strat layers",
+      "TemperatureProfile": "Temperature profile",
+      "Tests": "Tests"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Foot penetration",
@@ -498,28 +527,13 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
-  "Registration": {
-    "Dirt": {
-      "LandSlideObs": {
-        "AvalTrigger": "Landslide trigger",
-        "DamageExtent": "Damage extent",
-        "DestructiveSize": "Size",
-        "DirtActivityInfluenced": "What was affected?",
-        "DirtForecastAccurate": "Was the warning level correct?",
-        "DtLandSlideTime": "When did the landslide start",
-        "DtLandSlideTimeEnd": "When did the landslide end",
-        "EndPosition": "End position",
-        "InMap": "in map",
-        "LandslideType": "Landslide type",
-        "Position": "Landslide position",
-        "SetLandslidePosition": "Set landslide position",
-        "StartPosition": "Start position",
-        "Title": "Landslide Incident"
-      }
-    }
-  },
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
+  "Routes": {
+    "About": "About",
+    "Cookies": "Cookies",
+    "Home": "Home"
+  },
   "Search": {
     "Criterias": {
       "Area": {
@@ -646,6 +660,7 @@
     "Regobs": "REGOBS",
     "User": "USER"
   },
+  "Yes": "Yes",
   "from": "fra",
   "is": "ice",
   "jord": "landslide",
@@ -655,10 +670,5 @@
   "picture": "picture",
   "snø": "snow",
   "to": "to",
-  "vann": "flood",
-  "Routes": {
-    "About": "About",
-    "Cookies": "Cookies",
-    "Home": "Home"
-  }
+  "vann": "flood"
 }

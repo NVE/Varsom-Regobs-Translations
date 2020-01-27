@@ -39,6 +39,7 @@
   "Date": "dato",
   "Dialogs": {
     "Buttons": {
+      "AddForm": "Legg til skjema",
       "Back": "Tilbake",
       "Next": "OK, gå videre"
     },
@@ -229,6 +230,7 @@
       "ShowObservationsInMap": "Vann-og jordobservasjoner og flomsonekart"
     }
   },
+  "No": "Nei",
   "Now": "nå",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
@@ -341,6 +343,7 @@
     "GeneralObservation": {
       "Comment": "Kommentar",
       "NoObservationsFound": "Ingen observasjoner funnet",
+      "Notes": "Notater",
       "ObsComment": "Tekst",
       "ObsHeader": "Overskrift",
       "ObsName": "Fritekst",
@@ -384,15 +387,31 @@
     "LandslideObs": {
       "ActivityInfluencedTName": "Hva ble påvirket?",
       "And": " og ",
+      "AvalTrigger": "Skredutløser",
       "Between": "Mellom",
       "Comment": "Kommentar",
+      "DamageExtent": "Skadeomfang",
       "DamageExtentTName": "Omfang",
+      "DtLandSlideTime": "Når skjedde skredet tidligst?",
+      "DtLandSlideTimeEnd": "Når skjedde skredet senest?",
       "ForecastAccurateTName": "Stemte varsel på varsom.no?",
+      "InMap": "i kart",
       "LandSlideSizeTName": "Størrelse",
       "LandSlideTName": "Skredtype",
       "LandSlideTriggerTName": "Trigger",
+      "LandslideTime": "Skredtidspunkt",
+      "LandslideType": "Type skred",
       "ObsName": "Skredhendelse",
+      "Position": "Skredposisjon",
+      "PositionDescription": "Angi start- og sluttpunkt for skredet hvis du kjenner til det.",
+      "Required": "Obligatorisk",
+      "Reset": "Nullstill",
+      "SetEndPosition": "Sett sluttpunkt",
+      "SetLandslidePosition": "Sett skredposisjon",
+      "SetStartPosition": "Sett startpunkt",
       "Time": "Tid",
+      "TimeDescription": "Her skal du legge inn hvilket tidspunkt skredet gikk. Tidspunktet skal være lokaltid i området observasjonen er gjort i.",
+      "Title": "Skredhendelse",
       "Urls": "Lenker"
     },
     "Picture": {
@@ -417,14 +436,24 @@
       "UnderSurface": "under overflaten"
     },
     "SnowProfile": {
+      "AddDensity": "Legg til tetthet",
+      "AddLayers": "Legg til lagdeling",
+      "AddTemperature": "Legg til temperatur",
+      "AddTests": "Legg til tester",
       "Comment": "Kommentar",
       "CompressionTest": "Stabilitetstest",
       "CompresstionTestConnectedToProfile": "test observert knyttet til profilet",
+      "Density": "Tetthet",
+      "IsProfileDugToTheGround": "Går profilet til bakken?",
+      "Layers": "Lagdeling",
       "LayersObserved": "lag observert",
+      "Main": "Overordnet",
       "ObsName": "Snøprofil",
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Lagdeling"
+      "StratLayers": "Lagdeling",
+      "TemperatureProfile": "Temperaturprofil",
+      "Tests": "Tester"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Innsynkning fot",
@@ -498,28 +527,13 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
-  "Registration": {
-    "Dirt": {
-      "LandSlideObs": {
-        "AvalTrigger": "Skredutløser",
-        "DamageExtent": "Skadeomfang",
-        "DestructiveSize": "Størrelse",
-        "DirtActivityInfluenced": "Hva ble påvirket?",
-        "DirtForecastAccurate": "Stemte varslet?",
-        "DtLandSlideTime": "Når skjedde skredet tidligst",
-        "DtLandSlideTimeEnd": "Når skjedde skredet senest",
-        "EndPosition": "Sluttpunkt",
-        "InMap": "i kart",
-        "LandslideType": "Type skred",
-        "Position": "Skredposisjon",
-        "SetLandslidePosition": "Sett skredposisjon",
-        "StartPosition": "Startpunkt",
-        "Title": "Skredhendelse"
-      }
-    }
-  },
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
+  "Routes": {
+    "About": "Om",
+    "Cookies": "Informasjonskapsler",
+    "Home": "Hjem"
+  },
   "Search": {
     "Criterias": {
       "Area": {
@@ -646,6 +660,7 @@
     "Regobs": "REGOBS",
     "User": "BRUKER"
   },
+  "Yes": "Ja",
   "from": "fra",
   "is": "is",
   "jord": "jord",
@@ -655,10 +670,5 @@
   "picture": "bilde",
   "snø": "snø",
   "to": "to",
-  "vann": "vann",
-  "Routes": {
-    "About": "Om",
-    "Cookies": "Informasjonskapsler",
-    "Home": "Hjem"
-  }
+  "vann": "vann"
 }
