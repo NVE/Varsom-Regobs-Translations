@@ -527,6 +527,14 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
+  "RegistrationKeyInfo": {
+    "Accuracy": "Accuracy",
+    "Edit": "Edit",
+    "MetersAboveSeaLevel": "Meters above sea level",
+    "Municipal": "Municipal",
+    "NotificationRegion": "Notification region",
+    "Source": "Source"
+  },
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
   "Routes": {

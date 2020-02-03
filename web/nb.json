@@ -527,6 +527,14 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
+  "RegistrationKeyInfo": {
+    "Accuracy": "Nøyaktighet",
+    "Edit": "Rediger",
+    "MetersAboveSeaLevel": "Meter over havets",
+    "Municipal": "Kommune",
+    "NotificationRegion": "Varslingsregion",
+    "Source": "Kildeangivelse"
+  },
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
   "Routes": {
