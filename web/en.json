@@ -532,8 +532,8 @@
     "Edit": "Edit",
     "MetersAboveSeaLevel": "Meters above sea level",
     "Municipal": "Municipal",
-    "NotificationRegion": "Notification region",
-    "Source": "Source"
+    "Source": "Source",
+    "WarningRegion": "Warning region"
   },
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
