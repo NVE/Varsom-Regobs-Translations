@@ -532,8 +532,8 @@
     "Edit": "Rediger",
     "MetersAboveSeaLevel": "Meter over havets",
     "Municipal": "Kommune",
-    "NotificationRegion": "Varslingsregion",
-    "Source": "Kildeangivelse"
+    "Source": "Kildeangivelse",
+    "WarningRegion": "Varslingsregion"
   },
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
