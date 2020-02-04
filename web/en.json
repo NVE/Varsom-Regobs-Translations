@@ -662,6 +662,14 @@
   },
   "Time": "time",
   "Unknown": "Unknown",
+  "Url": {
+    "Add": "Add web URL",
+    "Delete": "Delete URL",
+    "Description": "Description",
+    "Edit": "Edit",
+    "Url": "URL",
+    "WebUrl": "Web URL"
+  },
   "UserMenu": {
     "Language": "LANGUAGE",
     "Page": "PAGE",

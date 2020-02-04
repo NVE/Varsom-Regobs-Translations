@@ -475,7 +475,6 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
-  "RegistrationKeyInfo": {},
   "RememberMe": "Zapomni si me",
   "Routes": {
     "About": "O",
@@ -601,6 +600,7 @@
     "ShortKey": "Kratko"
   },
   "Unknown": "Neznano",
+  "Url": {},
   "UserMenu": {
     "Language": "JEZIK",
     "Page": "STRAN",
