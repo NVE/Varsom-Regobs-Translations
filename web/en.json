@@ -46,6 +46,8 @@
     "Location": {
       "Description": "Place the observation on the map. Find the location by searching, or zoom with the plus and minus buttons.",
       "DescriptionMobile": "Place the observation on the map.",
+      "EditName": "Set location name",
+      "EditNameLabel": "Location name",
       "Title": "Where was the observation made?"
     },
     "Time": {

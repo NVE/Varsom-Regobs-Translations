@@ -46,6 +46,8 @@
     "Location": {
       "Description": "Marker i kartet hvor observasjonen ble gjort. Finn frem ved hjelp av søk eller ved å zoome med pluss og minusknappene.",
       "DescriptionMobile": "Marker i kartet hvor observasjonen ble gjort.",
+      "EditName": "Navngi sted",
+      "EditNameLabel": "Stedsnavn",
       "Title": "Hvor ble observasjonen gjort?"
     },
     "Time": {
