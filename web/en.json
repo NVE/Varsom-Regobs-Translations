@@ -109,6 +109,7 @@
     "Search": "Search"
   },
   "Information": "Information",
+  "InvalidDate": "Invalid date",
   "LanguageLabel": "Language:",
   "Login": {
     "CreateNewRegObsUser": "Create regObs user here",

@@ -109,6 +109,7 @@
     "Search": "Søk"
   },
   "Information": "Informasjon",
+  "InvalidDate": "Ugyldig dato",
   "LanguageLabel": "Språk:",
   "Login": {
     "CreateNewRegObsUser": "Opprett regObs bruker her.",
