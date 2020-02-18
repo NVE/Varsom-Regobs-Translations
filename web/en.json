@@ -539,6 +539,7 @@
   },
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
+  "RequiredFieldError": "This field is required",
   "Routes": {
     "About": "About",
     "Cookies": "Cookies",
@@ -664,6 +665,15 @@
   },
   "Time": "time",
   "Unknown": "Unknown",
+  "Url": {
+    "Add": "Add web URL",
+    "Delete": "Delete",
+    "Description": "Description",
+    "Edit": "Edit",
+    "EditUrl": "Edit web URL",
+    "Url": "URL",
+    "WebUrl": "Web URL"
+  },
   "UserMenu": {
     "Language": "LANGUAGE",
     "Page": "PAGE",

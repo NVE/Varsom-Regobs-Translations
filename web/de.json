@@ -475,7 +475,6 @@
     "UpdatedTime": "Aktualisiert"
   },
   "Register": "Benutzer erstellen",
-  "RegistrationKeyInfo": {},
   "RememberMe": "Mich erinnern",
   "Routes": {
     "About": "Über",
@@ -601,6 +600,7 @@
     "ShortKey": "Kurz"
   },
   "Unknown": "Unbekannt",
+  "Url": {},
   "UserMenu": {
     "Language": "SPRACHE",
     "Page": "Seite",

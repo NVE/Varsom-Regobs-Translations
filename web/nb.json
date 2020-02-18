@@ -539,6 +539,7 @@
   },
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
+  "RequiredFieldError": "Dette feltet er påkrevd",
   "Routes": {
     "About": "Om",
     "Cookies": "Informasjonskapsler",
@@ -664,6 +665,15 @@
   },
   "Time": "tidspunkt",
   "Unknown": "Ukjent",
+  "Url": {
+    "Add": "Legg til weblenke",
+    "Delete": "Slett",
+    "Description": "Beskrivelse",
+    "Edit": "Rediger",
+    "EditUrl": "Rediger weblenke",
+    "Url": "URL",
+    "WebUrl": "Weblenke"
+  },
   "UserMenu": {
     "Language": "SPRÅK",
     "Page": "SIDE",

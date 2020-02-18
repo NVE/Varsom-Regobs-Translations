@@ -475,7 +475,6 @@
     "UpdatedTime": "Uppdaterad"
   },
   "Register": "Registrera användare",
-  "RegistrationKeyInfo": {},
   "RememberMe": "Kom ihåg mig",
   "Routes": {
     "About": "Om",
@@ -601,6 +600,7 @@
     "ShortKey": "Kort"
   },
   "Unknown": "Okänt",
+  "Url": {},
   "UserMenu": {
     "Language": "SPRÅK",
     "Page": "SIDA",
