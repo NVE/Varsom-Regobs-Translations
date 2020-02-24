@@ -462,7 +462,17 @@
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
       "TemperatureProfile": "Temperaturprofil",
-      "Tests": "Tester"
+      "Test": {
+        "Add": "Legg til",
+        "AddTest": "Legg til test",
+        "FractureType": "Bruddtype",
+        "Include": "Inkluder i snøprofil",
+        "Stability": "Stabilitet",
+        "Tests": "tester",
+        "TestsWillAppearHere": "Tester du har lagt til vises her",
+        "Type": "Test type",
+        "Update": "Oppdater test"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Innsynkning fot",

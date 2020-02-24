@@ -403,7 +403,8 @@
       "ObsName": "Snöprofil",
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Indelning av lager"
+      "StratLayers": "Indelning av lager",
+      "Test": {}
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Fot penetration",
@@ -601,7 +602,6 @@
     "ShortKey": "Kort"
   },
   "Unknown": "Okänt",
-  "Url": {},
   "UserMenu": {
     "Language": "SPRÅK",
     "Page": "SIDA",
