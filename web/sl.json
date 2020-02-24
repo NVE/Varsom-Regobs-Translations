@@ -402,7 +402,10 @@
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
-      "StratLayers": "Plasti"
+      "StratLayers": "Plasti",
+      "Test": {
+        "DistanceFromTop": "Avstand fra toppen (cm)"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Vgrez noge",
@@ -600,7 +603,6 @@
     "ShortKey": "Kratko"
   },
   "Unknown": "Neznano",
-  "Url": {},
   "UserMenu": {
     "Language": "JEZIK",
     "Page": "STRAN",

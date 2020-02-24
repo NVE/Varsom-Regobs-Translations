@@ -456,7 +456,18 @@
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
       "TemperatureProfile": "Temperature profile",
-      "Tests": "Tests"
+      "Test": {
+        "Add": "Add",
+        "AddTest": "Add test",
+        "DistanceFromTop": "Distance from top (cm)",
+        "FractureType": "Fracture type",
+        "Include": "Include in snow profile",
+        "Stability": "Stability",
+        "Tests": "tests",
+        "TestsWillAppearHere": "Tests you have added will appear here",
+        "Type": "Test type",
+        "Update": "Update test"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Foot penetration",
