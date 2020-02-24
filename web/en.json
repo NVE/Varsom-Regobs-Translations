@@ -4,6 +4,11 @@
     "HideHelptext": "Hide helptext"
   },
   "AppearanceName": "Appearance:",
+  "Attachment": {
+    "Attachment": "Attachment",
+    "DropzoneText": "Drag files here to upload, or click to select",
+    "NoDescription": "No description"
+  },
   "Cancel": "Cancel",
   "ChangePassword": "Change Password",
   "Chip": {
@@ -421,6 +426,7 @@
       "Aspect": "Orientation",
       "Comment": "Comment",
       "Copyright": "Copyright",
+      "Edit": "Edit picture",
       "ObsName": "Picture",
       "Photographer": "Photographer",
       "PictureComment": "Comment",
