@@ -1,6 +1,5 @@
 {
   "AppearanceName": "Izgled:",
-  "Attachment": {},
   "Cancel": "Prekliči",
   "ChangePassword": "Spremeni geslo",
   "Chip": {
@@ -404,9 +403,7 @@
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
       "StratLayers": "Plasti",
-      "Test": {
-        "DistanceFromTop": "Avstand fra toppen (cm)"
-      }
+      "Test": {}
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Vgrez noge",
