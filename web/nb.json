@@ -413,7 +413,6 @@
       "Position": "Skredposisjon",
       "PositionDescription": "Angi start- og sluttpunkt for skredet hvis du kjenner til det.",
       "Required": "Obligatorisk",
-      "Reset": "Nullstill",
       "SetEndPosition": "Sett sluttpunkt",
       "SetLandslidePosition": "Sett skredposisjon",
       "SetStartPosition": "Sett startpunkt",
@@ -472,8 +471,10 @@
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",
+        "DistanceFromTop": "Avstand fra toppen (cm)",
         "FractureType": "Bruddtype",
         "Include": "Inkluder i snøprofil",
+        "NumberOfHits": "Antall slag",
         "Stability": "Stabilitet",
         "Tests": "tester",
         "TestsWillAppearHere": "Tester du har lagt til vises her",
@@ -564,6 +565,7 @@
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
   "RequiredFieldError": "Dette feltet er påkrevd",
+  "Reset": "Nullstill",
   "Routes": {
     "About": "Om",
     "Cookies": "Informasjonskapsler",
