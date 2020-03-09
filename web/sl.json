@@ -1,6 +1,5 @@
 {
   "AppearanceName": "Izgled:",
-  "Attachment": {},
   "Cancel": "Prekliči",
   "ChangePassword": "Spremeni geslo",
   "Chip": {
@@ -399,6 +398,7 @@
       "Comment": "Komentar",
       "CompressionTest": "Tlačni testi",
       "CompresstionTestConnectedToProfile": "tlačni testi povezani s snežnim profilom",
+      "Density": {},
       "LayersObserved": "opažene plasti",
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",

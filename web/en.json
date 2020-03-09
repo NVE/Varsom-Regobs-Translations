@@ -445,7 +445,6 @@
       "UnderSurface": "under the surface"
     },
     "SnowProfile": {
-      "AddDensity": "Add density",
       "AddLayerBottom": "Add a new layer at the bottom",
       "AddLayerTop": "Add a new layer at the top",
       "AddLayers": "Add layers",
@@ -456,7 +455,22 @@
       "CompressionTest": "Compression tests",
       "CompresstionTestConnectedToProfile": "compression tests connected to snow profile",
       "DeleteLayer": "Delete layer",
-      "Density": "Density",
+      "Density": {
+        "AddDensity": "Add density",
+        "Average": "Average",
+        "CylinderBoreDiam": "Cylinder bore diameter (cm)",
+        "Density": "Density",
+        "DensityLabel": "Density (kg/m3)",
+        "Height": "Height (cm)",
+        "Layer": "Layer",
+        "Method": "Method",
+        "Sum": "Sum",
+        "Summary": "Summary",
+        "TareWeight": "Tare weight (g)",
+        "UseCylinder": "Use cylinder",
+        "WaterEquivalent": "Water equivalent (mm)",
+        "Weight": "Weight (g)"
+      },
       "DepthPlaceholder": "Depth (cm)",
       "IsProfileDugToTheGround": "Is the profile dug to the ground?",
       "Layers": "Layers",

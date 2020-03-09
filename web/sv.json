@@ -1,6 +1,5 @@
 {
   "AppearanceName": "Utseende:",
-  "Attachment": {},
   "Cancel": "Avbryt",
   "ChangePassword": "Byt lösenord",
   "Chip": {
@@ -399,12 +398,12 @@
       "Comment": "Kommentar",
       "CompressionTest": "Stabilitetstest",
       "CompresstionTestConnectedToProfile": "test anknuten till snöprofil",
+      "Density": {},
       "LayersObserved": "Observerade lager",
       "ObsName": "Snöprofil",
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Indelning av lager",
-      "Test": {}
+      "StratLayers": "Indelning av lager"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Fot penetration",

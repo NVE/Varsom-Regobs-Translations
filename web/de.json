@@ -1,6 +1,5 @@
 {
   "AppearanceName": "Aussehen:",
-  "Attachment": {},
   "Cancel": "Cancel",
   "ChangePassword": "Passwort ändern",
   "Chip": {
@@ -399,12 +398,12 @@
       "Comment": "Kommentar",
       "CompressionTest": "Kompressionstest",
       "CompresstionTestConnectedToProfile": "Kompressionstest mit Schneeprofil",
+      "Density": {},
       "LayersObserved": "Schichten beobachtet",
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Schichten",
-      "Test": {}
+      "StratLayers": "Schichten"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Eindringtiefe",
