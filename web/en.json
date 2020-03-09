@@ -413,7 +413,6 @@
       "Position": "Landslide position",
       "PositionDescription": "Specify the start and end points of the landslide if you know it.",
       "Required": "Required",
-      "Reset": "Reset",
       "SetEndPosition": "Set end positions",
       "SetLandslidePosition": "Set landslide position",
       "SetStartPosition": "Set starting position",
@@ -488,6 +487,7 @@
         "DistanceFromTop": "Distance from top (cm)",
         "FractureType": "Fracture type",
         "Include": "Include in snow profile",
+        "NumberOfHits": "Number of hits",
         "Stability": "Stability",
         "Tests": "tests",
         "TestsWillAppearHere": "Tests you have added will appear here",
@@ -578,6 +578,7 @@
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
   "RequiredFieldError": "This field is required",
+  "Reset": "Reset",
   "Routes": {
     "About": "About",
     "Cookies": "Cookies",
