@@ -4,6 +4,11 @@
     "HideHelptext": "Skjul helpeteksten"
   },
   "AppearanceName": "Utseende:",
+  "Attachment": {
+    "Attachment": "Vedlegg",
+    "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
+    "NoDescription": "Ingen beskrivelse"
+  },
   "Cancel": "Avbryt",
   "ChangePassword": "Bytt passord",
   "Chip": {
@@ -422,7 +427,6 @@
       "Position": "Skredposisjon",
       "PositionDescription": "Angi start- og sluttpunkt for skredet hvis du kjenner til det.",
       "Required": "Obligatorisk",
-      "Reset": "Nullstill",
       "SetEndPosition": "Sett sluttpunkt",
       "SetLandslidePosition": "Sett skredposisjon",
       "SetStartPosition": "Sett startpunkt",
@@ -434,7 +438,8 @@
     "Picture": {
       "Aspect": "Himmelretning",
       "Comment": "Kommentar",
-      "Copyright": "Copyright",
+      "Copyright": "Opphavsrett",
+      "Edit": "Rediger bilde",
       "ObsName": "Bildet",
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
@@ -453,14 +458,32 @@
       "UnderSurface": "under overflaten"
     },
     "SnowProfile": {
-      "AddDensity": "Legg til tetthet",
+      "AddLayerBottom": "Legg til et nytt lag nederst",
+      "AddLayerTop": "Legg til et nytt lag øverst",
       "AddLayers": "Legg til lagdeling",
       "AddTemperature": "Legg til temperatur",
       "AddTests": "Legg til tester",
+      "Cm": "cm",
       "Comment": "Kommentar",
       "CompressionTest": "Stabilitetstest",
       "CompresstionTestConnectedToProfile": "test observert knyttet til profilet",
-      "Density": "Tetthet",
+      "Density": {
+        "AddDensity": "Legg til tetthet",
+        "Average": "Gj.snitt",
+        "CylinderBoreDiam": "Sylinderdiameter (cm)",
+        "Density": "Tetthet",
+        "DensityLabel": "Tetthet (kg/m3)",
+        "Height": "Høyde (cm)",
+        "Layer": "Lag",
+        "Method": "Metode",
+        "Sum": "Sum",
+        "Summary": "Oppsummering",
+        "TareWeight": "Posevekt og evt rør (g)",
+        "UseCylinder": "Sylinderberegning",
+        "WaterEquivalent": "Vannekv. (mm)",
+        "Weight": "Vekt (g)"
+      },
+      "DepthPlaceholder": "Dybde (cm)",
       "IsProfileDugToTheGround": "Går profilet til bakken?",
       "Layers": "Lagdeling",
       "LayersObserved": "lag observert",
@@ -469,8 +492,22 @@
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
+      "SumOfAllLayers": "Summen av alle lag:",
+      "TemperaturePlaceholder": "Temperatur (°C)",
       "TemperatureProfile": "Temperaturprofil",
-      "Tests": "Tester"
+      "Test": {
+        "Add": "Legg til",
+        "AddTest": "Legg til test",
+        "DistanceFromTop": "Avstand fra toppen (cm)",
+        "FractureType": "Bruddtype",
+        "Include": "Inkluder i snøprofil",
+        "NumberOfHits": "Antall slag",
+        "Stability": "Stabilitet",
+        "Tests": "tester",
+        "TestsWillAppearHere": "Tester du har lagt til vises her",
+        "Type": "Test type",
+        "Update": "Oppdater test"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Innsynkning fot",
@@ -555,6 +592,7 @@
   "RememberMe": "Husk meg",
   "RequiredField": "*Obligatorisk felt",
   "RequiredFieldError": "Dette feltet er påkrevd",
+  "Reset": "Nullstill",
   "Routes": {
     "About": "Om",
     "Cookies": "Informasjonskapsler",

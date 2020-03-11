@@ -4,6 +4,11 @@
     "HideHelptext": "Hide helptext"
   },
   "AppearanceName": "Appearance:",
+  "Attachment": {
+    "Attachment": "Attachment",
+    "DropzoneText": "Drag files here to upload, or click to select",
+    "NoDescription": "No description"
+  },
   "Cancel": "Cancel",
   "ChangePassword": "Change Password",
   "Chip": {
@@ -422,7 +427,6 @@
       "Position": "Landslide position",
       "PositionDescription": "Specify the start and end points of the landslide if you know it.",
       "Required": "Required",
-      "Reset": "Reset",
       "SetEndPosition": "Set end positions",
       "SetLandslidePosition": "Set landslide position",
       "SetStartPosition": "Set starting position",
@@ -435,6 +439,7 @@
       "Aspect": "Orientation",
       "Comment": "Comment",
       "Copyright": "Copyright",
+      "Edit": "Edit picture",
       "ObsName": "Picture",
       "Photographer": "Photographer",
       "PictureComment": "Comment",
@@ -453,14 +458,32 @@
       "UnderSurface": "under the surface"
     },
     "SnowProfile": {
-      "AddDensity": "Add density",
+      "AddLayerBottom": "Add a new layer at the bottom",
+      "AddLayerTop": "Add a new layer at the top",
       "AddLayers": "Add layers",
       "AddTemperature": "Add temperature",
       "AddTests": "Add tests",
+      "Cm": "cm",
       "Comment": "Comment",
       "CompressionTest": "Compression tests",
       "CompresstionTestConnectedToProfile": "compression tests connected to snow profile",
-      "Density": "Density",
+      "Density": {
+        "AddDensity": "Add density",
+        "Average": "Average",
+        "CylinderBoreDiam": "Cylinder bore diameter (cm)",
+        "Density": "Density",
+        "DensityLabel": "Density (kg/m3)",
+        "Height": "Height (cm)",
+        "Layer": "Layer",
+        "Method": "Method",
+        "Sum": "Sum",
+        "Summary": "Summary",
+        "TareWeight": "Tare weight (g)",
+        "UseCylinder": "Use cylinder",
+        "WaterEquivalent": "Water equivalent (mm)",
+        "Weight": "Weight (g)"
+      },
+      "DepthPlaceholder": "Depth (cm)",
       "IsProfileDugToTheGround": "Is the profile dug to the ground?",
       "Layers": "Layers",
       "LayersObserved": "layers observed",
@@ -469,8 +492,22 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
+      "SumOfAllLayers": "Sum of all layers:",
+      "TemperaturePlaceholder": "Temperature (°C)",
       "TemperatureProfile": "Temperature profile",
-      "Tests": "Tests"
+      "Test": {
+        "Add": "Add",
+        "AddTest": "Add test",
+        "DistanceFromTop": "Distance from top (cm)",
+        "FractureType": "Fracture type",
+        "Include": "Include in snow profile",
+        "NumberOfHits": "Number of hits",
+        "Stability": "Stability",
+        "Tests": "tests",
+        "TestsWillAppearHere": "Tests you have added will appear here",
+        "Type": "Test type",
+        "Update": "Update test"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Foot penetration",
@@ -555,6 +592,7 @@
   "RememberMe": "Remember me",
   "RequiredField": "*Required field",
   "RequiredFieldError": "This field is required",
+  "Reset": "Reset",
   "Routes": {
     "About": "About",
     "Cookies": "Cookies",
