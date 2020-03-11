@@ -158,7 +158,7 @@
       "ObsName": "Isdekningsgrad"
     },
     "IceThickness": {
-      "BeforeDrilling": "før borring",
+      "BeforeDrilling": "før boring",
       "Comment": "Kommentar",
       "IceThicknessLayers": "Islag (ovenfra og ned)",
       "IceThicknessSum": "Total istykkelse",
@@ -167,7 +167,7 @@
       "ObsName": "Istykkelse",
       "OverIce": "Over isen ",
       "OverWater": "overvann",
-      "OverWaterAfterDrilling": "overvann etter borring",
+      "OverWaterAfterDrilling": "overvann etter boring",
       "SlushSnow": "sørpe",
       "Snow": "snø",
       "Total": "totalt",
