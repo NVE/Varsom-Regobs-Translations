@@ -402,8 +402,7 @@
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Schichten",
-      "Test": {}
+      "StratLayers": "Schichten"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Eindringtiefe",

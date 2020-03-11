@@ -402,8 +402,7 @@
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
-      "StratLayers": "Plasti",
-      "Test": {}
+      "StratLayers": "Plasti"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Vgrez noge",

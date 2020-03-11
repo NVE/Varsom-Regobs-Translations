@@ -402,8 +402,7 @@
       "ObsName": "Snöprofil",
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Indelning av lager",
-      "Test": {}
+      "StratLayers": "Indelning av lager"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Fot penetration",
