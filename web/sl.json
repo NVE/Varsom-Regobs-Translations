@@ -398,13 +398,11 @@
       "Comment": "Komentar",
       "CompressionTest": "Tlačni testi",
       "CompresstionTestConnectedToProfile": "tlačni testi povezani s snežnim profilom",
-      "Density": {},
       "LayersObserved": "opažene plasti",
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
-      "StratLayers": "Plasti",
-      "Test": {}
+      "StratLayers": "Plasti"
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Vgrez noge",

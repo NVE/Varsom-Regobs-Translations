@@ -453,7 +453,6 @@
       "Comment": "Comment",
       "CompressionTest": "Compression tests",
       "CompresstionTestConnectedToProfile": "compression tests connected to snow profile",
-      "DeleteLayer": "Delete layer",
       "Density": {
         "AddDensity": "Add density",
         "Average": "Average",
@@ -479,6 +478,7 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
+      "SumOfAllLayers": "Sum of all layers:",
       "TemperaturePlaceholder": "Temperature (°C)",
       "TemperatureProfile": "Temperature profile",
       "Test": {
