@@ -344,9 +344,13 @@
       "ObsName": "Skader"
     },
     "DangerObs": {
+      "Area": "Område",
       "Comment": "Kommentar",
       "DangerSignTName": "Type",
-      "ObsName": "Faretegn"
+      "NewDangerSign": "Nytt faretegn",
+      "NoDamageSign": "Ingen faretegn observert",
+      "ObsName": "Faretegn",
+      "Title": "Faretegn"
     },
     "GeneralObservation": {
       "Comment": "Kommentar",
@@ -358,27 +362,37 @@
       "Urls": "Lenker"
     },
     "IceCoverObs": {
+      "BearingStrength": "Bæreevne",
       "Comment": "Kommentar",
+      "Description": "Beskrivelse",
       "IceCapacityTName": "Bæreevne",
+      "IceCover": "Isdekning",
       "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
+      "IceCoverBeforeObservation": "Isdekning før observasjon",
       "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "Skøytbarhet",
       "ObsName": "Isdekningsgrad"
     },
     "IceThickness": {
+      "AddIceLayer": "Registrer islag",
+      "AddIceThicknessLayer": "Legg til islag",
       "Comment": "Kommentar",
+      "IceLayer": "Islag",
+      "IceLayerThickness": "Tykkelse på islag",
       "IceThicknessLayers": "Islag (ovenfra og ned)",
       "IceThicknessSum": "Total istykkelse",
+      "IceType": "Type is",
       "IsEqualToIceSurface": "er likt med isoverflaten",
       "LowerThanIceSurface": "lavere enn isoverflaten ",
       "ObsName": "Istykkelse",
       "OverIce": "Over isen ",
-      "OverWaterAfterDrilling": "overvann etter boring",
-      "OverWaterBeforeDrilling": "overvann før boring",
-      "SlushSnowBeforeDrilling": "sørpe før boring",
-      "SnowDepthBeforeDrilling": "snø før boring",
+      "OverWaterAfterDrilling": "Overvann etter boring",
+      "OverWaterBeforeDrilling": "Overvann før boring",
+      "SlushSnowBeforeDrilling": "Sørpe før boring",
+      "SnowDepthBeforeDrilling": "Snø før boring",
       "Total": " totalt",
+      "TwoDecimalPlaces": "(cm, med opptil to desimaler)",
       "WaterSurfaceInHole": "Vannflaten i hullet "
     },
     "Incident": {
