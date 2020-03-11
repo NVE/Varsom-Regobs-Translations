@@ -339,9 +339,13 @@
       "ObsName": "Damage Observation"
     },
     "DangerObs": {
+      "Area": "Area",
       "Comment": "Comment",
       "DangerSignTName": "Danger type",
-      "ObsName": "Danger observation"
+      "NewDangerSign": "Add danger sign",
+      "NoDamageSign": "No danger signs",
+      "ObsName": "Danger observation",
+      "Title": "Danger Sign"
     },
     "GeneralObservation": {
       "Comment": "Comment",
@@ -353,18 +357,27 @@
       "Urls": "Links"
     },
     "IceCoverObs": {
+      "BearingStrength": "Bearing strength",
       "Comment": "Comment",
+      "Description": "Description",
       "IceCapacityTName": "Capacity",
+      "IceCover": "Ice cover",
       "IceCoverAfterTName": "Ice coverage after observation",
+      "IceCoverBeforeObservation": "Ice cover before observation",
       "IceCoverBeforeTName": "Ice coverage before observation",
       "IceCoverTName": "Coverage",
       "IceSkateabilityTName": "Skateability",
       "ObsName": "Ice cover observation"
     },
     "IceThickness": {
+      "AddIceLayer": "Add ice layer",
+      "AddIceThicknessLayer": "Add ice layer",
       "Comment": "Comment",
+      "IceLayer": "Ice layer",
+      "IceLayerThickness": "Ice layer thickness",
       "IceThicknessLayers": "Layers (top to bottom)",
       "IceThicknessSum": "Total thickness",
+      "IceType": "Ice type",
       "IsEqualToIceSurface": "is equal to ice surface",
       "LowerThanIceSurface": "lower than ice surface ",
       "ObsName": "Ice thickness",
@@ -374,6 +387,7 @@
       "SlushSnowBeforeDrilling": "Slush before drilling",
       "SnowDepthBeforeDrilling": "snow before drilling.",
       "Total": " total",
+      "TwoDecimalPlaces": "(cm, up to two decimal places)",
       "WaterSurfaceInHole": "Water surface in hole"
     },
     "Incident": {
