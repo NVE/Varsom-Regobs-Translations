@@ -74,7 +74,7 @@
             {
                 "Id": 223,
                 "Name": "\"Lutande träd\"",
-                "Description": "Träd som böjs"
+                "Description": null
             },
             {
                 "Id": 299,
@@ -474,32 +474,32 @@
             {
                 "Id": 0,
                 "Name": "Ej angivet",
-                "Description": ""
+                "Description": null
             },
             {
                 "Id": 10,
                 "Name": "Ej åkbar",
-                "Description": ""
+                "Description": null
             },
             {
                 "Id": 20,
                 "Name": "Tvivelaktiga förhållanden",
-                "Description": ""
+                "Description": null
             },
             {
                 "Id": 30,
                 "Name": "Normala förhållanden",
-                "Description": ""
+                "Description": null
             },
             {
                 "Id": 40,
                 "Name": "Mycket goda förhållanden",
-                "Description": ""
+                "Description": null
             },
             {
                 "Id": 50,
                 "Name": "Drömförhållanden",
-                "Description": ""
+                "Description": null
             }
         ],
         "Ice_IceCapacityKDV": [
@@ -595,7 +595,7 @@
             {
                 "Id": 5,
                 "Name": "Stort snöfall",
-                "Description": null
+                "Description": "Används i elrapp"
             },
             {
                 "Id": 6,
@@ -2314,7 +2314,7 @@
             }
         ],
         "AnticipatedObservationTimeKDV": [
-            {
+          	{
                 "Id": 0,
                 "Name": "0",
                 "Description": "Ej specificerat"
@@ -2379,7 +2379,7 @@
                 "Name": "1320",
                 "Description": "22:00"
             }
-        ],
+  		  ],
         "ForecastAccurateKDV": [
             {
                 "Id": 0,
@@ -2711,7 +2711,7 @@
         "TripTypeKDV": [
             {
                 "Id": 0,
-                "Name": "",
+                "Name": "Okänd",
                 "Description": null
             },
             {
@@ -2725,28 +2725,23 @@
                 "Description": null
             },
             {
-                "Id": 70,
+                "Id": 50,
                 "Name": "Guidning",
                 "Description": null
             },
             {
-                "Id": 50,
+                "Id": 20,
                 "Name": "Uppdrag för arbetsgivaren",
                 "Description": null
             },
             {
-                "Id": 20,
+                "Id": 30,
                 "Name": "Vanligt uppdrag för lavinvarningstjänsten",
                 "Description": null
             },
             {
-                "Id": 30,
-                "Name": "Ytterligare uppdrag för lavinvarningstjänsten",
-                "Description": null
-            },
-            {
                 "Id": 40,
-                "Name": "Beställt uppdrag för lavinvarningstjänsten",
+                "Name": "Ytterligare uppdrag för lavinvarningstjänsten",
                 "Description": null
             }
         ],
