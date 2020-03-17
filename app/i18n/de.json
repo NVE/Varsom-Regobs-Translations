@@ -1,4 +1,8 @@
 {
+  "ABONNER_BANNER": {
+    "LINK_TEXT": "Gehe zu abonner.varsom.no",
+    "TITLE": "Varsom Abonner"
+  },
   "ADD_MENU": {
     "DRAFT": "Entwurd",
     "NEW_OBSERVATION": "Neu",
@@ -7,6 +11,8 @@
   "ALERT": {
     "CANCEL": "Abbruch",
     "DEFAULT_HEADER": "Whoops!",
+    "FINE": "Okay",
+    "NO_THANKS": "Nein danke",
     "OK": "Ok",
     "PULL_TO_REFRESH": "Zum Aktualisieren ziehen ...",
     "UNDO": "Rückgängig machen",
@@ -16,6 +22,9 @@
     "ADD_OBSERVATIONS": "Füge deine Beobachtung hinzu",
     "SELECT_GEO_HAZARD": "Wähle Gefahr aus",
     "VIEW_WARNINGS": "Zeige Warnungen von varsom.no"
+  },
+  "COMPETENCE": {
+    "UNKNOWN": "Kompetenz unbekannt"
   },
   "DATA_LOAD": {
     "DATA": "Wird geladen...",

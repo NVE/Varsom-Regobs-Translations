@@ -1,4 +1,8 @@
 {
+  "ABONNER_BANNER": {
+    "LINK_TEXT": "Gå till abonner.varsom.no",
+    "TITLE": "Varsom Abonner"
+  },
   "ADD_MENU": {
     "DRAFT": "Utkast",
     "NEW_OBSERVATION": "Ny",
@@ -7,6 +11,8 @@
   "ALERT": {
     "CANCEL": "Avbryt",
     "DEFAULT_HEADER": "Hoppsan!",
+    "FINE": "Okej",
+    "NO_THANKS": "Nej tack",
     "OK": "Ok",
     "PULL_TO_REFRESH": "Dra för att uppdatera ...",
     "UNDO": "Ångra",
@@ -16,6 +22,9 @@
     "ADD_OBSERVATIONS": "Lägg till egna observationer",
     "SELECT_GEO_HAZARD": "Välj en naturfara",
     "VIEW_WARNINGS": "Se varningar från lavinprognoser.se"
+  },
+  "COMPETENCE": {
+    "UNKNOWN": "Okänd kompetens"
   },
   "DATA_LOAD": {
     "DATA": "Läser data...",

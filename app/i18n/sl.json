@@ -1,4 +1,8 @@
 {
+  "ABONNER_BANNER": {
+    "LINK_TEXT": "Pojdi na abonner.varsom.no",
+    "TITLE": "Varsom Abonner"
+  },
   "ADD_MENU": {
     "DRAFT": "Osnutek",
     "NEW_OBSERVATION": "Novo opažanje",
@@ -7,6 +11,8 @@
   "ALERT": {
     "CANCEL": "Prekliči",
     "DEFAULT_HEADER": "Ups!",
+    "FINE": "Ok",
+    "NO_THANKS": "Ne, hvala",
     "OK": "Ok",
     "PULL_TO_REFRESH": "Potegnite za osvežitev...",
     "UNDO": "Razveljavi",
@@ -16,6 +22,9 @@
     "ADD_OBSERVATIONS": "Dodajte svoja opažanja",
     "SELECT_GEO_HAZARD": "Izberite tip naravne grožnje",
     "VIEW_WARNINGS": "Poglejte opozorila iz varsom.no"
+  },
+  "COMPETENCE": {
+    "UNKNOWN": "Kompetenca ni znana"
   },
   "DATA_LOAD": {
     "DATA": "Nalaganje...",
