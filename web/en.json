@@ -425,7 +425,7 @@
       "LandslideType": "Landslide type",
       "ObsName": "Landslide observation",
       "Position": "Landslide position",
-      "PositionDescription": "Specify the start and end points of the landslide if you know it.",
+      "PositionDescription": "Set the start and stop positions of the landslide.",
       "Required": "Required",
       "SetLandslidePosition": "Set landslide position",
       "SetStartPosition": "Set starting position",
