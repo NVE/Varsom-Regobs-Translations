@@ -58,7 +58,8 @@
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
-      "Title": "When was the observation made?"
+      "Title": "When was the observation made?",
+      "Share": "Share with group"
     }
   },
   "Email": "Email",
