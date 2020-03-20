@@ -58,7 +58,8 @@
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunkt som observasjonen ble gjort. Bruk lokaltid på observasjonsstedet.",
-      "Title": "Når ble observasjonen gjort?"
+      "Title": "Når ble observasjonen gjort?",
+      "Share": "Del med gruppe"
     }
   },
   "Email": "Epost",
