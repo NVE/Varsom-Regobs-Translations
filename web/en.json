@@ -9,6 +9,24 @@
     "DropzoneText": "Drag files here to upload, or click to select",
     "NoDescription": "No description"
   },
+  "COMPASS_DIRECTION": {
+    "EAST": "East",
+    "EAST_SHORT": "E",
+    "NORTH": "North",
+    "NORTH_EAST": "North-East",
+    "NORTH_EAST_SHORT": "NE",
+    "NORTH_SHORT": "N",
+    "NORTH_WEST": "North-West",
+    "NORTH_WEST_SHORT": "NW",
+    "SOUTH": "South",
+    "SOUTH_EAST": "South-East",
+    "SOUTH_EAST_SHORT": "SE",
+    "SOUTH_SHORT": "S",
+    "SOUTH_WEST": "South-West",
+    "SOUTH_WEST_SHORT": "SW",
+    "WEST": "West",
+    "WEST_SHORT": "W"
+  },
   "Cancel": "Cancel",
   "ChangePassword": "Change Password",
   "Chip": {
@@ -58,8 +76,8 @@
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
-      "Title": "When was the observation made?",
-      "Share": "Share with group"
+      "Share": "Share with group",
+      "Title": "When was the observation made?"
     }
   },
   "Email": "Email",

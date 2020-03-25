@@ -9,6 +9,24 @@
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
     "NoDescription": "Ingen beskrivelse"
   },
+  "COMPASS_DIRECTION": {
+    "EAST": "Øst",
+    "EAST_SHORT": "Ø",
+    "NORTH": "Nord",
+    "NORTH_EAST": "Nord-Øst",
+    "NORTH_EAST_SHORT": "NØ",
+    "NORTH_SHORT": "N",
+    "NORTH_WEST": "Nord-Vest",
+    "NORTH_WEST_SHORT": "NV",
+    "SOUTH": "Sør",
+    "SOUTH_EAST": "Sør-Øst",
+    "SOUTH_EAST_SHORT": "SØ",
+    "SOUTH_SHORT": "S",
+    "SOUTH_WEST": "Sør-Vest",
+    "SOUTH_WEST_SHORT": "SV",
+    "WEST": "Vest",
+    "WEST_SHORT": "V"
+  },
   "Cancel": "Avbryt",
   "ChangePassword": "Bytt passord",
   "Chip": {
@@ -58,8 +76,8 @@
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunkt som observasjonen ble gjort. Bruk lokaltid på observasjonsstedet.",
-      "Title": "Når ble observasjonen gjort?",
-      "Share": "Del med gruppe"
+      "Share": "Del med gruppe",
+      "Title": "Når ble observasjonen gjort?"
     }
   },
   "Email": "Epost",
