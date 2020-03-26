@@ -475,6 +475,7 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
+  "RegistrationEdit": {},
   "RememberMe": "Zapomni si me",
   "Routes": {
     "About": "O",

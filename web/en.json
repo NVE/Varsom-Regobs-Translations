@@ -58,8 +58,8 @@
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
-      "Title": "When was the observation made?",
-      "Share": "Share with group"
+      "Share": "Share with group",
+      "Title": "When was the observation made?"
     }
   },
   "Email": "Email",
@@ -582,6 +582,17 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
+  "RegistrationEdit": {
+    "AddForm": "Add form",
+    "DeleteObservation": "Delete observation",
+    "Discard": "Discard",
+    "Done": "Done",
+    "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
+    "SaveAsDraft": "Save as draft?",
+    "SaveDraft": "Save draft",
+    "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
+    "SyncInProgress": "Sync in progress:"
+  },
   "RegistrationKeyInfo": {
     "Accuracy": "Accuracy",
     "Edit": "Edit",
