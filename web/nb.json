@@ -418,6 +418,7 @@
       "ActivityInfluencedTID": "Aktivitet",
       "Comment": "Kommentar",
       "DamageExtentTID": "Skadeomfang",
+      "Description": "Hvorfor skjedde det? Gikk det bra? Kunne situasjonen vært unngått?",
       "GeoHazardTID": "Observasjonstype",
       "IncidentHeader": "Overskrift",
       "IncidentIngress": "Ingress",
