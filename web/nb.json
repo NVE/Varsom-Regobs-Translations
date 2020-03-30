@@ -1,5 +1,5 @@
 {
-  "TestCrowdin": "",
+  "TestCrowdin": "Dette er en test...",
   "AddObsDetails": {
     "Add": "",
     "HideHelptext": ""
@@ -36,8 +36,8 @@
   },
   "Cookies": {
     "AboutUseFirstParagraph": "",
-    "AboutUseSecondParagraph": "",
-    "AboutUseThirdParagraph": "",
+    "AboutUseSecondParagraph": "Behandlingsgrunnlaget for dette er personvernforordningen artikkel 6 nr. 1 f, som tillater oss å behandle opplysninger som er nødvendig for å ivareta en interesse som veier tyngre enn hensynet til den enkeltes personvern. Den interessen er å få nettsidene våre til å fungere godt slik at du får en god brukeropplevelse.",
+    "AboutUseThirdParagraph": "Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
     "CookiesDescription": "",
     "Customize": "",
     "CustomizeDescription": "",
