@@ -1,7 +1,9 @@
 {
   "ABONNER_BANNER": {
+    "BANNER_TEXT_LINE_1": "",
+    "BANNER_TEXT_LINE_2": "",
     "LINK_TEXT": "Pojdi na abonner.varsom.no",
-    "TITLE": "Varsom Abonner"
+    "TITLE": ""
   },
   "ADD_MENU": {
     "DRAFT": "Osnutek",
@@ -13,7 +15,7 @@
     "DEFAULT_HEADER": "Ups!",
     "FINE": "Ok",
     "NO_THANKS": "Ne, hvala",
-    "OK": "Ok",
+    "OK": "",
     "PULL_TO_REFRESH": "Potegnite za osvežitev...",
     "UNDO": "Razveljavi",
     "WARNING": "Opozorilo"
@@ -51,7 +53,7 @@
     "NEXT": "Naslednji",
     "NO": "Ne",
     "OF": "Od",
-    "OK": "Ok",
+    "OK": "",
     "OK_BACK": "Ok, nazaj na pregled",
     "PREVIOUS": "Prejšnji",
     "RESET": "Ponastavi",
@@ -177,11 +179,26 @@
   "OFFLINE_MAP": {
     "TITLE": "Zemljevid brez povezave"
   },
+  "PERMISSION": {
+    "LOCATION_DENIED_HEADER": "",
+    "LOCATION_DENIED_MESSAGE": ""
+  },
+  "POPUP_DISCLAMER": {
+    "ABOUT_OBSERVATIONS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "ABOUT_SUPPORT_MAPS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "OK_I_UNDERSTAND": ""
+  },
   "REGISTRATION": {
     "ADD_IMAGES": "Dodaj slike",
     "ADD_WEB_URL": {
       "TITLE": "Dodaj spletni naslov",
-      "URL": "Url"
+      "URL": ""
     },
     "BACK_TO_OBSERVATION": "Nazaj na opažanje",
     "CONFIRM_RESET": "Ali ste prepričani, da želite ponastaviti vsa polja?",
@@ -291,6 +308,7 @@
       "IMAGE_PLACEHOLDER": "+ Dodajte opis slike",
       "TITLE": "Nesreča / incident"
     },
+    "INVALID_IMAGE": "",
     "IN_CM": "V centimetrih",
     "IN_FULL_CM": "V centimetrih brez decimalk",
     "NONE": "Ni izbrano",
@@ -406,7 +424,7 @@
           "EMPTY": "Ne",
           "INCLUDE_IN_SNOW_PROFILE": "Dodaj k snežnemu profilu",
           "MULTIPLE_TESTS": "testi",
-          "SINGLE_TEST": "test",
+          "SINGLE_TEST": "",
           "TITLE": "Testi"
         },
         "GENERATING_PREVIEW": "Ustvarjanje predogleda...",
@@ -546,6 +564,10 @@
     }
   },
   "SETTINGS": {
+    "ALLOW_ANALYTICS": "",
+    "ALLOW_ANALYTICS_DESCRIPTION": "",
+    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "",
+    "ALLOW_ANALYTICS_HEADER": "",
     "APPMODE": "Način aplikacije",
     "APP_VERSION": "Različica aplikacije",
     "CONFIRM_RESET": "Ali ste prepričani, da želite ponastaviti aplikacijo?",
@@ -557,6 +579,7 @@
     "LANGUAGE": "Jezik",
     "NORWAY_ONLY": "Samo na Norveškem",
     "NUMBER_OF_TILES_IN_CACHE": "Največje število listov zemljevidov brez povezave v predpomnilniku",
+    "READ_MORE_IN_LICENSE_AGREEMENT": "",
     "RESET": "Ponastavi aplikacijo",
     "RESETTING": "Aplikacija se ponastavlja. Prosimo počakajte ...",
     "SHOW_ADVANCED": "Pokaži napredne nastavitve",
@@ -583,6 +606,10 @@
       "NORWEGIAN": "Norveščina",
       "NORWEGIAN_SECONDARY_LANGUAGE": "Norwegian"
     },
+    "COMPETENCE_PAGE": {
+      "HEADER": "",
+      "LINE_1": ""
+    },
     "I_UNDERSTAND": "V redu, razumem",
     "PAGE_1": {
       "HEADER": "Načrtujte varne poti!",
@@ -604,6 +631,7 @@
     "SKIP_START": "Preskoči"
   },
   "SUPPORT_MAP": {
+    "ABOUT": "",
     "CAUTION_AREA": "Območje nevarnosti",
     "CLAY_DANGER_ZONE": "Stopnja nevarnosti",
     "CLAY_LEGEND_TEXT_1": "Točka hitre gline (SVV)",
@@ -640,12 +668,20 @@
     "ICE_LEGEND_TEXT_6": "Plinovod",
     "ICE_LEGEND_TEXT_7": "Predor elektrarne",
     "ICE_MAP_DESCRIPTION": "Podporni zemljevid prikazuje dele vodotokov, ki se zaradi predpisov o proizvodnji električne energije pozimi obnašajo nepredvidljivo",
+    "INFO_PAGE": "",
     "LOW": "Nizko",
     "MARITINE_BORDER": "Meja morja",
     "MIDDLE": "Sredinsko",
     "NO_OPACITY": "Neprosojno",
+    "READ_MORE": "",
     "STEEPNESS_COLOR_INFO": "Barve označujejo naklon terena v stopinjah:",
     "STEEPNESS_MAP_DESCRIPTION": "Zemljevid naklona",
+    "STEEPNESS_MAP_DISCLAMER": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "",
+    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Zemljevid oslabitve ledu"
   },
   "TABS": {
