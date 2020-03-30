@@ -1,5 +1,7 @@
 {
   "ABONNER_BANNER": {
+    "BANNER_TEXT_LINE_1": "Get alerts from Varsom sent to SMS or e-mail.",
+    "BANNER_TEXT_LINE_2": "Set up or manage your alerts here.",
     "LINK_TEXT": "Gå till abonner.varsom.no",
     "TITLE": "Varsom Abonner"
   },
@@ -177,6 +179,21 @@
   "OFFLINE_MAP": {
     "TITLE": "Offline kartor"
   },
+  "PERMISSION": {
+    "LOCATION_DENIED_HEADER": "Permission to location denied",
+    "LOCATION_DENIED_MESSAGE": "Cannot show location in map without permission."
+  },
+  "POPUP_DISCLAMER": {
+    "ABOUT_OBSERVATIONS": {
+      "HEADER": "About observations",
+      "MESSAGE": "Use observations at your own risk, produced by the users  and is available «as is».\nNVE makes no warranties for errors, omissions and assessments produced by the users.\nConsider the observations in light of the competence of the observer, as shown by stars next to the name."
+    },
+    "ABOUT_SUPPORT_MAPS": {
+      "HEADER": "About maps",
+      "MESSAGE": "Use the maps at your own risk and always make your own evaluation. The maps may contain errors and omissions."
+    },
+    "OK_I_UNDERSTAND": "OK, I understand"
+  },
   "REGISTRATION": {
     "ADD_IMAGES": "Lägg till foton",
     "ADD_WEB_URL": {
@@ -291,6 +308,7 @@
       "IMAGE_PLACEHOLDER": "+ Lägg till bildbeskrivning",
       "TITLE": "Olycka / tillbud"
     },
+    "INVALID_IMAGE": "Sorry, this is an invalid image",
     "IN_CM": "I centimeter",
     "IN_FULL_CM": "I hela centimeter",
     "NONE": "Ej vald",
@@ -546,6 +564,10 @@
     }
   },
   "SETTINGS": {
+    "ALLOW_ANALYTICS": "Allow sending app usage data",
+    "ALLOW_ANALYTICS_DESCRIPTION": "Help us improve Varsom Regobs by letting us know how you use the application.",
+    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "This data is anonymous and cannot be linked to you personally.",
+    "ALLOW_ANALYTICS_HEADER": "Share usage statistics",
     "APPMODE": "Appläge",
     "APP_VERSION": "App version",
     "CONFIRM_RESET": "Är du säker på att du vill återställa appen?",
@@ -557,6 +579,7 @@
     "LANGUAGE": "Språk",
     "NORWAY_ONLY": "Endast i Norge",
     "NUMBER_OF_TILES_IN_CACHE": "Maximalt antal kartblad offline",
+    "READ_MORE_IN_LICENSE_AGREEMENT": "You can read about our use of data in our privacy policy.",
     "RESET": "Återställ app",
     "RESETTING": "App återställs. Vänta ...",
     "SHOW_ADVANCED": "Visa avancerade inställningar",
@@ -583,6 +606,10 @@
       "NORWEGIAN": "Norska",
       "NORWEGIAN_SECONDARY_LANGUAGE": "Norwegian"
     },
+    "COMPETENCE_PAGE": {
+      "HEADER": "Use Regobs wisely!",
+      "LINE_1": "Use the information in the app, but also make your own judgments. View the observations in context of the observer's competence that appears as stars by the name."
+    },
     "I_UNDERSTAND": "Okej, jag förstår",
     "PAGE_1": {
       "HEADER": "Planera säkra resor!",
@@ -604,6 +631,7 @@
     "SKIP_START": "Hoppa över"
   },
   "SUPPORT_MAP": {
+    "ABOUT": "About maps",
     "CAUTION_AREA": "Varningsområde",
     "CLAY_DANGER_ZONE": "Faranivå",
     "CLAY_LEGEND_TEXT_1": "Kvicklera-punkt (SVV)",
@@ -640,12 +668,20 @@
     "ICE_LEGEND_TEXT_6": "Rörledning",
     "ICE_LEGEND_TEXT_7": "Kraftverkstunnel",
     "ICE_MAP_DESCRIPTION": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av reglering vid vattenkraftsproduktion",
+    "INFO_PAGE": "<h1>About maps with steepness and runout zones</h1>\nThe maps are automatically produced and may contain errors. There may be steep terrain, which is not represented in the elevation model and thus not displayed in the maps.\nSome avalanches may have longer runouts that what is displayed as runout zones in the maps.\n\n<h2>What consideration to take?</h2>\nAdjust your risk by choosing where, when and how you travel. Varsom Regobs is a planning tool and its data may differ from the actual situation. Always make your own evaluation.\n \n<h2>When is it safe?</h2>\nAll travel in snow covered avalanche terrain has an element of risk.\n\n<h2>Want to learn more?</h2>\nYou may learn more by taking an avalanche safety course and on Snøskredskolen on Varsom.no.",
     "LOW": "Låg",
     "MARITINE_BORDER": "Havsgräns",
     "MIDDLE": "Medel",
     "NO_OPACITY": "Solid",
+    "READ_MORE": "Read more about maps",
     "STEEPNESS_COLOR_INFO": "Färger anger branthet i terrängen i grader:",
     "STEEPNESS_MAP_DESCRIPTION": "Lutningskarta",
+    "STEEPNESS_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain not displayed.",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Short runouts (50% of the avalanches reach farther)",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Medium runouts (25% of the avalanches reach farther)",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Long runouts (5% of the avalanches reach farther)\nSome avalanches may have longer runouts that displayed as runout zones in the map.",
+    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "Steepness map with runout zones",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain or runouts not displayed.\n<br/>\n<br/>\nColours give runout zones for avalanches:",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Försvagad is"
   },
   "TABS": {
