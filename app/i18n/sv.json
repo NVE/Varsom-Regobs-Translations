@@ -1,9 +1,9 @@
 {
   "ABONNER_BANNER": {
-    "BANNER_TEXT_LINE_1": "Get alerts from Varsom sent to SMS or e-mail.",
-    "BANNER_TEXT_LINE_2": "Set up or manage your alerts here.",
+    "BANNER_TEXT_LINE_1": "",
+    "BANNER_TEXT_LINE_2": "",
     "LINK_TEXT": "Gå till abonner.varsom.no",
-    "TITLE": "Varsom Abonner"
+    "TITLE": ""
   },
   "ADD_MENU": {
     "DRAFT": "Utkast",
@@ -15,7 +15,7 @@
     "DEFAULT_HEADER": "Hoppsan!",
     "FINE": "Okej",
     "NO_THANKS": "Nej tack",
-    "OK": "Ok",
+    "OK": "",
     "PULL_TO_REFRESH": "Dra för att uppdatera ...",
     "UNDO": "Ångra",
     "WARNING": "Varning"
@@ -53,7 +53,7 @@
     "NEXT": "Nästa",
     "NO": "Nej",
     "OF": "Av",
-    "OK": "Ok",
+    "OK": "",
     "OK_BACK": "Okej, tillbaka till översikten",
     "PREVIOUS": "Föregående",
     "RESET": "Återställ",
@@ -61,10 +61,10 @@
   },
   "DIRECTION": {
     "E": "O",
-    "N": "N",
+    "N": "",
     "NE": "NO",
     "NW": "NV",
-    "S": "S",
+    "S": "",
     "SE": "SO",
     "SW": "SV",
     "W": "V"
@@ -109,11 +109,11 @@
     "ABOVE_SEA_LEVEL": "möh",
     "COPIED_TO_CLIPBOARD": "Kopierade till urklipp",
     "EAST_SHORT": "O",
-    "NORTH_SHORT": "N"
+    "NORTH_SHORT": ""
   },
   "MAP_ITEM_BAR": {
     "AWAY": "Iväg",
-    "OBSERVATION": "Observation"
+    "OBSERVATION": ""
   },
   "MAP_SEARCH": {
     "SEARCH_HISTORY_HEADER": "Senaste sökningar",
@@ -149,7 +149,7 @@
       "ONLY_KARTVERKET": "Kartverket (bara Norge)",
       "OPEN_TOPO": "OpenTopo (värld)"
     },
-    "TIME_FRAME": "Period",
+    "TIME_FRAME": "",
     "TODAYS_OBSERVATIONS": "Endast dagens observationer",
     "TOPO_MAP_CREDITS": "Topografisk karta tillhandahållen av",
     "UPDATE_OBSERVATIONS": "Uppdaterad",
@@ -180,25 +180,25 @@
     "TITLE": "Offline kartor"
   },
   "PERMISSION": {
-    "LOCATION_DENIED_HEADER": "Permission to location denied",
-    "LOCATION_DENIED_MESSAGE": "Cannot show location in map without permission."
+    "LOCATION_DENIED_HEADER": "",
+    "LOCATION_DENIED_MESSAGE": ""
   },
   "POPUP_DISCLAMER": {
     "ABOUT_OBSERVATIONS": {
-      "HEADER": "About observations",
-      "MESSAGE": "Use observations at your own risk, produced by the users  and is available «as is».\nNVE makes no warranties for errors, omissions and assessments produced by the users.\nConsider the observations in light of the competence of the observer, as shown by stars next to the name."
+      "HEADER": "",
+      "MESSAGE": ""
     },
     "ABOUT_SUPPORT_MAPS": {
-      "HEADER": "About maps",
-      "MESSAGE": "Use the maps at your own risk and always make your own evaluation. The maps may contain errors and omissions."
+      "HEADER": "",
+      "MESSAGE": ""
     },
-    "OK_I_UNDERSTAND": "OK, I understand"
+    "OK_I_UNDERSTAND": ""
   },
   "REGISTRATION": {
     "ADD_IMAGES": "Lägg till foton",
     "ADD_WEB_URL": {
       "TITLE": "Lägg till en webblänk",
-      "URL": "Url"
+      "URL": ""
     },
     "BACK_TO_OBSERVATION": "Tillbaka till min observation",
     "CONFIRM_RESET": "Är du säker på att du vill återställa alla fält?",
@@ -308,7 +308,7 @@
       "IMAGE_PLACEHOLDER": "+ Lägg till bildbeskrivning",
       "TITLE": "Olycka / tillbud"
     },
-    "INVALID_IMAGE": "Sorry, this is an invalid image",
+    "INVALID_IMAGE": "",
     "IN_CM": "I centimeter",
     "IN_FULL_CM": "I hela centimeter",
     "NONE": "Ej vald",
@@ -323,7 +323,7 @@
       "DATE_AND_TIME": "Datum och tid",
       "MY_OBSERVATION": "Min observation",
       "SHARE_WITH_GROUP": "Dela med gruppen",
-      "TITLE": "Observation"
+      "TITLE": ""
     },
     "REQUIRED_FIELDS_MISSING": "Vissa fält är ogiltiga. Vill du återställa formuläret och gå tillbaka?",
     "RESEND": "Försök skicka igen",
@@ -424,7 +424,7 @@
           "EMPTY": "Nej",
           "INCLUDE_IN_SNOW_PROFILE": "Inkludera i snöprofil",
           "MULTIPLE_TESTS": "tester",
-          "SINGLE_TEST": "test",
+          "SINGLE_TEST": "",
           "TITLE": "Tester"
         },
         "GENERATING_PREVIEW": "Genererar förhandsvisning ..",
@@ -433,7 +433,7 @@
         "PREVIEW_ERROR": "Det gick inte att generera förhandsvisning",
         "PREVIEW_ITEM": "Se snöprofil",
         "SNOW_DENSITY": {
-          "CYLINDER": "Cylinder",
+          "CYLINDER": "",
           "CYLINDER_DIAMETER": "Cylinderdiameter (cm)",
           "CYLINDER_METHOD": "Använd cylinder",
           "DENSITY": "Densitet (kg/m³)",
@@ -564,12 +564,12 @@
     }
   },
   "SETTINGS": {
-    "ALLOW_ANALYTICS": "Allow sending app usage data",
-    "ALLOW_ANALYTICS_DESCRIPTION": "Help us improve Varsom Regobs by letting us know how you use the application.",
-    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "This data is anonymous and cannot be linked to you personally.",
-    "ALLOW_ANALYTICS_HEADER": "Share usage statistics",
+    "ALLOW_ANALYTICS": "",
+    "ALLOW_ANALYTICS_DESCRIPTION": "",
+    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "",
+    "ALLOW_ANALYTICS_HEADER": "",
     "APPMODE": "Appläge",
-    "APP_VERSION": "App version",
+    "APP_VERSION": "",
     "CONFIRM_RESET": "Är du säker på att du vill återställa appen?",
     "COUNTRY": "Land",
     "DROPDOWNS_FAILED": "Det gick inte att uppdatera rullgardinsmenyerna. Kontrollera om du har ett nätverk och försök igen senare.",
@@ -579,7 +579,7 @@
     "LANGUAGE": "Språk",
     "NORWAY_ONLY": "Endast i Norge",
     "NUMBER_OF_TILES_IN_CACHE": "Maximalt antal kartblad offline",
-    "READ_MORE_IN_LICENSE_AGREEMENT": "You can read about our use of data in our privacy policy.",
+    "READ_MORE_IN_LICENSE_AGREEMENT": "",
     "RESET": "Återställ app",
     "RESETTING": "App återställs. Vänta ...",
     "SHOW_ADVANCED": "Visa avancerade inställningar",
@@ -607,8 +607,8 @@
       "NORWEGIAN_SECONDARY_LANGUAGE": "Norwegian"
     },
     "COMPETENCE_PAGE": {
-      "HEADER": "Use Regobs wisely!",
-      "LINE_1": "Use the information in the app, but also make your own judgments. View the observations in context of the observer's competence that appears as stars by the name."
+      "HEADER": "",
+      "LINE_1": ""
     },
     "I_UNDERSTAND": "Okej, jag förstår",
     "PAGE_1": {
@@ -631,7 +631,7 @@
     "SKIP_START": "Hoppa över"
   },
   "SUPPORT_MAP": {
-    "ABOUT": "About maps",
+    "ABOUT": "",
     "CAUTION_AREA": "Varningsområde",
     "CLAY_DANGER_ZONE": "Faranivå",
     "CLAY_LEGEND_TEXT_1": "Kvicklera-punkt (SVV)",
@@ -668,20 +668,20 @@
     "ICE_LEGEND_TEXT_6": "Rörledning",
     "ICE_LEGEND_TEXT_7": "Kraftverkstunnel",
     "ICE_MAP_DESCRIPTION": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av reglering vid vattenkraftsproduktion",
-    "INFO_PAGE": "<h1>About maps with steepness and runout zones</h1>\nThe maps are automatically produced and may contain errors. There may be steep terrain, which is not represented in the elevation model and thus not displayed in the maps.\nSome avalanches may have longer runouts that what is displayed as runout zones in the maps.\n\n<h2>What consideration to take?</h2>\nAdjust your risk by choosing where, when and how you travel. Varsom Regobs is a planning tool and its data may differ from the actual situation. Always make your own evaluation.\n \n<h2>When is it safe?</h2>\nAll travel in snow covered avalanche terrain has an element of risk.\n\n<h2>Want to learn more?</h2>\nYou may learn more by taking an avalanche safety course and on Snøskredskolen on Varsom.no.",
+    "INFO_PAGE": "",
     "LOW": "Låg",
     "MARITINE_BORDER": "Havsgräns",
     "MIDDLE": "Medel",
-    "NO_OPACITY": "Solid",
-    "READ_MORE": "Read more about maps",
+    "NO_OPACITY": "",
+    "READ_MORE": "",
     "STEEPNESS_COLOR_INFO": "Färger anger branthet i terrängen i grader:",
     "STEEPNESS_MAP_DESCRIPTION": "Lutningskarta",
-    "STEEPNESS_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain not displayed.",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Short runouts (50% of the avalanches reach farther)",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Medium runouts (25% of the avalanches reach farther)",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Long runouts (5% of the avalanches reach farther)\nSome avalanches may have longer runouts that displayed as runout zones in the map.",
-    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "Steepness map with runout zones",
-    "STEEPNESS_OUTLET_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain or runouts not displayed.\n<br/>\n<br/>\nColours give runout zones for avalanches:",
+    "STEEPNESS_MAP_DISCLAMER": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "",
+    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Försvagad is"
   },
   "TABS": {
@@ -712,7 +712,7 @@
     "NOT_STARTED": "Ny tur",
     "PAUSED": "Pausad",
     "RUNNING": "GPS-registrering pågår",
-    "START": "Start",
+    "START": "",
     "STOP": "Stopp",
     "STOPPED": "Tur stoppad och slutförd"
   },
