@@ -1,33 +1,33 @@
 {
   "AddObsDetails": {
-    "Add": "Add",
-    "HideHelptext": "Hide helptext"
+    "Add": "",
+    "HideHelptext": ""
   },
   "AppearanceName": "Aussehen:",
   "Attachment": {
-    "Attachment": "Attachment",
-    "DropzoneText": "Drag files here to upload, or click to select",
-    "NoDescription": "No description"
+    "Attachment": "",
+    "DropzoneText": "",
+    "NoDescription": ""
   },
   "COMPASS_DIRECTION": {
-    "EAST": "East",
-    "EAST_SHORT": "E",
-    "NORTH": "North",
-    "NORTH_EAST": "North-East",
-    "NORTH_EAST_SHORT": "NE",
-    "NORTH_SHORT": "N",
-    "NORTH_WEST": "North-West",
-    "NORTH_WEST_SHORT": "NW",
-    "SOUTH": "South",
-    "SOUTH_EAST": "South-East",
-    "SOUTH_EAST_SHORT": "SE",
-    "SOUTH_SHORT": "S",
-    "SOUTH_WEST": "South-West",
-    "SOUTH_WEST_SHORT": "SW",
-    "WEST": "West",
-    "WEST_SHORT": "W"
+    "EAST": "",
+    "EAST_SHORT": "",
+    "NORTH": "",
+    "NORTH_EAST": "",
+    "NORTH_EAST_SHORT": "",
+    "NORTH_SHORT": "",
+    "NORTH_WEST": "",
+    "NORTH_WEST_SHORT": "",
+    "SOUTH": "",
+    "SOUTH_EAST": "",
+    "SOUTH_EAST_SHORT": "",
+    "SOUTH_SHORT": "",
+    "SOUTH_WEST": "",
+    "SOUTH_WEST_SHORT": "",
+    "WEST": "",
+    "WEST_SHORT": ""
   },
-  "Cancel": "Cancel",
+  "Cancel": "",
   "ChangePassword": "Passwort ändern",
   "Chip": {
     "GoToObservation": "Zur Beobachtung gehen",
@@ -38,7 +38,7 @@
     "AboutUseSecondParagraph": "Grundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f der Datenschutzrichtlinie, der es uns ermöglicht, Informationen zu verarbeiten, die zur Wahrung eines Interesses erforderlich sind, das die Privatsphäre des Einzelnen überwiegt. Es ist daher wichtig, dass unsere Website gut funktioniert, damit Sie eine gute Benutzererfahrung erzielen.",
     "AboutUseThirdParagraph": "Regobs verwendet keine Cookies, um die Nutzungsmuster einzelner Benutzer oder andere Informationen abzubilden, die ihre Privatsphäre verletzen könnten.",
     "CookiesDescription": "In der folgenden Tabelle ist aufgeführt, welche Cookies beta.regobs.no verwendet, welche Daten gespeichert werden und warum die Website sie benötigt.",
-    "Customize": "Customize",
+    "Customize": "",
     "CustomizeDescription": "Die meisten modernen Browser (Google Chrome, Internet Explorer, Firefox, Safari, Opera usw.) akzeptieren Cookies automatisch. Sie können jedoch Ihre Einstellungen so ändern, dass Cookies nicht akzeptiert werden. Wir weisen darauf hin, dass dies dazu führen kann, dass regobs.no nicht optimal funktioniert.",
     "DataProcessorColumnLabel": "Datenprozessor",
     "DescriptionColumnLabel": "Beschreibung",
@@ -49,38 +49,38 @@
       "__utmt": "Wird verwendet, um Anforderungen zu drosseln.",
       "__utmz": "Wird verwendet, um zu speichern, wie der Benutzer auf die Site gelangt ist."
     },
-    "DomainColumnLabel": "Domain",
+    "DomainColumnLabel": "",
     "HowToAdminister": "erklärt, wie Sie Cookies selbst verwalten können.",
-    "Label": "Cookies",
-    "NameColumnLabel": "Cookie",
+    "Label": "",
+    "NameColumnLabel": "",
     "TheWebsite": "Die Webseite",
     "Title": "Verwendung von Cookies"
   },
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
-  "Date": "date",
+  "Date": "",
   "Dialogs": {
     "Buttons": {
-      "AddForm": "Add form",
-      "Back": "Back",
-      "Next": "OK"
+      "AddForm": "",
+      "Back": "",
+      "Next": ""
     },
     "Location": {
-      "Description": "Place the observation on the map. Find the location by searching, or zoom with the plus and minus buttons.",
-      "DescriptionMobile": "Place the observation on the map.",
-      "EditName": "Set location name",
-      "EditNameLabel": "Location name",
-      "Title": "Where was the observation made?"
+      "Description": "",
+      "DescriptionMobile": "",
+      "EditName": "",
+      "EditNameLabel": "",
+      "Title": ""
     },
     "Time": {
-      "AdditionalInformation": "Additional information",
-      "Description": "Enter the time the observation was made. Use local time at the observation site.",
-      "Share": "Share with group",
-      "Title": "When was the observation made?"
+      "AdditionalInformation": "",
+      "Description": "",
+      "Share": "",
+      "Title": ""
     }
   },
-  "Email": "Email",
+  "Email": "",
   "Footer": {
     "AboutDataInRegObs": "Über Daten in regObs",
     "AboutRegObsHeader": "Über Regobs",
@@ -99,7 +99,7 @@
     "NveVarsom": "Der Erdrutschalarm und die Hochwasserwarnung bei NVE sind Teil mehrerer Tools, die wir zusammen mit varsom.no eingerichtet haben.",
     "OtherToolsHeader": "Andere Werkzeuge",
     "ReadMoreAboutRegobs": "Lesen Sie mehr über regObs",
-    "RegObsContactEmail": "Kontaktepost@regobs.no",
+    "RegObsContactEmail": "",
     "RegObsCovers": "Es umfasst die Schneefallwarnung, die Eiswarnung, die Erdrutschwarnung und die Hochwasserwarnung.",
     "RegObsFacebook": "Profigruppe regObs auf Facebook",
     "RegObsGatheringPlace": "regObs ist ein Sammelort von Beobachtungen und Ereignissen zur Alarmierung und Notfallvorsorge.",
@@ -123,7 +123,7 @@
   "GoToObservation": "Zur Beobachtung",
   "GoToReportPage": "Gehe zur Berichtsansicht",
   "HeightKey": "Hoch",
-  "Home": "Home",
+  "Home": "",
   "HomeLocationSearch": {
     "All": "Alle",
     "Change": "Bearbeiten",
@@ -132,8 +132,8 @@
     "NoMaps": "Keine Kartenunterstützung",
     "Search": "Suche"
   },
-  "Information": "Information",
-  "InvalidDate": "Invalid date",
+  "Information": "",
+  "InvalidDate": "",
   "LanguageLabel": "Sprache:",
   "Login": {
     "CreateNewRegObsUser": "Erstellen Sie hier einen regObs-Benutzer",
@@ -257,14 +257,14 @@
       "ShowObservationsInMap": "Wasser- und Bodenbeobachtungen und Hochwassergebietskarte"
     }
   },
-  "No": "No",
-  "Now": "now",
+  "No": "",
+  "Now": "",
   "ObservationCard": {
     "AboveSeaLevel": "m ü. A.",
     "Download": "Herunterladen",
     "ForecastRegion": "Prognoseregion",
     "Forms": "Formulare",
-    "ObsId": "ID:",
+    "ObsId": "",
     "Observed": "Beobachtet:",
     "Original": "Original ansehen",
     "Registered": "Eingetragen:",
@@ -273,7 +273,7 @@
   },
   "Observations": {
     "AvalancheActivityObs": {
-      "Aspect": "Exposition",
+      "Aspect": "",
       "AvalancheTID": "Art",
       "AvalancheTriggerTID": "Auslöseart",
       "Comment": "Kommentar",
@@ -317,7 +317,7 @@
       "AvalancheProblemTID3": "Lawinenproblem 3",
       "Comment": "Entwicklung",
       "ObsName": "Lawinenbewertung",
-      "ValidExposition": "Exposition"
+      "ValidExposition": ""
     },
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Gefahrenstufe",
@@ -349,13 +349,13 @@
       "ObsName": "Lawinenbeobachtung",
       "TerrainStartZoneTID": "Anrissgebiet Gelände",
       "Trajectory": "Sturzbahn",
-      "ValidExposition": "Exposition"
+      "ValidExposition": ""
     },
     "CompressionTest": {
       "Comment": "Kommentar",
       "ObsName": "Kompressionstest",
       "StabilityEvalTID": "Stabilität",
-      "Test": "Test"
+      "Test": ""
     },
     "DamageObs": {
       "Comment": "Kommentar",
@@ -363,45 +363,45 @@
       "ObsName": "Schadensbeobachtung"
     },
     "DangerObs": {
-      "Area": "Area",
+      "Area": "",
       "Comment": "Kommentar",
       "DangerSignTName": "Gefahrenart",
-      "NewDangerSign": "Add danger sign",
-      "NoDamageSign": "No danger signs",
+      "NewDangerSign": "",
+      "NoDamageSign": "",
       "ObsName": "Gefahrenbeobachtung",
-      "Title": "Danger Sign"
+      "Title": ""
     },
     "GeneralObservation": {
       "Comment": "Kommentar",
       "NoObservationsFound": "Keine Beobachtungen gefunden",
-      "Notes": "Notes",
-      "ObsComment": "Text",
+      "Notes": "",
+      "ObsComment": "",
       "ObsHeader": "Kopfzeile",
       "ObsName": "Allgemeine Beobachtung",
-      "Urls": "Links"
+      "Urls": ""
     },
     "IceCoverObs": {
-      "BearingStrength": "Bearing strength",
+      "BearingStrength": "",
       "Comment": "Kommentar",
-      "Description": "Description",
+      "Description": "",
       "IceCapacityTName": "Kapazität",
-      "IceCover": "Ice cover",
+      "IceCover": "",
       "IceCoverAfterTName": "Eisbedeckung vor der Beobachtung",
-      "IceCoverBeforeObservation": "Ice cover before observation",
-      "IceCoverBeforeTName": "Ice coverage before observation",
+      "IceCoverBeforeObservation": "",
+      "IceCoverBeforeTName": "",
       "IceCoverTName": "Bedeckung",
       "IceSkateabilityTName": "Belaufbarkeit",
       "ObsName": "Eisdeckenbeobachtung"
     },
     "IceThickness": {
-      "AddIceLayer": "Add ice layer",
-      "AddIceThicknessLayer": "Add ice layer",
+      "AddIceLayer": "",
+      "AddIceThicknessLayer": "",
       "Comment": "Kommentar",
-      "IceLayer": "Ice layer",
-      "IceLayerThickness": "Ice layer thickness",
+      "IceLayer": "",
+      "IceLayerThickness": "",
       "IceThicknessLayers": "Schichten (von oben nach unten)",
       "IceThicknessSum": "Gesamtdicke",
-      "IceType": "Ice type",
+      "IceType": "",
       "IsEqualToIceSurface": "ist gleich zur Eisfläche",
       "LowerThanIceSurface": "niedriger als Eisfläche ",
       "ObsName": "Eisdicke",
@@ -410,8 +410,8 @@
       "OverWaterBeforeDrilling": "Wasser vor dem Bohren",
       "SlushSnowBeforeDrilling": "Matsch vor dem Bohren",
       "SnowDepthBeforeDrilling": "Schnee vor dem Bohren.",
-      "Total": " total",
-      "TwoDecimalPlaces": "(cm, up to two decimal places)",
+      "Total": "",
+      "TwoDecimalPlaces": "",
       "WaterSurfaceInHole": "Wasseroberfläche im Loch"
     },
     "Incident": {
@@ -423,42 +423,42 @@
       "IncidentIngress": "Eintritt",
       "IncidentText": "Beschreibung",
       "ObsName": "Ereignis",
-      "Urls": "Links"
+      "Urls": ""
     },
     "LandslideObs": {
       "ActivityInfluencedTName": "Was war betroffen?",
       "And": " und ",
-      "AvalTrigger": "Landslide trigger",
+      "AvalTrigger": "",
       "Between": "Zwischen",
       "Comment": "Kommentar",
-      "DamageExtent": "Extent of damage",
+      "DamageExtent": "",
       "DamageExtentTName": "Schadensumfang",
-      "DtLandSlideTime": "When did the landslide start?",
-      "DtLandSlideTimeEnd": "When did the landslide end?",
+      "DtLandSlideTime": "",
+      "DtLandSlideTimeEnd": "",
       "ForecastAccurateTName": "War die Vorhersage korrekt?",
-      "InMap": "in map",
+      "InMap": "",
       "LandSlideSizeTName": "Größe",
       "LandSlideTName": "Erdrutschart",
       "LandSlideTriggerTName": "Auslöseart",
-      "LandslideTime": "Landslide time",
-      "LandslideType": "Landslide type",
+      "LandslideTime": "",
+      "LandslideType": "",
       "ObsName": "Erdrutschbeobachtung",
-      "Position": "Landslide position",
-      "PositionDescription": "Set the start and stop positions of the landslide.",
-      "Required": "Required",
-      "SetLandslidePosition": "Set landslide position",
-      "SetStartPosition": "Set starting position",
-      "SetStopPosition": "Set stop position",
+      "Position": "",
+      "PositionDescription": "",
+      "Required": "",
+      "SetLandslidePosition": "",
+      "SetStartPosition": "",
+      "SetStopPosition": "",
       "Time": "Zeit",
-      "TimeDescription": "Enter the time at which the landslide occurred. The time should be local time in the area of observation.",
-      "Title": "Landslide Incident",
-      "Urls": "Links"
+      "TimeDescription": "",
+      "Title": "",
+      "Urls": ""
     },
     "Picture": {
       "Aspect": "Orientierung",
       "Comment": "Kommentar",
-      "Copyright": "Copyright",
-      "Edit": "Edit picture",
+      "Copyright": "",
+      "Edit": "",
       "ObsName": "Bild",
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
@@ -477,55 +477,55 @@
       "UnderSurface": "unter der Oberfläche"
     },
     "SnowProfile": {
-      "AddLayerBottom": "Add a new layer at the bottom",
-      "AddLayerTop": "Add a new layer at the top",
-      "AddLayers": "Add layers",
-      "AddTemperature": "Add temperature",
-      "AddTests": "Add tests",
-      "Cm": "cm",
+      "AddLayerBottom": "",
+      "AddLayerTop": "",
+      "AddLayers": "",
+      "AddTemperature": "",
+      "AddTests": "",
+      "Cm": "",
       "Comment": "Kommentar",
       "CompressionTest": "Kompressionstest",
       "CompresstionTestConnectedToProfile": "Kompressionstest mit Schneeprofil",
       "Density": {
-        "AddDensity": "Add density",
-        "Average": "Average",
-        "CylinderBoreDiam": "Cylinder bore diameter (cm)",
-        "Density": "Density",
-        "DensityLabel": "Density (kg/m3)",
-        "Height": "Height (cm)",
-        "Layer": "Layer",
-        "Method": "Method",
-        "Sum": "Sum",
-        "Summary": "Summary",
-        "TareWeight": "Tare weight (g)",
-        "UseCylinder": "Use cylinder",
-        "WaterEquivalent": "Water equivalent (mm)",
-        "Weight": "Weight (g)"
+        "AddDensity": "",
+        "Average": "",
+        "CylinderBoreDiam": "",
+        "Density": "",
+        "DensityLabel": "",
+        "Height": "",
+        "Layer": "",
+        "Method": "",
+        "Sum": "",
+        "Summary": "",
+        "TareWeight": "",
+        "UseCylinder": "",
+        "WaterEquivalent": "",
+        "Weight": ""
       },
-      "DepthPlaceholder": "Depth (cm)",
-      "IsProfileDugToTheGround": "Is the profile dug to the ground?",
-      "Layers": "Layers",
+      "DepthPlaceholder": "",
+      "IsProfileDugToTheGround": "",
+      "Layers": "",
       "LayersObserved": "Schichten beobachtet",
-      "Main": "Main",
+      "Main": "",
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Schichten",
-      "SumOfAllLayers": "Sum of all layers:",
-      "TemperaturePlaceholder": "Temperature (°C)",
-      "TemperatureProfile": "Temperature profile",
+      "SumOfAllLayers": "",
+      "TemperaturePlaceholder": "",
+      "TemperatureProfile": "",
       "Test": {
-        "Add": "Add",
-        "AddTest": "Add test",
-        "DistanceFromTop": "Distance from top (cm)",
-        "FractureType": "Fracture type",
-        "Include": "Include in snow profile",
-        "NumberOfHits": "Number of hits",
-        "Stability": "Stability",
-        "Tests": "tests",
-        "TestsWillAppearHere": "Tests you have added will appear here",
-        "Type": "Test type",
-        "Update": "Update test"
+        "Add": "",
+        "AddTest": "",
+        "DistanceFromTop": "",
+        "FractureType": "",
+        "Include": "",
+        "NumberOfHits": "",
+        "Stability": "",
+        "Tests": "",
+        "TestsWillAppearHere": "",
+        "Type": "",
+        "Update": ""
       }
     },
     "SnowSurfaceObservation": {
@@ -543,7 +543,7 @@
       "SnowSurfaceTName": "Härte der Schneeoberfläche",
       "SurfaceRougnessTName": "Oberflächenrauheit",
       "SurfaceWaterContentTName": "Schneewassergehalt",
-      "Total": "total"
+      "Total": ""
     },
     "WaterLevel": {
       "AppliesFor": "Gilt für",
@@ -564,7 +564,7 @@
       "ObsName": "Wasserstand",
       "ObservationTimingTName": "Was ist zugelassen?",
       "WaterAstrayTName": "Geht Wasser verloren?",
-      "WaterLevelStateTName": "Situation",
+      "WaterLevelStateTName": "",
       "WaterMarking": "Wasserzeichen",
       "WaterMeasurement": "Wassermessung",
       "WaterMeasurementValue": "Wassermesswert",
@@ -582,11 +582,11 @@
     }
   },
   "Of": "von",
-  "Ok": "Ok",
+  "Ok": "",
   "Password": "Passwort",
   "PictureCarousel": {
     "Comment": "Kommentar",
-    "Copyright": "Copyright",
+    "Copyright": "",
     "Image": "Bild",
     "ObservedLocation": "Beobachtungsort",
     "Of": "von"
@@ -595,38 +595,38 @@
   "PictureMode": "Bilder",
   "Reg": {
     "ObservedTime": "Beobachtet",
-    "ObserverNickName": "Nickname",
+    "ObserverNickName": "",
     "RegisteredTime": "Eingetragen",
     "UpdatedTime": "Aktualisiert"
   },
   "Register": "Benutzer erstellen",
   "RegistrationEdit": {
-    "AddForm": "Add form",
-    "DeleteObservation": "Delete observation",
-    "Discard": "Discard",
-    "Done": "Done",
-    "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
-    "SaveAsDraft": "Save as draft?",
-    "SaveDraft": "Save draft",
-    "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
-    "SyncInProgress": "Sync in progress:"
+    "AddForm": "",
+    "DeleteObservation": "",
+    "Discard": "",
+    "Done": "",
+    "FormInfo": "",
+    "SaveAsDraft": "",
+    "SaveDraft": "",
+    "SaveDraftMessage": "",
+    "SyncInProgress": ""
   },
   "RegistrationKeyInfo": {
-    "Accuracy": "Accuracy",
-    "Edit": "Edit",
-    "MetersAboveSeaLevel": "Meters above sea level",
-    "Municipal": "Municipal",
-    "Source": "Source",
-    "WarningRegion": "Warning region"
+    "Accuracy": "",
+    "Edit": "",
+    "MetersAboveSeaLevel": "",
+    "Municipal": "",
+    "Source": "",
+    "WarningRegion": ""
   },
   "RememberMe": "Mich erinnern",
-  "RequiredField": "*Required field",
-  "RequiredFieldError": "This field is required",
-  "Reset": "Reset",
+  "RequiredField": "",
+  "RequiredFieldError": "",
+  "Reset": "",
   "Routes": {
     "About": "Über",
-    "Cookies": "Cookies",
-    "Home": "Home"
+    "Cookies": "",
+    "Home": ""
   },
   "Search": {
     "Criterias": {
@@ -649,7 +649,7 @@
         "CompetenceFilter": "Kompetenz",
         "CompetenceLevelExplanation": "Kompetenzniveau Erklärung",
         "Label": "Beobachter",
-        "MyObservations": "My observations",
+        "MyObservations": "",
         "ObserverNickNamePlaceholder": "Suche nach Beobachter-Spitznamen",
         "SearchInCompetences": "Suche nach Benutzerkompetenz: ",
         "SearchNickName": "Namenssuche"
@@ -746,31 +746,31 @@
     "CompleteKey": "Vollständig",
     "ShortKey": "Kurz"
   },
-  "Time": "time",
+  "Time": "",
   "Unknown": "Unbekannt",
   "Url": {
-    "Add": "Add web URL",
-    "Delete": "Delete",
-    "Description": "Description",
-    "Edit": "Edit",
-    "EditUrl": "Edit web URL",
-    "Url": "URL",
-    "WebUrl": "Web URL"
+    "Add": "",
+    "Delete": "",
+    "Description": "",
+    "Edit": "",
+    "EditUrl": "",
+    "Url": "",
+    "WebUrl": ""
   },
   "UserMenu": {
     "Language": "SPRACHE",
     "Page": "Seite",
-    "Regobs": "REGOBS",
+    "Regobs": "",
     "User": "BENUTZER"
   },
-  "Yes": "Yes",
+  "Yes": "",
   "from": "von",
   "is": "Eis",
   "jord": "Erdrutsch",
   "metersOverSeaLevel": "m ü. A.",
   "observation": " Beobachtungen",
   "observations": "Beobachtung(en)",
-  "picture": "picture",
+  "picture": "",
   "snø": "Schnee",
   "to": "bis",
   "vann": "Hochwasser"
