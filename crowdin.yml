@@ -18,6 +18,18 @@ files:
     # e.g. "/resources/%two_letters_code%/%original_file_name%"
     translation: /app/native-dialogs/%two_letters_code%.%file_extension%
     type: json
+
+  - source: /app/i18n/en.json
+    # where translations live
+    # e.g. "/resources/%two_letters_code%/%original_file_name%"
+    translation: /app/i18n/%two_letters_code%.%file_extension%
+    type: json
+
+  - source: /web/en.json
+    # where translations live
+    # e.g. "/resources/%two_letters_code%/%original_file_name%"
+    translation: /web/%two_letters_code%.%file_extension%
+    type: json
 #
 # files or directories for ignore
 # e.g. ["/**/?.txt", "/**/[0-9].txt", "/**/*\?*.txt"]
