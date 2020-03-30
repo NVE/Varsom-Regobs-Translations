@@ -532,7 +532,7 @@
         "CAN_YOU_SEE_DAMAGE": "",
         "COMMENT": "",
         "COMMENT_PLACEHOLDER": "",
-        "IMAGE_OF_DAMAGES": "",
+        "IMAGE_OF_DAMAGES": "Bilder av skaden(e)",
         "TITLE": "",
         "WHAT_IS_DAMAGED": "",
         "WHERE_IS_DAMAGE_LOCATION": ""
@@ -668,7 +668,7 @@
     "ICE_LEGEND_TEXT_6": "",
     "ICE_LEGEND_TEXT_7": "",
     "ICE_MAP_DESCRIPTION": "",
-    "INFO_PAGE": "",
+    "INFO_PAGE": "<h1>Om kart med bratthet og utløp</h1>\nKartene er automatisk generert og kan inneholde feil. Det kan eksistere bratte heng som høydemodellen ikke plukker opp og derfor ikke vises på kartet.\nNoen skred kan gå lenger enn det som er markert som utløpsområde i kartet.\n\n<h2>Hvilke hensyn må tas?</h2>\nTilpass egen risiko ved å velge hvor, når og hvordan du ferdes.  Varsom Regobs er et hjelpemiddel, ikke en fasit. Gjør alltid egne vurderinger.\n \n<h2>Når er det trygt?</h2>\nAll ferdsel i snødekt skredterreng er forbundet med risiko. \n\n<h2>Lære mer?</h2>\nDu kan lære mer på skredkurs og Snøskredskolen på Varsom.no.",
     "LOW": "",
     "MARITINE_BORDER": "",
     "MIDDLE": "",
@@ -693,7 +693,7 @@
   "TRIP": {
     "COMMENT_DESCRIPTION": "",
     "END_ERROR": "",
-    "ERROR": "",
+    "ERROR": "Klarte ikke starte tur. Vennligst prøv igjen.",
     "ERROR_POSITION": "",
     "LEGACY_HELP_TEXT": "",
     "ONGOING_TRIP": "",
@@ -703,7 +703,7 @@
     "STOP_TRIP": "",
     "TITLE": "",
     "TRIP": "",
-    "TRIP_END_DESCRIPTION": "",
+    "TRIP_END_DESCRIPTION": "Observasjoner ventes før kl.",
     "TRIP_TYPE": ""
   },
   "TRIP_LOG": {
