@@ -601,6 +601,17 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
+  "RegistrationEdit": {
+    "AddForm": "Legg til skjema",
+    "DeleteObservation": "Slett observasjon",
+    "Discard": "Forkast",
+    "Done": "Ferdig",
+    "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst et skjema for at observasjonen skal bli registrert.",
+    "SaveAsDraft": "Lagre som kladd?",
+    "SaveDraft": "Lagre kladd",
+    "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
+    "SyncInProgress": "Synkronisering pågår:"
+  },
   "RegistrationKeyInfo": {
     "Accuracy": "Nøyaktighet",
     "Edit": "Rediger",
