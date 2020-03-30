@@ -1,7 +1,33 @@
 {
+  "AddObsDetails": {
+    "Add": "",
+    "HideHelptext": ""
+  },
   "AppearanceName": "Aussehen:",
-  "COMPASS_DIRECTION": {},
-  "Cancel": "Cancel",
+  "Attachment": {
+    "Attachment": "",
+    "DropzoneText": "",
+    "NoDescription": ""
+  },
+  "COMPASS_DIRECTION": {
+    "EAST": "",
+    "EAST_SHORT": "",
+    "NORTH": "",
+    "NORTH_EAST": "",
+    "NORTH_EAST_SHORT": "",
+    "NORTH_SHORT": "",
+    "NORTH_WEST": "",
+    "NORTH_WEST_SHORT": "",
+    "SOUTH": "",
+    "SOUTH_EAST": "",
+    "SOUTH_EAST_SHORT": "",
+    "SOUTH_SHORT": "",
+    "SOUTH_WEST": "",
+    "SOUTH_WEST_SHORT": "",
+    "WEST": "",
+    "WEST_SHORT": ""
+  },
+  "Cancel": "",
   "ChangePassword": "Passwort ändern",
   "Chip": {
     "GoToObservation": "Zur Beobachtung gehen",
@@ -12,7 +38,7 @@
     "AboutUseSecondParagraph": "Grundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f der Datenschutzrichtlinie, der es uns ermöglicht, Informationen zu verarbeiten, die zur Wahrung eines Interesses erforderlich sind, das die Privatsphäre des Einzelnen überwiegt. Es ist daher wichtig, dass unsere Website gut funktioniert, damit Sie eine gute Benutzererfahrung erzielen.",
     "AboutUseThirdParagraph": "Regobs verwendet keine Cookies, um die Nutzungsmuster einzelner Benutzer oder andere Informationen abzubilden, die ihre Privatsphäre verletzen könnten.",
     "CookiesDescription": "In der folgenden Tabelle ist aufgeführt, welche Cookies beta.regobs.no verwendet, welche Daten gespeichert werden und warum die Website sie benötigt.",
-    "Customize": "Customize",
+    "Customize": "",
     "CustomizeDescription": "Die meisten modernen Browser (Google Chrome, Internet Explorer, Firefox, Safari, Opera usw.) akzeptieren Cookies automatisch. Sie können jedoch Ihre Einstellungen so ändern, dass Cookies nicht akzeptiert werden. Wir weisen darauf hin, dass dies dazu führen kann, dass regobs.no nicht optimal funktioniert.",
     "DataProcessorColumnLabel": "Datenprozessor",
     "DescriptionColumnLabel": "Beschreibung",
@@ -23,17 +49,38 @@
       "__utmt": "Wird verwendet, um Anforderungen zu drosseln.",
       "__utmz": "Wird verwendet, um zu speichern, wie der Benutzer auf die Site gelangt ist."
     },
-    "DomainColumnLabel": "Domain",
+    "DomainColumnLabel": "",
     "HowToAdminister": "erklärt, wie Sie Cookies selbst verwalten können.",
-    "Label": "Cookies",
-    "NameColumnLabel": "Cookie",
+    "Label": "",
+    "NameColumnLabel": "",
     "TheWebsite": "Die Webseite",
     "Title": "Verwendung von Cookies"
   },
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
-  "Email": "Email",
+  "Date": "",
+  "Dialogs": {
+    "Buttons": {
+      "AddForm": "",
+      "Back": "",
+      "Next": ""
+    },
+    "Location": {
+      "Description": "",
+      "DescriptionMobile": "",
+      "EditName": "",
+      "EditNameLabel": "",
+      "Title": ""
+    },
+    "Time": {
+      "AdditionalInformation": "",
+      "Description": "",
+      "Share": "",
+      "Title": ""
+    }
+  },
+  "Email": "",
   "Footer": {
     "AboutDataInRegObs": "Über Daten in regObs",
     "AboutRegObsHeader": "Über Regobs",
@@ -52,7 +99,7 @@
     "NveVarsom": "Der Erdrutschalarm und die Hochwasserwarnung bei NVE sind Teil mehrerer Tools, die wir zusammen mit varsom.no eingerichtet haben.",
     "OtherToolsHeader": "Andere Werkzeuge",
     "ReadMoreAboutRegobs": "Lesen Sie mehr über regObs",
-    "RegObsContactEmail": "Kontaktepost@regobs.no",
+    "RegObsContactEmail": "",
     "RegObsCovers": "Es umfasst die Schneefallwarnung, die Eiswarnung, die Erdrutschwarnung und die Hochwasserwarnung.",
     "RegObsFacebook": "Profigruppe regObs auf Facebook",
     "RegObsGatheringPlace": "regObs ist ein Sammelort von Beobachtungen und Ereignissen zur Alarmierung und Notfallvorsorge.",
@@ -76,7 +123,7 @@
   "GoToObservation": "Zur Beobachtung",
   "GoToReportPage": "Gehe zur Berichtsansicht",
   "HeightKey": "Hoch",
-  "Home": "Home",
+  "Home": "",
   "HomeLocationSearch": {
     "All": "Alle",
     "Change": "Bearbeiten",
@@ -85,7 +132,8 @@
     "NoMaps": "Keine Kartenunterstützung",
     "Search": "Suche"
   },
-  "Information": "Information",
+  "Information": "",
+  "InvalidDate": "",
   "LanguageLabel": "Sprache:",
   "Login": {
     "CreateNewRegObsUser": "Erstellen Sie hier einen regObs-Benutzer",
@@ -209,12 +257,14 @@
       "ShowObservationsInMap": "Wasser- und Bodenbeobachtungen und Hochwassergebietskarte"
     }
   },
+  "No": "",
+  "Now": "",
   "ObservationCard": {
     "AboveSeaLevel": "m ü. A.",
     "Download": "Herunterladen",
     "ForecastRegion": "Prognoseregion",
     "Forms": "Formulare",
-    "ObsId": "ID:",
+    "ObsId": "",
     "Observed": "Beobachtet:",
     "Original": "Original ansehen",
     "Registered": "Eingetragen:",
@@ -223,7 +273,7 @@
   },
   "Observations": {
     "AvalancheActivityObs": {
-      "Aspect": "Exposition",
+      "Aspect": "",
       "AvalancheTID": "Art",
       "AvalancheTriggerTID": "Auslöseart",
       "Comment": "Kommentar",
@@ -267,7 +317,7 @@
       "AvalancheProblemTID3": "Lawinenproblem 3",
       "Comment": "Entwicklung",
       "ObsName": "Lawinenbewertung",
-      "ValidExposition": "Exposition"
+      "ValidExposition": ""
     },
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Gefahrenstufe",
@@ -299,13 +349,13 @@
       "ObsName": "Lawinenbeobachtung",
       "TerrainStartZoneTID": "Anrissgebiet Gelände",
       "Trajectory": "Sturzbahn",
-      "ValidExposition": "Exposition"
+      "ValidExposition": ""
     },
     "CompressionTest": {
       "Comment": "Kommentar",
       "ObsName": "Kompressionstest",
       "StabilityEvalTID": "Stabilität",
-      "Test": "Test"
+      "Test": ""
     },
     "DamageObs": {
       "Comment": "Kommentar",
@@ -313,31 +363,45 @@
       "ObsName": "Schadensbeobachtung"
     },
     "DangerObs": {
+      "Area": "",
       "Comment": "Kommentar",
       "DangerSignTName": "Gefahrenart",
-      "ObsName": "Gefahrenbeobachtung"
+      "NewDangerSign": "",
+      "NoDamageSign": "",
+      "ObsName": "Gefahrenbeobachtung",
+      "Title": ""
     },
     "GeneralObservation": {
       "Comment": "Kommentar",
       "NoObservationsFound": "Keine Beobachtungen gefunden",
-      "ObsComment": "Text",
+      "Notes": "",
+      "ObsComment": "",
       "ObsHeader": "Kopfzeile",
       "ObsName": "Allgemeine Beobachtung",
-      "Urls": "Links"
+      "Urls": ""
     },
     "IceCoverObs": {
+      "BearingStrength": "",
       "Comment": "Kommentar",
+      "Description": "",
       "IceCapacityTName": "Kapazität",
+      "IceCover": "",
       "IceCoverAfterTName": "Eisbedeckung vor der Beobachtung",
-      "IceCoverBeforeTName": "Ice coverage before observation",
+      "IceCoverBeforeObservation": "",
+      "IceCoverBeforeTName": "",
       "IceCoverTName": "Bedeckung",
       "IceSkateabilityTName": "Belaufbarkeit",
       "ObsName": "Eisdeckenbeobachtung"
     },
     "IceThickness": {
+      "AddIceLayer": "",
+      "AddIceThicknessLayer": "",
       "Comment": "Kommentar",
+      "IceLayer": "",
+      "IceLayerThickness": "",
       "IceThicknessLayers": "Schichten (von oben nach unten)",
       "IceThicknessSum": "Gesamtdicke",
+      "IceType": "",
       "IsEqualToIceSurface": "ist gleich zur Eisfläche",
       "LowerThanIceSurface": "niedriger als Eisfläche ",
       "ObsName": "Eisdicke",
@@ -346,7 +410,8 @@
       "OverWaterBeforeDrilling": "Wasser vor dem Bohren",
       "SlushSnowBeforeDrilling": "Matsch vor dem Bohren",
       "SnowDepthBeforeDrilling": "Schnee vor dem Bohren.",
-      "Total": " total",
+      "Total": "",
+      "TwoDecimalPlaces": "",
       "WaterSurfaceInHole": "Wasseroberfläche im Loch"
     },
     "Incident": {
@@ -358,26 +423,42 @@
       "IncidentIngress": "Eintritt",
       "IncidentText": "Beschreibung",
       "ObsName": "Ereignis",
-      "Urls": "Links"
+      "Urls": ""
     },
     "LandslideObs": {
       "ActivityInfluencedTName": "Was war betroffen?",
       "And": " und ",
+      "AvalTrigger": "",
       "Between": "Zwischen",
       "Comment": "Kommentar",
+      "DamageExtent": "",
       "DamageExtentTName": "Schadensumfang",
+      "DtLandSlideTime": "",
+      "DtLandSlideTimeEnd": "",
       "ForecastAccurateTName": "War die Vorhersage korrekt?",
+      "InMap": "",
       "LandSlideSizeTName": "Größe",
       "LandSlideTName": "Erdrutschart",
       "LandSlideTriggerTName": "Auslöseart",
+      "LandslideTime": "",
+      "LandslideType": "",
       "ObsName": "Erdrutschbeobachtung",
+      "Position": "",
+      "PositionDescription": "",
+      "Required": "",
+      "SetLandslidePosition": "",
+      "SetStartPosition": "",
+      "SetStopPosition": "",
       "Time": "Zeit",
-      "Urls": "Links"
+      "TimeDescription": "",
+      "Title": "",
+      "Urls": ""
     },
     "Picture": {
       "Aspect": "Orientierung",
       "Comment": "Kommentar",
-      "Copyright": "Copyright",
+      "Copyright": "",
+      "Edit": "",
       "ObsName": "Bild",
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
@@ -396,14 +477,56 @@
       "UnderSurface": "unter der Oberfläche"
     },
     "SnowProfile": {
+      "AddLayerBottom": "",
+      "AddLayerTop": "",
+      "AddLayers": "",
+      "AddTemperature": "",
+      "AddTests": "",
+      "Cm": "",
       "Comment": "Kommentar",
       "CompressionTest": "Kompressionstest",
       "CompresstionTestConnectedToProfile": "Kompressionstest mit Schneeprofil",
+      "Density": {
+        "AddDensity": "",
+        "Average": "",
+        "CylinderBoreDiam": "",
+        "Density": "",
+        "DensityLabel": "",
+        "Height": "",
+        "Layer": "",
+        "Method": "",
+        "Sum": "",
+        "Summary": "",
+        "TareWeight": "",
+        "UseCylinder": "",
+        "WaterEquivalent": "",
+        "Weight": ""
+      },
+      "DepthPlaceholder": "",
+      "IsProfileDugToTheGround": "",
+      "Layers": "",
       "LayersObserved": "Schichten beobachtet",
+      "Main": "",
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Schichten"
+      "StratLayers": "Schichten",
+      "SumOfAllLayers": "",
+      "TemperaturePlaceholder": "",
+      "TemperatureProfile": "",
+      "Test": {
+        "Add": "",
+        "AddTest": "",
+        "DistanceFromTop": "",
+        "FractureType": "",
+        "Include": "",
+        "NumberOfHits": "",
+        "Stability": "",
+        "Tests": "",
+        "TestsWillAppearHere": "",
+        "Type": "",
+        "Update": ""
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Eindringtiefe",
@@ -420,7 +543,7 @@
       "SnowSurfaceTName": "Härte der Schneeoberfläche",
       "SurfaceRougnessTName": "Oberflächenrauheit",
       "SurfaceWaterContentTName": "Schneewassergehalt",
-      "Total": "total"
+      "Total": ""
     },
     "WaterLevel": {
       "AppliesFor": "Gilt für",
@@ -441,7 +564,7 @@
       "ObsName": "Wasserstand",
       "ObservationTimingTName": "Was ist zugelassen?",
       "WaterAstrayTName": "Geht Wasser verloren?",
-      "WaterLevelStateTName": "Situation",
+      "WaterLevelStateTName": "",
       "WaterMarking": "Wasserzeichen",
       "WaterMeasurement": "Wassermessung",
       "WaterMeasurementValue": "Wassermesswert",
@@ -459,10 +582,11 @@
     }
   },
   "Of": "von",
+  "Ok": "",
   "Password": "Passwort",
   "PictureCarousel": {
     "Comment": "Kommentar",
-    "Copyright": "Copyright",
+    "Copyright": "",
     "Image": "Bild",
     "ObservedLocation": "Beobachtungsort",
     "Of": "von"
@@ -471,17 +595,38 @@
   "PictureMode": "Bilder",
   "Reg": {
     "ObservedTime": "Beobachtet",
-    "ObserverNickName": "Nickname",
+    "ObserverNickName": "",
     "RegisteredTime": "Eingetragen",
     "UpdatedTime": "Aktualisiert"
   },
   "Register": "Benutzer erstellen",
-  "RegistrationEdit": {},
+  "RegistrationEdit": {
+    "AddForm": "",
+    "DeleteObservation": "",
+    "Discard": "",
+    "Done": "",
+    "FormInfo": "",
+    "SaveAsDraft": "",
+    "SaveDraft": "",
+    "SaveDraftMessage": "",
+    "SyncInProgress": ""
+  },
+  "RegistrationKeyInfo": {
+    "Accuracy": "",
+    "Edit": "",
+    "MetersAboveSeaLevel": "",
+    "Municipal": "",
+    "Source": "",
+    "WarningRegion": ""
+  },
   "RememberMe": "Mich erinnern",
+  "RequiredField": "",
+  "RequiredFieldError": "",
+  "Reset": "",
   "Routes": {
     "About": "Über",
-    "Cookies": "Cookies",
-    "Home": "Home"
+    "Cookies": "",
+    "Home": ""
   },
   "Search": {
     "Criterias": {
@@ -504,7 +649,7 @@
         "CompetenceFilter": "Kompetenz",
         "CompetenceLevelExplanation": "Kompetenzniveau Erklärung",
         "Label": "Beobachter",
-        "MyObservations": "My observations",
+        "MyObservations": "",
         "ObserverNickNamePlaceholder": "Suche nach Beobachter-Spitznamen",
         "SearchInCompetences": "Suche nach Benutzerkompetenz: ",
         "SearchNickName": "Namenssuche"
@@ -601,19 +746,31 @@
     "CompleteKey": "Vollständig",
     "ShortKey": "Kurz"
   },
+  "Time": "",
   "Unknown": "Unbekannt",
+  "Url": {
+    "Add": "",
+    "Delete": "",
+    "Description": "",
+    "Edit": "",
+    "EditUrl": "",
+    "Url": "",
+    "WebUrl": ""
+  },
   "UserMenu": {
     "Language": "SPRACHE",
     "Page": "Seite",
-    "Regobs": "REGOBS",
+    "Regobs": "",
     "User": "BENUTZER"
   },
+  "Yes": "",
   "from": "von",
   "is": "Eis",
   "jord": "Erdrutsch",
   "metersOverSeaLevel": "m ü. A.",
   "observation": " Beobachtungen",
   "observations": "Beobachtung(en)",
+  "picture": "",
   "snø": "Schnee",
   "to": "bis",
   "vann": "Hochwasser"
