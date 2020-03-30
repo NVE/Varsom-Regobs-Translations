@@ -418,6 +418,7 @@
       "ActivityInfluencedTID": "Activity",
       "Comment": "Comment",
       "DamageExtentTID": "Extent",
+      "Description": "Why did it happen? Did it go well? Could the situation have been avoided?",
       "GeoHazardTID": "Observation type",
       "IncidentHeader": "Heading",
       "IncidentIngress": "Ingress",
