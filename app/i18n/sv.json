@@ -1,7 +1,9 @@
 {
   "ABONNER_BANNER": {
+    "BANNER_TEXT_LINE_1": "",
+    "BANNER_TEXT_LINE_2": "",
     "LINK_TEXT": "Gå till abonner.varsom.no",
-    "TITLE": "Varsom Abonner"
+    "TITLE": ""
   },
   "ADD_MENU": {
     "DRAFT": "Utkast",
@@ -13,7 +15,7 @@
     "DEFAULT_HEADER": "Hoppsan!",
     "FINE": "Okej",
     "NO_THANKS": "Nej tack",
-    "OK": "Ok",
+    "OK": "",
     "PULL_TO_REFRESH": "Dra för att uppdatera ...",
     "UNDO": "Ångra",
     "WARNING": "Varning"
@@ -51,7 +53,7 @@
     "NEXT": "Nästa",
     "NO": "Nej",
     "OF": "Av",
-    "OK": "Ok",
+    "OK": "",
     "OK_BACK": "Okej, tillbaka till översikten",
     "PREVIOUS": "Föregående",
     "RESET": "Återställ",
@@ -59,10 +61,10 @@
   },
   "DIRECTION": {
     "E": "O",
-    "N": "N",
+    "N": "",
     "NE": "NO",
     "NW": "NV",
-    "S": "S",
+    "S": "",
     "SE": "SO",
     "SW": "SV",
     "W": "V"
@@ -107,11 +109,11 @@
     "ABOVE_SEA_LEVEL": "möh",
     "COPIED_TO_CLIPBOARD": "Kopierade till urklipp",
     "EAST_SHORT": "O",
-    "NORTH_SHORT": "N"
+    "NORTH_SHORT": ""
   },
   "MAP_ITEM_BAR": {
     "AWAY": "Iväg",
-    "OBSERVATION": "Observation"
+    "OBSERVATION": ""
   },
   "MAP_SEARCH": {
     "SEARCH_HISTORY_HEADER": "Senaste sökningar",
@@ -147,7 +149,7 @@
       "ONLY_KARTVERKET": "Kartverket (bara Norge)",
       "OPEN_TOPO": "OpenTopo (värld)"
     },
-    "TIME_FRAME": "Period",
+    "TIME_FRAME": "",
     "TODAYS_OBSERVATIONS": "Endast dagens observationer",
     "TOPO_MAP_CREDITS": "Topografisk karta tillhandahållen av",
     "UPDATE_OBSERVATIONS": "Uppdaterad",
@@ -177,11 +179,26 @@
   "OFFLINE_MAP": {
     "TITLE": "Offline kartor"
   },
+  "PERMISSION": {
+    "LOCATION_DENIED_HEADER": "",
+    "LOCATION_DENIED_MESSAGE": ""
+  },
+  "POPUP_DISCLAMER": {
+    "ABOUT_OBSERVATIONS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "ABOUT_SUPPORT_MAPS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "OK_I_UNDERSTAND": ""
+  },
   "REGISTRATION": {
     "ADD_IMAGES": "Lägg till foton",
     "ADD_WEB_URL": {
       "TITLE": "Lägg till en webblänk",
-      "URL": "Url"
+      "URL": ""
     },
     "BACK_TO_OBSERVATION": "Tillbaka till min observation",
     "CONFIRM_RESET": "Är du säker på att du vill återställa alla fält?",
@@ -291,6 +308,7 @@
       "IMAGE_PLACEHOLDER": "+ Lägg till bildbeskrivning",
       "TITLE": "Olycka / tillbud"
     },
+    "INVALID_IMAGE": "",
     "IN_CM": "I centimeter",
     "IN_FULL_CM": "I hela centimeter",
     "NONE": "Ej vald",
@@ -305,7 +323,7 @@
       "DATE_AND_TIME": "Datum och tid",
       "MY_OBSERVATION": "Min observation",
       "SHARE_WITH_GROUP": "Dela med gruppen",
-      "TITLE": "Observation"
+      "TITLE": ""
     },
     "REQUIRED_FIELDS_MISSING": "Vissa fält är ogiltiga. Vill du återställa formuläret och gå tillbaka?",
     "RESEND": "Försök skicka igen",
@@ -406,7 +424,7 @@
           "EMPTY": "Nej",
           "INCLUDE_IN_SNOW_PROFILE": "Inkludera i snöprofil",
           "MULTIPLE_TESTS": "tester",
-          "SINGLE_TEST": "test",
+          "SINGLE_TEST": "",
           "TITLE": "Tester"
         },
         "GENERATING_PREVIEW": "Genererar förhandsvisning ..",
@@ -415,7 +433,7 @@
         "PREVIEW_ERROR": "Det gick inte att generera förhandsvisning",
         "PREVIEW_ITEM": "Se snöprofil",
         "SNOW_DENSITY": {
-          "CYLINDER": "Cylinder",
+          "CYLINDER": "",
           "CYLINDER_DIAMETER": "Cylinderdiameter (cm)",
           "CYLINDER_METHOD": "Använd cylinder",
           "DENSITY": "Densitet (kg/m³)",
@@ -546,8 +564,12 @@
     }
   },
   "SETTINGS": {
+    "ALLOW_ANALYTICS": "",
+    "ALLOW_ANALYTICS_DESCRIPTION": "",
+    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "",
+    "ALLOW_ANALYTICS_HEADER": "",
     "APPMODE": "Appläge",
-    "APP_VERSION": "App version",
+    "APP_VERSION": "",
     "CONFIRM_RESET": "Är du säker på att du vill återställa appen?",
     "COUNTRY": "Land",
     "DROPDOWNS_FAILED": "Det gick inte att uppdatera rullgardinsmenyerna. Kontrollera om du har ett nätverk och försök igen senare.",
@@ -557,6 +579,7 @@
     "LANGUAGE": "Språk",
     "NORWAY_ONLY": "Endast i Norge",
     "NUMBER_OF_TILES_IN_CACHE": "Maximalt antal kartblad offline",
+    "READ_MORE_IN_LICENSE_AGREEMENT": "",
     "RESET": "Återställ app",
     "RESETTING": "App återställs. Vänta ...",
     "SHOW_ADVANCED": "Visa avancerade inställningar",
@@ -583,6 +606,10 @@
       "NORWEGIAN": "Norska",
       "NORWEGIAN_SECONDARY_LANGUAGE": "Norwegian"
     },
+    "COMPETENCE_PAGE": {
+      "HEADER": "",
+      "LINE_1": ""
+    },
     "I_UNDERSTAND": "Okej, jag förstår",
     "PAGE_1": {
       "HEADER": "Planera säkra resor!",
@@ -604,6 +631,7 @@
     "SKIP_START": "Hoppa över"
   },
   "SUPPORT_MAP": {
+    "ABOUT": "",
     "CAUTION_AREA": "Varningsområde",
     "CLAY_DANGER_ZONE": "Faranivå",
     "CLAY_LEGEND_TEXT_1": "Kvicklera-punkt (SVV)",
@@ -640,12 +668,20 @@
     "ICE_LEGEND_TEXT_6": "Rörledning",
     "ICE_LEGEND_TEXT_7": "Kraftverkstunnel",
     "ICE_MAP_DESCRIPTION": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av reglering vid vattenkraftsproduktion",
+    "INFO_PAGE": "",
     "LOW": "Låg",
     "MARITINE_BORDER": "Havsgräns",
     "MIDDLE": "Medel",
-    "NO_OPACITY": "Solid",
+    "NO_OPACITY": "",
+    "READ_MORE": "",
     "STEEPNESS_COLOR_INFO": "Färger anger branthet i terrängen i grader:",
     "STEEPNESS_MAP_DESCRIPTION": "Lutningskarta",
+    "STEEPNESS_MAP_DISCLAMER": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "",
+    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Försvagad is"
   },
   "TABS": {
@@ -676,7 +712,7 @@
     "NOT_STARTED": "Ny tur",
     "PAUSED": "Pausad",
     "RUNNING": "GPS-registrering pågår",
-    "START": "Start",
+    "START": "",
     "STOP": "Stopp",
     "STOPPED": "Tur stoppad och slutförd"
   },
