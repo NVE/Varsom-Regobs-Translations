@@ -1,7 +1,9 @@
 {
   "ABONNER_BANNER": {
+    "BANNER_TEXT_LINE_1": "",
+    "BANNER_TEXT_LINE_2": "",
     "LINK_TEXT": "Gehe zu abonner.varsom.no",
-    "TITLE": "Varsom Abonner"
+    "TITLE": ""
   },
   "ADD_MENU": {
     "DRAFT": "Entwurd",
@@ -10,10 +12,10 @@
   },
   "ALERT": {
     "CANCEL": "Abbruch",
-    "DEFAULT_HEADER": "Whoops!",
-    "FINE": "Okay",
+    "DEFAULT_HEADER": "",
+    "FINE": "",
     "NO_THANKS": "Nein danke",
-    "OK": "Ok",
+    "OK": "",
     "PULL_TO_REFRESH": "Zum Aktualisieren ziehen ...",
     "UNDO": "Rückgängig machen",
     "WARNING": "Warnung"
@@ -51,7 +53,7 @@
     "NEXT": "Nächster",
     "NO": "Nein",
     "OF": "Von",
-    "OK": "Ok",
+    "OK": "",
     "OK_BACK": "Ok, zurück zum Überblick",
     "PREVIOUS": "Früher",
     "RESET": "Zurücksetzen",
@@ -59,13 +61,13 @@
   },
   "DIRECTION": {
     "E": "O",
-    "N": "N",
+    "N": "",
     "NE": "NO",
-    "NW": "NW",
-    "S": "S",
+    "NW": "",
+    "S": "",
     "SE": "SO",
-    "SW": "SW",
-    "W": "W"
+    "SW": "",
+    "W": ""
   },
   "GEOLOCATION_SERVICE": {
     "NOTIFICATION_TITLE": "Tour wird aufgezeichnet"
@@ -90,7 +92,7 @@
   "LOGIN": {
     "CHANGE_PASSWORD": "Passwort ändern",
     "CREATE_USER": "Benutzer anlegen",
-    "EMAIL": "Email",
+    "EMAIL": "",
     "FORGOT_PASSWORD": "Passwort vergessen",
     "IS_LOGGING_IN": "Einloggen...",
     "LOGGED_IN_AS": "Eingeloggt als",
@@ -107,10 +109,10 @@
     "ABOVE_SEA_LEVEL": "müA",
     "COPIED_TO_CLIPBOARD": "In die Zwischenablage kopiert",
     "EAST_SHORT": "O",
-    "NORTH_SHORT": "N"
+    "NORTH_SHORT": ""
   },
   "MAP_ITEM_BAR": {
-    "AWAY": "Away",
+    "AWAY": "",
     "OBSERVATION": "Beobachtung"
   },
   "MAP_SEARCH": {
@@ -119,7 +121,7 @@
   },
   "MENU": {
     "ABOUT_REGOBS": "Über Daten in Regobs",
-    "AND": "and",
+    "AND": "",
     "CONTACT_REGOBS": "Kontaktiere uns",
     "CONTACT_REGOBS_ERROR": "Fehler melden",
     "CONTACT_SUBJECT": "Kontakt aus App",
@@ -142,10 +144,10 @@
     "START_WIZARD": "Assistent starten",
     "SUPPORT_MAP_CREDITS": "Unterstützungskarten bereitgestellt von",
     "TILES": {
-      "ARC_GIS": "ArcGIS (world)",
-      "KARTVERKET": "Kartverket (Norway)",
-      "ONLY_KARTVERKET": "Kartverket (only Norway)",
-      "OPEN_TOPO": "OpenTopo (world)"
+      "ARC_GIS": "",
+      "KARTVERKET": "",
+      "ONLY_KARTVERKET": "",
+      "OPEN_TOPO": ""
     },
     "TIME_FRAME": "Zeitraum",
     "TODAYS_OBSERVATIONS": "Nur heute",
@@ -167,7 +169,7 @@
   },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "Alle Beobachtungen",
-    "FORMS": "Forms",
+    "FORMS": "",
     "GO_TO_OBSERVATION": "Gehe zu Beobachtung",
     "IN_MAP_VIEW": "Beobachtungen in Kartenansicht",
     "NO_OBSERVATIONS": "Keine Beobachtungen",
@@ -177,11 +179,26 @@
   "OFFLINE_MAP": {
     "TITLE": "Offline-Karte"
   },
+  "PERMISSION": {
+    "LOCATION_DENIED_HEADER": "",
+    "LOCATION_DENIED_MESSAGE": ""
+  },
+  "POPUP_DISCLAMER": {
+    "ABOUT_OBSERVATIONS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "ABOUT_SUPPORT_MAPS": {
+      "HEADER": "",
+      "MESSAGE": ""
+    },
+    "OK_I_UNDERSTAND": ""
+  },
   "REGISTRATION": {
     "ADD_IMAGES": "Füge Bilder hinzu",
     "ADD_WEB_URL": {
       "TITLE": "Füge eine Web-URL hinzu",
-      "URL": "Url"
+      "URL": ""
     },
     "BACK_TO_OBSERVATION": "Zurück zu Beobachtung",
     "CONFIRM_RESET": "Möchten Sie wirklich alle Felder zurücksetzen?",
@@ -247,7 +264,7 @@
       "COMMENT_PLACEHOLDER": "Hier können Sie mehr beschreiben",
       "COMMENT_TITLE": "Beschreibung",
       "DESCRIPTION": "Sie können Fotos des von Ihnen beobachteten Gebiets oder Fotos von anderen Dingen hochladen, die Sie möglicherweise für relevant halten.",
-      "SUBTITLE": "Observation images",
+      "SUBTITLE": "",
       "TAKE_NEW_PHOTO": "Mach ein neues Foto",
       "TITLE": "Anmerkungen"
     },
@@ -277,7 +294,7 @@
         "ICE_THICKNESS_SUM": "Gesamtdicke (cm)",
         "ICE_TYPE": "Eistyp",
         "SLUSH_SNOW_BEFORE_DRILL": "Schneematsch vor dem Bohren (cm)",
-        "TITLE": "Ice Thickness"
+        "TITLE": ""
       }
     },
     "IMAGES": "Bilder",
@@ -291,6 +308,7 @@
       "IMAGE_PLACEHOLDER": "+ Bildbeschreibung hinzufügen",
       "TITLE": "Unfall / Vorfall"
     },
+    "INVALID_IMAGE": "",
     "IN_CM": "In Zentimeter",
     "IN_FULL_CM": "In Zentimetern ohne Dezimalstellen",
     "NONE": "Nicht ausgewählt",
@@ -407,7 +425,7 @@
           "INCLUDE_IN_SNOW_PROFILE": "In Schneeprofil aufnehmen",
           "MULTIPLE_TESTS": "Tests",
           "SINGLE_TEST": "Test",
-          "TITLE": "Tests"
+          "TITLE": ""
         },
         "GENERATING_PREVIEW": "Vorschau erstellen...",
         "IS_PROFILE_TO_GROUND": "Ist das Profil bis zum Boden gegraben?",
@@ -467,9 +485,9 @@
           "TOTAL_THICKNESS": "Gesamtstärke",
           "WETNESS": "Feuchtigkeit"
         },
-        "SUBFORMS": "Subforms",
-        "SUPERIOR": "Main",
-        "TITLE": "Snow Profile"
+        "SUBFORMS": "",
+        "SUPERIOR": "",
+        "TITLE": ""
       },
       "SNOW_SURFACE": {
         "COMMENT_HEADER": "Beschreibung der Schneeoberfläche",
@@ -533,19 +551,23 @@
         "MARKING_PLURAL": "Markierung",
         "MARKING_REFERENCE": "Ich habe den Wasserstand an ... markiert",
         "MEASURE_PLURAL": "Messung",
-        "MEASURING": "Measurement",
+        "MEASURING": "",
         "MEASURING_TOOL": "Tragen Sie hier das Messgerät ein",
         "OBSERVATION_TIMING": "Was registrieren Sie",
         "REGISTRATION_METHOD": "Wie registrieren Sie?",
         "RELATIVE": "Die Höhe ist relativ zu",
         "TITLE": "Wasserstand",
         "WATER_LEVEL_METERS": "Wasserstand in Meter",
-        "WATER_MARKING": "Water level marking",
+        "WATER_MARKING": "",
         "WATER_MEASUREMENT": "Wasserstandsmessung"
       }
     }
   },
   "SETTINGS": {
+    "ALLOW_ANALYTICS": "",
+    "ALLOW_ANALYTICS_DESCRIPTION": "",
+    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "",
+    "ALLOW_ANALYTICS_HEADER": "",
     "APPMODE": "App-Modus",
     "APP_VERSION": "App Version",
     "CONFIRM_RESET": "Möchten Sie die App wirklich zurücksetzen?",
@@ -557,6 +579,7 @@
     "LANGUAGE": "Sprache",
     "NORWAY_ONLY": "Nur in Norwegen",
     "NUMBER_OF_TILES_IN_CACHE": "Speichergröße für Offlinkacheln",
+    "READ_MORE_IN_LICENSE_AGREEMENT": "",
     "RESET": "App zurücksetzen",
     "RESETTING": "App wird zurückgesetzt. Bitte warten...",
     "SHOW_ADVANCED": "Erweiterte Einstellungen zeigen",
@@ -576,12 +599,16 @@
     },
     "CHOOSE_INTEREST": "Wählen Sie ihr bevorzugtes gebiet",
     "CHOOSE_LANGUAGE": {
-      "ENGLISH": "English",
-      "ENGLISH_SECONDARY_LANGUAGE": "Engelsk",
-      "HEADER": "Choose language",
-      "HEADER_SECONDARY_LANGUAGE": "Velg språk",
-      "NORWEGIAN": "Norwegian",
-      "NORWEGIAN_SECONDARY_LANGUAGE": "Norsk"
+      "ENGLISH": "",
+      "ENGLISH_SECONDARY_LANGUAGE": "",
+      "HEADER": "",
+      "HEADER_SECONDARY_LANGUAGE": "",
+      "NORWEGIAN": "",
+      "NORWEGIAN_SECONDARY_LANGUAGE": ""
+    },
+    "COMPETENCE_PAGE": {
+      "HEADER": "",
+      "LINE_1": ""
     },
     "I_UNDERSTAND": "Ok, ich habe verstanden",
     "PAGE_1": {
@@ -604,10 +631,11 @@
     "SKIP_START": "Überspringen"
   },
   "SUPPORT_MAP": {
+    "ABOUT": "",
     "CAUTION_AREA": "Gefahrengebiet",
     "CLAY_DANGER_ZONE": "Gefahrenstufe",
-    "CLAY_LEGEND_TEXT_1": "Quick clay point (SVV)",
-    "CLAY_LEGEND_TEXT_2": "Quick clay area (SVV)",
+    "CLAY_LEGEND_TEXT_1": "",
+    "CLAY_LEGEND_TEXT_2": "",
     "CLAY_LEGEND_TEXT_3": "Karte ganz oder teilweise abgebildet",
     "CLAY_LEGEND_TEXT_4": "Seegrenze",
     "CLAY_LEGEND_TEXT_5": "Bereich oberhalb der Seegrenze",
@@ -615,14 +643,14 @@
     "CLAY_LEGEND_TEXT_7": "Geringe / keine Auswirkung auf das Meer",
     "CLAY_LEGEND_TEXT_8": "Entladebereich",
     "CLAY_LEGEND_TEXT_9": "Mögliche Lawinengefahr",
-    "CLAY_ZONES_MAP_DESCRIPTION": "Clay zones",
+    "CLAY_ZONES_MAP_DESCRIPTION": "",
     "FLOOD_LEGEND_TEXT_1": "Aktuell",
     "FLOOD_LEGEND_TEXT_10": "200 jährliches Hochwasser",
     "FLOOD_LEGEND_TEXT_11": "500 jährliches Hochwasser",
     "FLOOD_LEGEND_TEXT_12": "1000 jährliches Hochwasser",
     "FLOOD_LEGEND_TEXT_13": "200 jährliches Hochwasser (Klima)",
     "FLOOD_LEGEND_TEXT_2": "Zur Durchsicht",
-    "FLOOD_LEGEND_TEXT_3": "Recorded",
+    "FLOOD_LEGEND_TEXT_3": "",
     "FLOOD_LEGEND_TEXT_4": "In Planung",
     "FLOOD_LEGEND_TEXT_5": "10 jährliches Hochwasser",
     "FLOOD_LEGEND_TEXT_6": "Fluss und Wasser 10 jährliches Hochwasser",
@@ -640,12 +668,20 @@
     "ICE_LEGEND_TEXT_6": "Rohrleitung",
     "ICE_LEGEND_TEXT_7": "Kraftwerkstunnel",
     "ICE_MAP_DESCRIPTION": "Die Unterstützungskarte zeigt Teile von Wasserläufen, die sich aufgrund von Vorschriften zur Stromerzeugung den ganzen Winter über unvorhersehbar verhalten",
+    "INFO_PAGE": "",
     "LOW": "Tief",
     "MARITINE_BORDER": "Seegrenze",
     "MIDDLE": "Mittel",
-    "NO_OPACITY": "Solid",
+    "NO_OPACITY": "",
+    "READ_MORE": "",
     "STEEPNESS_COLOR_INFO": "Farben geben die Steilheit im Gelände wieder in Grad:",
     "STEEPNESS_MAP_DESCRIPTION": "Neigungskarte",
+    "STEEPNESS_MAP_DISCLAMER": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "",
+    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Geschwächtes Eis"
   },
   "TABS": {
@@ -676,12 +712,12 @@
     "NOT_STARTED": "Neue Route",
     "PAUSED": "Angehalten",
     "RUNNING": "GPS-Aufzeichnung läuft",
-    "START": "Start",
-    "STOP": "Stop",
+    "START": "",
+    "STOP": "",
     "STOPPED": "Routenaufzeichnung abgeschlossen"
   },
   "VALIDATION": {
-    "AND": "and",
+    "AND": "",
     "BETWEEN": "zwischen",
     "CHARACTERS": "Zeichen",
     "INTEGER": "eine ganze Zahl",
@@ -705,7 +741,7 @@
     "NO_WARNINGS": "Keine Warnungen",
     "NO_WARNINGS_TEXT": "Es gibt keine Warnungen für den Bereich, in dem Sie sich befinden. Wenn vorhanden, werden sie hier angezeigt.",
     "OTHER_RELEVANT": "Andere relevante",
-    "RELEVANT": "Relevant",
+    "RELEVANT": "",
     "REMOVED_FROM_FAVOURITES": "aus Favoriten entfernt",
     "TITLE": "Warnungen",
     "TITLE_ICE": "Eisvorhersagen",
