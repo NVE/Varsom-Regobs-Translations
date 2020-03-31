@@ -193,7 +193,7 @@
       "DamageExtentTName": "Schadensausmaß",
       "ForecastAccurateTName": "War die Warnung genau?",
       "LandSlideSizeTName": "Größe",
-      "LandSlideTName": "Landslide type",
+      "LandSlideTName": "Erdrutschtype",
       "LandSlideTriggerTName": "Auslöser",
       "ObsName": "Erdrutschbeobachtung",
       "Time": "Zeit",
@@ -231,7 +231,7 @@
       "SnowDensityLayersObserved": "Dichtemessungen",
       "SnowTemperature": "Temperatur",
       "SnowTemperatureLayersObserved": "Temperaturmessungen",
-      "StartProfileLayersObserved": "stratigraphy layers observed",
+      "StartProfileLayersObserved": "alte Schichten beobachtet",
       "StratLayers": "Schneeschichten"
     },
     "SnowSurfaceObservation": {

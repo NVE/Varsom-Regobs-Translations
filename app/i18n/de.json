@@ -4,7 +4,7 @@
     "TITLE": "Varsom Abonner"
   },
   "ADD_MENU": {
-    "DRAFT": "Entwurd",
+    "DRAFT": "Entwurf",
     "NEW_OBSERVATION": "Neu",
     "NEW_TRIP": "Neue Tour"
   },
@@ -119,7 +119,7 @@
   },
   "MENU": {
     "ABOUT_REGOBS": "Über Daten in Regobs",
-    "AND": "and",
+    "AND": "und",
     "CONTACT_REGOBS": "Kontaktiere uns",
     "CONTACT_REGOBS_ERROR": "Fehler melden",
     "CONTACT_SUBJECT": "Kontakt aus App",
@@ -142,10 +142,10 @@
     "START_WIZARD": "Assistent starten",
     "SUPPORT_MAP_CREDITS": "Unterstützungskarten bereitgestellt von",
     "TILES": {
-      "ARC_GIS": "ArcGIS (world)",
+      "ARC_GIS": "ArcGIS (weltweit)",
       "KARTVERKET": "Kartverket (Norway)",
-      "ONLY_KARTVERKET": "Kartverket (only Norway)",
-      "OPEN_TOPO": "OpenTopo (world)"
+      "ONLY_KARTVERKET": "Kartverket (nur Norway)",
+      "OPEN_TOPO": "OpenTopo (weltweit)"
     },
     "TIME_FRAME": "Zeitraum",
     "TODAYS_OBSERVATIONS": "Nur heute",
@@ -277,7 +277,7 @@
         "ICE_THICKNESS_SUM": "Gesamtdicke (cm)",
         "ICE_TYPE": "Eistyp",
         "SLUSH_SNOW_BEFORE_DRILL": "Schneematsch vor dem Bohren (cm)",
-        "TITLE": "Ice Thickness"
+        "TITLE": "Eisdicke"
       }
     },
     "IMAGES": "Bilder",
@@ -467,9 +467,9 @@
           "TOTAL_THICKNESS": "Gesamtstärke",
           "WETNESS": "Feuchtigkeit"
         },
-        "SUBFORMS": "Subforms",
-        "SUPERIOR": "Main",
-        "TITLE": "Snow Profile"
+        "SUBFORMS": "Unterformen",
+        "SUPERIOR": "Haupt",
+        "TITLE": "Schneeprofil"
       },
       "SNOW_SURFACE": {
         "COMMENT_HEADER": "Beschreibung der Schneeoberfläche",
@@ -532,15 +532,15 @@
         "MARKING": "Markierung",
         "MARKING_PLURAL": "Markierung",
         "MARKING_REFERENCE": "Ich habe den Wasserstand an ... markiert",
-        "MEASURE_PLURAL": "Messung",
-        "MEASURING": "Measurement",
+        "MEASURE_PLURAL": "Messungen",
+        "MEASURING": "Messung",
         "MEASURING_TOOL": "Tragen Sie hier das Messgerät ein",
         "OBSERVATION_TIMING": "Was registrieren Sie",
         "REGISTRATION_METHOD": "Wie registrieren Sie?",
         "RELATIVE": "Die Höhe ist relativ zu",
         "TITLE": "Wasserstand",
         "WATER_LEVEL_METERS": "Wasserstand in Meter",
-        "WATER_MARKING": "Water level marking",
+        "WATER_MARKING": "Wasserstandsmarkierung",
         "WATER_MEASUREMENT": "Wasserstandsmessung"
       }
     }
@@ -576,12 +576,12 @@
     },
     "CHOOSE_INTEREST": "Wählen Sie ihr bevorzugtes gebiet",
     "CHOOSE_LANGUAGE": {
-      "ENGLISH": "English",
-      "ENGLISH_SECONDARY_LANGUAGE": "Engelsk",
+      "ENGLISH": "Englisch",
+      "ENGLISH_SECONDARY_LANGUAGE": "Englisch",
       "HEADER": "Choose language",
-      "HEADER_SECONDARY_LANGUAGE": "Velg språk",
-      "NORWEGIAN": "Norwegian",
-      "NORWEGIAN_SECONDARY_LANGUAGE": "Norsk"
+      "HEADER_SECONDARY_LANGUAGE": "Wählen Sie ihre Sprache",
+      "NORWEGIAN": "Norwegisch",
+      "NORWEGIAN_SECONDARY_LANGUAGE": "Norwegisch"
     },
     "I_UNDERSTAND": "Ok, ich habe verstanden",
     "PAGE_1": {
@@ -606,8 +606,8 @@
   "SUPPORT_MAP": {
     "CAUTION_AREA": "Gefahrengebiet",
     "CLAY_DANGER_ZONE": "Gefahrenstufe",
-    "CLAY_LEGEND_TEXT_1": "Quick clay point (SVV)",
-    "CLAY_LEGEND_TEXT_2": "Quick clay area (SVV)",
+    "CLAY_LEGEND_TEXT_1": "Verflüssigungspunkt (SVV)",
+    "CLAY_LEGEND_TEXT_2": "Verflüssigungsbereich (SVV)",
     "CLAY_LEGEND_TEXT_3": "Karte ganz oder teilweise abgebildet",
     "CLAY_LEGEND_TEXT_4": "Seegrenze",
     "CLAY_LEGEND_TEXT_5": "Bereich oberhalb der Seegrenze",
@@ -640,11 +640,12 @@
     "ICE_LEGEND_TEXT_6": "Rohrleitung",
     "ICE_LEGEND_TEXT_7": "Kraftwerkstunnel",
     "ICE_MAP_DESCRIPTION": "Die Unterstützungskarte zeigt Teile von Wasserläufen, die sich aufgrund von Vorschriften zur Stromerzeugung den ganzen Winter über unvorhersehbar verhalten",
+    "IN_DEGREES": "In Grad",
     "LOW": "Tief",
     "MARITINE_BORDER": "Seegrenze",
     "MIDDLE": "Mittel",
     "NO_OPACITY": "Solid",
-    "STEEPNESS_COLOR_INFO": "Farben geben die Steilheit im Gelände wieder in Grad:",
+    "STEEPNESS_COLOR_INFO": "Farben geben die Steilheit im Gelände wieder",
     "STEEPNESS_MAP_DESCRIPTION": "Neigungskarte",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Geschwächtes Eis"
   },
