@@ -1,5 +1,14 @@
 {
+  "AddObsDetails": {
+    "Add": "Dodaj",
+    "HideHelptext": "Skrij pomoč"
+  },
   "AppearanceName": "Izgled:",
+  "Attachment": {
+    "Attachment": "Priponka",
+    "DropzoneText": "Povlecite in spustite datoteke za prenos ali kliknite, da izberete.",
+    "NoDescription": "Brez opisa"
+  },
   "Cancel": "Prekliči",
   "ChangePassword": "Spremeni geslo",
   "Chip": {
@@ -32,8 +41,26 @@
   "CopiedToClipboard": "Povezava do opažanja skopirana v odložišče.",
   "CountOf": "Število",
   "CreateObservation": "Ustvari opažanje",
+  "Date": "datum",
   "Dialogs": {
-    "Time": {}
+    "Buttons": {
+      "AddForm": "Dodaj obrazec",
+      "Back": "Nazaj",
+      "Next": "OK"
+    },
+    "Location": {
+      "Description": "Na zemljevidu označite, kje je bilo opravljeno opažanje. Poiščite lokacijo z iskanjem ali s pomočjo tipk plus (+) in minus (-).",
+      "DescriptionMobile": "Na zemljevidu označite, kje je bilo opravljeno opažanje.",
+      "EditName": "Nastavite ime lokacije",
+      "EditNameLabel": "Ime lokacije",
+      "Title": "Kje je bilo opravljeno opažanje?"
+    },
+    "Time": {
+      "AdditionalInformation": "Dodatne informacije",
+      "Description": "Vnesite čas opažanja. Uporabite lokalni čas na mestu opažanja.",
+      "Share": "Delite s skupino",
+      "Title": "Kdaj je bilo opravljeno opažanje?"
+    }
   },
   "Email": "E-pošta",
   "Footer": {
@@ -88,6 +115,7 @@
     "Search": "Iskanje"
   },
   "Information": "Informacije",
+  "InvalidDate": "Neveljaven datum",
   "LanguageLabel": "Jezik:",
   "Login": {
     "CreateNewRegObsUser": "Tu ustvarite regObs uporabnika",
@@ -211,6 +239,8 @@
       "ShowObservationsInMap": "Opažanja vode in tal ter zemljevid poplavnih območij"
     }
   },
+  "No": "Ne",
+  "Now": "zdaj",
   "ObservationCard": {
     "AboveSeaLevel": "m.n.v.",
     "Download": "Prenos",
@@ -315,31 +345,45 @@
       "ObsName": "Opažanje škode"
     },
     "DangerObs": {
+      "Area": "Območje",
       "Comment": "Komentar",
       "DangerSignTName": "Vrsta nevarnosti",
-      "ObsName": "Opažanje nevarnosti"
+      "NewDangerSign": "Dodaj znak nevarnosti",
+      "NoDamageSign": "Brez znaka nevarnosti",
+      "ObsName": "Opažanje nevarnosti",
+      "Title": "Znak nevarnosti"
     },
     "GeneralObservation": {
       "Comment": "Komentar",
       "NoObservationsFound": "Najdeno ni bilo nobeno opažanje",
+      "Notes": "Opombe",
       "ObsComment": "Besedilo",
       "ObsHeader": "Naslov",
       "ObsName": "Splošno opažanje",
       "Urls": "Povezave"
     },
     "IceCoverObs": {
+      "BearingStrength": "Nosilnost",
       "Comment": "Komentar",
+      "Description": "Opis",
       "IceCapacityTName": "Nosilnost",
+      "IceCover": "Ledena površina",
       "IceCoverAfterTName": "Prekritost z ledom po opažanju",
+      "IceCoverBeforeObservation": "Ledena površina pred opažanjem",
       "IceCoverBeforeTName": "Prekritost z ledom pred opažanjem",
       "IceCoverTName": "Prekritost",
       "IceSkateabilityTName": "Možnost drsanja",
       "ObsName": "Opažanje ledene površine"
     },
     "IceThickness": {
+      "AddIceLayer": "Dodaj plast ledu",
+      "AddIceThicknessLayer": "Dodaj plast ledu",
       "Comment": "Komentar",
+      "IceLayer": "Plast ledu",
+      "IceLayerThickness": "Debelina plasti ledu",
       "IceThicknessLayers": "Plasti (od vrha navzdol)",
       "IceThicknessSum": "Skupna debelina",
+      "IceType": "Vrsta ledu",
       "IsEqualToIceSurface": "enako visoko kot ledena površina",
       "LowerThanIceSurface": "nižje od ledene površine ",
       "ObsName": "Debelina ledu",
@@ -349,6 +393,7 @@
       "SlushSnowBeforeDrilling": "snežne brozge pred vrtanjem",
       "SnowDepthBeforeDrilling": "snega pred vrtanjem",
       "Total": " skupaj",
+      "TwoDecimalPlaces": "(cm, do dve decimalni mesti)",
       "WaterSurfaceInHole": "Višina vode v luknji"
     },
     "Incident": {
@@ -365,21 +410,37 @@
     "LandslideObs": {
       "ActivityInfluencedTName": "Kaj je bilo poškodovano?",
       "And": " in ",
+      "AvalTrigger": "Sprožilec plazu",
       "Between": "Med",
       "Comment": "Komentar",
+      "DamageExtent": "Obseg škode",
       "DamageExtentTName": "Obseg škode",
+      "DtLandSlideTime": "Kdaj se je plaz sprožil?",
+      "DtLandSlideTimeEnd": "Kdaj se je plaz ustavil?",
       "ForecastAccurateTName": "Je bila napoved ustrezna?",
+      "InMap": "na zemljevidu",
       "LandSlideSizeTName": "Velikost",
       "LandSlideTName": "Vrsta zemeljskega plazu",
       "LandSlideTriggerTName": "Sprožilec",
+      "LandslideTime": "Čas plazu",
+      "LandslideType": "Tip plazu",
       "ObsName": "Opažanje zemeljskega plazu",
+      "Position": "Lokacija plazu",
+      "PositionDescription": "Če ju poznate, določite začetno in končno točko plazu.",
+      "Required": "Obvezno",
+      "SetLandslidePosition": "Določite lokacijo plazu",
+      "SetStartPosition": "Določite začetno točko",
+      "SetStopPosition": "Določite končno točko",
       "Time": "Čas",
+      "TimeDescription": "Vnesite čas sprožitve zemeljskega plazu. Uporabite lokalni čas na mestu opažanja.",
+      "Title": "Zemeljski plaz",
       "Urls": "Povezave"
     },
     "Picture": {
       "Aspect": "Orientacija",
       "Comment": "Komentar",
       "Copyright": "Avtorske pravice",
+      "Edit": "Uredi sliko",
       "ObsName": "Slika",
       "Photographer": "Fotograf",
       "PictureComment": "Komentar",
@@ -398,14 +459,56 @@
       "UnderSurface": "pod površino"
     },
     "SnowProfile": {
+      "AddLayerBottom": "Dodaj novo plast na dnu",
+      "AddLayerTop": "Dodaj novo plast na vrhu",
+      "AddLayers": "Dodaj plasti",
+      "AddTemperature": "Dodaj temperaturo",
+      "AddTests": "Dodaj teste",
+      "Cm": "cm",
       "Comment": "Komentar",
       "CompressionTest": "Tlačni testi",
       "CompresstionTestConnectedToProfile": "tlačni testi povezani s snežnim profilom",
+      "Density": {
+        "AddDensity": "Dodaj gostoto",
+        "Average": "Povprečje",
+        "CylinderBoreDiam": "Premer valja (cm)",
+        "Density": "Gostota",
+        "DensityLabel": "Gostota (kg/m3)",
+        "Height": "Višina (cm)",
+        "Layer": "Plast",
+        "Method": "Metoda",
+        "Sum": "Vsota",
+        "Summary": "Povzetek",
+        "TareWeight": "Teža valja in vrečke (g)",
+        "UseCylinder": "Uporabi valj",
+        "WaterEquivalent": "Vodni ekvivalent (mm)",
+        "Weight": "Teža (g)"
+      },
+      "DepthPlaceholder": "Globina (cm)",
+      "IsProfileDugToTheGround": "Je snežni profil izkopan do tal?",
+      "Layers": "Plasti",
       "LayersObserved": "opažene plasti",
+      "Main": "Splošno",
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
-      "StratLayers": "Plasti"
+      "StratLayers": "Plasti",
+      "SumOfAllLayers": "Vsota vseh plasti:",
+      "TemperaturePlaceholder": "Temperatura (°C)",
+      "TemperatureProfile": "Temperaturni profil",
+      "Test": {
+        "Add": "Dodaj",
+        "AddTest": "Dodaj test",
+        "DistanceFromTop": "Oddaljenost od vrha (cm)",
+        "FractureType": "Tip razpoke",
+        "Include": "Vključi v snežni profil",
+        "NumberOfHits": "Število udarcev",
+        "Stability": "Stabilnost",
+        "Tests": "testi",
+        "TestsWillAppearHere": "Testi, ki ste jih dodali, se bodo pojavili tukaj",
+        "Type": "Tip testa",
+        "Update": "Posodobi test"
+      }
     },
     "SnowSurfaceObservation": {
       "FootPenetration": "Vgrez noge",
@@ -461,6 +564,7 @@
     }
   },
   "Of": "od",
+  "Ok": "Ok",
   "Password": "Geslo",
   "PictureCarousel": {
     "Comment": "Komentar",
@@ -478,8 +582,18 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
-  "RegistrationDetail": {},
+  "RegistrationKeyInfo": {
+    "Accuracy": "Natančnost",
+    "Edit": "Uredi",
+    "MetersAboveSeaLevel": "Nadmorska višina",
+    "Municipal": "Občina",
+    "Source": "Vir",
+    "WarningRegion": "Območje opozorila"
+  },
   "RememberMe": "Zapomni si me",
+  "RequiredField": "*Obvezno polje",
+  "RequiredFieldError": "To polje je obvezno",
+  "Reset": "Ponastavi",
   "Routes": {
     "About": "O",
     "Cookies": "Piškotki",
@@ -603,19 +717,31 @@
     "CompleteKey": "Zaključeno",
     "ShortKey": "Kratko"
   },
+  "Time": "čas",
   "Unknown": "Neznano",
+  "Url": {
+    "Add": "Dodaj spletno povezavo",
+    "Delete": "Izbriši",
+    "Description": "Opis",
+    "Edit": "Uredi",
+    "EditUrl": "Uredi spletno povezavo",
+    "Url": "URL",
+    "WebUrl": "Spletna povezava"
+  },
   "UserMenu": {
     "Language": "JEZIK",
     "Page": "STRAN",
     "Regobs": "REGOBS",
     "User": "UPORABNIK"
   },
+  "Yes": "Ja",
   "from": "od",
   "is": "led",
   "jord": "zemeljski plaz",
   "metersOverSeaLevel": "metrov nadmorske višine",
   "observation": " opažanja",
   "observations": "opažanje/a",
+  "picture": "slika",
   "snø": "snega",
   "to": "do",
   "vann": "poplava"
