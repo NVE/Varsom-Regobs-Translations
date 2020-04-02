@@ -32,6 +32,9 @@
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
+  "Dialogs": {
+    "Time": {}
+  },
   "Email": "Email",
   "Footer": {
     "AboutDataInRegObs": "Über Daten in regObs",
@@ -475,7 +478,7 @@
     "UpdatedTime": "Aktualisiert"
   },
   "Register": "Benutzer erstellen",
-  "RegistrationEdit": {},
+  "RegistrationDetail": {},
   "RememberMe": "Mich erinnern",
   "Routes": {
     "About": "Über",

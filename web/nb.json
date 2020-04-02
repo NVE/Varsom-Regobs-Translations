@@ -76,8 +76,13 @@
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunkt som observasjonen ble gjort. Bruk lokaltid på observasjonsstedet.",
+      "Exact": "Eksakt",
+      "MoreThanOneKm": "Mer enn 1 km",
+      "NotMemberOfAnyGroups": "Du er ikke medlem av noen grupper",
       "Share": "Del med gruppe",
-      "Title": "Når ble observasjonen gjort?"
+      "Source": "Kildeangivelse",
+      "Title": "Når ble observasjonen gjort?",
+      "Uncertainty": "Usikkerhet i posisjon"
     }
   },
   "Email": "Epost",
@@ -601,6 +606,9 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
+  "RegistrationDetail": {
+    "EditInfo": "Du kan redigere din egen observasjon eller observasjoner som er i en gruppe du tilhører innen 48 timer etter registrering."
+  },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
     "DeleteObservation": "Slett observasjon",

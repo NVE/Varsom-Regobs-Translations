@@ -32,6 +32,9 @@
   "CopiedToClipboard": "Povezava do opažanja skopirana v odložišče.",
   "CountOf": "Število",
   "CreateObservation": "Ustvari opažanje",
+  "Dialogs": {
+    "Time": {}
+  },
   "Email": "E-pošta",
   "Footer": {
     "AboutDataInRegObs": "O podatkih v regObs",
@@ -475,7 +478,7 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
-  "RegistrationEdit": {},
+  "RegistrationDetail": {},
   "RememberMe": "Zapomni si me",
   "Routes": {
     "About": "O",

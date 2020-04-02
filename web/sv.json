@@ -32,6 +32,9 @@
   "CopiedToClipboard": "Länk till observationen kopierad till urklipp.",
   "CountOf": "Antal",
   "CreateObservation": "Skapa observation",
+  "Dialogs": {
+    "Time": {}
+  },
   "Email": "Epost",
   "Footer": {
     "AboutDataInRegObs": "Om data i Regobs",
@@ -475,7 +478,7 @@
     "UpdatedTime": "Uppdaterad"
   },
   "Register": "Registrera användare",
-  "RegistrationEdit": {},
+  "RegistrationDetail": {},
   "RememberMe": "Kom ihåg mig",
   "Routes": {
     "About": "Om",

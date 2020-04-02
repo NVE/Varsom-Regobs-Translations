@@ -76,8 +76,13 @@
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
+      "Exact": "Exact",
+      "MoreThanOneKm": "More than 1 km",
+      "NotMemberOfAnyGroups": "You are not member of any groups",
       "Share": "Share with group",
-      "Title": "When was the observation made?"
+      "Source": "Source",
+      "Title": "When was the observation made?",
+      "Uncertainty": "Uncertainty in position"
     }
   },
   "Email": "Email",
@@ -601,6 +606,9 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
+  "RegistrationDetail": {
+    "EditInfo": "You can edit your own observations or observations that is made in a group you belong to within 48 hours of registration."
+  },
   "RegistrationEdit": {
     "AddForm": "Add form",
     "DeleteObservation": "Delete observation",
