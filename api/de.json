@@ -2,7 +2,7 @@
   "AppearanceName": "Aussehen:",
   "Converters": {
     "Above": "Über",
-    "AboveSeaLevel": "müM",
+    "AboveSeaLevel": "m.ü.A",
     "And": "und",
     "Below": "Unter",
     "Between": "Zwischen",
@@ -46,7 +46,7 @@
       "Comment": "Kommentar",
       "DtAvalancheTime": "Zeit",
       "HeigthStartZone": "Höhe des Anrissgebietes",
-      "MetersOverSeaLevel": "müM",
+      "MetersOverSeaLevel": "m.ü.A",
       "NumberAndSize": "Lawinenanzahl und Größe",
       "ObsName": "Lawinenaktivität"
     },
@@ -56,7 +56,7 @@
       "Comment": "Bemerkung",
       "DtAvalancheTime": "Zeit",
       "DuringTheDay": "Während des Tages",
-      "MetersOverSeaLevel": "müM",
+      "MetersOverSeaLevel": "m.ü.A",
       "NumberAndSizeAndTrigger": "Anzahl, Größe und Auslöseart",
       "ObsName": "Lawinenaktivität",
       "Prevalence": "Verbreitung der Gefahrenstellen"
@@ -193,7 +193,7 @@
       "DamageExtentTName": "Schadensausmaß",
       "ForecastAccurateTName": "War die Warnung genau?",
       "LandSlideSizeTName": "Größe",
-      "LandSlideTName": "Erdrutschtype",
+      "LandSlideTName": "Erdrutschtyp",
       "LandSlideTriggerTName": "Auslöser",
       "ObsName": "Erdrutschbeobachtung",
       "Time": "Zeit",
@@ -293,7 +293,7 @@
   "PictureMode": "Nur Bilder",
   "Reg": {
     "ObservedTime": "Beobachtet",
-    "ObserverNickName": "Durch",
+    "ObserverNickName": "Von",
     "RegisteredTime": "Eingetragen",
     "UpdatedTime": "Aktualisiert"
   },
@@ -334,7 +334,7 @@
         "Label": "Warnregionen"
       },
       "TimePeriod": {
-        "ChooseDate": "datum auswählen:",
+        "ChooseDate": "Datum auswählen:",
         "Day": "Tag",
         "FromDate": "Von",
         "Label": "Zeitraum",
