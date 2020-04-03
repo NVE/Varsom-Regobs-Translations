@@ -470,6 +470,9 @@
       "PictureComment": "Comment",
       "RegistrationTID": "Picture of"
     },
+    "Shared": {
+      "Description": "Description"
+    },
     "SnowCover": {
       "CriticalLayer": "Weak layer",
       "CriticalLayerFound": "Weak layer observed.",

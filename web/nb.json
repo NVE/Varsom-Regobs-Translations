@@ -470,6 +470,9 @@
       "PictureComment": "Kommentar",
       "RegistrationTID": "Av"
     },
+    "Shared": {
+      "Description": "Beskrivelse"
+    },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
       "CriticalLayerFound": "Svakt lag finnes ",
