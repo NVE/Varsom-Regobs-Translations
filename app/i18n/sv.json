@@ -208,9 +208,9 @@
       "COMMENT_PLACEHOLDER": "Här kan du ge ytterligare beskrivning av tecken på lavinfara",
       "DESCRIPTION": "Beskrivning",
       "FOR_MUNICIPAL": "För kommunen",
-      "FOR_REGION": "Län / prognosområde",
+      "FOR_REGION": "Län \/ prognosområde",
       "GENERAL_ON_MOUNTAIN": "Generellt på fjället",
-      "IN_THE_VALLEY_OR_FJORD": "I dalen / fjorden",
+      "IN_THE_VALLEY_OR_FJORD": "I dalen \/ fjorden",
       "MANY_WATER_NEARBY": "Många sjöar i närheten",
       "NEW_DANGER_OBS": "Nytt tecken på lavinfara",
       "NO_DAMAGE_SIGN": "Inga tecken på lavinfara observerade",
@@ -306,7 +306,7 @@
       "COMMENT_PLACEHOLDER": "Varför hände det? Gick det bra? Kunde situationen ha undvikits?",
       "DAMAGE_EXTENT": "Skada omfattning",
       "IMAGE_PLACEHOLDER": "+ Lägg till bildbeskrivning",
-      "TITLE": "Olycka / tillbud"
+      "TITLE": "Olycka \/ tillbud"
     },
     "INVALID_IMAGE": "Tyvärr, ogiltig bildformat",
     "IN_CM": "I centimeter",
@@ -436,7 +436,7 @@
           "CYLINDER": "Cylinder",
           "CYLINDER_DIAMETER": "Cylinderdiameter (cm)",
           "CYLINDER_METHOD": "Använd cylinder",
-          "DENSITY": "Densitet (kg/m³)",
+          "DENSITY": "Densitet (kg\/m³)",
           "EMPTY": "Ingen densitetsprofil",
           "HEIGHT": "Höjd (cm)",
           "LAYER": "Lager",
@@ -522,7 +522,7 @@
         "PRECIPITATION": "Nederbördtyp",
         "TITLE": "Väder",
         "WIND_DIRECTION": "Vindriktning",
-        "WIND_SPEED": "Vindhastighet (m/s)"
+        "WIND_SPEED": "Vindhastighet (m\/s)"
       }
     },
     "SUMMARY": "Sammanfattning",
@@ -532,7 +532,7 @@
         "CAN_YOU_SEE_DAMAGE": "Ser du några skador?",
         "COMMENT": "Beskriv skadan",
         "COMMENT_PLACEHOLDER": "Här kan du beskriva skadorna ytterligare",
-        "IMAGE_OF_DAMAGES": "Bilder på skadan/skadorna",
+        "IMAGE_OF_DAMAGES": "Bilder på skadan\/skadorna",
         "TITLE": "Skador",
         "WHAT_IS_DAMAGED": "Vad är skadat?",
         "WHERE_IS_DAMAGE_LOCATION": "Var är platsen för skadan?"
@@ -549,7 +549,7 @@
         "MARKED_WITH": "Jag har markerat vattennivån med",
         "MARKING": "Märkning",
         "MARKING_PLURAL": "Märkningar",
-        "MARKING_REFERENCE": "Jag har markerat vattennivån i / på",
+        "MARKING_REFERENCE": "Jag har markerat vattennivån i \/ på",
         "MEASURE_PLURAL": "Mätningar",
         "MEASURING": "Mätning",
         "MEASURING_TOOL": "Ange mätinstrumentet här",
@@ -626,7 +626,7 @@
     },
     "PAGE_4": {
       "HEADER": "Vad och hur?",
-      "LINE_1": "Välj vad du vill se och dela på Regobs. Du kan läsa och dela observationer på varsom.no/snøskredskolen och varsom.no/isskolen"
+      "LINE_1": "Välj vad du vill se och dela på Regobs. Du kan läsa och dela observationer på varsom.no\/snøskredskolen och varsom.no\/isskolen"
     },
     "SKIP_START": "Hoppa över"
   },
@@ -640,10 +640,10 @@
     "CLAY_LEGEND_TEXT_4": "Havsgräns",
     "CLAY_LEGEND_TEXT_5": "Area ovan havsgräns",
     "CLAY_LEGEND_TEXT_6": "Area under havsgräns",
-    "CLAY_LEGEND_TEXT_7": "Liten / ingen havs påverkan",
+    "CLAY_LEGEND_TEXT_7": "Liten \/ ingen havs påverkan",
     "CLAY_LEGEND_TEXT_8": "Utloppsområde",
     "CLAY_LEGEND_TEXT_9": "Potentiell lavinfara",
-    "CLAY_ZONES_MAP_DESCRIPTION": "Kvicklera/Jordskred",
+    "CLAY_ZONES_MAP_DESCRIPTION": "Kvicklera\/Jordskred",
     "FLOOD_LEGEND_TEXT_1": "Aktuella",
     "FLOOD_LEGEND_TEXT_10": "200-årsöversvämning",
     "FLOOD_LEGEND_TEXT_11": "500-årsöversvämning",
@@ -668,7 +668,7 @@
     "ICE_LEGEND_TEXT_6": "Rörledning",
     "ICE_LEGEND_TEXT_7": "Kraftverkstunnel",
     "ICE_MAP_DESCRIPTION": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av reglering vid vattenkraftsproduktion",
-    "INFO_PAGE": "<h1>Om kartor med lutningsgrad och utloppszoner</h1>\nKartorna produceras automatiskt och kan innehålla fel. Det kan finnas brant terräng, som inte representeras i höjdmodellen och därmed inte visas på kartorna.\nVissa laviner kan ha längre utloppzoner än vad som visas som visas på kartorna.\n\n<h2> Vad ska man beakta?</h2>\nVälj vilken risk du vill utsätta dig för genom att välja var, när och hur du åker. Varsom Regobs är ett planeringsverktyg och dess data kan skilja sig från den faktiska situationen. Gör alltid din egen utvärdering.\n\n<h2> När är det säkert?</h2>\nAlla vistelse i snötäckt lavinterräng har ett inslag av risk.\n\n<h2> Vill du lära dig mer?</h2>\nDu kan lära dig mer genom att gå en Lavinkurs eller läsa mer på Snøskredskolen på Varsom.no.\",",
+    "INFO_PAGE": "<h1>Om kartor med lutningsgrad och utloppszoner<\/h1>\nKartorna produceras automatiskt och kan innehålla fel. Det kan finnas brant terräng, som inte representeras i höjdmodellen och därmed inte visas på kartorna.\nVissa laviner kan ha längre utloppzoner än vad som visas som visas på kartorna.\n\n<h2> Vad ska man beakta?<\/h2>\nVälj vilken risk du vill utsätta dig för genom att välja var, när och hur du åker. Varsom Regobs är ett planeringsverktyg och dess data kan skilja sig från den faktiska situationen. Gör alltid din egen utvärdering.\n\n<h2> När är det säkert?<\/h2>\nAlla vistelse i snötäckt lavinterräng har ett inslag av risk.\n\n<h2> Vill du lära dig mer?<\/h2>\nDu kan lära dig mer genom att gå en Lavinkurs eller läsa mer på Snøskredskolen på Varsom.no.\",",
     "LOW": "Låg",
     "MARITINE_BORDER": "Havsgräns",
     "MIDDLE": "Medel",
@@ -676,12 +676,12 @@
     "READ_MORE": "Lär mer om kartorna",
     "STEEPNESS_COLOR_INFO": "Färger anger branthet i terrängen i grader:",
     "STEEPNESS_MAP_DESCRIPTION": "Lutningskarta",
-    "STEEPNESS_MAP_DISCLAMER": "<i>Endast</i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng visas inte.",
+    "STEEPNESS_MAP_DISCLAMER": "<i>Endast<\/i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng visas inte.",
     "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Kort utloppszon (50% av lavinerna når längre)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Medel utloppszon (25% oav lavinerna når längre)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Lång utloppszon (5% av lavinerna når längre)\nVissa laviner kan ha längre utloppszon än vad som visas på kartan.",
     "STEEPNESS_OUTLET_MAP_DESCRIPTION": "Lutningskarta med utloppszoner",
-    "STEEPNESS_OUTLET_MAP_DISCLAMER": "<i>Endast</i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng eller utloppszoner visas inte.\n<br/>\n<br/>\nFärger anger utloppszoner för laviner:",
+    "STEEPNESS_OUTLET_MAP_DISCLAMER": "<i>Endast<\/i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng eller utloppszoner visas inte.\n<br\/>\n<br\/>\nFärger anger utloppszoner för laviner:",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Försvagad is"
   },
   "TABS": {
