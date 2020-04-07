@@ -378,6 +378,8 @@
       "AddIceLayer": "Registrer islag",
       "AddIceThicknessLayer": "Legg til islag",
       "Comment": "Kommentar",
+      "IceHeightAfterInput": "Overvannets tykkelse",
+      "IceHeightBeforeInput": "Overvannets tykkelse",
       "IceLayer": "Islag",
       "IceLayerThickness": "Tykkelse på islag (cm)",
       "IceThicknessLayers": "Islag (ovenfra og ned)",
@@ -395,6 +397,7 @@
       "TwoDecimalPlaces": "(cm, med opptil to desimaler)",
       "WaterSurfaceInHole": "Vannflaten i hullet "
     },
+    "InCm": "I centimeter",
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
       "Comment": "Kommentar",

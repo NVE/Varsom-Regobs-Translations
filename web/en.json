@@ -378,6 +378,8 @@
       "AddIceLayer": "Add ice layer",
       "AddIceThicknessLayer": "Add ice layer",
       "Comment": "Comment",
+      "IceHeightAfterInput": "Thickness of surface water",
+      "IceHeightBeforeInput": "Thickness of surface water",
       "IceLayer": "Ice layer",
       "IceLayerThickness": "Ice layer thickness (cm)",
       "IceThicknessLayers": "Layers (top to bottom)",
@@ -395,6 +397,7 @@
       "TwoDecimalPlaces": "(cm, up to two decimal places)",
       "WaterSurfaceInHole": "Water surface in hole"
     },
+    "InCm": "In centimeter",
     "Incident": {
       "ActivityInfluencedTID": "Activity",
       "Comment": "Comment",
