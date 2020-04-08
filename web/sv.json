@@ -77,6 +77,7 @@
       "AdditionalInformation": "Ytterligare information",
       "Description": "Ange den tidpunkt då observationen gjordes. Använd lokal tid på observationsplatsen.",
       "Share": "Dela med gruppen",
+      "Source": "Källa",
       "Title": "När gjordes observationen?"
     }
   },
@@ -465,7 +466,9 @@
       "PictureComment": "Kommentar",
       "RegistrationTID": "Av"
     },
-    "Shared": {},
+    "Shared": {
+      "Description": "Beskrivning"
+    },
     "SnowCover": {
       "CriticalLayer": "Svagt lager",
       "CriticalLayerFound": "Svaga lager observerades.",
