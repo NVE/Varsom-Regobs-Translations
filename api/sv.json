@@ -91,7 +91,7 @@
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Lavinfara",
       "AvalancheDevelopment": "Utveckling",
-      "AvalancheEvaluation": "Utveckling",
+      "AvalancheEvaluation": "Evaluering",
       "AvalancheProblem": "Lavinproblem",
       "ExposedTerrain": "Exponerad terräng",
       "ObsName": "Utvärdering av lavinfara"
@@ -99,7 +99,7 @@
     "AvalancheEvaluation3": {
       "AvalancheDangerTID": "Lavinfara",
       "AvalancheDevelopment": "Utveckling",
-      "AvalancheEvaluation": "Utveckling",
+      "AvalancheEvaluation": "Evaluering",
       "ForecastComment": "Kommentar",
       "ForecastCorrectTID": "Är publicerad lavinfaran korrekt?",
       "ObsName": "Utvärdering av lavinfara"
