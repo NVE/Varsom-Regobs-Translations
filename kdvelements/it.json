@@ -1,0 +1,442 @@
+{
+    "ActivityInfluencedKD_100": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_190": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_200": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_290": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_300": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_390": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_400": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_490": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_500": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_600": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_690": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_700": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_790": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "AreaUsageKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "50"
+    },
+    "AreaUsageKD_90": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "50"
+    },
+    "AvalancheExtKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "AvalancheKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "AvalancheTriggerKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "AvalancheTypeKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "AvalCauseDepthKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "AvalCauseKD_0_desc": {
+        "translation": "non dato",
+        "notes": "Not given",
+        "limit": "1024"
+    },
+    "AvalCauseKD_0": {
+        "translation": "non dato",
+        "notes": "Not given",
+        "limit": "100"
+    },
+    "AvalProbabilityKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "AvalPropagationKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "AvalReleaseHeightKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "AvalTriggerSimpleKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "CloudCoverKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "CriticalLayerKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "DamageExtentKD_99": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "30"
+    },
+    "DamageTypeKD_6": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "1024"
+    },
+    "DangerSignKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_200": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_600": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_700": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "DestructiveSizeKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "EstimatedNumKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ExposedClimateKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ExposedHeightComboKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ForecastCorrectKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "ForecastRegionTypeKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    },
+    "GeoHazardKD_10_desc": {
+        "translation": "Valanga",
+        "notes": "Snow",
+        "limit": "1024"
+    },
+    "GeoHazardKD_10": {
+        "translation": "Neve",
+        "notes": "Avalanche",
+        "limit": "30"
+    },
+    "GeoHazardKD_20": {
+        "translation": "Suolo",
+        "notes": "Earth slide",
+        "limit": "30"
+    },
+    "GeoHazardKD_60": {
+        "translation": "Acqua",
+        "notes": "Flooding",
+        "limit": "30"
+    },
+    "GeoHazardKD_70": {
+        "translation": "Ghiaccio",
+        "notes": "Weak ice",
+        "limit": "30"
+    },
+    "IceCapacityKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceCoverAfterKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceCoverKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceProblemKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceSkateabilityKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "LandSlideKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "LandSlideTriggerKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "MarkingTypeKD_5_desc": {
+        "translation": "Altro",
+        "notes": "Other",
+        "limit": "1024"
+    },
+    "MarkingTypeKD_5": {
+        "translation": "Altro",
+        "notes": "Other",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_5_desc": {
+        "translation": "Altro",
+        "notes": "Other",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_5": {
+        "translation": "Altro",
+        "notes": "Other",
+        "limit": "100"
+    },
+    "PrecipitationKD_5": {
+        "translation": "Neve",
+        "notes": "",
+        "limit": "30"
+    },
+    "PropagationKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_10": {
+        "translation": "Note",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_11": {
+        "translation": "Incidento",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_13": {
+        "translation": "Segno di pericolo",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_14": {
+        "translation": "Danni",
+        "notes": "Gjelder alle geohazard. Brukes kun av vann foreløpig.",
+        "limit": "30"
+    },
+    "RegistrationKD_21": {
+        "translation": "Condizioni meteorologiche",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_25": {
+        "translation": "Test",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_26": {
+        "translation": "Osservazione valanga",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_31": {
+        "translation": "Evaluazione del pericolo valanghivo",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_33": {
+        "translation": "Attivitá valanghiva",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_36": {
+        "translation": "Profilo del manto nevoso",
+        "notes": "SnowProfile top-node",
+        "limit": "30"
+    },
+    "RegistrationKD_50": {
+        "translation": "Altezza di ghiaccio",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_51": {
+        "translation": "Copertura di ghiaccio",
+        "notes": "",
+        "limit": "30"
+    },
+    "RegistrationKD_62": {
+        "translation": "Livello dell'acqua",
+        "notes": "new waterleve observajon for flom database project.",
+        "limit": "30"
+    },
+    "SnowSurfaceKD_108": {
+        "translation": "Altro",
+        "notes": "",
+        "limit": "100"
+    },
+    "SourceKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "50"
+    },
+    "StabilityEvalKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "TerrainStartZoneKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "WaterAstrayKD_1_desc": {
+        "translation": "Si",
+        "notes": "Yes",
+        "limit": "1024"
+    },
+    "WaterAstrayKD_1": {
+        "translation": "Si",
+        "notes": "Yes",
+        "limit": "100"
+    },
+    "WaterAstrayKD_2_desc": {
+        "translation": "No",
+        "notes": "No",
+        "limit": "1024"
+    },
+    "WaterAstrayKD_2": {
+        "translation": "No",
+        "notes": "No",
+        "limit": "100"
+    },
+    "WaterLevelMethodKD_1_desc": {
+        "translation": "Marca del livello d'acqua",
+        "notes": "Water level marking",
+        "limit": "1024"
+    },
+    "WaterLevelMethodKD_1": {
+        "translation": "Marca del livello d'acqua",
+        "notes": "Water level marking",
+        "limit": "100"
+    },
+    "WaterLevelMethodKD_2": {
+        "translation": "Misura del livello d'acqua",
+        "notes": "water level measurement",
+        "limit": "100"
+    },
+    "WaterLevelRefKD_100": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "WaterLevelRefKD_200": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "30"
+    },
+    "WetnessKD_5": {
+        "translation": "O",
+        "notes": "",
+        "limit": "30"
+    },
+    "WetnessKD_9": {
+        "translation": "S",
+        "notes": "",
+        "limit": "30"
+    },
+    "WindSpeedKD_0": {
+        "translation": "non dato",
+        "notes": "",
+        "limit": "100"
+    }
+}
