@@ -7,7 +7,8 @@
   "Attachment": {
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
-    "NoDescription": "Ingen beskrivelse"
+    "NoDescription": "Ingen beskrivelse",
+    "Uploading": "Laster opp"
   },
   "COMPASS_DIRECTION": {
     "EAST": "Øst",
