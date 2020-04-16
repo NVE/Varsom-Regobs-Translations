@@ -7,6 +7,7 @@
   "Attachment": {
     "Attachment": "Attachment",
     "DropzoneText": "Drag files here to upload, or click to select",
+    "ErrorInfo": "One or more objects could not be submitted. Please check your network connection. We will keep trying to submit as long as the page is open in the browser.",
     "NoDescription": "No description",
     "Uploading": "Uploading"
   },

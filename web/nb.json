@@ -7,6 +7,7 @@
   "Attachment": {
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
+    "ErrorInfo": "Et eller flere objekter kunne ikke sendes inn, sannsynligvis grunnet manglende nettverkstilkobling. Vi fortsetter å prøve å sende inn så lenge siden er åpen i nettleseren.",
     "NoDescription": "Ingen beskrivelse",
     "Uploading": "Laster opp"
   },
