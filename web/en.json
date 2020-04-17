@@ -585,14 +585,28 @@
       "With": "with"
     },
     "WeatherObservation": {
-      "AirTemperature": "Air temperature",
-      "CloudCover": "Cloud coverage",
+      "AirTemperature": "Air temperature (°C)",
+      "AirTemperaturePlaceholder": "Can be given with two decimals",
+      "CloudCover": "Cloud coverage (%)",
       "Clouds": "clouds",
       "Comment": "Comment",
+      "CommentHeader": "Describe weather",
+      "CommentPlaceholder": "How has the weather been over the last 24 hours? Example: Has there been snowfall? Have there been temperature changes? At what altitude has the freezing point been?",
+      "FromEast": "E - from east",
+      "FromNorth": "N - from north",
+      "FromNorthEast": "NE - from north-east",
+      "FromNorthWest": "NW - from north-west",
+      "FromSouth": "S - from south",
+      "FromSouthEast": "SE - from south-east",
+      "FromSouthWest": "SW - from south-west",
+      "FromWest": "W - from west",
       "ObsName": "Weather Observation",
+      "OnlyFullPercentage": "Percentage without decimals",
+      "Precipitation": "Percipitation",
       "PrecipitationTID": "Precipitation type",
       "Wind": "Wind conditions",
-      "WindDirection": "from"
+      "WindDirection": "Wind direction",
+      "WindSpeed": "Wind speed (m/s)"
     }
   },
   "Of": "of",
