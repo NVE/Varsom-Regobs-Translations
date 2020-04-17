@@ -555,14 +555,28 @@
       "With": "med"
     },
     "WeatherObservation": {
-      "AirTemperature": "Temperatur",
-      "CloudCover": "Skydekke",
+      "AirTemperature": "Lufttemperatur (°C)",
+      "AirTemperaturePlaceholder": "Kan gis med to desimal",
+      "CloudCover": "Skydekke (%)",
       "Clouds": "skyer",
       "Comment": "Kommentar",
+      "CommentHeader": "Beskriv været",
+      "CommentPlaceholder": "Hvordan har været vært i området siste døgn? Eks: Har det vært byger? Har det vært temperaturendringer? Hvor går nullisotermen?",
+      "FromEast": "Ø - fra øst",
+      "FromNorth": "N - fra nord",
+      "FromNorthEast": "NØ - fra nordøst",
+      "FromNorthWest": "NV - fra nordvest",
+      "FromSouth": "S - fra sør",
+      "FromSouthEast": "SØ - fra sørøst",
+      "FromSouthWest": "SV - fra sørvest",
+      "FromWest": "V - fra vest",
       "ObsName": "Vær observation",
+      "OnlyFullPercentage": "Kun hele prosent",
+      "Precipitation": "Nedbørstype",
       "PrecipitationTID": "Nedbørstype",
       "Wind": "Vind",
-      "WindDirection": "fra"
+      "WindDirection": "Vindretning",
+      "WindSpeed": "Vindhastighet (m/s)"
     }
   },
   "Of": "av",
