@@ -405,6 +405,7 @@
       "AddIceThicknessLayer": "Legg til islag",
       "Comment": "Kommentar",
       "IceHeightAfterInput": "Overvannets tykkelse",
+      "IceHeightAfterInputNo": "Høyde fra isoverflaten til vannflaten i borehullet",
       "IceHeightBeforeInput": "Overvannets tykkelse",
       "IceLayer": "Islag",
       "IceLayerThickness": "Tykkelse på islag (cm)",

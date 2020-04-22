@@ -405,6 +405,7 @@
       "AddIceThicknessLayer": "Add ice layer",
       "Comment": "Comment",
       "IceHeightAfterInput": "Thickness of surface water",
+      "IceHeightAfterInputNo": "Height from the surface to the water in the hole",
       "IceHeightBeforeInput": "Thickness of surface water",
       "IceLayer": "Ice layer",
       "IceLayerThickness": "Ice layer thickness (cm)",
