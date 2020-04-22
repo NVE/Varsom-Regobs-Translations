@@ -7,7 +7,27 @@
   "Attachment": {
     "Attachment": "Attachment",
     "DropzoneText": "Drag files here to upload, or click to select",
-    "NoDescription": "No description"
+    "ErrorInfo": "One or more objects could not be submitted. Please check your network connection. We will keep trying to submit as long as the page is open in the browser.",
+    "NoDescription": "No description",
+    "Uploading": "Uploading"
+  },
+  "COMPASS_DIRECTION": {
+    "EAST": "East",
+    "EAST_SHORT": "E",
+    "NORTH": "North",
+    "NORTH_EAST": "North-East",
+    "NORTH_EAST_SHORT": "NE",
+    "NORTH_SHORT": "N",
+    "NORTH_WEST": "North-West",
+    "NORTH_WEST_SHORT": "NW",
+    "SOUTH": "South",
+    "SOUTH_EAST": "South-East",
+    "SOUTH_EAST_SHORT": "SE",
+    "SOUTH_SHORT": "S",
+    "SOUTH_WEST": "South-West",
+    "SOUTH_WEST_SHORT": "SW",
+    "WEST": "West",
+    "WEST_SHORT": "W"
   },
   "Cancel": "Cancel",
   "ChangePassword": "Change Password",
@@ -58,7 +78,13 @@
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
-      "Title": "When was the observation made?"
+      "Exact": "Exact",
+      "MoreThanOneKm": "More than 1 km",
+      "NotMemberOfAnyGroups": "You are not member of any groups",
+      "Share": "Share with group",
+      "Source": "Source",
+      "Title": "When was the observation made?",
+      "Uncertainty": "Uncertainty in position"
     }
   },
   "Email": "Email",
@@ -402,6 +428,7 @@
       "ActivityInfluencedTID": "Activity",
       "Comment": "Comment",
       "DamageExtentTID": "Extent",
+      "Description": "Why did it happen? Did it go well? Could the situation have been avoided?",
       "GeoHazardTID": "Observation type",
       "IncidentHeader": "Heading",
       "IncidentIngress": "Ingress",
@@ -428,11 +455,11 @@
       "LandslideType": "Landslide type",
       "ObsName": "Landslide observation",
       "Position": "Landslide position",
-      "PositionDescription": "Specify the start and end points of the landslide if you know it.",
+      "PositionDescription": "Set the start and stop positions of the landslide.",
       "Required": "Required",
-      "SetEndPosition": "Set end positions",
       "SetLandslidePosition": "Set landslide position",
       "SetStartPosition": "Set starting position",
+      "SetStopPosition": "Set stop position",
       "Time": "Time",
       "TimeDescription": "Enter the time at which the landslide occurred. The time should be local time in the area of observation.",
       "Title": "Landslide Incident",
@@ -447,6 +474,9 @@
       "Photographer": "Photographer",
       "PictureComment": "Comment",
       "RegistrationTID": "Picture of"
+    },
+    "Shared": {
+      "Description": "Description"
     },
     "SnowCover": {
       "CriticalLayer": "Weak layer",
@@ -601,6 +631,20 @@
     "UpdatedTime": "Updated"
   },
   "Register": "Create User",
+  "RegistrationDetail": {
+    "EditInfo": "You can edit your own observations or observations that is made in a group you belong to within 48 hours of registration."
+  },
+  "RegistrationEdit": {
+    "AddForm": "Add form",
+    "DeleteObservation": "Delete observation",
+    "Discard": "Discard",
+    "Done": "Done",
+    "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
+    "SaveAsDraft": "Save as draft?",
+    "SaveDraft": "Save draft",
+    "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
+    "SyncInProgress": "Sync in progress:"
+  },
   "RegistrationKeyInfo": {
     "Accuracy": "Accuracy",
     "Edit": "Edit",

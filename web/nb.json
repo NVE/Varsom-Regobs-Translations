@@ -7,7 +7,27 @@
   "Attachment": {
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
-    "NoDescription": "Ingen beskrivelse"
+    "ErrorInfo": "Et eller flere objekter kunne ikke sendes inn, sannsynligvis grunnet manglende nettverkstilkobling. Vi fortsetter å prøve å sende inn så lenge siden er åpen i nettleseren.",
+    "NoDescription": "Ingen beskrivelse",
+    "Uploading": "Laster opp"
+  },
+  "COMPASS_DIRECTION": {
+    "EAST": "Øst",
+    "EAST_SHORT": "Ø",
+    "NORTH": "Nord",
+    "NORTH_EAST": "Nord-Øst",
+    "NORTH_EAST_SHORT": "NØ",
+    "NORTH_SHORT": "N",
+    "NORTH_WEST": "Nord-Vest",
+    "NORTH_WEST_SHORT": "NV",
+    "SOUTH": "Sør",
+    "SOUTH_EAST": "Sør-Øst",
+    "SOUTH_EAST_SHORT": "SØ",
+    "SOUTH_SHORT": "S",
+    "SOUTH_WEST": "Sør-Vest",
+    "SOUTH_WEST_SHORT": "SV",
+    "WEST": "Vest",
+    "WEST_SHORT": "V"
   },
   "Cancel": "Avbryt",
   "ChangePassword": "Bytt passord",
@@ -58,7 +78,13 @@
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunkt som observasjonen ble gjort. Bruk lokaltid på observasjonsstedet.",
-      "Title": "Når ble observasjonen gjort?"
+      "Exact": "Eksakt",
+      "MoreThanOneKm": "Mer enn 1 km",
+      "NotMemberOfAnyGroups": "Du er ikke medlem av noen grupper",
+      "Share": "Del med gruppe",
+      "Source": "Kildeangivelse",
+      "Title": "Når ble observasjonen gjort?",
+      "Uncertainty": "Usikkerhet i posisjon"
     }
   },
   "Email": "Epost",
@@ -402,6 +428,7 @@
       "ActivityInfluencedTID": "Aktivitet",
       "Comment": "Kommentar",
       "DamageExtentTID": "Skadeomfang",
+      "Description": "Hvorfor skjedde det? Gikk det bra? Kunne situasjonen vært unngått?",
       "GeoHazardTID": "Observasjonstype",
       "IncidentHeader": "Overskrift",
       "IncidentIngress": "Ingress",
@@ -430,9 +457,9 @@
       "Position": "Skredposisjon",
       "PositionDescription": "Angi start- og sluttpunkt for skredet hvis du kjenner til det.",
       "Required": "Obligatorisk",
-      "SetEndPosition": "Sett sluttpunkt",
       "SetLandslidePosition": "Sett skredposisjon",
       "SetStartPosition": "Sett startpunkt",
+      "SetStopPosition": "Sett sluttpunkt",
       "Time": "Tid",
       "TimeDescription": "Her skal du legge inn hvilket tidspunkt skredet gikk. Tidspunktet skal være lokaltid i området observasjonen er gjort i.",
       "Title": "Skredhendelse",
@@ -447,6 +474,9 @@
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
       "RegistrationTID": "Av"
+    },
+    "Shared": {
+      "Description": "Beskrivelse"
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
@@ -601,6 +631,20 @@
     "UpdatedTime": "Oppdatert"
   },
   "Register": "Registrer bruker",
+  "RegistrationDetail": {
+    "EditInfo": "Du kan redigere din egen observasjon eller observasjoner som er i en gruppe du tilhører innen 48 timer etter registrering."
+  },
+  "RegistrationEdit": {
+    "AddForm": "Legg til skjema",
+    "DeleteObservation": "Slett observasjon",
+    "Discard": "Forkast",
+    "Done": "Ferdig",
+    "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst et skjema for at observasjonen skal bli registrert.",
+    "SaveAsDraft": "Lagre som kladd?",
+    "SaveDraft": "Lagre kladd",
+    "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
+    "SyncInProgress": "Synkronisering pågår:"
+  },
   "RegistrationKeyInfo": {
     "Accuracy": "Nøyaktighet",
     "Edit": "Rediger",
