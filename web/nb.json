@@ -318,11 +318,14 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Faregrad",
+      "AvalancheDevelopment": "Utvikling",
       "AvalancheEvaluation1": "Skredvurdering",
       "AvalancheProblemTID1": "Skredfareproblem 1",
       "AvalancheProblemTID2": "Skredfareproblem 2",
       "AvalancheProblemTID3": "Skredfareproblem 3",
-      "Comment": "Utvikling",
+      "Comment": "Kommentar til varslet faregrad",
+      "Evaluation": "Vurdering",
+      "ForecastCorrect": "Vurdering av varslet faregrad på varsom.no",
       "ObsName": "Skredfarevurdering",
       "ValidExposition": "Eksposisjon"
     },

@@ -318,11 +318,14 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Danger Level",
+      "AvalancheDevelopment": "Development",
       "AvalancheEvaluation1": "Evaluation",
       "AvalancheProblemTID1": "Avalanche problem 1",
       "AvalancheProblemTID2": "Avalanche problem 2",
       "AvalancheProblemTID3": "Avalanche problem 3",
-      "Comment": "Development",
+      "Comment": "Comment to avalanche forcast",
+      "Evaluation": "Danger assessment",
+      "ForecastCorrect": "Assessment of avalanche forecast on varsom.no",
       "ObsName": "Avalanche Evaluation",
       "ValidExposition": "Exposition"
     },

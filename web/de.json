@@ -310,11 +310,11 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Gefahrenstufe",
+      "AvalancheDevelopment": "Entwicklung",
       "AvalancheEvaluation1": "Bewertung",
       "AvalancheProblemTID1": "Lawinenproblem 1",
       "AvalancheProblemTID2": "Lawinenproblem 2",
       "AvalancheProblemTID3": "Lawinenproblem 3",
-      "Comment": "Entwicklung",
       "ObsName": "Lawinenbewertung",
       "ValidExposition": "Exposition"
     },

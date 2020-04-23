@@ -312,11 +312,11 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Lavinfara",
+      "AvalancheDevelopment": "Utveckling",
       "AvalancheEvaluation1": "Bedömning",
       "AvalancheProblemTID1": "Lavinproblem 1",
       "AvalancheProblemTID2": "Lavinproblem 2",
       "AvalancheProblemTID3": "Lavinproblem 3",
-      "Comment": "Utveckling",
       "ObsName": "Bedömning av lavinfara",
       "ValidExposition": "Exponering"
     },
