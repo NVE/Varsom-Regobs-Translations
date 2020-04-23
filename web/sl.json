@@ -582,6 +582,7 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
+  "RegistrationEdit": {},
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
     "Edit": "Uredi",

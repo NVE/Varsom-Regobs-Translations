@@ -637,14 +637,24 @@
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
+    "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
+    "ContinueOnDraft": "Fortsett på kladd",
+    "ContinueOnDraftButton": "Fortsett på kladd",
+    "ContinueOnDraftCancelButton": "Start ny observasjon",
+    "ContinueOnDraftMessage": "Du har allerede en kladd liggende fra",
+    "ContinueOnDraftQuestion": "Vil du fortsette på den?",
+    "DeleteError": "Klarte ikke slette observasjon!",
     "DeleteObservation": "Slett observasjon",
     "Discard": "Forkast",
     "Done": "Ferdig",
     "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst et skjema for at observasjonen skal bli registrert.",
+    "NoCancel": "Nei, avbryt",
     "SaveAsDraft": "Lagre som kladd?",
     "SaveDraft": "Lagre kladd",
     "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
-    "SyncInProgress": "Synkronisering pågår:"
+    "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
+    "SyncInProgress": "Synkronisering pågår:",
+    "YesDelete": "Ja, slett!"
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Nøyaktighet",
