@@ -640,14 +640,24 @@
   },
   "RegistrationEdit": {
     "AddForm": "Add form",
+    "ConfirmDelete": "Are you sure you want to delete this observation?",
+    "ContinueOnDraft": "Continue on draft",
+    "ContinueOnDraftButton": "Continue on draft",
+    "ContinueOnDraftCancelButton": "Start new observation",
+    "ContinueOnDraftMessage": "You have a draft from",
+    "ContinueOnDraftQuestion": "Do you want to continue on that draft?",
+    "DeleteError": "Could not delete observation!",
     "DeleteObservation": "Delete observation",
     "Discard": "Discard",
     "Done": "Done",
     "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
+    "NoCancel": "No, cancel",
     "SaveAsDraft": "Save as draft?",
     "SaveDraft": "Save draft",
     "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
-    "SyncInProgress": "Sync in progress:"
+    "SyncError": "Could not sync observation with Regobs!",
+    "SyncInProgress": "Sync in progress:",
+    "YesDelete": "Yes, delete!"
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Accuracy",
