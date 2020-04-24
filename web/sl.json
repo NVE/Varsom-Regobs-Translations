@@ -293,11 +293,11 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Stopnja nevarnosti",
+      "AvalancheDevelopment": "Razvoj",
       "AvalancheEvaluation1": "Ocena",
       "AvalancheProblemTID1": "Plazovni problem 1",
       "AvalancheProblemTID2": "Plazovni problem 2",
       "AvalancheProblemTID3": "Plazovni problem 3",
-      "Comment": "Razvoj",
       "ObsName": "Ocena nevarnosti plazov",
       "ValidExposition": "Izpostavljenost"
     },
@@ -582,7 +582,6 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
-  "RegistrationEdit": {},
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
     "Edit": "Uredi",

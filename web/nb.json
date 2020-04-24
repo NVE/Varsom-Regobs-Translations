@@ -8,7 +8,6 @@
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
     "ErrorInfo": "Et eller flere objekter kunne ikke sendes inn, sannsynligvis grunnet manglende nettverkstilkobling. Vi fortsetter å prøve å sende inn så lenge siden er åpen i nettleseren.",
-    "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtyper er:",
     "NoDescription": "Ingen beskrivelse",
     "Uploading": "Laster opp"
   },
@@ -319,11 +318,14 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Faregrad",
+      "AvalancheDevelopment": "Utvikling",
       "AvalancheEvaluation1": "Skredvurdering",
       "AvalancheProblemTID1": "Skredfareproblem 1",
       "AvalancheProblemTID2": "Skredfareproblem 2",
       "AvalancheProblemTID3": "Skredfareproblem 3",
-      "Comment": "Utvikling",
+      "Comment": "Kommentar til varslet faregrad",
+      "Evaluation": "Vurdering",
+      "ForecastCorrect": "Vurdering av varslet faregrad på varsom.no",
       "ObsName": "Skredfarevurdering",
       "ValidExposition": "Eksposisjon"
     },
@@ -638,24 +640,14 @@
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
-    "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
-    "ContinueOnDraft": "Fortsett på kladd",
-    "ContinueOnDraftButton": "Fortsett på kladd",
-    "ContinueOnDraftCancelButton": "Start ny observasjon",
-    "ContinueOnDraftMessage": "Du har allerede en kladd liggende fra",
-    "ContinueOnDraftQuestion": "Vil du fortsette på den?",
-    "DeleteError": "Klarte ikke slette observasjon!",
     "DeleteObservation": "Slett observasjon",
     "Discard": "Forkast",
     "Done": "Ferdig",
     "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst et skjema for at observasjonen skal bli registrert.",
-    "NoCancel": "Nei, avbryt",
     "SaveAsDraft": "Lagre som kladd?",
     "SaveDraft": "Lagre kladd",
     "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
-    "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
-    "SyncInProgress": "Synkronisering pågår:",
-    "YesDelete": "Ja, slett!"
+    "SyncInProgress": "Synkronisering pågår:"
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Nøyaktighet",
