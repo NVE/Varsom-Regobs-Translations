@@ -88,6 +88,16 @@
       "Uncertainty": "Uncertainty in position"
     }
   },
+  "Direction": {
+    "E": "E",
+    "N": "N",
+    "NE": "NE",
+    "NW": "NW",
+    "S": "S",
+    "SE": "SE",
+    "SW": "SW",
+    "W": "W"
+  },
   "Email": "Email",
   "Footer": {
     "AboutDataInRegObs": "About data in regObs",
@@ -350,16 +360,23 @@
       "AvalCauseTID": "Weak layer",
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Trigger",
+      "AvalancheType": "Landslide type",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size",
-      "DtAvalancheTime": "Time",
-      "FractureHeigth": "Break height",
-      "FractureWidth": "Break width",
+      "DtAvalancheTime": "Avalanche time (required)",
+      "FractureHeight": "Fracture height (cm)",
+      "FractureWidth": "Fracture width (m)",
       "HeigthStartZone": "Loosened area start",
       "HeigthStopZone": "Loosened area stop",
+      "IncidentDescription": "Accident or injury",
+      "IncidentPlaceholder": "Did the avalanche cause any damage, accidents or close calls? Why and how did it happen? Could the situation have been avoided?",
       "ObsName": "Avalanche observation",
-      "TerrainStartZoneTID": "Terrain startzone",
-      "Trajectory": "Trajectory",
+      "Position": "Landslide position",
+      "PositionDescription": "Set the start and stop positions of the landslide.",
+      "SetStartPosition": "Set starting position",
+      "SetStopPosition": "Set stop position",
+      "TerrainStartZoneTID": "Terrain type in the release area",
+      "TrajectoryName": "Name of avalanche path",
       "ValidExposition": "Exposition"
     },
     "CompressionTest": {
@@ -429,10 +446,11 @@
       "WaterSurfaceInHole": "Water surface in hole"
     },
     "InCm": "In centimeter",
+    "InMeter": "In meter",
     "Incident": {
       "ActivityInfluencedTID": "Activity",
-      "Comment": "Comment",
-      "DamageExtentTID": "Extent",
+      "Comment": "Description",
+      "DamageExtentTID": "Damage extent",
       "Description": "Why did it happen? Did it go well? Could the situation have been avoided?",
       "GeoHazardTID": "Observation type",
       "IncidentHeader": "Heading",

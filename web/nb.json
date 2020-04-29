@@ -88,6 +88,16 @@
       "Uncertainty": "Usikkerhet i posisjon"
     }
   },
+  "Direction": {
+    "E": "Ø",
+    "N": "N",
+    "NE": "NØ",
+    "NW": "NV",
+    "S": "S",
+    "SE": "SØ",
+    "SW": "SV",
+    "W": "V"
+  },
   "Email": "Epost",
   "Footer": {
     "AboutDataInRegObs": "Om data i regObs",
@@ -347,19 +357,26 @@
       "ObsName": "Skredfarevurdering"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Svaktlag",
+      "AvalCauseTID": "Svakt lag",
       "AvalancheTID": "Skredtype",
       "AvalancheTriggerTID": "Skredutløser",
+      "AvalancheType": "Type skred",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Størrelse",
-      "DtAvalancheTime": "Tid",
-      "FractureHeigth": "Bruddhøyde",
-      "FractureWidth": "Bruddbredde",
+      "DtAvalancheTime": "Skredtidspunkt (obligatorisk)",
+      "FractureHeight": "Bruddhøyde (cm)",
+      "FractureWidth": "Bruddbredde (m)",
       "HeigthStartZone": "Løsneområdet",
       "HeigthStopZone": "Stoppområdet",
+      "IncidentDescription": "Ulykke eller skade",
+      "IncidentPlaceholder": "Førte skredet til skade, ulykke eller nestenulykke? Hva skjedde og hvorfor? Kunne situasjonen vært unngått?",
       "ObsName": "Skredhendelse",
-      "TerrainStartZoneTID": "Terreng i løsneområdet",
-      "Trajectory": "Skredbanenavn",
+      "Position": "Skredposisjon",
+      "PositionDescription": "Angi start- og sluttpunkt for skredet hvis du kjenner til det.",
+      "SetStartPosition": "Sett startpunkt",
+      "SetStopPosition": "Sett sluttpunkt",
+      "TerrainStartZoneTID": "Terrengtype i løsneområdet",
+      "TrajectoryName": "Skredbanenavn",
       "ValidExposition": "Eksposisjon"
     },
     "CompressionTest": {
@@ -429,9 +446,10 @@
       "WaterSurfaceInHole": "Vannflaten i hullet "
     },
     "InCm": "I centimeter",
+    "InMeter": "I meter",
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
-      "Comment": "Kommentar",
+      "Comment": "Beskrivelse",
       "DamageExtentTID": "Skadeomfang",
       "Description": "Hvorfor skjedde det? Gikk det bra? Kunne situasjonen vært unngått?",
       "GeoHazardTID": "Observasjonstype",

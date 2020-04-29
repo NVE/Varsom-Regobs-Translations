@@ -79,6 +79,16 @@
       "Title": "Wann wurde die Beobachtung gemacht?"
     }
   },
+  "Direction": {
+    "E": "O",
+    "N": "N",
+    "NE": "NO",
+    "NW": "NW",
+    "S": "S",
+    "SE": "SO",
+    "SW": "SW",
+    "W": "W"
+  },
   "Email": "Email",
   "Footer": {
     "AboutDataInRegObs": "Über Daten in regObs",
@@ -340,14 +350,16 @@
       "AvalancheTriggerTID": "Auslöseart",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe",
-      "DtAvalancheTime": "Zeit",
-      "FractureHeigth": "Anrisshöhe",
-      "FractureWidth": "Anrissbreite",
+      "DtAvalancheTime": "Lawinenzeit (erforderlich)",
+      "FractureHeight": "Anrisshöhe (cm)",
+      "FractureWidth": "Anrissbreite (m)",
       "HeigthStartZone": "Anrissgebiet",
       "HeigthStopZone": "Ablagerungsgebiet",
+      "IncidentDescription": "Unfall oder Verletzung",
+      "IncidentPlaceholder": "Hat die Lawine Schäden, Unfälle oder Stürze verursacht? Warum und wie ist es passiert? Könnte die Situation vermieden worden sein?",
       "ObsName": "Lawinenbeobachtung",
-      "TerrainStartZoneTID": "Anrissgebiet Gelände",
-      "Trajectory": "Sturzbahn",
+      "TerrainStartZoneTID": "Geländetyp im Anbruchgebiet",
+      "TrajectoryName": "Name der Lawinenbahn",
       "ValidExposition": "Exposition"
     },
     "CompressionTest": {
@@ -415,8 +427,8 @@
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivität",
-      "Comment": "Kommentar",
-      "DamageExtentTID": "Umfang",
+      "Comment": "Beschreibung",
+      "DamageExtentTID": "Schadensumfang",
       "Description": "Warum ist das geschehen? Ist es gut ausgegangen?Kann die Situation vermieden werden?",
       "GeoHazardTID": "Beobachtungsart",
       "IncidentHeader": "Überschrift",
