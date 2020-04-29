@@ -62,6 +62,16 @@
       "Title": "Kdaj je bilo opravljeno opažanje?"
     }
   },
+  "Direction": {
+    "E": "V",
+    "N": "S",
+    "NE": "SV",
+    "NW": "SZ",
+    "S": "J",
+    "SE": "JV",
+    "SW": "JZ",
+    "W": "Z"
+  },
   "Email": "E-pošta",
   "Footer": {
     "AboutDataInRegObs": "O podatkih v regObs",
@@ -323,14 +333,16 @@
       "AvalancheTriggerTID": "Sprožilec",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
-      "DtAvalancheTime": "Čas",
-      "FractureHeigth": "Višina zloma",
-      "FractureWidth": "Širina zloma",
+      "DtAvalancheTime": "Čas sprožitve (obvezno)",
+      "FractureHeight": "Višina napoke (cm)",
+      "FractureWidth": "Širina napoke (m)",
       "HeigthStartZone": "Območje začetka",
       "HeigthStopZone": "Območje konca",
+      "IncidentDescription": "Nesreča ali poškodba",
+      "IncidentPlaceholder": "Je plaz povzročil kakšno škodo, nesrečo ali skorajšnjo nesrečo? Zakaj in kako se je zgodil? Se bi bilo situaciji mogoče izogniti?",
       "ObsName": "Opažanje plazu",
-      "TerrainStartZoneTID": "Teren v območju popuščanja",
-      "Trajectory": "Smer",
+      "TerrainStartZoneTID": "Tip terena na območju proženja",
+      "TrajectoryName": "Pot plazu",
       "ValidExposition": "Izpostavljenost"
     },
     "CompressionTest": {
@@ -398,7 +410,7 @@
     },
     "Incident": {
       "ActivityInfluencedTID": "Dejavnost",
-      "Comment": "Komentar",
+      "Comment": "Opis",
       "DamageExtentTID": "Obseg škode",
       "GeoHazardTID": "Vrsta opažanja",
       "IncidentHeader": "Naslov",
@@ -582,7 +594,6 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
-  "RegistrationEdit": {},
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
     "Edit": "Uredi",

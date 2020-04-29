@@ -81,6 +81,16 @@
       "Title": "När gjordes observationen?"
     }
   },
+  "Direction": {
+    "E": "O",
+    "N": "N",
+    "NE": "NO",
+    "NW": "NV",
+    "S": "S",
+    "SE": "SO",
+    "SW": "SV",
+    "W": "V"
+  },
   "Email": "Epost",
   "Footer": {
     "AboutDataInRegObs": "Om data i Regobs",
@@ -342,14 +352,16 @@
       "AvalancheTriggerTID": "Lavinen utlöst av",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Storlek",
-      "DtAvalancheTime": "Tid",
-      "FractureHeigth": "Höjd brottkant",
-      "FractureWidth": "Bredd brottkant",
+      "DtAvalancheTime": "Tid för lavinen (obligatoriskt)",
+      "FractureHeight": "Brottkant höjd (cm)",
+      "FractureWidth": "Brottkant bredd (m)",
       "HeigthStartZone": "Startzon",
       "HeigthStopZone": "Utloppszon",
+      "IncidentDescription": "Olycka eller skada",
+      "IncidentPlaceholder": "Orsakade lavinen till skada, olycka eller nästan olycka? Varför och hur hände det? Kunde situationen ha undvikits?",
       "ObsName": "Lavinobservation",
-      "TerrainStartZoneTID": "Terräng i startzon",
-      "Trajectory": "Namn på lavinbana",
+      "TerrainStartZoneTID": "Terräng i startzonen",
+      "TrajectoryName": "Namn på lavinbana",
       "ValidExposition": "Väderstreck"
     },
     "CompressionTest": {
@@ -417,8 +429,8 @@
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
-      "Comment": "Kommentar",
-      "DamageExtentTID": "Omfattning",
+      "Comment": "Beskrivning",
+      "DamageExtentTID": "Skada omfattning",
       "Description": "Varför hände det? Gick det bra? Kunde situationen ha undvikits?",
       "GeoHazardTID": "Observationstyp",
       "IncidentHeader": "Rubrik",
