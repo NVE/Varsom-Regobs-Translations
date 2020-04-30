@@ -265,7 +265,7 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_731": {
-        "translation": "Digger or catepilar on the ice",
+        "translation": "Truck / Digger on the ice",
         "notes": "",
         "limit": "30"
     },
@@ -621,101 +621,101 @@
     },
     "AvalCauseKD_10_desc": {
         "translation": "Weak layer of new snow",
-        "notes": "Weak layer of new snow",
+        "notes": "Buried weak layer of new snow",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
-        "translation": "Weak layer of new snow",
+        "translation": "Buried weak layer of new snow",
         "notes": "Weak layer of new snow",
         "limit": "100"
     },
     "AvalCauseKD_11_desc": {
         "translation": "Weak layer of surface hoar",
-        "notes": "Weak layer of surface hoar",
+        "notes": "Buried weak layer of surface hoar",
         "limit": "1024"
     },
     "AvalCauseKD_11": {
-        "translation": "Weak layer of surface hoar",
+        "translation": "Buried weak layer of surface hoar",
         "notes": "Weak layer of surface hoar",
         "limit": "100"
     },
     "AvalCauseKD_13_desc": {
         "translation": "Weak layer of faceted snow",
-        "notes": "Weak layer of faceted snow",
+        "notes": "Buried weak layer of faceted snow near surface",
         "limit": "1024"
     },
     "AvalCauseKD_13": {
-        "translation": "Weak layer of faceted snow",
+        "translation": "Buried weak layer of faceted snow near surface",
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
     "AvalCauseKD_14_desc": {
         "translation": "Poor bonding to crust",
-        "notes": "Poor bonding to crust",
+        "notes": "Poor bonding between crust and overlying snow",
         "limit": "1024"
     },
     "AvalCauseKD_14": {
-        "translation": "Poor bonding to crust",
+        "translation": "Poor bonding between crust and overlying snow",
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
     "AvalCauseKD_15_desc": {
         "translation": "Poor bonding within windslab",
-        "notes": "Poor bonding within windslab",
+        "notes": "Poor bonding between layers in wind deposited snow",
         "limit": "1024"
     },
     "AvalCauseKD_15": {
-        "translation": "Poor bonding within windslab",
+        "translation": "Poor bonding between layers in wind deposited snow",
         "notes": "Poor bonding within windslab",
         "limit": "100"
     },
     "AvalCauseKD_16_desc": {
         "translation": "Faceted snow near the ground",
-        "notes": "Faceted snow near the ground",
+        "notes": "Buried weak layer of faceted snow near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_16": {
-        "translation": "Faceted snow near the ground",
+        "translation": "Buried weak layer of faceted snow near the ground",
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
     "AvalCauseKD_18_desc": {
         "translation": "Faceted snow above a crust",
-        "notes": "Faceted snow above a crust",
+        "notes": "Buried weak layer of faceted snow above a crust",
         "limit": "1024"
     },
     "AvalCauseKD_18": {
-        "translation": "Faceted snow above a crust",
+        "translation": "Buried weak layer of faceted snow above a crust",
         "notes": "Faceted snow above a crust",
         "limit": "100"
     },
     "AvalCauseKD_19_desc": {
         "translation": "Faceted snow beneath a crust",
-        "notes": "Faceted snow beneath a crust",
+        "notes": "Buried weak layer of faceted snow beneath a crust",
         "limit": "1024"
     },
     "AvalCauseKD_19": {
-        "translation": "Faceted snow beneath a crust",
+        "translation": "Buried weak layer of faceted snow beneath a crust",
         "notes": "Faceted snow beneath a crust",
         "limit": "100"
     },
     "AvalCauseKD_20_desc": {
         "translation": "Melting near the ground",
-        "notes": "Melting near the ground",
+        "notes": "Wet snow/melting near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_20": {
-        "translation": "Melting near the ground",
+        "translation": "Wet snow/melting near the ground",
         "notes": "Melting near the ground",
         "limit": "100"
     },
     "AvalCauseKD_22_desc": {
         "translation": "Water pooling above snow layers",
-        "notes": "Water pooling above snow layers",
+        "notes": "Water pooling in/above snow layers",
         "limit": "1024"
     },
     "AvalCauseKD_22": {
-        "translation": "Water pooling above snow layers",
+        "translation": "Water pooling in/above snow layers",
         "notes": "Water pooling above snow layers",
         "limit": "100"
     },
@@ -1285,23 +1285,23 @@
         "limit": "30"
     },
     "CompressionTestKD_1_desc": {
-        "translation": "Coloumn test ",
-        "notes": "CT ",
+        "translation": "Coloumn test",
+        "notes": "CT",
         "limit": "1024"
     },
     "CompressionTestKD_1": {
-        "translation": "CT ",
-        "notes": "Coloumn test ",
+        "translation": "CT",
+        "notes": "Coloumn test",
         "limit": "30"
     },
     "CompressionTestKD_2_desc": {
-        "translation": "Extended coloumn test ",
-        "notes": "ECT ",
+        "translation": "Extended coloumn test",
+        "notes": "ECT",
         "limit": "1024"
     },
     "CompressionTestKD_2": {
-        "translation": "ECT ",
-        "notes": "Extended coloumn test ",
+        "translation": "ECT",
+        "notes": "Extended coloumn test",
         "limit": "30"
     },
     "ComprTestFractureKD_0": {
@@ -4068,12 +4068,12 @@
     },
     "MarkingTypeKD_2_desc": {
         "translation": "Marker",
-        "notes": "",
+        "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
         "translation": "Marker",
-        "notes": "",
+        "notes": "Marker",
         "limit": "100"
     },
     "MarkingTypeKD_3_desc": {
@@ -4378,7 +4378,7 @@
         "limit": "30"
     },
     "RegistrationKD_25": {
-        "translation": "Test",
+        "translation": "Tests",
         "notes": "",
         "limit": "30"
     },
@@ -4568,22 +4568,22 @@
         "limit": "50"
     },
     "SourceKD_10": {
-        "translation": "I have seen this",
+        "translation": "Have seen this myself",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_20": {
-        "translation": "I have been told this",
+        "translation": "Have been told",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_21": {
-        "translation": "I have read in news/report",
+        "translation": "Read in news/report",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_22": {
-        "translation": "I have seen picture/webcamera",
+        "translation": "Seen picture/webcam/satellite",
         "notes": "",
         "limit": "50"
     },
@@ -4849,7 +4849,7 @@
     },
     "UTMSourceKD_45": {
         "translation": "Old position in smartPhone",
-        "notes": "Position from smart phone storage. Is used when current position isnt available.",
+        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
@@ -4869,7 +4869,7 @@
     },
     "WaterAstrayKD_0_desc": {
         "translation": "Unknown",
-        "notes": "",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_0": {
@@ -5136,5 +5136,55 @@
         "translation": "Hurricane force",
         "notes": "",
         "limit": "100"
+    },
+    "ActivityInfluencedKD_714": {
+        "translation": "Ice fisher",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_715": {
+        "translation": "Horse riding / wagons / sledge",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_716": {
+        "translation": "Dogsled",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_717": {
+        "translation": "Save an animal",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_719": {
+        "translation": "Person injured by ice run",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_723": {
+        "translation": "Bicycle",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_724": {
+        "translation": "Motorcycle",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_725": {
+        "translation": "Kicksledge",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_735": {
+        "translation": "Airplane / helicopter",
+        "notes": "",
+        "limit": "30"
+    },
+    "SourceKD_23": {
+        "translation": "Assumed/simulated",
+        "notes": "",
+        "limit": "50"
     }
 }
