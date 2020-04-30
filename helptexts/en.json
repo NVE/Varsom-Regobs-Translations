@@ -113,11 +113,11 @@
     },
     "Helptext_Web_10_25": {
         "translation": "Here you enter the result of stability tests you have done. The tests that can be registered are Extended Compression Test (ECT) and Compression Test (CT). Perform the test on an area representative of the avalanche problem you want to investigate. Always use a safe spot for performing tests.\n\nFor ECT, the tags are:\n* ECTPV fracture propagate throughout the column upon release. <br>\n* ECTP ## fracture propagate across the column after ## number of strokes. The maximum number of strokes is 30\n* ECTN ## breakage without propagation by ## stroke.\n* ECTX - No break during the test (after 30 strokes)\n\nExample: ECTP12 @ 85cmQ1 - means that the column went to smooth and clean fracture with propagation after 12 strokes 85 cm from the surface",
-        "notes": "Web helptext for geohazard type \"Snow\", registration type \"Test\""
+        "notes": "Web helptext for geohazard type \"Snow\", registration type \"Tests\""
     },
     "Helptext_App_10_25": {
         "translation": "\nHere you enter the result of stability tests you have done. The tests that can be registered are Extended Compression Test (ECT) and Compression Test (CT). Perform the test on an area representative of the avalanche problem you want to investigate. Always use a safe spot for performing tests.\n\nFor ECT, the tags are:\n* ECTPV fracture propagate throughout the column upon release. <br>\n* ECTP ## fracture propagate across the column after ## number of strokes. The maximum number of strokes is 30\n* ECTN ## breakage without propagation by ## stroke.\n* ECTX - No break during the test (after 30 strokes)\n\nExample: ECTP12 @ 85cmQ1 - means that the column went to smooth and clean fracture with propagation after 12 strokes 85 cm from the surface\n",
-        "notes": "App helptext for geohazard type \"Snow\", registration type \"Test\""
+        "notes": "App helptext for geohazard type \"Snow\", registration type \"Tests\""
     },
     "Helptext_Web_10_26": {
         "translation": "We want to collect as much information as possible about accidents, close calls and other incidents related to avalanches. This will be part of the preventive work to avoid avalanche accidents in the future. If the avalanche did not lead to accident / close call or material damage, register it as avalanche activity\n\nThe time and place of the avalanche and a picture of the avalanche are the most important. If you know what the weak layer was then this is also very important information.",
