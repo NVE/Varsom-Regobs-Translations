@@ -621,7 +621,7 @@
     },
     "AvalCauseKD_10_desc": {
         "translation": "Schwachschicht aus Neuschnee",
-        "notes": "Weak layer of new snow",
+        "notes": "Buried weak layer of new snow",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
@@ -631,7 +631,7 @@
     },
     "AvalCauseKD_11_desc": {
         "translation": "Schwachschicht aus Oberflächenreif",
-        "notes": "Weak layer of surface hoar",
+        "notes": "Buried weak layer of surface hoar",
         "limit": "1024"
     },
     "AvalCauseKD_11": {
@@ -641,7 +641,7 @@
     },
     "AvalCauseKD_13_desc": {
         "translation": "Aufbauend umgewandelte Schwachschicht",
-        "notes": "Weak layer of faceted snow",
+        "notes": "Buried weak layer of faceted snow near surface",
         "limit": "1024"
     },
     "AvalCauseKD_13": {
@@ -651,7 +651,7 @@
     },
     "AvalCauseKD_14_desc": {
         "translation": "Schlechte Bindung zur Kruste",
-        "notes": "Poor bonding to crust",
+        "notes": "Poor bonding between crust and overlying snow",
         "limit": "1024"
     },
     "AvalCauseKD_14": {
@@ -661,7 +661,7 @@
     },
     "AvalCauseKD_15_desc": {
         "translation": "Schlechte Bindung innerhalb des Windharsches",
-        "notes": "Poor bonding within windslab",
+        "notes": "Poor bonding between layers in wind deposited snow",
         "limit": "1024"
     },
     "AvalCauseKD_15": {
@@ -671,7 +671,7 @@
     },
     "AvalCauseKD_16_desc": {
         "translation": "Aufbauend umgewandelte Kristalle in Bodennähe",
-        "notes": "Faceted snow near the ground",
+        "notes": "Buried weak layer of faceted snow near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_16": {
@@ -681,7 +681,7 @@
     },
     "AvalCauseKD_18_desc": {
         "translation": "Aufbauend umgewandelte Kristalle über einer Kruste",
-        "notes": "Faceted snow above a crust",
+        "notes": "Buried weak layer of faceted snow above a crust",
         "limit": "1024"
     },
     "AvalCauseKD_18": {
@@ -691,7 +691,7 @@
     },
     "AvalCauseKD_19_desc": {
         "translation": "Aufbauend umgewandelte Kristalle unter einer Kruste",
-        "notes": "Faceted snow beneath a crust",
+        "notes": "Buried weak layer of faceted snow beneath a crust",
         "limit": "1024"
     },
     "AvalCauseKD_19": {
@@ -701,7 +701,7 @@
     },
     "AvalCauseKD_20_desc": {
         "translation": "Schmelzen in Bodennähe",
-        "notes": "Melting near the ground",
+        "notes": "Wet snow/melting near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_20": {
@@ -711,7 +711,7 @@
     },
     "AvalCauseKD_22_desc": {
         "translation": "Wasseransammlung über Schneeschichten",
-        "notes": "Water pooling above snow layers",
+        "notes": "Water pooling in/above snow layers",
         "limit": "1024"
     },
     "AvalCauseKD_22": {
@@ -1090,7 +1090,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_350_desc": {
-        "translation": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1150,7 +1150,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_450_desc": {
-        "translation": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1210,7 +1210,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_650_desc": {
-        "translation": "Professional von [NVE?] oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1270,7 +1270,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_750_desc": {
-        "translation": "Ausgebildetes Person in NV oder gleichwertig.",
+        "translation": "Ausgebildetes Person in NVE oder gleichwertig.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1286,22 +1286,22 @@
     },
     "CompressionTestKD_1_desc": {
         "translation": "Säulentest",
-        "notes": "CT ",
+        "notes": "CT",
         "limit": "1024"
     },
     "CompressionTestKD_1": {
         "translation": "CT ",
-        "notes": "Coloumn test ",
+        "notes": "Coloumn test",
         "limit": "30"
     },
     "CompressionTestKD_2_desc": {
         "translation": "Erweiterter Säulentest",
-        "notes": "ECT ",
+        "notes": "ECT",
         "limit": "1024"
     },
     "CompressionTestKD_2": {
         "translation": "ECT ",
-        "notes": "Extended coloumn test ",
+        "notes": "Extended coloumn test",
         "limit": "30"
     },
     "ComprTestFractureKD_0": {
@@ -4068,12 +4068,12 @@
     },
     "MarkingTypeKD_2_desc": {
         "translation": "Marker",
-        "notes": "",
+        "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
         "translation": "Marker",
-        "notes": "",
+        "notes": "Marker",
         "limit": "100"
     },
     "MarkingTypeKD_3_desc": {
@@ -4824,7 +4824,7 @@
     },
     "UTMSourceKD_45": {
         "translation": "Alte Position im Smartphone",
-        "notes": "Position from smart phone storage. Is used when current position isnt available.",
+        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
@@ -4844,7 +4844,7 @@
     },
     "WaterAstrayKD_0_desc": {
         "translation": "Unknown",
-        "notes": "",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_0": {
