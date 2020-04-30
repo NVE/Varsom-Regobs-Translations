@@ -265,7 +265,7 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_731": {
-        "translation": "Gravemaskin e.l. på isen",
+        "translation": "Lastebil / Gravemaskin på isen",
         "notes": "",
         "limit": "30"
     },
@@ -360,7 +360,7 @@
         "limit": "1024"
     },
     "AreaUsageKD_0": {
-        "translation": "Ikke gitt ",
+        "translation": "Ikke gitt",
         "notes": "",
         "limit": "50"
     },
@@ -621,101 +621,101 @@
     },
     "AvalCauseKD_10_desc": {
         "translation": "Nedføyket løs nysnø",
-        "notes": "Weak layer of new snow",
+        "notes": "Buried weak layer of new snow",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
-        "translation": "Nedføyket løs nysnø",
+        "translation": "Nedføyket svakt lag med nysnø",
         "notes": "Weak layer of new snow",
         "limit": "100"
     },
     "AvalCauseKD_11_desc": {
         "translation": "Nedsnødd overflaterim",
-        "notes": "Weak layer of surface hoar",
+        "notes": "Buried weak layer of surface hoar",
         "limit": "1024"
     },
     "AvalCauseKD_11": {
-        "translation": "Nedsnødd overflaterim",
+        "translation": "Nedsnødd eller nedføyket overflaterim",
         "notes": "Weak layer of surface hoar",
         "limit": "100"
     },
     "AvalCauseKD_13_desc": {
         "translation": "Nedsnødd kantkornet snø",
-        "notes": "Weak layer of faceted snow",
+        "notes": "Buried weak layer of faceted snow near surface",
         "limit": "1024"
     },
     "AvalCauseKD_13": {
-        "translation": "Nedsnødd kantkornet snø",
+        "translation": "Nedsnødd eller nedføyket kantkornet snø",
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
     "AvalCauseKD_14_desc": {
         "translation": "Dårlig binding mot skare",
-        "notes": "Poor bonding to crust",
+        "notes": "Poor bonding between crust and overlying snow",
         "limit": "1024"
     },
     "AvalCauseKD_14": {
-        "translation": "Dårlig binding mot skare",
+        "translation": "Dårlig binding mellom glatt skare og overliggende snø",
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
     "AvalCauseKD_15_desc": {
         "translation": "Dårlig binding i fokksnøen",
-        "notes": "Poor bonding within windslab",
+        "notes": "Poor bonding between layers in wind deposited snow",
         "limit": "1024"
     },
     "AvalCauseKD_15": {
-        "translation": "Dårlig binding i fokksnøen",
+        "translation": "Dårlig binding mellom lag i fokksnøen",
         "notes": "Poor bonding within windslab",
         "limit": "100"
     },
     "AvalCauseKD_16_desc": {
         "translation": "Kantkornet ved bakken",
-        "notes": "Faceted snow near the ground",
+        "notes": "Buried weak layer of faceted snow near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_16": {
-        "translation": "Kantkornet ved bakken",
+        "translation": "Kantkornet snø ved bakken",
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
     "AvalCauseKD_18_desc": {
         "translation": "Kantkornet over skare",
-        "notes": "Faceted snow above a crust",
+        "notes": "Buried weak layer of faceted snow above a crust",
         "limit": "1024"
     },
     "AvalCauseKD_18": {
-        "translation": "Kantkornet over skare",
+        "translation": "Kantkornet snø over skarelag",
         "notes": "Faceted snow above a crust",
         "limit": "100"
     },
     "AvalCauseKD_19_desc": {
         "translation": "Kantkornet under skare",
-        "notes": "Faceted snow beneath a crust",
+        "notes": "Buried weak layer of faceted snow beneath a crust",
         "limit": "1024"
     },
     "AvalCauseKD_19": {
-        "translation": "Kantkornet under skare",
+        "translation": "Kantkornet snø under skarelag",
         "notes": "Faceted snow beneath a crust",
         "limit": "100"
     },
     "AvalCauseKD_20_desc": {
         "translation": "Smelting fra bakken",
-        "notes": "Melting near the ground",
+        "notes": "Wet snow/melting near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_20": {
-        "translation": "Smelting fra bakken",
+        "translation": "Vann ved bakken/smelting fra bakken",
         "notes": "Melting near the ground",
         "limit": "100"
     },
     "AvalCauseKD_22_desc": {
         "translation": "Opphopning av vann over lag",
-        "notes": "Water pooling above snow layers",
+        "notes": "Water pooling in/above snow layers",
         "limit": "1024"
     },
     "AvalCauseKD_22": {
-        "translation": "Opphopning av vann over lag",
+        "translation": "Opphopning av vann i/over lag i snødekket",
         "notes": "Water pooling above snow layers",
         "limit": "100"
     },
@@ -1285,23 +1285,23 @@
         "limit": "30"
     },
     "CompressionTestKD_1_desc": {
-        "translation": "Compressjons test ",
-        "notes": "CT ",
+        "translation": "Compressjons test",
+        "notes": "CT",
         "limit": "1024"
     },
     "CompressionTestKD_1": {
-        "translation": "CT ",
-        "notes": "Coloumn test ",
+        "translation": "CT",
+        "notes": "Coloumn test",
         "limit": "30"
     },
     "CompressionTestKD_2_desc": {
-        "translation": "Utvidet copressjonstest ",
-        "notes": "ECT ",
+        "translation": "Utvidet copressjonstest",
+        "notes": "ECT",
         "limit": "1024"
     },
     "CompressionTestKD_2": {
-        "translation": "ECT ",
-        "notes": "Extended coloumn test ",
+        "translation": "ECT",
+        "notes": "Extended coloumn test",
         "limit": "30"
     },
     "ComprTestFractureKD_0": {
@@ -2991,7 +2991,7 @@
         "limit": "30"
     },
     "ExposedClimateKD_0": {
-        "translation": "Ikke gitt ",
+        "translation": "Ikke gitt",
         "notes": "",
         "limit": "30"
     },
@@ -3001,7 +3001,7 @@
         "limit": "30"
     },
     "ExposedClimateKD_2": {
-        "translation": "Ytre strøk ",
+        "translation": "Ytre strøk",
         "notes": "",
         "limit": "30"
     },
@@ -4068,12 +4068,12 @@
     },
     "MarkingTypeKD_2_desc": {
         "translation": "Tusj",
-        "notes": "",
+        "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
         "translation": "Tusj",
-        "notes": "",
+        "notes": "Marker",
         "limit": "100"
     },
     "MarkingTypeKD_3_desc": {
@@ -4378,7 +4378,7 @@
         "limit": "30"
     },
     "RegistrationKD_25": {
-        "translation": "Test",
+        "translation": "Tester",
         "notes": "",
         "limit": "30"
     },
@@ -4568,22 +4568,22 @@
         "limit": "50"
     },
     "SourceKD_10": {
-        "translation": "Jeg har sett dette",
+        "translation": "Har selv sett dette",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_20": {
-        "translation": "Jeg har blitt fortalt dette",
+        "translation": "Har blitt fortalt",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_21": {
-        "translation": "Jeg har lest i avis/rapport",
+        "translation": "Lest i avis/rapport",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_22": {
-        "translation": "Jeg har sett bilde/webkamera",
+        "translation": "Sett bilde/webkamera/satellitt",
         "notes": "",
         "limit": "50"
     },
@@ -4849,7 +4849,7 @@
     },
     "UTMSourceKD_45": {
         "translation": "Gammel posisjon i smPhone",
-        "notes": "Position from smart phone storage. Is used when current position isnt available.",
+        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
@@ -4869,7 +4869,7 @@
     },
     "WaterAstrayKD_0_desc": {
         "translation": "Ukjent",
-        "notes": "",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_0": {
@@ -5169,7 +5169,7 @@
     },
     "RegistrationKD_25_desc": {
         "translation": "Tabellen brukes av snø (GeohazardTID = 10)",
-        "notes": "Test",
+        "notes": "Tests",
         "limit": "1024"
     },
     "RegistrationKD_26_desc": {
@@ -5219,6 +5219,56 @@
     },
     "TripTypeKD_70": {
         "translation": "Føring og guiding",
+        "notes": "",
+        "limit": "50"
+    },
+    "ActivityInfluencedKD_714": {
+        "translation": "Isfisker",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_715": {
+        "translation": "Ri på hest / vogn / slede",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_716": {
+        "translation": "Hundespann",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_717": {
+        "translation": "Redde et dyr",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_719": {
+        "translation": "Personskade v/isgang",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_723": {
+        "translation": "Sykkel",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_724": {
+        "translation": "Motorsykkel",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_725": {
+        "translation": "Sparkstøtting",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_735": {
+        "translation": "Fly / helikopter",
+        "notes": "",
+        "limit": "30"
+    },
+    "SourceKD_23": {
+        "translation": "Antatt/modellert",
         "notes": "",
         "limit": "50"
     }
