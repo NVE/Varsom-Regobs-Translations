@@ -113,11 +113,11 @@
     },
     "Helptext_Web_10_25": {
         "translation": "Sem vnesete rezultate testov stabilnosti, ki ste jih izvedli. Poročate lahko o dveh vrstah testov: tlačni preizkus stolpca (CT metoda) in preizkus v razširjenem stolpcu (ECT metoda). Za lokacijo testa izberite mesto, ki je reprezentativno za okolico in za plazovni problem, ki ga želite raziskati. Vedno izberite varno mesto za izvajanje testa.\n\nOznake za ETC so:\n* ECTPV Prelom se je po sprostitvi razširil skozi celoten stolpec. <br>\n* ECTP ## Prelom se je razširil po stolpcu po ## (število) udarcih. Največje število udarcev je 30.\n* ECTN ## Prelom brez širjenja do ## (število) udarca.\n* ECTX - Nobenega preloma med testom (po 30 udarcih).\n\nPrimer: ECTP12 @ 85cmQ1 - pomeni, da je stolpec dobil gladek in čist prelom s širjenjem po 12 udarcih do 85 cm od površine.",
-        "notes": "Web helptext for geohazard type \"Snow\", registration type \"Test\""
+        "notes": "Web helptext for geohazard type \"Snow\", registration type \"Tests\""
     },
     "Helptext_App_10_25": {
         "translation": "Sem vnesete rezultate testov stabilnosti, ki ste jih izvedli. Poročate lahko o dveh vrstah testov: tlačni preizkus stolpca (CT metoda) in preizkus v razširjenem stolpcu (ECT metoda). Za lokacijo testa izberite mesto, ki je reprezentativno za okolico in za plazovni problem, ki ga želite raziskati. Vedno izberite varno mesto za izvajanje testa.\n\nOznake za ETC so:\n* ECTPV Prelom se je po sprostitvi razširil skozi celoten stolpec. <br>\n* ECTP ## Prelom se je razširil po stolpcu po ## (število) udarcih. Največje število udarcev je 30.\n* ECTN ## Prelom brez širjenja do ## (število) udarca.\n* ECTX - Nobenega preloma med testom (po 30 udarcih).\n\nPrimer: ECTP12 @ 85cmQ1 - pomeni, da je stolpec dobil gladek in čist prelom s širjenjem po 12 udarcih do 85 cm od površine.\n",
-        "notes": "App helptext for geohazard type \"Snow\", registration type \"Test\""
+        "notes": "App helptext for geohazard type \"Snow\", registration type \"Tests\""
     },
     "Helptext_Web_10_26": {
         "translation": "Zbrati želimo čim več informacij o nesrečah, skorajšnjih nesrečah in drugih incidentih, povezanih s snežnimi plazovi. To bo del preventivnega dela za preprečevanje plazovnih incidentov v prihodnje. Če snežni plaz ni povzročil nesreče, skorajšnje nesreče ali materialne škode, poročajte o njem kot o plazovni aktivnosti.\n\nČas, lokacija in fotografija plazu so najbolj pomembni. Če veste, kaj je bila šibka plast, potem je tudi to zelo pomembna informacija.",
