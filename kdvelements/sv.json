@@ -621,7 +621,7 @@
     },
     "AvalCauseKD_10_desc": {
         "translation": "Svagt lager av nysnö",
-        "notes": "Weak layer of new snow",
+        "notes": "Buried weak layer of new snow",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
@@ -631,7 +631,7 @@
     },
     "AvalCauseKD_11_desc": {
         "translation": "Svagt lager av rimfrost",
-        "notes": "Weak layer of surface hoar",
+        "notes": "Buried weak layer of surface hoar",
         "limit": "1024"
     },
     "AvalCauseKD_11": {
@@ -641,7 +641,7 @@
     },
     "AvalCauseKD_13_desc": {
         "translation": "Svagt skikt av fasetterad snö",
-        "notes": "Weak layer of faceted snow",
+        "notes": "Buried weak layer of faceted snow near surface",
         "limit": "1024"
     },
     "AvalCauseKD_13": {
@@ -651,7 +651,7 @@
     },
     "AvalCauseKD_14_desc": {
         "translation": "Svaga bindningar mot skare",
-        "notes": "Poor bonding to crust",
+        "notes": "Poor bonding between crust and overlying snow",
         "limit": "1024"
     },
     "AvalCauseKD_14": {
@@ -661,7 +661,7 @@
     },
     "AvalCauseKD_15_desc": {
         "translation": "Svaga bindningar i drevsnön",
-        "notes": "Poor bonding within windslab",
+        "notes": "Poor bonding between layers in wind deposited snow",
         "limit": "1024"
     },
     "AvalCauseKD_15": {
@@ -671,7 +671,7 @@
     },
     "AvalCauseKD_16_desc": {
         "translation": "Facetterad snö nära marken",
-        "notes": "Faceted snow near the ground",
+        "notes": "Buried weak layer of faceted snow near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_16": {
@@ -681,7 +681,7 @@
     },
     "AvalCauseKD_18_desc": {
         "translation": "Facetterad snö över skare",
-        "notes": "Faceted snow above a crust",
+        "notes": "Buried weak layer of faceted snow above a crust",
         "limit": "1024"
     },
     "AvalCauseKD_18": {
@@ -691,7 +691,7 @@
     },
     "AvalCauseKD_19_desc": {
         "translation": "Fasetterad snö under skare",
-        "notes": "Faceted snow beneath a crust",
+        "notes": "Buried weak layer of faceted snow beneath a crust",
         "limit": "1024"
     },
     "AvalCauseKD_19": {
@@ -701,7 +701,7 @@
     },
     "AvalCauseKD_20_desc": {
         "translation": "Smälter nära marken",
-        "notes": "Melting near the ground",
+        "notes": "Wet snow/melting near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_20": {
@@ -711,7 +711,7 @@
     },
     "AvalCauseKD_22_desc": {
         "translation": "Ackumulering av vatten över lager",
-        "notes": "Water pooling above snow layers",
+        "notes": "Water pooling in/above snow layers",
         "limit": "1024"
     },
     "AvalCauseKD_22": {
@@ -1286,22 +1286,22 @@
     },
     "CompressionTestKD_1_desc": {
         "translation": "Kompressionstest",
-        "notes": "CT ",
+        "notes": "CT",
         "limit": "1024"
     },
     "CompressionTestKD_1": {
         "translation": "CT",
-        "notes": "Coloumn test ",
+        "notes": "Coloumn test",
         "limit": "30"
     },
     "CompressionTestKD_2_desc": {
         "translation": "Utvidgat kompressionstest",
-        "notes": "ECT ",
+        "notes": "ECT",
         "limit": "1024"
     },
     "CompressionTestKD_2": {
         "translation": "ECT",
-        "notes": "Extended coloumn test ",
+        "notes": "Extended coloumn test",
         "limit": "30"
     },
     "ComprTestFractureKD_0": {
@@ -4068,12 +4068,12 @@
     },
     "MarkingTypeKD_2_desc": {
         "translation": "Märke",
-        "notes": "",
+        "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
         "translation": "Märke",
-        "notes": "",
+        "notes": "Marker",
         "limit": "100"
     },
     "MarkingTypeKD_3_desc": {
@@ -4849,7 +4849,7 @@
     },
     "UTMSourceKD_45": {
         "translation": "Gammal position i smartphone",
-        "notes": "Position from smart phone storage. Is used when current position isnt available.",
+        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
@@ -4869,7 +4869,7 @@
     },
     "WaterAstrayKD_0_desc": {
         "translation": "Okänt",
-        "notes": "",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_0": {
