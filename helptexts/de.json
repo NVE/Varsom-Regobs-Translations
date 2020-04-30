@@ -57,7 +57,7 @@
     },
     "Helptext_App_10_25": {
         "translation": "\nHier tragen Sie das Ergebnis ihres Stabilitätstests ein. Die Tests, die eingegeben werden können, sind Extended Compression Test (ECT) und Compression Test (CT). Führen Sie den Test in einem Gebiet durch, das für das zu untersuchende Lawinenproblem repräsentativ ist. Verwenden Sie immer einen sicheren Ort für die Durchführung eines Stabilitätstestests.\n\nBei ECT wird folgendes eingetragen:\n* ECTPV-Brüche breiten sich bei der Freilegen der Säule aus. <br>\n* ECTP ## Bruch breitet sich nach ## Anzahl von Schlägen durch den ganzen Block fort. Die maximale Anzahl von Schlägen beträgt 30\n* ECTN ## Bruch ohne Ausbreitung durch ## Schläge.\n* ECTX - Kein Bruch während des Tests (nach 30 Schlägen)\n\nBeispiel: ECTP12 @ 85cmQ1 - bedeutet, dass sich der Bruch nach 12 Schägen, in 85 cm Entfernung von der Oberfläche, durch den ganzen Block fortgepflanzt hat.\n",
-        "notes": "App helptext for geohazard type \"Snow\", registration type \"Test\""
+        "notes": "App helptext for geohazard type \"Snow\", registration type \"Tests\""
     },
     "Helptext_App_10_26": {
         "translation": "Wir möchten so viele Informationen wie möglich über Unfälle, gefährliche Ereignisse und andere Lawinenvorfälle sammeln. Dies wird Teil der vorbeugenden Arbeit zur Vermeidung von Lawinenunfällen in der Zukunft sein. Wenn die Lawine nicht zu einem Unfall, zu einer Gefährdung oder Sachschaden geführt hat, erfassen Sie sie als Lawinenaktivität.\n\nZeit und Ort der Lawine sowie ein Bild der Lawine sind am wichtigsten. Wenn Sie wissen, was die schwache Schicht war, dann ist dies auch eine sehr wichtige Information.",
