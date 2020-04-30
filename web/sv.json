@@ -557,9 +557,9 @@
       "SnowDriftTName": "Snödrev",
       "SnowLine": "Snögräns (möh)",
       "SnowLines": "Gräns för snö",
-      "SnowSurfaceTName": "Snöytans hårdhet",
+      "SnowSurfaceTName": "Snöytan",
       "SurfaceRougnessTName": "Snöytan",
-      "SurfaceWaterContentTName": "Snöns vatteninnehåll",
+      "SurfaceWaterContentTName": "Ytfuktighet",
       "Total": "totalt"
     },
     "WaterLevel": {
