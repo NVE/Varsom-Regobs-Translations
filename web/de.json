@@ -552,9 +552,9 @@
       "SnowDriftTName": "Schneeverwehung",
       "SnowLine": "Höhe der Schneegrenze (müA)",
       "SnowLines": "Schneegrenzen",
-      "SnowSurfaceTName": "Härte der Schneeoberfläche",
+      "SnowSurfaceTName": "Schneeoberflächenhärte",
       "SurfaceRougnessTName": "Oberflächenrauheit",
-      "SurfaceWaterContentTName": "Schneewassergehalt",
+      "SurfaceWaterContentTName": "Oberflächenfeuchtigkeit",
       "Total": "total"
     },
     "WaterLevel": {

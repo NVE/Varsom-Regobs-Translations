@@ -536,7 +536,7 @@
       "SnowLines": "Meje sneženja",
       "SnowSurfaceTName": "Trdota snežne odeje",
       "SurfaceRougnessTName": "Hrapavost površine",
-      "SurfaceWaterContentTName": "Vsebnost vode v snegu",
+      "SurfaceWaterContentTName": "Vlažnost snežne odeje",
       "Total": "skupaj"
     },
     "WaterLevel": {
