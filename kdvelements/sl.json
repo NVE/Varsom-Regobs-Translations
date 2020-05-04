@@ -249,15 +249,15 @@
         "notes": "",
         "limit": "30"
     },
-    "ActivityInfluencedKD_722_desc": {
-        "translation": "Terensko vozilo",
-        "notes": "ATV",
-        "limit": "1024"
-    },
     "ActivityInfluencedKD_722": {
         "translation": "ATV",
         "notes": "All Terrain Vehicle",
         "limit": "30"
+    },
+    "ActivityInfluencedKD_722_desc": {
+        "translation": "Terensko vozilo",
+        "notes": "ATV",
+        "limit": "1024"
     },
     "ActivityInfluencedKD_730": {
         "translation": "Traktor na ledu",
@@ -304,6 +304,21 @@
         "notes": "",
         "limit": "1024"
     },
+    "AnticipatedObservationTimeKD_100_desc": {
+        "translation": "18:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_110_desc": {
+        "translation": "20:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_120_desc": {
+        "translation": "22:00",
+        "notes": "",
+        "limit": "1024"
+    },
     "AnticipatedObservationTimeKD_20_desc": {
         "translation": "09:00",
         "notes": "",
@@ -341,21 +356,6 @@
     },
     "AnticipatedObservationTimeKD_90_desc": {
         "translation": "16:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_100_desc": {
-        "translation": "18:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_110_desc": {
-        "translation": "20:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_120_desc": {
-        "translation": "22:00",
         "notes": "",
         "limit": "1024"
     },
@@ -569,13 +569,8 @@
         "notes": "",
         "limit": "100"
     },
-    "AvalCauseAttributFlags_8": {
-        "translation": "Veliki, prepoznavni kristali v šibki plasti.",
-        "notes": "",
-        "limit": "1073741823"
-    },
-    "AvalCauseAttributFlags_4": {
-        "translation": "Prekrivajoča kloža je mehka.",
+    "AvalCauseAttributFlags_1": {
+        "translation": "Šibka plast se zruši enostavno in čisto (enostavno širjenje).",
         "notes": "",
         "limit": "1073741823"
     },
@@ -584,8 +579,13 @@
         "notes": "",
         "limit": "1073741823"
     },
-    "AvalCauseAttributFlags_1": {
-        "translation": "Šibka plast se zruši enostavno in čisto (enostavno širjenje).",
+    "AvalCauseAttributFlags_4": {
+        "translation": "Prekrivajoča kloža je mehka.",
+        "notes": "",
+        "limit": "1073741823"
+    },
+    "AvalCauseAttributFlags_8": {
+        "translation": "Veliki, prepoznavni kristali v šibki plasti.",
         "notes": "",
         "limit": "1073741823"
     },
@@ -609,19 +609,14 @@
         "notes": "",
         "limit": "30"
     },
-    "AvalCauseKD_0_desc": {
-        "translation": "Ni določeno",
-        "notes": "Not given",
-        "limit": "1024"
-    },
     "AvalCauseKD_0": {
         "translation": "Ni določeno",
         "notes": "Not given",
         "limit": "100"
     },
-    "AvalCauseKD_10_desc": {
-        "translation": "Šibka plast novega snega",
-        "notes": "Weak layer of new snow",
+    "AvalCauseKD_0_desc": {
+        "translation": "Ni določeno",
+        "notes": "Not given",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
@@ -629,9 +624,9 @@
         "notes": "Weak layer of new snow",
         "limit": "100"
     },
-    "AvalCauseKD_11_desc": {
-        "translation": "Šibka plast površinskega sreža",
-        "notes": "Weak layer of surface hoar",
+    "AvalCauseKD_10_desc": {
+        "translation": "Šibka plast novega snega",
+        "notes": "Buried weak layer of new snow",
         "limit": "1024"
     },
     "AvalCauseKD_11": {
@@ -639,9 +634,9 @@
         "notes": "Weak layer of surface hoar",
         "limit": "100"
     },
-    "AvalCauseKD_13_desc": {
-        "translation": "Šibka plast sreža",
-        "notes": "Weak layer of faceted snow",
+    "AvalCauseKD_11_desc": {
+        "translation": "Šibka plast površinskega sreža",
+        "notes": "Buried weak layer of surface hoar",
         "limit": "1024"
     },
     "AvalCauseKD_13": {
@@ -649,9 +644,9 @@
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
-    "AvalCauseKD_14_desc": {
-        "translation": "Slaba povezanost s skorjo",
-        "notes": "Poor bonding to crust",
+    "AvalCauseKD_13_desc": {
+        "translation": "Šibka plast sreža",
+        "notes": "Buried weak layer of faceted snow near surface",
         "limit": "1024"
     },
     "AvalCauseKD_14": {
@@ -659,9 +654,9 @@
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
-    "AvalCauseKD_15_desc": {
-        "translation": "Slabo povezan vetrni nanos",
-        "notes": "Poor bonding within windslab",
+    "AvalCauseKD_14_desc": {
+        "translation": "Slaba povezanost s skorjo",
+        "notes": "Poor bonding between crust and overlying snow",
         "limit": "1024"
     },
     "AvalCauseKD_15": {
@@ -669,9 +664,9 @@
         "notes": "Poor bonding within windslab",
         "limit": "100"
     },
-    "AvalCauseKD_16_desc": {
-        "translation": "Srež blizu tal",
-        "notes": "Faceted snow near the ground",
+    "AvalCauseKD_15_desc": {
+        "translation": "Slabo povezan vetrni nanos",
+        "notes": "Poor bonding between layers in wind deposited snow",
         "limit": "1024"
     },
     "AvalCauseKD_16": {
@@ -679,9 +674,9 @@
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
-    "AvalCauseKD_18_desc": {
-        "translation": "Srež nad skorjo",
-        "notes": "Faceted snow above a crust",
+    "AvalCauseKD_16_desc": {
+        "translation": "Srež blizu tal",
+        "notes": "Buried weak layer of faceted snow near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_18": {
@@ -689,9 +684,9 @@
         "notes": "Faceted snow above a crust",
         "limit": "100"
     },
-    "AvalCauseKD_19_desc": {
-        "translation": "Srež pod skorjo",
-        "notes": "Faceted snow beneath a crust",
+    "AvalCauseKD_18_desc": {
+        "translation": "Srež nad skorjo",
+        "notes": "Buried weak layer of faceted snow above a crust",
         "limit": "1024"
     },
     "AvalCauseKD_19": {
@@ -699,9 +694,9 @@
         "notes": "Faceted snow beneath a crust",
         "limit": "100"
     },
-    "AvalCauseKD_20_desc": {
-        "translation": "Taljenje blizu tal",
-        "notes": "Melting near the ground",
+    "AvalCauseKD_19_desc": {
+        "translation": "Srež pod skorjo",
+        "notes": "Buried weak layer of faceted snow beneath a crust",
         "limit": "1024"
     },
     "AvalCauseKD_20": {
@@ -709,9 +704,9 @@
         "notes": "Melting near the ground",
         "limit": "100"
     },
-    "AvalCauseKD_22_desc": {
-        "translation": "Luže nad snežnimi plastmi",
-        "notes": "Water pooling above snow layers",
+    "AvalCauseKD_20_desc": {
+        "translation": "Taljenje blizu tal",
+        "notes": "Wet snow/melting near the ground",
         "limit": "1024"
     },
     "AvalCauseKD_22": {
@@ -719,15 +714,20 @@
         "notes": "Water pooling above snow layers",
         "limit": "100"
     },
-    "AvalCauseKD_24_desc": {
-        "translation": "Nesprijet sneg",
-        "notes": "Loose snow",
+    "AvalCauseKD_22_desc": {
+        "translation": "Luže nad snežnimi plastmi",
+        "notes": "Water pooling in/above snow layers",
         "limit": "1024"
     },
     "AvalCauseKD_24": {
         "translation": "Nesprijet sneg",
         "notes": "Loose snow",
         "limit": "100"
+    },
+    "AvalCauseKD_24_desc": {
+        "translation": "Nesprijet sneg",
+        "notes": "Loose snow",
+        "limit": "1024"
     },
     "AvalProbabilityKD_0": {
         "translation": "Ni določeno",
@@ -779,19 +779,14 @@
         "notes": "",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_1_desc": {
-        "translation": "Plazovi se bodo sprožali v novem snegu.",
-        "notes": "In the new snow",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_1": {
         "translation": "V novem snegu",
         "notes": "Avalanches will release in the new snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_2_desc": {
-        "translation": "Plazovi se bodo sprožali med starim in novim snegom.",
-        "notes": "Between old and new snow",
+    "AvalReleaseHeightKD_1_desc": {
+        "translation": "Plazovi se bodo sprožali v novem snegu.",
+        "notes": "In the new snow",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_2": {
@@ -799,9 +794,9 @@
         "notes": "Avalanches will release between old and new snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_3_desc": {
-        "translation": "Plazovi se bodo sprožali pri tleh.",
-        "notes": "At the ground",
+    "AvalReleaseHeightKD_2_desc": {
+        "translation": "Plazovi se bodo sprožali med starim in novim snegom.",
+        "notes": "Between old and new snow",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_3": {
@@ -809,9 +804,9 @@
         "notes": "Avalanches will release at the ground.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_4_desc": {
-        "translation": "Plazovi se bodo sprožali v starem snegu.",
-        "notes": "In the old snow",
+    "AvalReleaseHeightKD_3_desc": {
+        "translation": "Plazovi se bodo sprožali pri tleh.",
+        "notes": "At the ground",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_4": {
@@ -819,9 +814,9 @@
         "notes": "Avalanches will release in the old snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_6_desc": {
-        "translation": "Celotna snežna odeja je vlažna in nestabilna.",
-        "notes": "The snow cover is moist",
+    "AvalReleaseHeightKD_4_desc": {
+        "translation": "Plazovi se bodo sprožali v starem snegu.",
+        "notes": "In the old snow",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_6": {
@@ -829,9 +824,9 @@
         "notes": "The whole snow cover is moist and unstable.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_7_desc": {
-        "translation": "Celotna snežna odeja je prenasičena z vodo in nestabilna.",
-        "notes": "Saturated with water",
+    "AvalReleaseHeightKD_6_desc": {
+        "translation": "Celotna snežna odeja je vlažna in nestabilna.",
+        "notes": "The snow cover is moist",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_7": {
@@ -839,15 +834,20 @@
         "notes": "The whole snow cover is over saturated with water and unstable.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_8_desc": {
-        "translation": "Plazovi se bodo sprožali samo v starem snegu.",
-        "notes": "Only old snow",
+    "AvalReleaseHeightKD_7_desc": {
+        "translation": "Celotna snežna odeja je prenasičena z vodo in nestabilna.",
+        "notes": "Saturated with water",
         "limit": "1024"
     },
     "AvalReleaseHeightKD_8": {
         "translation": "Samo star sneg",
         "notes": "Avalanches will release in the old snow.",
         "limit": "30"
+    },
+    "AvalReleaseHeightKD_8_desc": {
+        "translation": "Plazovi se bodo sprožali samo v starem snegu.",
+        "notes": "Only old snow",
+        "limit": "1024"
     },
     "AvalTriggerSimpleKD_0": {
         "translation": "Ni določeno",
@@ -899,19 +899,14 @@
         "notes": "",
         "limit": "100"
     },
-    "CompetenceLevelKD_0_desc": {
-        "translation": "Pomanjkanje kompetenc.",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
     "CompetenceLevelKD_0": {
         "translation": "Neznano",
         "notes": "Unknown competance.",
         "limit": "30"
     },
-    "CompetenceLevelKD_100_desc": {
-        "translation": "Pomanjkanje kompetenc za sneg.",
-        "notes": "-",
+    "CompetenceLevelKD_0_desc": {
+        "translation": "Pomanjkanje kompetenc.",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "CompetenceLevelKD_100": {
@@ -919,9 +914,9 @@
         "notes": "Unknown for snow.",
         "limit": "30"
     },
-    "CompetenceLevelKD_105_desc": {
-        "translation": "Samodejna storitev",
-        "notes": "A",
+    "CompetenceLevelKD_100_desc": {
+        "translation": "Pomanjkanje kompetenc za sneg.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_105": {
@@ -929,9 +924,9 @@
         "notes": "Automatic service",
         "limit": "30"
     },
-    "CompetenceLevelKD_110_desc": {
-        "translation": "Opazovalec ima osnovna znanja za oceno nevarnosti snežnih plazov, nima pa izobrazbe glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
-        "notes": "*",
+    "CompetenceLevelKD_105_desc": {
+        "translation": "Samodejna storitev",
+        "notes": "A",
         "limit": "1024"
     },
     "CompetenceLevelKD_110": {
@@ -939,9 +934,9 @@
         "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
         "limit": "30"
     },
-    "CompetenceLevelKD_115_desc": {
-        "translation": "Opazovalec je izkušen, a nima izobrazbe glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
-        "notes": "**",
+    "CompetenceLevelKD_110_desc": {
+        "translation": "Opazovalec ima osnovna znanja za oceno nevarnosti snežnih plazov, nima pa izobrazbe glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_115": {
@@ -949,9 +944,9 @@
         "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
         "limit": "30"
     },
-    "CompetenceLevelKD_120_desc": {
-        "translation": "Opazovalec je izobražen in ima napredna znanja za oceno nevarnosti snežnih plazov. Deležen je bil osnovnega izobraževanja glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
-        "notes": "***",
+    "CompetenceLevelKD_115_desc": {
+        "translation": "Opazovalec je izkušen, a nima izobrazbe glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_120": {
@@ -959,9 +954,9 @@
         "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
         "limit": "30"
     },
-    "CompetenceLevelKD_130_desc": {
-        "translation": "Opazovalec je izobražen in ima napredna znanja za oceno nevarnosti snežnih plazov. Deležen je bil naprednega izobraževanja glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
-        "notes": "****",
+    "CompetenceLevelKD_120_desc": {
+        "translation": "Opazovalec je izobražen in ima napredna znanja za oceno nevarnosti snežnih plazov. Deležen je bil osnovnega izobraževanja glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_130": {
@@ -969,9 +964,9 @@
         "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
         "limit": "30"
     },
-    "CompetenceLevelKD_150_desc": {
-        "translation": "Opazovalec je prognostik v plazovni službi.",
-        "notes": "*****",
+    "CompetenceLevelKD_130_desc": {
+        "translation": "Opazovalec je izobražen in ima napredna znanja za oceno nevarnosti snežnih plazov. Deležen je bil naprednega izobraževanja glede načina komunikacije nevarnosti snežnih plazov v okviru regObs in Varsom.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_150": {
@@ -979,9 +974,9 @@
         "notes": "Observer is an avalanche forecaster.",
         "limit": "30"
     },
-    "CompetenceLevelKD_200_desc": {
-        "translation": "Pomanjkanje kompetenc.",
-        "notes": "-",
+    "CompetenceLevelKD_150_desc": {
+        "translation": "Opazovalec je prognostik v plazovni službi.",
+        "notes": "*****",
         "limit": "1024"
     },
     "CompetenceLevelKD_200": {
@@ -989,9 +984,9 @@
         "notes": "Unknown competance.",
         "limit": "30"
     },
-    "CompetenceLevelKD_210_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje.",
-        "notes": "*",
+    "CompetenceLevelKD_200_desc": {
+        "translation": "Pomanjkanje kompetenc.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_210": {
@@ -999,9 +994,9 @@
         "notes": "Observer has submitted relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_220_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
-        "notes": "**",
+    "CompetenceLevelKD_210_desc": {
+        "translation": "Opazovalec je oddal relevantno opazovanje.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_220": {
@@ -1009,9 +1004,9 @@
         "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_230_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
-        "notes": "***",
+    "CompetenceLevelKD_220_desc": {
+        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_230": {
@@ -1019,9 +1014,9 @@
         "notes": "Professional with several relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_240_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "****",
+    "CompetenceLevelKD_230_desc": {
+        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_240": {
@@ -1029,9 +1024,9 @@
         "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_250_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "*****",
+    "CompetenceLevelKD_240_desc": {
+        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_250": {
@@ -1039,9 +1034,9 @@
         "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_300_desc": {
-        "translation": "Pomanjkanje kompetenc.",
-        "notes": "-",
+    "CompetenceLevelKD_250_desc": {
+        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "*****",
         "limit": "1024"
     },
     "CompetenceLevelKD_300": {
@@ -1049,9 +1044,9 @@
         "notes": "Unknown competance.",
         "limit": "30"
     },
-    "CompetenceLevelKD_310_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
-        "notes": "*",
+    "CompetenceLevelKD_300_desc": {
+        "translation": "Pomanjkanje kompetenc.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_310": {
@@ -1059,9 +1054,9 @@
         "notes": "Observer has submitted relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_320_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
-        "notes": "**",
+    "CompetenceLevelKD_310_desc": {
+        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_320": {
@@ -1069,9 +1064,9 @@
         "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_330_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
-        "notes": "***",
+    "CompetenceLevelKD_320_desc": {
+        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_330": {
@@ -1079,9 +1074,9 @@
         "notes": "Professional with several relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_340_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "****",
+    "CompetenceLevelKD_330_desc": {
+        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_340": {
@@ -1089,9 +1084,9 @@
         "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_350_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "*****",
+    "CompetenceLevelKD_340_desc": {
+        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_350": {
@@ -1099,9 +1094,9 @@
         "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_400_desc": {
-        "translation": "Pomanjkanje kompetenc.",
-        "notes": "-",
+    "CompetenceLevelKD_350_desc": {
+        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "*****",
         "limit": "1024"
     },
     "CompetenceLevelKD_400": {
@@ -1109,9 +1104,9 @@
         "notes": "Unknown competance.",
         "limit": "30"
     },
-    "CompetenceLevelKD_410_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
-        "notes": "*",
+    "CompetenceLevelKD_400_desc": {
+        "translation": "Pomanjkanje kompetenc.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_410": {
@@ -1119,9 +1114,9 @@
         "notes": "Observer has submitted relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_420_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
-        "notes": "**",
+    "CompetenceLevelKD_410_desc": {
+        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_420": {
@@ -1129,9 +1124,9 @@
         "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_430_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
-        "notes": "***",
+    "CompetenceLevelKD_420_desc": {
+        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_430": {
@@ -1139,9 +1134,9 @@
         "notes": "Professional with several relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_440_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "****",
+    "CompetenceLevelKD_430_desc": {
+        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_440": {
@@ -1149,9 +1144,9 @@
         "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_450_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "*****",
+    "CompetenceLevelKD_440_desc": {
+        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_450": {
@@ -1159,9 +1154,9 @@
         "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_600_desc": {
-        "translation": "Pomanjkanje kompetenc.",
-        "notes": "-",
+    "CompetenceLevelKD_450_desc": {
+        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "*****",
         "limit": "1024"
     },
     "CompetenceLevelKD_600": {
@@ -1169,9 +1164,9 @@
         "notes": "Unknown competance.",
         "limit": "30"
     },
-    "CompetenceLevelKD_610_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
-        "notes": "*",
+    "CompetenceLevelKD_600_desc": {
+        "translation": "Pomanjkanje kompetenc.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_610": {
@@ -1179,9 +1174,9 @@
         "notes": "Observer has submitted relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_620_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
-        "notes": "**",
+    "CompetenceLevelKD_610_desc": {
+        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_620": {
@@ -1189,9 +1184,9 @@
         "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_630_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
-        "notes": "***",
+    "CompetenceLevelKD_620_desc": {
+        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_630": {
@@ -1199,9 +1194,9 @@
         "notes": "Professional with several relevant observations.",
         "limit": "30"
     },
-    "CompetenceLevelKD_640_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "****",
+    "CompetenceLevelKD_630_desc": {
+        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_640": {
@@ -1209,9 +1204,9 @@
         "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_650_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
-        "notes": "*****",
+    "CompetenceLevelKD_640_desc": {
+        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_650": {
@@ -1219,9 +1214,9 @@
         "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
         "limit": "30"
     },
-    "CompetenceLevelKD_700_desc": {
-        "translation": "Pomanjkanje kompetenc za led.",
-        "notes": "-",
+    "CompetenceLevelKD_650_desc": {
+        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "notes": "*****",
         "limit": "1024"
     },
     "CompetenceLevelKD_700": {
@@ -1229,9 +1224,9 @@
         "notes": "Unkown for ice.",
         "limit": "30"
     },
-    "CompetenceLevelKD_710_desc": {
-        "translation": "Začetnik.",
-        "notes": "*",
+    "CompetenceLevelKD_700_desc": {
+        "translation": "Pomanjkanje kompetenc za led.",
+        "notes": "-",
         "limit": "1024"
     },
     "CompetenceLevelKD_710": {
@@ -1239,9 +1234,9 @@
         "notes": "Beginner.",
         "limit": "30"
     },
-    "CompetenceLevelKD_720_desc": {
-        "translation": "Izkušen opazovalec.",
-        "notes": "**",
+    "CompetenceLevelKD_710_desc": {
+        "translation": "Začetnik.",
+        "notes": "*",
         "limit": "1024"
     },
     "CompetenceLevelKD_720": {
@@ -1249,9 +1244,9 @@
         "notes": "Experienced observer.",
         "limit": "30"
     },
-    "CompetenceLevelKD_730_desc": {
-        "translation": "Izkušen opazovalec z izkušnjami s terena.",
-        "notes": "***",
+    "CompetenceLevelKD_720_desc": {
+        "translation": "Izkušen opazovalec.",
+        "notes": "**",
         "limit": "1024"
     },
     "CompetenceLevelKD_730": {
@@ -1259,9 +1254,9 @@
         "notes": "Educated observer with field experience.",
         "limit": "30"
     },
-    "CompetenceLevelKD_740_desc": {
-        "translation": "Usposobljeno osebje.",
-        "notes": "****",
+    "CompetenceLevelKD_730_desc": {
+        "translation": "Izkušen opazovalec z izkušnjami s terena.",
+        "notes": "***",
         "limit": "1024"
     },
     "CompetenceLevelKD_740": {
@@ -1269,9 +1264,9 @@
         "notes": "Educated personel.",
         "limit": "30"
     },
-    "CompetenceLevelKD_750_desc": {
-        "translation": "Osebje, usposobljeno v NVE ali podobno.",
-        "notes": "*****",
+    "CompetenceLevelKD_740_desc": {
+        "translation": "Usposobljeno osebje.",
+        "notes": "****",
         "limit": "1024"
     },
     "CompetenceLevelKD_750": {
@@ -1279,30 +1274,35 @@
         "notes": "Educated personel in NVE or eqivalent.",
         "limit": "30"
     },
+    "CompetenceLevelKD_750_desc": {
+        "translation": "Osebje, usposobljeno v NVE ali podobno.",
+        "notes": "*****",
+        "limit": "1024"
+    },
     "CompressionTestKD_0": {
         "translation": "N/A",
         "notes": "",
         "limit": "30"
     },
-    "CompressionTestKD_1_desc": {
-        "translation": "Tlačni preizkus stolpca",
-        "notes": "CT ",
-        "limit": "1024"
-    },
     "CompressionTestKD_1": {
         "translation": "CT",
-        "notes": "Coloumn test ",
+        "notes": "Coloumn test",
         "limit": "30"
     },
-    "CompressionTestKD_2_desc": {
-        "translation": "Preizkus v razširjenem stolpcu",
-        "notes": "ECT ",
+    "CompressionTestKD_1_desc": {
+        "translation": "Tlačni preizkus stolpca",
+        "notes": "CT",
         "limit": "1024"
     },
     "CompressionTestKD_2": {
         "translation": "ECT",
-        "notes": "Extended coloumn test ",
+        "notes": "Extended coloumn test",
         "limit": "30"
+    },
+    "CompressionTestKD_2_desc": {
+        "translation": "Preizkus v razširjenem stolpcu",
+        "notes": "ECT",
+        "limit": "1024"
     },
     "ComprTestFractureKD_0": {
         "translation": "Ni določeno",
@@ -1329,153 +1329,8 @@
         "notes": "",
         "limit": "100"
     },
-    "CountryKD_4": {
-        "translation": "Afganistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_8": {
-        "translation": "Albanija",
-        "notes": "",
-        "limit": "100"
-    },
     "CountryKD_10": {
         "translation": "Antarktika",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_12": {
-        "translation": "Alžirija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_16": {
-        "translation": "Ameriška Samoa",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_20": {
-        "translation": "Andora",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_24": {
-        "translation": "Angola",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_28": {
-        "translation": "Antigva in Barbuda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_31": {
-        "translation": "Azerbajdžan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_32": {
-        "translation": "Argentina",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_36": {
-        "translation": "Avstralija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_40": {
-        "translation": "Avstrija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_44": {
-        "translation": "Bahami",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_48": {
-        "translation": "Bahrajn",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_50": {
-        "translation": "Bangladeš",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_51": {
-        "translation": "Armenija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_52": {
-        "translation": "Barbados",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_56": {
-        "translation": "Belgija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_60": {
-        "translation": "Bermuda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_64": {
-        "translation": "Butan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_68": {
-        "translation": "Bolivija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_70": {
-        "translation": "Bosna in Hercegovina",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_72": {
-        "translation": "Bocvana",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_74": {
-        "translation": "Bouvetov otok",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_76": {
-        "translation": "Brazilija",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_84": {
-        "translation": "Belize",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_86": {
-        "translation": "Britansko ozemlje v Indijskem oceanu",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_90": {
-        "translation": "Salomonovi otoki",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_92": {
-        "translation": "Britanski Deviški otoki",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_96": {
-        "translation": "Brunej",
         "notes": "",
         "limit": "100"
     },
@@ -1501,6 +1356,11 @@
     },
     "CountryKD_116": {
         "translation": "Kambodža",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_12": {
+        "translation": "Alžirija",
         "notes": "",
         "limit": "100"
     },
@@ -1551,6 +1411,11 @@
     },
     "CountryKD_158": {
         "translation": "Tajvan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_16": {
+        "translation": "Ameriška Samoa",
         "notes": "",
         "limit": "100"
     },
@@ -1611,6 +1476,11 @@
     },
     "CountryKD_196": {
         "translation": "Ciper",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_20": {
+        "translation": "Andora",
         "notes": "",
         "limit": "100"
     },
@@ -1684,6 +1554,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_24": {
+        "translation": "Angola",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_242": {
         "translation": "Fidži",
         "notes": "",
@@ -1749,6 +1624,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_28": {
+        "translation": "Antigva in Barbuda",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_288": {
         "translation": "Gana",
         "notes": "",
@@ -1779,6 +1659,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_31": {
+        "translation": "Azerbajdžan",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_312": {
         "translation": "Guadeloupe",
         "notes": "",
@@ -1786,6 +1671,11 @@
     },
     "CountryKD_316": {
         "translation": "Guam",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_32": {
+        "translation": "Argentina",
         "notes": "",
         "limit": "100"
     },
@@ -1844,6 +1734,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_36": {
+        "translation": "Avstralija",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_360": {
         "translation": "Indonezija",
         "notes": "",
@@ -1891,6 +1786,16 @@
     },
     "CountryKD_398": {
         "translation": "Kazahstan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_4": {
+        "translation": "Afganistan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_40": {
+        "translation": "Avstrija",
         "notes": "",
         "limit": "100"
     },
@@ -1959,6 +1864,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_44": {
+        "translation": "Bahami",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_440": {
         "translation": "Litva",
         "notes": "",
@@ -2014,6 +1924,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_48": {
+        "translation": "Bahrajn",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_480": {
         "translation": "Mauritius",
         "notes": "",
@@ -2044,6 +1959,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_50": {
+        "translation": "Bangladeš",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_500": {
         "translation": "Montserrat",
         "notes": "",
@@ -2059,6 +1979,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_51": {
+        "translation": "Armenija",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_512": {
         "translation": "Oman",
         "notes": "",
@@ -2066,6 +1991,11 @@
     },
     "CountryKD_516": {
         "translation": "Namibija",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_52": {
+        "translation": "Barbados",
         "notes": "",
         "limit": "100"
     },
@@ -2111,6 +2041,11 @@
     },
     "CountryKD_558": {
         "translation": "Nikaragva",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_56": {
+        "translation": "Belgija",
         "notes": "",
         "limit": "100"
     },
@@ -2179,6 +2114,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_60": {
+        "translation": "Bermuda",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_600": {
         "translation": "Paragvaj",
         "notes": "",
@@ -2231,6 +2171,11 @@
     },
     "CountryKD_638": {
         "translation": "Reunion",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_64": {
+        "translation": "Butan",
         "notes": "",
         "limit": "100"
     },
@@ -2299,6 +2244,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_68": {
+        "translation": "Bolivija",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_682": {
         "translation": "Savdska Arabija",
         "notes": "",
@@ -2321,6 +2271,11 @@
     },
     "CountryKD_694": {
         "translation": "Sierra Leone",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_70": {
+        "translation": "Bosna in Hercegovina",
         "notes": "",
         "limit": "100"
     },
@@ -2359,6 +2314,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_72": {
+        "translation": "Bocvana",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_724": {
         "translation": "Španija",
         "notes": "",
@@ -2371,6 +2331,11 @@
     },
     "CountryKD_736": {
         "translation": "Sudan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_74": {
+        "translation": "Bouvetov otok",
         "notes": "",
         "limit": "100"
     },
@@ -2396,6 +2361,11 @@
     },
     "CountryKD_756": {
         "translation": "Švica",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_76": {
+        "translation": "Brazilija",
         "notes": "",
         "limit": "100"
     },
@@ -2464,6 +2434,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_8": {
+        "translation": "Albanija",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_800": {
         "translation": "Uganda",
         "notes": "",
@@ -2509,6 +2484,11 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_84": {
+        "translation": "Belize",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_840": {
         "translation": "Združene države Amerike",
         "notes": "",
@@ -2526,6 +2506,11 @@
     },
     "CountryKD_858": {
         "translation": "Urugvaj",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_86": {
+        "translation": "Britansko ozemlje v Indijskem oceanu",
         "notes": "",
         "limit": "100"
     },
@@ -2556,6 +2541,21 @@
     },
     "CountryKD_894": {
         "translation": "Zambija",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_90": {
+        "translation": "Salomonovi otoki",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_92": {
+        "translation": "Britanski Deviški otoki",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_96": {
+        "translation": "Brunej",
         "notes": "",
         "limit": "100"
     },
@@ -2689,47 +2689,6 @@
         "notes": "",
         "limit": "30"
     },
-    "DangerSignKD_3": {
-        "translation": "Whumpf zvok",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_4": {
-        "translation": "Sveže razpoke",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_5_desc": {
-        "translation": "Uporabljeno v norveški aplikaciji elrapp",
-        "notes": "Large snowfall",
-        "limit": "1024",
-        "context": "elrapp is a norwegian app for the public road administration that has an integration against regobs."
-    },
-    "DangerSignKD_5": {
-        "translation": "Obilno sneženje",
-        "notes": "Brukes i elrapp",
-        "limit": "30"
-    },
-    "DangerSignKD_7": {
-        "translation": "Hitra temperaturna sprememba",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_8": {
-        "translation": "Velika vsebnost vode v snegu",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_9": {
-        "translation": "Svež snežni zamet",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_99": {
-        "translation": "Drugi znaki nevarnosti(navedi)",
-        "notes": "",
-        "limit": "30"
-    },
     "DangerSignKD_200": {
         "translation": "Ni določeno",
         "notes": "",
@@ -2810,6 +2769,27 @@
         "notes": "",
         "limit": "30"
     },
+    "DangerSignKD_3": {
+        "translation": "Whumpf zvok",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_4": {
+        "translation": "Sveže razpoke",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_5": {
+        "translation": "Obilno sneženje",
+        "notes": "Brukes i elrapp",
+        "limit": "30"
+    },
+    "DangerSignKD_5_desc": {
+        "translation": "Uporabljeno v norveški aplikaciji elrapp",
+        "notes": "Large snowfall",
+        "limit": "1024",
+        "context": "elrapp is a norwegian app for the public road administration that has an integration against regobs."
+    },
     "DangerSignKD_600": {
         "translation": "Ni določeno",
         "notes": "",
@@ -2847,6 +2827,11 @@
     },
     "DangerSignKD_699": {
         "translation": "Drugo (navedite v komentarju)",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_7": {
+        "translation": "Hitra temperaturna sprememba",
         "notes": "",
         "limit": "30"
     },
@@ -2900,9 +2885,29 @@
         "notes": "",
         "limit": "30"
     },
+    "DangerSignKD_8": {
+        "translation": "Velika vsebnost vode v snegu",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_9": {
+        "translation": "Svež snežni zamet",
+        "notes": "",
+        "limit": "30"
+    },
+    "DangerSignKD_99": {
+        "translation": "Drugi znaki nevarnosti(navedi)",
+        "notes": "",
+        "limit": "30"
+    },
     "DestructiveSizeKD_0": {
         "translation": "Ni določeno",
         "notes": "",
+        "limit": "30"
+    },
+    "DestructiveSizeKD_1": {
+        "translation": "1 - Majhna",
+        "notes": "Minimal danger of burying (danger of falling)",
         "limit": "30"
     },
     "DestructiveSizeKD_1_desc": {
@@ -2910,9 +2915,9 @@
         "notes": "1 - Small",
         "limit": "1024"
     },
-    "DestructiveSizeKD_1": {
-        "translation": "1 - Majhna",
-        "notes": "Minimal danger of burying (danger of falling)",
+    "DestructiveSizeKD_2": {
+        "translation": "2 - Srednja",
+        "notes": "Could bury, injure or kill a person",
         "limit": "30"
     },
     "DestructiveSizeKD_2_desc": {
@@ -2920,9 +2925,9 @@
         "notes": "2 - Medium",
         "limit": "1024"
     },
-    "DestructiveSizeKD_2": {
-        "translation": "2 - Srednja",
-        "notes": "Could bury, injure or kill a person",
+    "DestructiveSizeKD_3": {
+        "translation": "3 - Velika",
+        "notes": "Could bury and destroy a car, damage a truck; destroy a small building or break a few trees",
         "limit": "30"
     },
     "DestructiveSizeKD_3_desc": {
@@ -2930,9 +2935,9 @@
         "notes": "3 - Large",
         "limit": "1024"
     },
-    "DestructiveSizeKD_3": {
-        "translation": "3 - Velika",
-        "notes": "Could bury and destroy a car, damage a truck; destroy a small building or break a few trees",
+    "DestructiveSizeKD_4": {
+        "translation": "4 - Zelo velika",
+        "notes": "Could bury and destroy a railway car, large truck, several buildings or a piece of forest",
         "limit": "30"
     },
     "DestructiveSizeKD_4_desc": {
@@ -2940,20 +2945,15 @@
         "notes": "4 - Very large",
         "limit": "1024"
     },
-    "DestructiveSizeKD_4": {
-        "translation": "4 - Zelo velika",
-        "notes": "Could bury and destroy a railway car, large truck, several buildings or a piece of forest",
+    "DestructiveSizeKD_5": {
+        "translation": "5 - Ekstremno velika",
+        "notes": "Could gouge the landscape; disastrous damage potential",
         "limit": "30"
     },
     "DestructiveSizeKD_5_desc": {
         "translation": "Potencial za ogromno škodo. Lahko spremeni pokrajino, uniči zgradbe in gozdove.",
         "notes": "5 - Extremely large",
         "limit": "1024"
-    },
-    "DestructiveSizeKD_5": {
-        "translation": "5 - Ekstremno velika",
-        "notes": "Could gouge the landscape; disastrous damage potential",
-        "limit": "30"
     },
     "DestructiveSizeKD_9": {
         "translation": "Neznano",
@@ -3085,19 +3085,14 @@
         "notes": "",
         "limit": "100"
     },
-    "ForecastRegionTypeKD_10_desc": {
-        "translation": "A regija",
-        "notes": "A",
-        "limit": "1024"
-    },
     "ForecastRegionTypeKD_10": {
         "translation": "A",
         "notes": "A region",
         "limit": "100"
     },
-    "ForecastRegionTypeKD_20_desc": {
-        "translation": "B regija",
-        "notes": "B",
+    "ForecastRegionTypeKD_10_desc": {
+        "translation": "A regija",
+        "notes": "A",
         "limit": "1024"
     },
     "ForecastRegionTypeKD_20": {
@@ -3105,9 +3100,9 @@
         "notes": "B region",
         "limit": "100"
     },
-    "ForecastRegionTypeKD_30_desc": {
-        "translation": "Regija/Območje",
-        "notes": "C",
+    "ForecastRegionTypeKD_20_desc": {
+        "translation": "B regija",
+        "notes": "B",
         "limit": "1024"
     },
     "ForecastRegionTypeKD_30": {
@@ -3115,9 +3110,9 @@
         "notes": "County region",
         "limit": "100"
     },
-    "ForecastRegionTypeKD_90_desc": {
-        "translation": "H regija",
-        "notes": "H",
+    "ForecastRegionTypeKD_30_desc": {
+        "translation": "Regija/Območje",
+        "notes": "C",
         "limit": "1024"
     },
     "ForecastRegionTypeKD_90": {
@@ -3125,85 +3120,25 @@
         "notes": "H region",
         "limit": "100"
     },
+    "ForecastRegionTypeKD_90_desc": {
+        "translation": "H regija",
+        "notes": "H",
+        "limit": "1024"
+    },
     "GeoHazardKD_0": {
         "translation": "Ni določeno",
         "notes": "",
         "limit": "30"
-    },
-    "GeoHazardKD_10_desc": {
-        "translation": "Snežni plaz",
-        "notes": "Snow",
-        "limit": "1024"
     },
     "GeoHazardKD_10": {
         "translation": "Sneg",
         "notes": "Avalanche",
         "limit": "30"
     },
-    "GeoHazardKD_20_desc": {
-        "translation": "Zemeljski plaz",
-        "notes": "Soil",
+    "GeoHazardKD_10_desc": {
+        "translation": "Snežni plaz",
+        "notes": "Snow",
         "limit": "1024"
-    },
-    "GeoHazardKD_20": {
-        "translation": "Zemlja",
-        "notes": "Earth slide",
-        "limit": "30"
-    },
-    "GeoHazardKD_30_desc": {
-        "translation": "Poplavni plaz",
-        "notes": "Wet soil",
-        "limit": "1024"
-    },
-    "GeoHazardKD_30": {
-        "translation": "Mokra zemlja",
-        "notes": "Flood slide",
-        "limit": "30"
-    },
-    "GeoHazardKD_33": {
-        "translation": "Glina",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_36": {
-        "translation": "Plundra",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_40_desc": {
-        "translation": "Skalni podor",
-        "notes": "Rock",
-        "limit": "1024"
-    },
-    "GeoHazardKD_40": {
-        "translation": "Skala",
-        "notes": "Rock fall",
-        "limit": "30"
-    },
-    "GeoHazardKD_50": {
-        "translation": "Podor ledu",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_60_desc": {
-        "translation": "Poplava",
-        "notes": "Water",
-        "limit": "1024"
-    },
-    "GeoHazardKD_60": {
-        "translation": "Voda",
-        "notes": "Flooding",
-        "limit": "30"
-    },
-    "GeoHazardKD_70_desc": {
-        "translation": "Šibak led",
-        "notes": "Ice",
-        "limit": "1024"
-    },
-    "GeoHazardKD_70": {
-        "translation": "Led",
-        "notes": "Weak ice",
-        "limit": "30"
     },
     "GeoHazardKD_100": {
         "translation": "Dogodek na ledeniku",
@@ -3215,10 +3150,75 @@
         "notes": "",
         "limit": "30"
     },
+    "GeoHazardKD_20": {
+        "translation": "Zemlja",
+        "notes": "Earth slide",
+        "limit": "30"
+    },
+    "GeoHazardKD_20_desc": {
+        "translation": "Zemeljski plaz",
+        "notes": "Soil",
+        "limit": "1024"
+    },
     "GeoHazardKD_200": {
         "translation": "Suša",
         "notes": "",
         "limit": "30"
+    },
+    "GeoHazardKD_30": {
+        "translation": "Mokra zemlja",
+        "notes": "Flood slide",
+        "limit": "30"
+    },
+    "GeoHazardKD_30_desc": {
+        "translation": "Poplavni plaz",
+        "notes": "Wet soil",
+        "limit": "1024"
+    },
+    "GeoHazardKD_33": {
+        "translation": "Glina",
+        "notes": "",
+        "limit": "30"
+    },
+    "GeoHazardKD_36": {
+        "translation": "Plundra",
+        "notes": "",
+        "limit": "30"
+    },
+    "GeoHazardKD_40": {
+        "translation": "Skala",
+        "notes": "Rock fall",
+        "limit": "30"
+    },
+    "GeoHazardKD_40_desc": {
+        "translation": "Skalni podor",
+        "notes": "Rock",
+        "limit": "1024"
+    },
+    "GeoHazardKD_50": {
+        "translation": "Podor ledu",
+        "notes": "",
+        "limit": "30"
+    },
+    "GeoHazardKD_60": {
+        "translation": "Voda",
+        "notes": "Flooding",
+        "limit": "30"
+    },
+    "GeoHazardKD_60_desc": {
+        "translation": "Poplava",
+        "notes": "Water",
+        "limit": "1024"
+    },
+    "GeoHazardKD_70": {
+        "translation": "Led",
+        "notes": "Weak ice",
+        "limit": "30"
+    },
+    "GeoHazardKD_70_desc": {
+        "translation": "Šibak led",
+        "notes": "Ice",
+        "limit": "1024"
     },
     "GeoHazardKD_999": {
         "translation": "Neznano",
@@ -3232,46 +3232,6 @@
     },
     "GrainFormKD_1": {
         "translation": "PP",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_2": {
-        "translation": "PPco",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_3": {
-        "translation": "PPnd",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_4": {
-        "translation": "PPpl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_5": {
-        "translation": "PPsd",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_6": {
-        "translation": "PPir",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_7": {
-        "translation": "PPgp",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_8": {
-        "translation": "PPhl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_9": {
-        "translation": "PPip",
         "notes": "",
         "limit": "30"
     },
@@ -3325,6 +3285,11 @@
         "notes": "",
         "limit": "30"
     },
+    "GrainFormKD_2": {
+        "translation": "PPco",
+        "notes": "",
+        "limit": "30"
+    },
     "GrainFormKD_20": {
         "translation": "RGwp",
         "notes": "",
@@ -3372,6 +3337,11 @@
     },
     "GrainFormKD_29": {
         "translation": "DHch",
+        "notes": "",
+        "limit": "30"
+    },
+    "GrainFormKD_3": {
+        "translation": "PPnd",
         "notes": "",
         "limit": "30"
     },
@@ -3425,6 +3395,11 @@
         "notes": "",
         "limit": "30"
     },
+    "GrainFormKD_4": {
+        "translation": "PPpl",
+        "notes": "",
+        "limit": "30"
+    },
     "GrainFormKD_40": {
         "translation": "MFcr",
         "notes": "",
@@ -3460,6 +3435,31 @@
         "notes": "",
         "limit": "30"
     },
+    "GrainFormKD_5": {
+        "translation": "PPsd",
+        "notes": "",
+        "limit": "30"
+    },
+    "GrainFormKD_6": {
+        "translation": "PPir",
+        "notes": "",
+        "limit": "30"
+    },
+    "GrainFormKD_7": {
+        "translation": "PPgp",
+        "notes": "",
+        "limit": "30"
+    },
+    "GrainFormKD_8": {
+        "translation": "PPhl",
+        "notes": "",
+        "limit": "30"
+    },
+    "GrainFormKD_9": {
+        "translation": "PPip",
+        "notes": "",
+        "limit": "30"
+    },
     "HardnessKD_0": {
         "translation": " - ",
         "notes": "",
@@ -3467,46 +3467,6 @@
     },
     "HardnessKD_1": {
         "translation": "F-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_2": {
-        "translation": "F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_3": {
-        "translation": "F+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_4": {
-        "translation": " F-4F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_5": {
-        "translation": "4F-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_6": {
-        "translation": "4F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_7": {
-        "translation": "4F+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_8": {
-        "translation": "4F-1F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_9": {
-        "translation": "1F-",
         "notes": "",
         "limit": "30"
     },
@@ -3560,6 +3520,11 @@
         "notes": "",
         "limit": "30"
     },
+    "HardnessKD_2": {
+        "translation": "F",
+        "notes": "",
+        "limit": "30"
+    },
     "HardnessKD_20": {
         "translation": "K-I",
         "notes": "",
@@ -3567,6 +3532,41 @@
     },
     "HardnessKD_21": {
         "translation": "I",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_3": {
+        "translation": "F+",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_4": {
+        "translation": " F-4F",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_5": {
+        "translation": "4F-",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_6": {
+        "translation": "4F",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_7": {
+        "translation": "4F+",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_8": {
+        "translation": "4F-1F",
+        "notes": "",
+        "limit": "30"
+    },
+    "HardnessKD_9": {
+        "translation": "1F-",
         "notes": "",
         "limit": "30"
     },
@@ -3600,24 +3600,9 @@
         "notes": "",
         "limit": "30"
     },
-    "IceCoverAfterKD_4_desc": {
-        "translation": "Uporabljeno na postajah, pomeni \"nastajanje ledu\" vendar ne \"popolne prekritosti z ledom\"",
-        "notes": "Gradually complete ice cover",
-        "limit": "1024"
-    },
-    "IceCoverAfterKD_4": {
-        "translation": "Postopna prekritost z ledom",
-        "notes": "Used at stations giving \"Ice build up\", but not \"Completely ice covered\"",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_5_desc": {
-        "translation": "Uporabljeno na postajah, pomeni \"taljenje ledu\" vendar ne \"brez ledu\"",
-        "notes": "Gradually ice break-up",
-        "limit": "1024"
-    },
-    "IceCoverAfterKD_5": {
-        "translation": "Postopno taljenje ledu",
-        "notes": "Used at stations giving \"Ice break-up\", but not \"Free of ice\"",
+    "IceCoverAfterKD_10": {
+        "translation": "Brez ledu po tem datumu",
+        "notes": "Used to tell that this season has a confirmed end.",
         "limit": "30"
     },
     "IceCoverAfterKD_10_desc": {
@@ -3625,10 +3610,25 @@
         "notes": "No ice after this date",
         "limit": "1024"
     },
-    "IceCoverAfterKD_10": {
-        "translation": "Brez ledu po tem datumu",
-        "notes": "Used to tell that this season has a confirmed end.",
+    "IceCoverAfterKD_4": {
+        "translation": "Postopna prekritost z ledom",
+        "notes": "Used at stations giving \"Ice build up\", but not \"Completely ice covered\"",
         "limit": "30"
+    },
+    "IceCoverAfterKD_4_desc": {
+        "translation": "Uporabljeno na postajah, pomeni \"nastajanje ledu\" vendar ne \"popolne prekritosti z ledom\"",
+        "notes": "Gradually complete ice cover",
+        "limit": "1024"
+    },
+    "IceCoverAfterKD_5": {
+        "translation": "Postopno taljenje ledu",
+        "notes": "Used at stations giving \"Ice break-up\", but not \"Free of ice\"",
+        "limit": "30"
+    },
+    "IceCoverAfterKD_5_desc": {
+        "translation": "Uporabljeno na postajah, pomeni \"taljenje ledu\" vendar ne \"brez ledu\"",
+        "notes": "Gradually ice break-up",
+        "limit": "1024"
     },
     "IceCoverAfterKD_99": {
         "translation": "Neznani pogoji po tem",
@@ -3640,39 +3640,14 @@
         "notes": "",
         "limit": "30"
     },
-    "IceCoverBeforeKD_1_desc": {
-        "translation": "Pred današnjim dnem na območju opazovanja ni bilo ledu. Led je morda bil ob obali. \"Območje opazovanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
-        "notes": "No ice, now first ice at site",
-        "limit": "1024"
-    },
     "IceCoverBeforeKD_1": {
         "translation": "Brez ledu, prvič opažen led",
         "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
         "limit": "30"
     },
-    "IceCoverBeforeKD_2_desc": {
-        "translation": "Pred današnjim dnem ob obali ni bilo ledu.",
-        "notes": "No ice, now first ice at shore",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_2": {
-        "translation": "Brez ledu, prvič led na obali",
-        "notes": "No ice along the shore before today.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_3_desc": {
-        "translation": "Brez ledu v tekoči zimski sezoni, vključno z današnjim dnem.",
-        "notes": "No ice so far, including today",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_3": {
-        "translation": "Brez ledu, tudi danes",
-        "notes": "No ice this winter season, not even today.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_10_desc": {
-        "translation": "Kontinuirana opazovanja. Lahko sklepamo, da je obseg ledene površine s prejšnjega opazovanja veljaven do včerajšnjega dne. Danes je lahko vrednost drugačna (ali pa enaka).",
-        "notes": "Last obs valid until yesterday",
+    "IceCoverBeforeKD_1_desc": {
+        "translation": "Pred današnjim dnem na območju opazovanja ni bilo ledu. Led je morda bil ob obali. \"Območje opazovanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
+        "notes": "No ice, now first ice at site",
         "limit": "1024"
     },
     "IceCoverBeforeKD_10": {
@@ -3680,15 +3655,40 @@
         "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
         "limit": "30"
     },
-    "IceCoverBeforeKD_99_desc": {
-        "translation": "Napaka pri meritvah. Opažen obseg ledene površine s prejšnjega opazovanja verjetno ne predstavlja dejanskega stanja do včeraj.",
-        "notes": "Break - Unknown until today",
+    "IceCoverBeforeKD_10_desc": {
+        "translation": "Kontinuirana opazovanja. Lahko sklepamo, da je obseg ledene površine s prejšnjega opazovanja veljaven do včerajšnjega dne. Danes je lahko vrednost drugačna (ali pa enaka).",
+        "notes": "Last obs valid until yesterday",
+        "limit": "1024"
+    },
+    "IceCoverBeforeKD_2": {
+        "translation": "Brez ledu, prvič led na obali",
+        "notes": "No ice along the shore before today.",
+        "limit": "30"
+    },
+    "IceCoverBeforeKD_2_desc": {
+        "translation": "Pred današnjim dnem ob obali ni bilo ledu.",
+        "notes": "No ice, now first ice at shore",
+        "limit": "1024"
+    },
+    "IceCoverBeforeKD_3": {
+        "translation": "Brez ledu, tudi danes",
+        "notes": "No ice this winter season, not even today.",
+        "limit": "30"
+    },
+    "IceCoverBeforeKD_3_desc": {
+        "translation": "Brez ledu v tekoči zimski sezoni, vključno z današnjim dnem.",
+        "notes": "No ice so far, including today",
         "limit": "1024"
     },
     "IceCoverBeforeKD_99": {
         "translation": "Napaka - neznana vednost",
         "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
         "limit": "30"
+    },
+    "IceCoverBeforeKD_99_desc": {
+        "translation": "Napaka pri meritvah. Opažen obseg ledene površine s prejšnjega opazovanja verjetno ne predstavlja dejanskega stanja do včeraj.",
+        "notes": "Break - Unknown until today",
+        "limit": "1024"
     },
     "IceCoverKD_0": {
         "translation": "Ni določeno",
@@ -3697,16 +3697,6 @@
     },
     "IceCoverKD_1": {
         "translation": "Lokacija je brez ledu",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_2": {
-        "translation": "Lokacija je delno zaledenela",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_3": {
-        "translation": "Lokacija je zaledenela",
         "notes": "",
         "limit": "30"
     },
@@ -3720,6 +3710,11 @@
         "notes": "",
         "limit": "30"
     },
+    "IceCoverKD_2": {
+        "translation": "Lokacija je delno zaledenela",
+        "notes": "",
+        "limit": "30"
+    },
     "IceCoverKD_20": {
         "translation": "Jezero brez ledu",
         "notes": "",
@@ -3727,6 +3722,11 @@
     },
     "IceCoverKD_21": {
         "translation": "Zaledenelo jezero",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceCoverKD_3": {
+        "translation": "Lokacija je zaledenela",
         "notes": "",
         "limit": "30"
     },
@@ -3756,6 +3756,21 @@
         "notes": "",
         "limit": "30"
     },
+    "IceLayerKD_11": {
+        "translation": "Poledica se zmanjšuje",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceLayerKD_13": {
+        "translation": "Zamrznjen sneg se zmanjšuje",
+        "notes": "",
+        "limit": "30"
+    },
+    "IceLayerKD_14": {
+        "translation": "Stolpičasti led (spomladi)",
+        "notes": "",
+        "limit": "30"
+    },
     "IceLayerKD_3": {
         "translation": "Zamrznjen sneg",
         "notes": "",
@@ -3773,21 +3788,6 @@
     },
     "IceLayerKD_9": {
         "translation": "Ledeni kristali",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_11": {
-        "translation": "Poledica se zmanjšuje",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_13": {
-        "translation": "Zamrznjen sneg se zmanjšuje",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_14": {
-        "translation": "Stolpičasti led (spomladi)",
         "notes": "",
         "limit": "30"
     },
@@ -3871,6 +3871,16 @@
         "notes": "",
         "limit": "30"
     },
+    "LandSlideKD_10": {
+        "translation": "Blatni tok",
+        "notes": "",
+        "limit": "30"
+    },
+    "LandSlideKD_11": {
+        "translation": "Kamniti plaz",
+        "notes": "",
+        "limit": "30"
+    },
     "LandSlideKD_2": {
         "translation": "Skalni podor",
         "notes": "",
@@ -3893,16 +3903,6 @@
     },
     "LandSlideKD_8": {
         "translation": "Blatni plaz",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_10": {
-        "translation": "Blatni tok",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_11": {
-        "translation": "Kamniti plaz",
         "notes": "",
         "limit": "30"
     },
@@ -3976,19 +3976,14 @@
         "notes": "",
         "limit": "30"
     },
-    "MarkingReferenceKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
     "MarkingReferenceKD_0": {
         "translation": "Neznano",
         "notes": "Unknown",
         "limit": "100"
     },
-    "MarkingReferenceKD_1_desc": {
-        "translation": "Tla",
-        "notes": "in terrain",
+    "MarkingReferenceKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "MarkingReferenceKD_1": {
@@ -3996,9 +3991,9 @@
         "notes": "Terrain",
         "limit": "100"
     },
-    "MarkingReferenceKD_2_desc": {
-        "translation": "Most",
-        "notes": "on bridge",
+    "MarkingReferenceKD_1_desc": {
+        "translation": "Tla",
+        "notes": "in terrain",
         "limit": "1024"
     },
     "MarkingReferenceKD_2": {
@@ -4006,9 +4001,9 @@
         "notes": "Bridge",
         "limit": "100"
     },
-    "MarkingReferenceKD_3_desc": {
-        "translation": "Poplavni obelisk",
-        "notes": "on flood support",
+    "MarkingReferenceKD_2_desc": {
+        "translation": "Most",
+        "notes": "on bridge",
         "limit": "1024"
     },
     "MarkingReferenceKD_3": {
@@ -4016,9 +4011,9 @@
         "notes": "Flood support",
         "limit": "100"
     },
-    "MarkingReferenceKD_4_desc": {
-        "translation": "Zgradba",
-        "notes": "on building",
+    "MarkingReferenceKD_3_desc": {
+        "translation": "Poplavni obelisk",
+        "notes": "on flood support",
         "limit": "1024"
     },
     "MarkingReferenceKD_4": {
@@ -4026,9 +4021,9 @@
         "notes": "Building",
         "limit": "100"
     },
-    "MarkingReferenceKD_5_desc": {
-        "translation": "Drog",
-        "notes": "Pole",
+    "MarkingReferenceKD_4_desc": {
+        "translation": "Zgradba",
+        "notes": "on building",
         "limit": "1024"
     },
     "MarkingReferenceKD_5": {
@@ -4036,9 +4031,9 @@
         "notes": "Pole",
         "limit": "100"
     },
-    "MarkingReferenceKD_6_desc": {
-        "translation": "drugo",
-        "notes": "other",
+    "MarkingReferenceKD_5_desc": {
+        "translation": "Drog",
+        "notes": "Pole",
         "limit": "1024"
     },
     "MarkingReferenceKD_6": {
@@ -4046,9 +4041,9 @@
         "notes": "other",
         "limit": "100"
     },
-    "MarkingTypeKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
+    "MarkingReferenceKD_6_desc": {
+        "translation": "drugo",
+        "notes": "other",
         "limit": "1024"
     },
     "MarkingTypeKD_0": {
@@ -4056,9 +4051,9 @@
         "notes": "Unknown",
         "limit": "100"
     },
-    "MarkingTypeKD_1_desc": {
-        "translation": "Razpršilo",
-        "notes": "",
+    "MarkingTypeKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "MarkingTypeKD_1": {
@@ -4066,19 +4061,19 @@
         "notes": "",
         "limit": "100"
     },
-    "MarkingTypeKD_2_desc": {
-        "translation": "Znak",
+    "MarkingTypeKD_1_desc": {
+        "translation": "Razpršilo",
         "notes": "",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
         "translation": "Znak",
-        "notes": "",
+        "notes": "Marker",
         "limit": "100"
     },
-    "MarkingTypeKD_3_desc": {
-        "translation": "Žebelj",
-        "notes": "Nail",
+    "MarkingTypeKD_2_desc": {
+        "translation": "Znak",
+        "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_3": {
@@ -4086,9 +4081,9 @@
         "notes": "Nail",
         "limit": "100"
     },
-    "MarkingTypeKD_4_desc": {
-        "translation": "Klesanje",
-        "notes": "Carving",
+    "MarkingTypeKD_3_desc": {
+        "translation": "Žebelj",
+        "notes": "Nail",
         "limit": "1024"
     },
     "MarkingTypeKD_4": {
@@ -4096,9 +4091,9 @@
         "notes": "Carving",
         "limit": "100"
     },
-    "MarkingTypeKD_5_desc": {
-        "translation": "Drugo",
-        "notes": "Other",
+    "MarkingTypeKD_4_desc": {
+        "translation": "Klesanje",
+        "notes": "Carving",
         "limit": "1024"
     },
     "MarkingTypeKD_5": {
@@ -4106,9 +4101,9 @@
         "notes": "Other",
         "limit": "100"
     },
-    "MeasurementReferenceKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
+    "MarkingTypeKD_5_desc": {
+        "translation": "Drugo",
+        "notes": "Other",
         "limit": "1024"
     },
     "MeasurementReferenceKD_0": {
@@ -4116,9 +4111,9 @@
         "notes": "Unknown",
         "limit": "100"
     },
-    "MeasurementReferenceKD_1_desc": {
-        "translation": "Tla",
-        "notes": "Ground",
+    "MeasurementReferenceKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "MeasurementReferenceKD_1": {
@@ -4126,9 +4121,9 @@
         "notes": "Ground",
         "limit": "100"
     },
-    "MeasurementReferenceKD_2_desc": {
-        "translation": "Poplavni nasip",
-        "notes": "Flood embankment",
+    "MeasurementReferenceKD_1_desc": {
+        "translation": "Tla",
+        "notes": "Ground",
         "limit": "1024"
     },
     "MeasurementReferenceKD_2": {
@@ -4136,9 +4131,9 @@
         "notes": "Flood embankment",
         "limit": "100"
     },
-    "MeasurementReferenceKD_3_desc": {
-        "translation": "Na poplavnem obelisku",
-        "notes": "Floor",
+    "MeasurementReferenceKD_2_desc": {
+        "translation": "Poplavni nasip",
+        "notes": "Flood embankment",
         "limit": "1024"
     },
     "MeasurementReferenceKD_3": {
@@ -4146,9 +4141,9 @@
         "notes": "Floor",
         "limit": "100"
     },
-    "MeasurementReferenceKD_4_desc": {
-        "translation": "Most",
-        "notes": "Bridge",
+    "MeasurementReferenceKD_3_desc": {
+        "translation": "Na poplavnem obelisku",
+        "notes": "Floor",
         "limit": "1024"
     },
     "MeasurementReferenceKD_4": {
@@ -4156,9 +4151,9 @@
         "notes": "Bridge",
         "limit": "100"
     },
-    "MeasurementReferenceKD_5_desc": {
-        "translation": "Drugo",
-        "notes": "Other",
+    "MeasurementReferenceKD_4_desc": {
+        "translation": "Most",
+        "notes": "Bridge",
         "limit": "1024"
     },
     "MeasurementReferenceKD_5": {
@@ -4166,9 +4161,9 @@
         "notes": "Other",
         "limit": "100"
     },
-    "MeasurementTypeKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
+    "MeasurementReferenceKD_5_desc": {
+        "translation": "Drugo",
+        "notes": "Other",
         "limit": "1024"
     },
     "MeasurementTypeKD_0": {
@@ -4176,9 +4171,9 @@
         "notes": "Unknown",
         "limit": "100"
     },
-    "MeasurementTypeKD_1_desc": {
-        "translation": "Glede na oznako",
-        "notes": "Relative to marking",
+    "MeasurementTypeKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "MeasurementTypeKD_1": {
@@ -4186,9 +4181,9 @@
         "notes": "Relative to marking",
         "limit": "100"
     },
-    "MeasurementTypeKD_2_desc": {
-        "translation": "Merilna palica",
-        "notes": "Measuring stick",
+    "MeasurementTypeKD_1_desc": {
+        "translation": "Glede na oznako",
+        "notes": "Relative to marking",
         "limit": "1024"
     },
     "MeasurementTypeKD_2": {
@@ -4196,9 +4191,9 @@
         "notes": "measuring stick",
         "limit": "100"
     },
-    "MeasurementTypeKD_3_desc": {
-        "translation": "Merilno orodje",
-        "notes": "Measuring tool",
+    "MeasurementTypeKD_2_desc": {
+        "translation": "Merilna palica",
+        "notes": "Measuring stick",
         "limit": "1024"
     },
     "MeasurementTypeKD_3": {
@@ -4206,9 +4201,9 @@
         "notes": "measuring tool",
         "limit": "100"
     },
-    "ObservationTimingKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
+    "MeasurementTypeKD_3_desc": {
+        "translation": "Merilno orodje",
+        "notes": "Measuring tool",
         "limit": "1024"
     },
     "ObservationTimingKD_0": {
@@ -4216,9 +4211,9 @@
         "notes": "Unknown",
         "limit": "100"
     },
-    "ObservationTimingKD_1_desc": {
-        "translation": "Sled preteklega vodostaja",
-        "notes": "Trace of earlier water level",
+    "ObservationTimingKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "ObservationTimingKD_1": {
@@ -4226,15 +4221,20 @@
         "notes": "Earlier water trace",
         "limit": "100"
     },
-    "ObservationTimingKD_2_desc": {
-        "translation": "Trenutni vodostaj",
-        "notes": "Current water level",
+    "ObservationTimingKD_1_desc": {
+        "translation": "Sled preteklega vodostaja",
+        "notes": "Trace of earlier water level",
         "limit": "1024"
     },
     "ObservationTimingKD_2": {
         "translation": "Trenutni vodostaj",
         "notes": "Current water level",
         "limit": "100"
+    },
+    "ObservationTimingKD_2_desc": {
+        "translation": "Trenutni vodostaj",
+        "notes": "Current water level",
+        "limit": "1024"
     },
     "PrecipitationKD_0": {
         "translation": "Ni opaziti",
@@ -4278,12 +4278,6 @@
     },
     "PropagationKD_0": {
         "translation": "Ni določeno",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_5": {
-        "translation": "Preizkus majhne klade (KBT)",
         "notes": "",
         "limit": "30",
         "context": "One of the snow stability tests one can choose to submit."
@@ -4338,6 +4332,12 @@
     },
     "PropagationKD_24": {
         "translation": "ECTX",
+        "notes": "",
+        "limit": "30",
+        "context": "One of the snow stability tests one can choose to submit."
+    },
+    "PropagationKD_5": {
+        "translation": "Preizkus majhne klade (KBT)",
         "notes": "",
         "limit": "30",
         "context": "One of the snow stability tests one can choose to submit."
@@ -4412,15 +4412,15 @@
         "notes": "",
         "limit": "30"
     },
-    "RegistrationKD_62_desc": {
-        "translation": "novo opažanje vodnega nivoja za projekt poplavne baze podatkov",
-        "notes": "Water Level",
-        "limit": "1024"
-    },
     "RegistrationKD_62": {
         "translation": "Vodostaj",
         "notes": "new waterleve observajon for flom database project.",
         "limit": "30"
+    },
+    "RegistrationKD_62_desc": {
+        "translation": "novo opažanje vodnega nivoja za projekt poplavne baze podatkov",
+        "notes": "Water Level",
+        "limit": "1024"
     },
     "RegistrationKD_71": {
         "translation": "Zemeljski plaz",
@@ -4477,21 +4477,6 @@
         "notes": "",
         "limit": "100"
     },
-    "SnowSurfaceKD_50": {
-        "translation": "Plast oglatih kristalov blizu površja snežne odeje",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_61": {
-        "translation": "Površinski srež na trdi podlagi",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_62": {
-        "translation": "Površinski srež na mehki podlagi",
-        "notes": "",
-        "limit": "100"
-    },
     "SnowSurfaceKD_101": {
         "translation": "Ogromno nesprijetega snega (>30cm)",
         "notes": "",
@@ -4529,6 +4514,21 @@
     },
     "SnowSurfaceKD_108": {
         "translation": "Drugo",
+        "notes": "",
+        "limit": "100"
+    },
+    "SnowSurfaceKD_50": {
+        "translation": "Plast oglatih kristalov blizu površja snežne odeje",
+        "notes": "",
+        "limit": "100"
+    },
+    "SnowSurfaceKD_61": {
+        "translation": "Površinski srež na trdi podlagi",
+        "notes": "",
+        "limit": "100"
+    },
+    "SnowSurfaceKD_62": {
+        "translation": "Površinski srež na mehki podlagi",
         "notes": "",
         "limit": "100"
     },
@@ -4747,13 +4747,23 @@
         "notes": "",
         "limit": "30"
     },
-    "UsageFlagKD_2": {
-        "translation": "Posredovano zgodovinski db",
+    "UsageFlagKD_10": {
+        "translation": "Odobril skrbnik podatkov",
         "notes": "",
         "limit": "30"
     },
-    "UsageFlagKD_10": {
-        "translation": "Odobril skrbnik podatkov",
+    "UsageFlagKD_101": {
+        "translation": "Za administrativne namene",
+        "notes": "The observation og group has a administrative purpose. It is elswize hidden as though it has been deleted.",
+        "limit": "30"
+    },
+    "UsageFlagKD_101_desc": {
+        "translation": "To opažanje ali skupina ima skrbniško funkcijo. Sicer je skrita, kot bi bila izbrisana.",
+        "notes": "For administarive purpose",
+        "limit": "1024"
+    },
+    "UsageFlagKD_2": {
+        "translation": "Posredovano zgodovinski db",
         "notes": "",
         "limit": "30"
     },
@@ -4770,16 +4780,6 @@
     "UsageFlagKD_61": {
         "translation": "Zavrnil skrbnik podatkov",
         "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_101_desc": {
-        "translation": "Opažanje ali skupina ima skrbniško funkcijo. Skrita je, kot bi bila izbrisana.",
-        "notes": "For administarive purpose",
-        "limit": "1024"
-    },
-    "UsageFlagKD_101": {
-        "translation": "Za administrativne namene",
-        "notes": "The observation og group has a administrative purpose. It is elswize hidden as though it has been deleted.",
         "limit": "30"
     },
     "UTMSourceKD_0": {
@@ -4812,19 +4812,14 @@
         "notes": "",
         "limit": "50"
     },
+    "UTMSourceKD_45": {
+        "translation": "Stari položaj iz pametnega telefona",
+        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
+        "limit": "50"
+    },
     "UTMSourceKD_45_desc": {
         "translation": "Položaj iz pomnilnika pametnega telefona. Uporablja se, kadar trenutni položaj ni na voljo.",
         "notes": "Old position in smartPhone",
-        "limit": "150"
-    },
-    "UTMSourceKD_45": {
-        "translation": "Stari položaj iz pametnega telefona",
-        "notes": "Position from smart phone storage. Is used when current position isnt available.",
-        "limit": "50"
-    },
-    "UTMSourceKD_50_desc": {
-        "translation": "Banka podatkov o državnih cestah",
-        "notes": "NVDB",
         "limit": "150"
     },
     "UTMSourceKD_50": {
@@ -4832,24 +4827,24 @@
         "notes": "Nasjonal roads databank",
         "limit": "50"
     },
+    "UTMSourceKD_50_desc": {
+        "translation": "Banka podatkov o državnih cestah",
+        "notes": "NVDB",
+        "limit": "150"
+    },
     "UTMSourceKD_60": {
         "translation": "HydraII",
         "notes": "",
         "limit": "50"
-    },
-    "WaterAstrayKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "",
-        "limit": "1024"
     },
     "WaterAstrayKD_0": {
         "translation": "Neznano",
         "notes": "Unknown",
         "limit": "100"
     },
-    "WaterAstrayKD_1_desc": {
-        "translation": "Da",
-        "notes": "Yes",
+    "WaterAstrayKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_1": {
@@ -4857,9 +4852,9 @@
         "notes": "Yes",
         "limit": "100"
     },
-    "WaterAstrayKD_2_desc": {
-        "translation": "Ne",
-        "notes": "No",
+    "WaterAstrayKD_1_desc": {
+        "translation": "Da",
+        "notes": "Yes",
         "limit": "1024"
     },
     "WaterAstrayKD_2": {
@@ -4867,9 +4862,9 @@
         "notes": "No",
         "limit": "100"
     },
-    "WaterLevelMethodKD_0_desc": {
-        "translation": "Neznano",
-        "notes": "Unknown",
+    "WaterAstrayKD_2_desc": {
+        "translation": "Ne",
+        "notes": "No",
         "limit": "1024"
     },
     "WaterLevelMethodKD_0": {
@@ -4877,9 +4872,9 @@
         "notes": "Unknown",
         "limit": "100"
     },
-    "WaterLevelMethodKD_1_desc": {
-        "translation": "Oznaka vodostaja",
-        "notes": "Water level marking",
+    "WaterLevelMethodKD_0_desc": {
+        "translation": "Neznano",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterLevelMethodKD_1": {
@@ -4887,15 +4882,20 @@
         "notes": "Water level marking",
         "limit": "100"
     },
-    "WaterLevelMethodKD_2_desc": {
-        "translation": "Meritev vodostaja",
-        "notes": "Water level measurement",
+    "WaterLevelMethodKD_1_desc": {
+        "translation": "Oznaka vodostaja",
+        "notes": "Water level marking",
         "limit": "1024"
     },
     "WaterLevelMethodKD_2": {
         "translation": "Meritev vodostaja",
         "notes": "water level measurement",
         "limit": "100"
+    },
+    "WaterLevelMethodKD_2_desc": {
+        "translation": "Meritev vodostaja",
+        "notes": "Water level measurement",
+        "limit": "1024"
     },
     "WaterLevelRefKD_100": {
         "translation": "Ni določeno",
@@ -4957,19 +4957,14 @@
         "notes": "",
         "limit": "30"
     },
-    "WaterLevelStateKD_0_desc": {
-        "translation": "Neznan vodostaj",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
     "WaterLevelStateKD_0": {
         "translation": "Neznano",
         "notes": "unknown water level",
         "limit": "100"
     },
-    "WaterLevelStateKD_1_desc": {
-        "translation": "Vodostaj upada",
-        "notes": "Water level is decreasing",
+    "WaterLevelStateKD_0_desc": {
+        "translation": "Neznan vodostaj",
+        "notes": "Unknown",
         "limit": "1024"
     },
     "WaterLevelStateKD_1": {
@@ -4977,9 +4972,9 @@
         "notes": "Water level is decreasing",
         "limit": "100"
     },
-    "WaterLevelStateKD_2_desc": {
-        "translation": "Vodostaj narašča",
-        "notes": "Water level is increasing",
+    "WaterLevelStateKD_1_desc": {
+        "translation": "Vodostaj upada",
+        "notes": "Water level is decreasing",
         "limit": "1024"
     },
     "WaterLevelStateKD_2": {
@@ -4987,9 +4982,9 @@
         "notes": "Water level is increasing",
         "limit": "100"
     },
-    "WaterLevelStateKD_3_desc": {
-        "translation": "Vodostaj je stabilen",
-        "notes": "Water level is stable",
+    "WaterLevelStateKD_2_desc": {
+        "translation": "Vodostaj narašča",
+        "notes": "Water level is increasing",
         "limit": "1024"
     },
     "WaterLevelStateKD_3": {
@@ -4997,15 +4992,20 @@
         "notes": "Water level is stable",
         "limit": "100"
     },
-    "WaterLevelStateKD_4_desc": {
-        "translation": "Vodostaja se ne da določiti",
-        "notes": "Cannot determine water level",
+    "WaterLevelStateKD_3_desc": {
+        "translation": "Vodostaj je stabilen",
+        "notes": "Water level is stable",
         "limit": "1024"
     },
     "WaterLevelStateKD_4": {
         "translation": "Vodostaja se ne da določiti",
         "notes": "Can not determine that now",
         "limit": "100"
+    },
+    "WaterLevelStateKD_4_desc": {
+        "translation": "Vodostaja se ne da določiti",
+        "notes": "Cannot determine water level",
+        "limit": "1024"
     },
     "WetnessKD_0": {
         "translation": " - ",
