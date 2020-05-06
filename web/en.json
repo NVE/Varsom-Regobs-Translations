@@ -63,6 +63,7 @@
   "CountOf": "Count",
   "CreateObservation": "Create observation",
   "Date": "date",
+  "Delete": "Delete",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Add form",
@@ -817,7 +818,6 @@
   "Unknown": "Unknown",
   "Url": {
     "Add": "Add web URL",
-    "Delete": "Delete",
     "Description": "Description",
     "Edit": "Edit",
     "EditUrl": "Edit web URL",

@@ -59,6 +59,7 @@
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
+  "Delete": "Löschen",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Formular hinzufügen",
@@ -762,7 +763,6 @@
   "Unknown": "Unbekannt",
   "Url": {
     "Add": "Web-URL hinzufügen",
-    "Delete": "Löschen",
     "Description": "Beschreibung",
     "Edit": "Bearbeiten",
     "EditUrl": "Web-URL bearbeiten",
