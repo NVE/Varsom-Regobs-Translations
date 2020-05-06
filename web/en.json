@@ -63,6 +63,7 @@
   "CountOf": "Count",
   "CreateObservation": "Create observation",
   "Date": "date",
+  "Delete": "Delete",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Add form",
