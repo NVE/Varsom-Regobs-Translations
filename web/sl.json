@@ -42,6 +42,7 @@
   "CountOf": "Število",
   "CreateObservation": "Ustvari opažanje",
   "Date": "datum",
+  "Delete": "Izbriši",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Dodaj obrazec",
@@ -733,7 +734,6 @@
   "Unknown": "Neznano",
   "Url": {
     "Add": "Dodaj spletno povezavo",
-    "Delete": "Izbriši",
     "Description": "Opis",
     "Edit": "Uredi",
     "EditUrl": "Uredi spletno povezavo",

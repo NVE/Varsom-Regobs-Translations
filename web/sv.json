@@ -60,6 +60,7 @@
   "CountOf": "Antal",
   "CreateObservation": "Skapa observation",
   "Date": "datum",
+  "Delete": "Radera",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Lägg till formulär",
@@ -767,7 +768,6 @@
   "Unknown": "Okänt",
   "Url": {
     "Add": "Lägg till webbadress",
-    "Delete": "Radera",
     "Description": "Beskrivning",
     "Edit": "Redigera",
     "EditUrl": "Redigera webbadress",
