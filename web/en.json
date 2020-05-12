@@ -549,6 +549,18 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
+      "Stratification": {
+        "CriticalLayer": "Critical layer",
+        "GrainFormPrimary": "Grainform",
+        "GrainFormSecondary": "Sec. grainform",
+        "GrainSizeAvg": "Grain size (mm)",
+        "GrainSizeAvgMax": "Max grainsize (mm)",
+        "Hardness": "Hardness",
+        "HardnessBottom": "Hardness bottom",
+        "Layer": "Layer",
+        "Thickness": "Thickness (cm)",
+        "Wetness": "Wetness"
+      },
       "SumOfAllLayers": "Sum of all layers:",
       "TemperaturePlaceholder": "Temperature (°C)",
       "TemperatureProfile": "Temperature profile",

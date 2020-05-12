@@ -549,6 +549,18 @@
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
+      "Stratification": {
+        "CriticalLayer": "Kritisk lag",
+        "GrainFormPrimary": "Kornform",
+        "GrainFormSecondary": "Sek. kornform",
+        "GrainSizeAvg": "Kornstørrelse (mm)",
+        "GrainSizeAvgMax": "Max kornst. (mm)",
+        "Hardness": "Hardhet",
+        "HardnessBottom": "Nedre hardhet",
+        "Layer": "Lag",
+        "Thickness": "Tykkelse (cm)",
+        "Wetness": "Fuktighet"
+      },
       "SumOfAllLayers": "Summen av alle lag:",
       "TemperaturePlaceholder": "Temperatur (°C)",
       "TemperatureProfile": "Temperaturprofil",
