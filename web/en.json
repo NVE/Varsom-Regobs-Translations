@@ -470,6 +470,7 @@
       "DamageExtentTName": "Damage extent",
       "DtLandSlideTime": "When did the landslide start?",
       "DtLandSlideTimeEnd": "When did the landslide end?",
+      "DtLandSlideTimeWarning": "Warning! Landslide date is different than observation time",
       "ForecastAccurateTName": "Was forecast accurate?",
       "InMap": "in map",
       "LandSlideSizeTName": "Size",

@@ -470,6 +470,7 @@
       "DamageExtentTName": "Omfang",
       "DtLandSlideTime": "Når skjedde skredet tidligst?",
       "DtLandSlideTimeEnd": "Når skjedde skredet senest?",
+      "DtLandSlideTimeWarning": "Advarsel! Dato er forskjellig fra observasjonstidspunktet",
       "ForecastAccurateTName": "Stemte varsel på varsom.no?",
       "InMap": "i kart",
       "LandSlideSizeTName": "Størrelse",
