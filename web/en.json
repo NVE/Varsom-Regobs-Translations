@@ -551,6 +551,8 @@
       "StratLayers": "Strat layers",
       "Stratification": {
         "CriticalLayer": "Critical layer",
+        "DeleteLayer": "Delete layer",
+        "GetLayers": "Get layers from other profile",
         "GrainFormPrimary": "Grainform",
         "GrainFormSecondary": "Sec. grainform",
         "GrainSizeAvg": "Grain size (mm)",
@@ -558,6 +560,8 @@
         "Hardness": "Hardness",
         "HardnessBottom": "Hardness bottom",
         "Layer": "Layer",
+        "ShowLess": "Show less options",
+        "ShowMore": "Show more options",
         "Thickness": "Thickness (cm)",
         "Wetness": "Wetness"
       },

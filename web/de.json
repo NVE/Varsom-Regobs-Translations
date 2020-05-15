@@ -524,6 +524,7 @@
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Schichten",
+      "Stratification": {},
       "SumOfAllLayers": "Anzahl von Schichten:",
       "TemperaturePlaceholder": "Temperatur (°C)",
       "TemperatureProfile": "Temperaturprofil",
