@@ -552,6 +552,8 @@
       "StratLayers": "Lagdeling",
       "Stratification": {
         "CriticalLayer": "Kritisk lag",
+        "DeleteLayer": "Slett laget",
+        "GetLayers": "Hent lagdeling fra en annen observasjon",
         "GrainFormPrimary": "Kornform",
         "GrainFormSecondary": "Sek. kornform",
         "GrainSizeAvg": "Kornstørrelse (mm)",
@@ -559,6 +561,8 @@
         "Hardness": "Hardhet",
         "HardnessBottom": "Nedre hardhet",
         "Layer": "Lag",
+        "ShowLess": "Vis færre valg for dette laget",
+        "ShowMore": "Vis flere valg for dette laget",
         "Thickness": "Tykkelse (cm)",
         "Wetness": "Fuktighet"
       },
