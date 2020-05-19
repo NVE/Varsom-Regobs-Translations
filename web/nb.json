@@ -530,6 +530,8 @@
         "CylinderBoreDiam": "Sylinderdiameter (cm)",
         "Density": "Tetthet",
         "DensityLabel": "Tetthet (kg/m3)",
+        "DensityProfileAdded": "tetthetsprofil lagt til",
+        "DensityProfiles": "tetthetsprofiler",
         "Height": "Høyde (cm)",
         "Layer": "Lag",
         "Method": "Metode",

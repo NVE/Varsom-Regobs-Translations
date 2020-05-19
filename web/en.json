@@ -530,6 +530,8 @@
         "CylinderBoreDiam": "Cylinder bore diameter (cm)",
         "Density": "Density",
         "DensityLabel": "Density (kg/m3)",
+        "DensityProfileAdded": "density profile added",
+        "DensityProfiles": "density profiles",
         "Height": "Height (cm)",
         "Layer": "Layer",
         "Method": "Method",
