@@ -498,7 +498,6 @@
       "AddLayerBottom": "Lägg till ett nytt lager i botten",
       "AddLayerTop": "Lägg till ett nytt lager i toppen",
       "AddLayers": "Lägg till lager",
-      "AddTemperature": "Lägg till temperatur",
       "AddTests": "Lägg till test",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -529,10 +528,12 @@
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Indelning av lager",
-      "Stratification": {},
       "SumOfAllLayers": "Summan av alla lager:",
-      "TemperaturePlaceholder": "Temperatur (°C)",
-      "TemperatureProfile": "Temperaturprofil",
+      "Temperature": {
+        "Add": "Lägg till temperatur",
+        "Placeholder": "Temperatur (°C)",
+        "TempProfile": "Temperaturprofil"
+      },
       "Test": {
         "Add": "Lägg till",
         "AddTest": "Lägg till test",

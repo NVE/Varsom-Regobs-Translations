@@ -519,7 +519,6 @@
       "AddLayerBottom": "Legg til et nytt lag nederst",
       "AddLayerTop": "Legg til et nytt lag øverst",
       "AddLayers": "Legg til lagdeling",
-      "AddTemperature": "Legg til temperatur",
       "AddTests": "Legg til tester",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -567,8 +566,12 @@
         "Wetness": "Fuktighet"
       },
       "SumOfAllLayers": "Summen av alle lag:",
-      "TemperaturePlaceholder": "Temperatur (°C)",
-      "TemperatureProfile": "Temperaturprofil",
+      "Temperature": {
+        "Add": "Legg til temperatur",
+        "Observed": "temperaturpunkt observert",
+        "Placeholder": "Temperatur (°C)",
+        "TempProfile": "Temperaturprofil"
+      },
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",

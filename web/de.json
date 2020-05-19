@@ -493,7 +493,6 @@
       "AddLayerBottom": "Unten eine neue Schicht hinzufügen",
       "AddLayerTop": "Oben eine neue Schicht dazufügen",
       "AddLayers": "Schicht hinzufügen",
-      "AddTemperature": "Temperatur hinzufügen",
       "AddTests": "Test hinzufügen",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -524,10 +523,12 @@
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Schichten",
-      "Stratification": {},
       "SumOfAllLayers": "Anzahl von Schichten:",
-      "TemperaturePlaceholder": "Temperatur (°C)",
-      "TemperatureProfile": "Temperaturprofil",
+      "Temperature": {
+        "Add": "Temperatur hinzufügen",
+        "Placeholder": "Temperatur (°C)",
+        "TempProfile": "Temperaturprofil"
+      },
       "Test": {
         "Add": "Hinzufügen",
         "AddTest": "Test hinzufügen",
