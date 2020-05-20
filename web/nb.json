@@ -580,7 +580,7 @@
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",
-        "Added": "tester knyttet til profilen",
+        "AttachedToProfile": "tester knyttet til profilen",
         "DistanceFromTop": "Avstand fra toppen (cm)",
         "FractureType": "Bruddtype",
         "Include": "Inkluder i snøprofil",

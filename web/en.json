@@ -580,7 +580,7 @@
       "Test": {
         "Add": "Add",
         "AddTest": "Add test",
-        "Added": "tests attached to profile",
+        "AttachedToProfile": "tests attached to profile",
         "DistanceFromTop": "Distance from top (cm)",
         "FractureType": "Fracture type",
         "Include": "Include in snow profile",
