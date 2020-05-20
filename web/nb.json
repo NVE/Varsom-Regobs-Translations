@@ -562,6 +562,8 @@
         "Hardness": "Hardhet",
         "HardnessBottom": "Nedre hardhet",
         "Layer": "Lag",
+        "MultipleObserved": "lagdelinger observert",
+        "Observed": "lagdeling observert",
         "ShowLess": "Vis færre valg for dette laget",
         "ShowMore": "Vis flere valg for dette laget",
         "Thickness": "Tykkelse (cm)",
@@ -570,6 +572,7 @@
       "SumOfAllLayers": "Summen av alle lag:",
       "Temperature": {
         "Add": "Legg til temperatur",
+        "MultipleObserved": "temperaturpunkter observert",
         "Observed": "temperaturpunkt observert",
         "Placeholder": "Temperatur (°C)",
         "TempProfile": "Temperaturprofil"
@@ -577,6 +580,7 @@
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",
+        "Added": "tester knyttet til profilen",
         "DistanceFromTop": "Avstand fra toppen (cm)",
         "FractureType": "Bruddtype",
         "Include": "Inkluder i snøprofil",

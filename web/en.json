@@ -562,6 +562,8 @@
         "Hardness": "Hardness",
         "HardnessBottom": "Hardness bottom",
         "Layer": "Layer",
+        "MultipleObserved": "layers",
+        "Observed": "layer",
         "ShowLess": "Show less options",
         "ShowMore": "Show more options",
         "Thickness": "Thickness (cm)",
@@ -570,13 +572,15 @@
       "SumOfAllLayers": "Sum of all layers:",
       "Temperature": {
         "Add": "Add temperature",
-        "Observed": "temperature points observed",
+        "MultipleObserved": "temperature points observed",
+        "Observed": "temperature point observed",
         "Placeholder": "Temperature (°C)",
         "TempProfile": "Temperature profile"
       },
       "Test": {
         "Add": "Add",
         "AddTest": "Add test",
+        "Added": "tests attached to profile",
         "DistanceFromTop": "Distance from top (cm)",
         "FractureType": "Fracture type",
         "Include": "Include in snow profile",
