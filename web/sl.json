@@ -475,7 +475,6 @@
       "AddLayerBottom": "Dodaj novo plast na dnu",
       "AddLayerTop": "Dodaj novo plast na vrhu",
       "AddLayers": "Dodaj plasti",
-      "AddTemperature": "Dodaj temperaturo",
       "AddTests": "Dodaj teste",
       "Cm": "cm",
       "Comment": "Komentar",
@@ -508,8 +507,11 @@
       "StratLayers": "Plasti",
       "Stratification": {},
       "SumOfAllLayers": "Vsota vseh plasti:",
-      "TemperaturePlaceholder": "Temperatura (°C)",
-      "TemperatureProfile": "Temperaturni profil",
+      "Temperature": {
+        "Add": "Dodaj temperaturo",
+        "Placeholder": "Temperatura (°C)",
+        "TempProfile": "Temperaturni profil"
+      },
       "Test": {
         "Add": "Dodaj",
         "AddTest": "Dodaj test",
