@@ -7,10 +7,14 @@
   "Attachment": {
     "Attachment": "Attachment",
     "DropzoneText": "Drag files here to upload, or click to select",
-    "ErrorInfo": "One or more objects could not be submitted. Please check your network connection. We will keep trying to submit as long as the page is open in the browser.",
-    "InvalidAttachmentType": "Invalid attachment. Allowed file types are:",
     "NoDescription": "No description",
     "Uploading": "Uploading"
+  },
+  "Cancel": "Cancel",
+  "ChangePassword": "Change Password",
+  "Chip": {
+    "GoToObservation": "Go to observation",
+    "ShowAllObservations": "Show all"
   },
   "COMPASS_DIRECTION": {
     "EAST": "East",
@@ -29,12 +33,6 @@
     "SOUTH_WEST_SHORT": "SW",
     "WEST": "West",
     "WEST_SHORT": "W"
-  },
-  "Cancel": "Cancel",
-  "ChangePassword": "Change Password",
-  "Chip": {
-    "GoToObservation": "Go to observation",
-    "ShowAllObservations": "Show all"
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs uses cookies to improve your user experience when you visit the website. A cookie is a text file that, when visiting or interacting with a website, is placed in your browser's internal memory.",
@@ -63,7 +61,6 @@
   "CountOf": "Count",
   "CreateObservation": "Create observation",
   "Date": "date",
-  "Delete": "Delete",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Add form",
@@ -88,16 +85,6 @@
       "Title": "When was the observation made?",
       "Uncertainty": "Uncertainty in position"
     }
-  },
-  "Direction": {
-    "E": "E",
-    "N": "N",
-    "NE": "NE",
-    "NW": "NW",
-    "S": "S",
-    "SE": "SE",
-    "SW": "SW",
-    "W": "W"
   },
   "Email": "Email",
   "Footer": {
@@ -130,6 +117,7 @@
     "XGeoAlt": "Logo for Xgeo.no"
   },
   "Forgotten": "Forgotten password?",
+  "from": "fra",
   "Geohazards": {
     "All": "All",
     "Ice": "Ice",
@@ -153,6 +141,8 @@
   },
   "Information": "Information",
   "InvalidDate": "Invalid date",
+  "is": "ice",
+  "jord": "landslide",
   "LanguageLabel": "Language:",
   "Login": {
     "CreateNewRegObsUser": "Create regObs user here",
@@ -233,6 +223,7 @@
     "ShowObservationsInMapView": "Show observations in the map view"
   },
   "Menu": "Menu",
+  "metersOverSeaLevel": "meters above sealevel",
   "MultipleRegistrations": "registrations",
   "MyPage": {
     "MyGroups": "My Groups",
@@ -260,8 +251,8 @@
     "SearchInObservation": "Search in observations",
     "ShowObservationsInMap": "Show observations in map",
     "Snow": {
-      "RegisterObservation": "New snow observation",
       "RegisteredTrips": "Registered trips",
+      "RegisterObservation": "New snow observation",
       "SearchInObservation": "Snow report",
       "ShowObservationsInMap": "Snow observations and steepness map"
     },
@@ -278,18 +269,20 @@
   },
   "No": "No",
   "Now": "now",
+  "observation": " observations",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
     "ForecastRegion": "Forecast region",
     "Forms": "Forms",
-    "ObsId": "ID:",
     "Observed": "Observed:",
+    "ObsId": "ID:",
     "Original": "See original",
     "Registered": "Registered:",
     "SentInBy": "Sent in by",
     "Updated": "Updated:"
   },
+  "observations": "observation(s)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Exposition",
@@ -317,12 +310,12 @@
       "ObsName": "Avalanche danger observation"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Type",
       "AvalCauseAttributeLightTID": "Unfavorable characteristics of the weak layer",
       "AvalCauseDepthTID": "Distance from surface to weak layer",
       "AvalCauseTID": "Type of weak layer",
       "AvalProbabilityTID": "Probablity for avalanche",
       "AvalTriggerSimpleTID": "Expected load to trigger avalanche",
-      "AvalancheExtTID": "Type",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size of expected avalanche",
       "ObsName": "Avalanche problem evaluation",
@@ -330,14 +323,11 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Danger Level",
-      "AvalancheDevelopment": "Development",
       "AvalancheEvaluation1": "Evaluation",
       "AvalancheProblemTID1": "Avalanche problem 1",
       "AvalancheProblemTID2": "Avalanche problem 2",
       "AvalancheProblemTID3": "Avalanche problem 3",
-      "Comment": "Comment to avalanche forcast",
-      "Evaluation": "Danger assessment",
-      "ForecastCorrect": "Assessment of avalanche forecast on varsom.no",
+      "Comment": "Development",
       "ObsName": "Avalanche Evaluation",
       "ValidExposition": "Exposition"
     },
@@ -358,26 +348,19 @@
       "ObsName": "Avalanche Evaluation"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Weak layer",
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Trigger",
-      "AvalancheType": "Landslide type",
+      "AvalCauseTID": "Weak layer",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size",
-      "DtAvalancheTime": "Avalanche time (required)",
-      "FractureHeight": "Fracture height (cm)",
-      "FractureWidth": "Fracture width (m)",
+      "DtAvalancheTime": "Time",
+      "FractureHeigth": "Break height",
+      "FractureWidth": "Break width",
       "HeigthStartZone": "Loosened area start",
       "HeigthStopZone": "Loosened area stop",
-      "IncidentDescription": "Accident or injury",
-      "IncidentPlaceholder": "Did the avalanche cause any damage, accidents or close calls? Why and how did it happen? Could the situation have been avoided?",
       "ObsName": "Avalanche observation",
-      "Position": "Landslide position",
-      "PositionDescription": "Set the start and stop positions of the landslide.",
-      "SetStartPosition": "Set starting position",
-      "SetStopPosition": "Set stop position",
-      "TerrainStartZoneTID": "Terrain type in the release area",
-      "TrajectoryName": "Name of avalanche path",
+      "TerrainStartZoneTID": "Terrain startzone",
+      "Trajectory": "Trajectory",
       "ValidExposition": "Exposition"
     },
     "CompressionTest": {
@@ -426,9 +409,8 @@
       "AddIceLayer": "Add ice layer",
       "AddIceThicknessLayer": "Add ice layer",
       "Comment": "Comment",
-      "IceHeightAfterInput": "Thickness of surface water (cm)",
-      "IceHeightAfterInputNo": "Height from the surface to the water in the hole (cm)",
-      "IceHeightBeforeInput": "Thickness of surface water (cm)",
+      "IceHeightAfterInput": "Thickness of surface water",
+      "IceHeightBeforeInput": "Thickness of surface water",
       "IceLayer": "Ice layer",
       "IceLayerThickness": "Ice layer thickness (cm)",
       "IceThicknessLayers": "Layers (top to bottom)",
@@ -446,12 +428,10 @@
       "TwoDecimalPlaces": "(cm, up to two decimal places)",
       "WaterSurfaceInHole": "Water surface in hole"
     },
-    "InCm": "In centimeter",
-    "InMeter": "In meter",
     "Incident": {
       "ActivityInfluencedTID": "Activity",
-      "Comment": "Description",
-      "DamageExtentTID": "Damage extent",
+      "Comment": "Comment",
+      "DamageExtentTID": "Extent",
       "Description": "Why did it happen? Did it go well? Could the situation have been avoided?",
       "GeoHazardTID": "Observation type",
       "IncidentHeader": "Heading",
@@ -460,6 +440,7 @@
       "ObsName": "Incident",
       "Urls": "Links"
     },
+    "InCm": "In centimeter",
     "LandslideObs": {
       "ActivityInfluencedTName": "What was affected?",
       "And": " and ",
@@ -470,13 +451,12 @@
       "DamageExtentTName": "Damage extent",
       "DtLandSlideTime": "When did the landslide start?",
       "DtLandSlideTimeEnd": "When did the landslide end?",
-      "DtLandSlideTimeWarning": "Warning! Landslide date is different than observation time",
       "ForecastAccurateTName": "Was forecast accurate?",
       "InMap": "in map",
       "LandSlideSizeTName": "Size",
+      "LandslideTime": "Landslide time",
       "LandSlideTName": "Landslide type",
       "LandSlideTriggerTName": "Trigger",
-      "LandslideTime": "Landslide time",
       "LandslideType": "Landslide type",
       "ObsName": "Landslide observation",
       "Position": "Landslide position",
@@ -517,8 +497,9 @@
     },
     "SnowProfile": {
       "AddLayerBottom": "Add a new layer at the bottom",
-      "AddLayerTop": "Add a new layer at the top",
       "AddLayers": "Add layers",
+      "AddLayerTop": "Add a new layer at the top",
+      "AddTemperature": "Add temperature",
       "AddTests": "Add tests",
       "Cm": "cm",
       "Comment": "Comment",
@@ -530,8 +511,6 @@
         "CylinderBoreDiam": "Cylinder bore diameter (cm)",
         "Density": "Density",
         "DensityLabel": "Density (kg/m3)",
-        "DensityProfileAdded": "density profile added",
-        "DensityProfiles": "density profiles",
         "Height": "Height (cm)",
         "Layer": "Layer",
         "Method": "Method",
@@ -551,36 +530,12 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
-      "Stratification": {
-        "CriticalLayer": "Critical layer",
-        "DeleteLayer": "Delete layer",
-        "GetLayers": "Get layers from other profile",
-        "GrainFormPrimary": "Grainform",
-        "GrainFormSecondary": "Sec. grainform",
-        "GrainSizeAvg": "Grain size (mm)",
-        "GrainSizeAvgMax": "Max grainsize (mm)",
-        "Hardness": "Hardness",
-        "HardnessBottom": "Hardness bottom",
-        "Layer": "Layer",
-        "MultipleObserved": "layers",
-        "Observed": "layer",
-        "ShowLess": "Show less options",
-        "ShowMore": "Show more options",
-        "Thickness": "Thickness (cm)",
-        "Wetness": "Wetness"
-      },
       "SumOfAllLayers": "Sum of all layers:",
-      "Temperature": {
-        "Add": "Add temperature",
-        "MultipleObserved": "temperature points observed",
-        "Observed": "temperature point observed",
-        "Placeholder": "Temperature (°C)",
-        "TempProfile": "Temperature profile"
-      },
+      "TemperaturePlaceholder": "Temperature (°C)",
+      "TemperatureProfile": "Temperature profile",
       "Test": {
         "Add": "Add",
         "AddTest": "Add test",
-        "AttachedToProfile": "tests attached to profile",
         "DistanceFromTop": "Distance from top (cm)",
         "FractureType": "Fracture type",
         "Include": "Include in snow profile",
@@ -593,23 +548,20 @@
       }
     },
     "SnowSurfaceObservation": {
-      "Comment": "Comment",
-      "CommentHeader": "Describe the snow surface",
-      "CommentPlaceholder": "How is the snow distribution generally in relation to elevation and aspect? Are there significant differences in the local region?",
       "FootPenetration": "Foot penetration",
-      "HeightLimitLayeredSnow": "Elevation where layered snow begins (masl)",
-      "HightLimitLayeredSnowPlaceholder": "For snow without hazardous layering",
+      "HeightLimitLayeredSnow": "Height limit for snow layer",
+      "Kommentar": "Comment",
       "NewSnow": "new snow",
-      "NewSnowDepth24": "Snow depth in last 24 hours (cm)",
-      "NewSnowLine": "New snow line (masl)",
+      "NewSnowDepth24": "Snow depth in last 24 hours",
+      "NewSnowLine": "New snowlines",
       "ObsName": "Snow surface",
-      "SnowDepth": "Snow depth (cm)",
+      "SnowDepth": "Snow depth",
       "SnowDriftTName": "Snow drift",
-      "SnowLine": "Snowline (masl)",
+      "SnowLine": "Snowline",
       "SnowLines": "Snow lines",
-      "SnowSurfaceTName": "Snow surface",
+      "SnowSurfaceTName": "Snow surface hardness",
       "SurfaceRougnessTName": "Surface roughness",
-      "SurfaceWaterContentTName": "Surface moisture",
+      "SurfaceWaterContentTName": "Snow water content",
       "Total": "total"
     },
     "WaterLevel": {
@@ -628,8 +580,8 @@
       "MeasuredRelativeTo": "Measurement relative to",
       "MeasurementReferenceTName": "Watermarking on/with",
       "MeasurementTypeTName": "Measurement instrument",
-      "ObsName": "Waterlevel",
       "ObservationTimingTName": "What is registered?",
+      "ObsName": "Waterlevel",
       "WaterAstrayTName": "Is there any water astray?",
       "WaterLevelStateTName": "Situation",
       "WaterMarking": "Water marking",
@@ -638,33 +590,20 @@
       "With": "with"
     },
     "WeatherObservation": {
-      "AirTemperature": "Air temperature (°C)",
-      "AirTemperaturePlaceholder": "Can be given with two decimals",
-      "CloudCover": "Cloud coverage (%)",
+      "AirTemperature": "Air temperature",
+      "CloudCover": "Cloud coverage",
       "Clouds": "clouds",
       "Comment": "Comment",
-      "CommentHeader": "Describe weather",
-      "CommentPlaceholder": "How has the weather been over the last 24 hours? Example: Has there been snowfall? Have there been temperature changes? At what altitude has the freezing point been?",
-      "FromEast": "E - from east",
-      "FromNorth": "N - from north",
-      "FromNorthEast": "NE - from north-east",
-      "FromNorthWest": "NW - from north-west",
-      "FromSouth": "S - from south",
-      "FromSouthEast": "SE - from south-east",
-      "FromSouthWest": "SW - from south-west",
-      "FromWest": "W - from west",
       "ObsName": "Weather Observation",
-      "OnlyFullPercentage": "Percentage without decimals",
-      "Precipitation": "Percipitation",
       "PrecipitationTID": "Precipitation type",
       "Wind": "Wind conditions",
-      "WindDirection": "Wind direction",
-      "WindSpeed": "Wind speed (m/s)"
+      "WindDirection": "from"
     }
   },
   "Of": "of",
   "Ok": "Ok",
   "Password": "Password",
+  "picture": "picture",
   "PictureCarousel": {
     "Comment": "Comment",
     "Copyright": "Copyright",
@@ -686,24 +625,14 @@
   },
   "RegistrationEdit": {
     "AddForm": "Add form",
-    "ConfirmDelete": "Are you sure you want to delete this observation?",
-    "ContinueOnDraft": "Continue on draft",
-    "ContinueOnDraftButton": "Continue on draft",
-    "ContinueOnDraftCancelButton": "Start new observation",
-    "ContinueOnDraftMessage": "You have a draft from",
-    "ContinueOnDraftQuestion": "Do you want to continue on that draft?",
-    "DeleteError": "Could not delete observation!",
     "DeleteObservation": "Delete observation",
     "Discard": "Discard",
     "Done": "Done",
     "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
-    "NoCancel": "No, cancel",
     "SaveAsDraft": "Save as draft?",
     "SaveDraft": "Save draft",
     "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
-    "SyncError": "Could not sync observation with Regobs!",
-    "SyncInProgress": "Sync in progress:",
-    "YesDelete": "Yes, delete!"
+    "SyncInProgress": "Sync in progress:"
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Accuracy",
@@ -824,8 +753,8 @@
     }
   },
   "SearchButtonName": "Search",
-  "SearchResultOfTotal": "of",
   "Searching": "Searching, Please wait",
+  "SearchResultOfTotal": "of",
   "ShowAllObservations": "Show all observations",
   "ShowFilteredObservations": "show only chosen observations",
   "ShowLess": "Show fewer",
@@ -834,6 +763,7 @@
   "SignIn": "Sign In",
   "SignOut": "Sign Out",
   "SingleRegistration": "registration",
+  "snø": "snow",
   "SortByName": "Sort by:",
   "TableModes": {
     "CompactKey": "Compact",
@@ -841,9 +771,11 @@
     "ShortKey": "Short"
   },
   "Time": "time",
+  "to": "to",
   "Unknown": "Unknown",
   "Url": {
     "Add": "Add web URL",
+    "Delete": "Delete",
     "Description": "Description",
     "Edit": "Edit",
     "EditUrl": "Edit web URL",
@@ -856,15 +788,6 @@
     "Regobs": "REGOBS",
     "User": "USER"
   },
-  "Yes": "Yes",
-  "from": "fra",
-  "is": "ice",
-  "jord": "landslide",
-  "metersOverSeaLevel": "meters above sealevel",
-  "observation": " observations",
-  "observations": "observation(s)",
-  "picture": "picture",
-  "snø": "snow",
-  "to": "to",
-  "vann": "flood"
+  "vann": "flood",
+  "Yes": "Yes"
 }
