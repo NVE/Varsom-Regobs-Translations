@@ -67,12 +67,12 @@
       "ObsName": "Lawinengefahrenzeichen"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Lawinentyp",
       "AvalCauseAttributeLightTID": "Ungünstige Eigenschaften der Schwachschicht",
       "AvalCauseDepthTID": "Abstand der Schwachschicht zur Oberfläche",
       "AvalCauseTID": "Art der Schwachschicht",
       "AvalProbabilityTID": "Lawinenwahrscheinlichkeit",
       "AvalTriggerSimpleTID": "Zusatzbelastung für Lawinenauslösung",
-      "AvalancheExtTID": "Lawinentyp",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe der erwarteten Lawinen",
       "ObsName": "Lawinenproblem",
@@ -105,10 +105,10 @@
       "ObsName": "Lawinenwahrscheinlichkeit"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Schwachschicht",
       "Avalanche": "Lawine",
       "AvalancheTID": "Typ",
       "AvalancheTriggerTID": "Auslöser",
+      "AvalCauseTID": "Schwachschicht",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe",
       "DtAvalancheTime": "Zeit",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "Messungen relativ zu",
       "MeasurementReferenceTName": "Wassermarkierung auf/mit",
       "MeasurementTypeTName": "Messinstrument",
-      "ObsName": "Wasserpegel",
       "ObservationTimingTName": "Was wurde registriert?",
+      "ObsName": "Wasserpegel",
       "WaterAstrayTName": "Ist Wasser über die Ufer getreten?",
       "WaterLevelStateTName": "Situation",
       "WaterMarking": "Wassermarkierung",
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Suche",
-  "SearchResultOfTotal": "von",
   "Searching": "Suchvorgang läuft, bitte warten",
+  "SearchResultOfTotal": "von",
   "ShowAllObservations": "Zeige alle Beobachtungen",
   "ShowFilteredObservations": "Zeige ausgewählte Beobachtungen",
   "ShowLess": "Zeige weniger",
