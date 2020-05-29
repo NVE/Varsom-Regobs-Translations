@@ -7,7 +7,14 @@
   "Attachment": {
     "Attachment": "Bilagor",
     "DropzoneText": "Dra filer hit för att ladda upp eller klicka för att välja",
-    "NoDescription": "Ingen beskrivning"
+    "NoDescription": "Ingen beskrivning",
+    "Uploading": "Laddar upp"
+  },
+  "Cancel": "Avbryt",
+  "ChangePassword": "Byt lösenord",
+  "Chip": {
+    "GoToObservation": "Gå till observation",
+    "ShowAllObservations": "Visa alla"
   },
   "COMPASS_DIRECTION": {
     "EAST": "Ost",
@@ -26,12 +33,6 @@
     "SOUTH_WEST_SHORT": "Sv",
     "WEST": "Väst",
     "WEST_SHORT": "V"
-  },
-  "Cancel": "Avbryt",
-  "ChangePassword": "Byt lösenord",
-  "Chip": {
-    "GoToObservation": "Gå till observation",
-    "ShowAllObservations": "Visa alla"
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs använder så kallade cookies för att förbättra din användarupplevelse när du besöker webbplatsen. En cookie är en textfil som, när du besöker eller interagerar med en webbplats, placeras i webbläsarens interna minne.",
@@ -60,7 +61,6 @@
   "CountOf": "Antal",
   "CreateObservation": "Skapa observation",
   "Date": "datum",
-  "Delete": "Radera",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Lägg till formulär",
@@ -77,20 +77,14 @@
     "Time": {
       "AdditionalInformation": "Ytterligare information",
       "Description": "Ange den tidpunkt då observationen gjordes. Använd lokal tid på observationsplatsen.",
+      "Exact": "Exakt",
+      "MoreThanOneKm": "Mer än 1 km",
+      "NotMemberOfAnyGroups": "Du är inte medlem i några grupper",
       "Share": "Dela med gruppen",
       "Source": "Källa",
-      "Title": "När gjordes observationen?"
+      "Title": "När gjordes observationen?",
+      "Uncertainty": "Osäkerhet i position"
     }
-  },
-  "Direction": {
-    "E": "O",
-    "N": "N",
-    "NE": "NO",
-    "NW": "NV",
-    "S": "S",
-    "SE": "SO",
-    "SW": "SV",
-    "W": "V"
   },
   "Email": "Epost",
   "Footer": {
@@ -123,6 +117,7 @@
     "XGeoAlt": "Logo för Xgeo.no"
   },
   "Forgotten": "Glömt lösenord?",
+  "from": "från",
   "Geohazards": {
     "All": "Alla",
     "Ice": "Is",
@@ -146,6 +141,8 @@
   },
   "Information": "Information",
   "InvalidDate": "Ogiltigt datum",
+  "is": "is",
+  "jord": "jord",
   "LanguageLabel": "Språk:",
   "Login": {
     "CreateNewRegObsUser": "Skapa Regobs-användare här.",
@@ -155,7 +152,7 @@
     "ValidEmail": "Ange en giltig e-postadress."
   },
   "Map": {
-    "InMapView": "i kart vy",
+    "InMapView": "i kartvy",
     "Loading": "Laddar",
     "LoadingObservations": "Laddar observation"
   },
@@ -226,6 +223,7 @@
     "ShowObservationsInMapView": "Se observationer i kartan"
   },
   "Menu": "Meny",
+  "metersOverSeaLevel": "möh",
   "MultipleRegistrations": "registreringar",
   "MyPage": {
     "MyGroups": "Mina grupper",
@@ -253,8 +251,8 @@
     "SearchInObservation": "Sök observationer",
     "ShowObservationsInMap": "Visa observationer i kartan",
     "Snow": {
-      "RegisterObservation": "Ny snöobservation",
       "RegisteredTrips": "Se registrerade turer",
+      "RegisterObservation": "Ny snöobservation",
       "SearchInObservation": "Rapport snöobservationer",
       "ShowObservationsInMap": "Snöobservationer och lutningskarta"
     },
@@ -271,18 +269,20 @@
   },
   "No": "Nej",
   "Now": "nu",
+  "observation": "observationer",
   "ObservationCard": {
     "AboveSeaLevel": "möh",
     "Download": "Nedladdning",
     "ForecastRegion": "Prognosområde",
     "Forms": "Formulär",
-    "ObsId": "ID:",
     "Observed": "Observerade:",
+    "ObsId": "ID:",
     "Original": "Se original",
     "Registered": "Registrerad:",
     "SentInBy": "Skickat in av",
     "Updated": "Uppdaterad:"
   },
+  "observations": "observation(er)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Väderstreck",
@@ -310,12 +310,12 @@
       "ObsName": "Tecken på lavinfara"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Typ",
       "AvalCauseAttributeLightTID": "Ogynnsamma egenskaper hos det svaga lagret",
       "AvalCauseDepthTID": "Avstånd från snöytan till det svaga lagret",
       "AvalCauseTID": "Typ av svagt lager",
       "AvalProbabilityTID": "Sannolikhet för laviner",
       "AvalTriggerSimpleTID": "Förväntad belastning för att utlösa laviner",
-      "AvalancheExtTID": "Typ",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Storlek på förväntat laviner",
       "ObsName": "Lavinproblem",
@@ -323,11 +323,11 @@
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Lavinfara",
-      "AvalancheDevelopment": "Utveckling",
       "AvalancheEvaluation1": "Bedömning",
       "AvalancheProblemTID1": "Lavinproblem 1",
       "AvalancheProblemTID2": "Lavinproblem 2",
       "AvalancheProblemTID3": "Lavinproblem 3",
+      "Comment": "Utveckling",
       "ObsName": "Bedömning av lavinfara",
       "ValidExposition": "Exponering"
     },
@@ -348,21 +348,19 @@
       "ObsName": "Bedömning av lavinfara"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Svagt lager",
       "AvalancheTID": "Typ",
       "AvalancheTriggerTID": "Lavinen utlöst av",
+      "AvalCauseTID": "Svagt lager",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Storlek",
-      "DtAvalancheTime": "Tid för lavinen (obligatoriskt)",
-      "FractureHeight": "Brottkant höjd (cm)",
-      "FractureWidth": "Brottkant bredd (m)",
+      "DtAvalancheTime": "Tid",
+      "FractureHeigth": "Höjd brottkant",
+      "FractureWidth": "Bredd brottkant",
       "HeigthStartZone": "Startzon",
       "HeigthStopZone": "Utloppszon",
-      "IncidentDescription": "Olycka eller skada",
-      "IncidentPlaceholder": "Orsakade lavinen till skada, olycka eller nästan olycka? Varför och hur hände det? Kunde situationen ha undvikits?",
       "ObsName": "Lavinobservation",
-      "TerrainStartZoneTID": "Terräng i startzonen",
-      "TrajectoryName": "Namn på lavinbana",
+      "TerrainStartZoneTID": "Terräng i startzon",
+      "Trajectory": "Namn på lavinbana",
       "ValidExposition": "Väderstreck"
     },
     "CompressionTest": {
@@ -411,6 +409,8 @@
       "AddIceLayer": "Registrera islager",
       "AddIceThicknessLayer": "Lägg till islager",
       "Comment": "Kommentar",
+      "IceHeightAfterInput": "Ytvattnets djup",
+      "IceHeightBeforeInput": "Ytvattnets djup",
       "IceLayer": "Islager",
       "IceLayerThickness": "Tjocklek på islager",
       "IceThicknessLayers": "Islager (ytan till botten)",
@@ -430,8 +430,8 @@
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
-      "Comment": "Beskrivning",
-      "DamageExtentTID": "Skada omfattning",
+      "Comment": "Kommentar",
+      "DamageExtentTID": "Omfattning",
       "Description": "Varför hände det? Gick det bra? Kunde situationen ha undvikits?",
       "GeoHazardTID": "Observationstyp",
       "IncidentHeader": "Rubrik",
@@ -440,6 +440,7 @@
       "ObsName": "Olycka / Tillbud",
       "Urls": "Länkar"
     },
+    "InCm": "I centimeter",
     "LandslideObs": {
       "ActivityInfluencedTName": "Vad blev påverkat?",
       "And": " och ",
@@ -453,9 +454,9 @@
       "ForecastAccurateTName": "Stämde varningen på varsom.no?",
       "InMap": "i karta",
       "LandSlideSizeTName": "storlek",
+      "LandslideTime": "Tidpunkt jordskredet",
       "LandSlideTName": "Jordskredstyp",
       "LandSlideTriggerTName": "Utlösare",
-      "LandslideTime": "Tidpunkt jordskredet",
       "LandslideType": "Typ av jordskred",
       "ObsName": "Jordskredobservation",
       "Position": "Position jordskred",
@@ -496,8 +497,9 @@
     },
     "SnowProfile": {
       "AddLayerBottom": "Lägg till ett nytt lager i botten",
-      "AddLayerTop": "Lägg till ett nytt lager i toppen",
       "AddLayers": "Lägg till lager",
+      "AddLayerTop": "Lägg till ett nytt lager i toppen",
+      "AddTemperature": "Lägg till temperatur",
       "AddTests": "Lägg till test",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -528,13 +530,9 @@
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Indelning av lager",
-      "Stratification": {},
       "SumOfAllLayers": "Summan av alla lager:",
-      "Temperature": {
-        "Add": "Lägg till temperatur",
-        "Placeholder": "Temperatur (°C)",
-        "TempProfile": "Temperaturprofil"
-      },
+      "TemperaturePlaceholder": "Temperatur (°C)",
+      "TemperatureProfile": "Temperaturprofil",
       "Test": {
         "Add": "Lägg till",
         "AddTest": "Lägg till test",
@@ -550,20 +548,20 @@
       }
     },
     "SnowSurfaceObservation": {
-      "Comment": "Kommentar",
       "FootPenetration": "Fot penetration",
-      "HeightLimitLayeredSnow": "Höjd där skiktad snö börjar (möh)",
+      "HeightLimitLayeredSnow": "Gränsen för snö med lager är på",
+      "Kommentar": "Kommentar",
       "NewSnow": "nysnö",
-      "NewSnowDepth24": "Senaste dygnet (cm)",
-      "NewSnowLine": "Gräns nysnö (möh)",
+      "NewSnowDepth24": "Senaste dygnet",
+      "NewSnowLine": "Gräns för nysnö på",
       "ObsName": "Snötäcke",
-      "SnowDepth": "Snödjup (cm)",
+      "SnowDepth": "Snödjup",
       "SnowDriftTName": "Snödrev",
-      "SnowLine": "Snögräns (möh)",
+      "SnowLine": "Gräns för snö på",
       "SnowLines": "Gräns för snö",
-      "SnowSurfaceTName": "Snöytan",
+      "SnowSurfaceTName": "Snöytans hårdhet",
       "SurfaceRougnessTName": "Snöytan",
-      "SurfaceWaterContentTName": "Ytfuktighet",
+      "SurfaceWaterContentTName": "Snöns vatteninnehåll",
       "Total": "totalt"
     },
     "WaterLevel": {
@@ -582,8 +580,8 @@
       "MeasuredRelativeTo": "Mätning i förhållande till",
       "MeasurementReferenceTName": "Vattenmärke på/i",
       "MeasurementTypeTName": "Mätinstrument",
-      "ObsName": "Vattennivå",
       "ObservationTimingTName": "Vad registrerar du?",
+      "ObsName": "Vattennivå",
       "WaterAstrayTName": "Rinner vattnet utanför sina normala vägar?",
       "WaterLevelStateTName": "Situationen",
       "WaterMarking": "Vattenmärke",
@@ -605,6 +603,7 @@
   "Of": "av",
   "Ok": "Ok",
   "Password": "Lösenord",
+  "picture": "bild",
   "PictureCarousel": {
     "Comment": "Kommentar",
     "Copyright": "Copyright",
@@ -621,6 +620,9 @@
     "UpdatedTime": "Uppdaterad"
   },
   "Register": "Registrera användare",
+  "RegistrationDetail": {
+    "EditInfo": "Du kan redigera dina egna observationer eller observationer som görs i en grupp du tillhör inom 48 timmar efter registreringen."
+  },
   "RegistrationEdit": {
     "AddForm": "Lägg till formulär",
     "DeleteObservation": "Radera observation",
@@ -673,7 +675,7 @@
         "MyObservations": "Mina observationer",
         "ObserverNickNamePlaceholder": "Sök på Observatör",
         "SearchInCompetences": "Sök på kompetens: ",
-        "SearchNickName": "Namn sök"
+        "SearchNickName": "Sök på namn"
       },
       "QuickSearch": {
         "Label": "Snabb sök"
@@ -751,8 +753,8 @@
     }
   },
   "SearchButtonName": "Sök",
-  "SearchResultOfTotal": "av",
   "Searching": "Söker",
+  "SearchResultOfTotal": "av",
   "ShowAllObservations": "Visa alla observationer",
   "ShowFilteredObservations": "Visa valda observationer",
   "ShowLess": "Visa färre",
@@ -761,6 +763,7 @@
   "SignIn": "Logga in",
   "SignOut": "Logga ut",
   "SingleRegistration": "registrering",
+  "snø": "snö",
   "SortByName": "Sortera på:",
   "TableModes": {
     "CompactKey": "Kompakt",
@@ -768,9 +771,11 @@
     "ShortKey": "Kort"
   },
   "Time": "tid",
+  "to": "till",
   "Unknown": "Okänt",
   "Url": {
     "Add": "Lägg till webbadress",
+    "Delete": "Radera",
     "Description": "Beskrivning",
     "Edit": "Redigera",
     "EditUrl": "Redigera webbadress",
@@ -783,15 +788,6 @@
     "Regobs": "REGOBS",
     "User": "ANVÄNDARE"
   },
-  "Yes": "Ja",
-  "from": "från",
-  "is": "is",
-  "jord": "jord",
-  "metersOverSeaLevel": "möh",
-  "observation": "observationer",
-  "observations": "observation(er)",
-  "picture": "bild",
-  "snø": "snö",
-  "to": "till",
-  "vann": "vatten"
+  "vann": "vatten",
+  "Yes": "Ja"
 }
