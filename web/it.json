@@ -1,0 +1,793 @@
+{
+    "AddObsDetails": {
+        "Add": "Aggiungi",
+        "HideHelptext": "Nascondi il testo di aiuto"
+    },
+    "AppearanceName": "Aspetto:",
+    "Attachment": {
+        "Attachment": "Allegato",
+        "DropzoneText": "Trascinare i file qui per caricarli, o cliccare per selezionare",
+        "NoDescription": "Nessuna descrizione",
+        "Uploading": "Caricamento in corso"
+    },
+    "Cancel": "Annulla",
+    "ChangePassword": "Cambia password",
+    "Chip": {
+        "GoToObservation": "Vai all'osservazione",
+        "ShowAllObservations": "Mostra tutto"
+    },
+    "COMPASS_DIRECTION": {
+        "EAST": "Est",
+        "EAST_SHORT": "E",
+        "NORTH": "Nord",
+        "NORTH_EAST": "Nord-Est",
+        "NORTH_EAST_SHORT": "NE",
+        "NORTH_SHORT": "N",
+        "NORTH_WEST": "Nord-Ovest",
+        "NORTH_WEST_SHORT": "NO",
+        "SOUTH": "Sud",
+        "SOUTH_EAST": "Sud-Est",
+        "SOUTH_EAST_SHORT": "SE",
+        "SOUTH_SHORT": "S",
+        "SOUTH_WEST": "Sud-Ovest",
+        "SOUTH_WEST_SHORT": "SO",
+        "WEST": "Ovest",
+        "WEST_SHORT": "O"
+    },
+    "Cookies": {
+        "AboutUseFirstParagraph": "Regobs utilizza i cookie per migliorare la tua esperienza utente quando visiti il sito Web. Un cookie è un file di testo che, durante la visita o l'interazione con un sito Web, viene inserito nella memoria interna del browser.",
+        "AboutUseSecondParagraph": "La base di ciò è l'articolo 6, paragrafo 1, lettera f), della politica sulla privacy, che ci consente di elaborare le informazioni necessarie per salvaguardare un interesse che superi la privacy della persona. L'interesse è far funzionare bene il nostro sito Web in modo da ottenere una buona esperienza utente.",
+        "AboutUseThirdParagraph": "Regobs non fa uso di cookies per la mappa di singoli utenti, modelli di utilizzo o altre informazioni che possono violare la loro privacy.",
+        "CookiesDescription": "Nella tabella seguente elenchiamo quali cookie beta.regobs.no utilizza, quali dati vengono memorizzati e perché il sito ne ha bisogno.",
+        "Customize": "Personalizza",
+        "CustomizeDescription": "I browser più moderni (Google Chrome, Internet Explorer, Firefox, Safari, Opera, ecc.) Sono impostati per accettare automaticamente i cookie, ma puoi scegliere di modificare le tue impostazioni in modo che i cookie non vengano accettati. Notiamo che questo potrebbe portare a regobs.no non funzionare in modo ottimale.",
+        "DataProcessorColumnLabel": "Processore di dati",
+        "DescriptionColumnLabel": "Descrizione",
+        "Descriptions": {
+            "__utma": "Utilizzato per distinguere utenti e sessioni.",
+            "__utmb": "Utilizzato per determinare nuove sessioni / visite.",
+            "__utmc": "Utilizzato per determinare nuove sessioni / visite.",
+            "__utmt": "Utilizzato per limitare le richieste.",
+            "__utmz": "Utilizzato per memorizzare il modo in cui l'utente è arrivato al sito."
+        },
+        "DomainColumnLabel": "Dominio",
+        "HowToAdminister": "spiega come è possibile amministrare i cookie.",
+        "Label": "Cookies",
+        "NameColumnLabel": "Cookie",
+        "TheWebsite": "Il sito web",
+        "Title": "Utilizzo dei cookies"
+    },
+    "CopiedToClipboard": "Link all'osservazione copiata negli appunti.",
+    "CountOf": "Numero",
+    "CreateObservation": "Crea osservazione",
+    "Date": "Data",
+    "Dialogs": {
+        "Buttons": {
+            "AddForm": "Aggiungi modulo",
+            "Back": "Indietro",
+            "Next": "OK"
+        },
+        "Location": {
+            "Description": "Posizionare l'osservazione sulla mappa. Trovare la posizione con ricerca, o zoomare con i pulsanti più e meno.",
+            "DescriptionMobile": "Posiziona l'osservazione sulla mappa.",
+            "EditName": "Imposta il nome della località",
+            "EditNameLabel": "Nome della località",
+            "Title": "Dove è stata fatta l'osservazione?"
+        },
+        "Time": {
+            "AdditionalInformation": "Informazioni aggiuntive",
+            "Description": "Inserire l'ora in cui è stata fatta l'osservazione. Utilizzare l'ora locale del luogo di osservazione.",
+            "Exact": "Esatta",
+            "MoreThanOneKm": "Più di 1 km",
+            "NotMemberOfAnyGroups": "Non sei membro di nessun gruppo",
+            "Share": "Condividi con il gruppo",
+            "Source": "Fonte",
+            "Title": "Quando è stata fatta l'osservazione?",
+            "Uncertainty": "Incertezza in posizione"
+        }
+    },
+    "Email": "Email",
+    "Footer": {
+        "AboutDataInRegObs": "Sui dati in Regobs",
+        "AboutRegObsHeader": "Informazioni su Regobs",
+        "BeAwareThat": "Tieni presente che le questioni urgenti devono essere indirizzate al meglio direttamente al centro di previsione o al gruppo Facebook",
+        "Collaboration": "Collaborazione",
+        "ConditionOfUse": "Condizione di Utilizzo",
+        "ContactIndividual": "Contatta il servizio di previsione adatto al tuo utilizzo di regObs.",
+        "ContactUsHeader": "Contattaci",
+        "FeedbackForm1": "È inoltre possibile utilizzare un ",
+        "FeedbackForm2": "modulo di feedback",
+        "FeedbackForm3": " per darci un feedback su questo servizio.",
+        "GoTo": "Vai a",
+        "HearFromYou": "Vorremmo conoscere la tua esperienza utente o richieste professionali.",
+        "IskartAbout": "Leggete le avvertenze sul ghiaccio preparate da NVE sulla base delle informazioni disponibili sul ghiaccio e delle condizioni meteorologiche invernali.",
+        "IskartAlt": "Logo per Iskart.no",
+        "NveVarsom": "La previsione di frana e alluvioni a NVE e altri strumenti che abbiamo creato con varsom.no",
+        "OtherToolsHeader": "Altri strumenti",
+        "ReadMoreAboutRegobs": "Ulteriori informazioni su regObs",
+        "RegObsContactEmail": "Kontaktepost@regobs.no",
+        "RegObsCovers": "Copre le previsioni di neve, ghiaccio, frana e alluvione",
+        "RegObsFacebook": "Gruppo professionale regObs su Facebook",
+        "RegObsGatheringPlace": "regObs è un luogo di ritrovo per le osservazioni e eventi utilizzati per l'allarme e preparazione alle emergenze.",
+        "SeNorgeAbout": "seNorge è un portale web aperto che mostra mappe aggiornate di neve, tempo e condizioni dell'acqua e clima per la Norvegia.",
+        "SeNorgeAlt": "Logo per Senorge.no",
+        "VarsomAbout": "Varsom.no è un servizio fornito da NVE, in collaborazione con l'Istituto meteorologico, la Norwegian Public Roads Administration e Bane NOR.",
+        "VarsomAlt": "Logo per Varsom.no",
+        "XGeoAbout": "xGeo è uno strumento utilizzato per avvisare, monitorare e segnalare inondazioni, frane e valanghe.",
+        "XGeoAlt": "Logo per Xgeo.no"
+    },
+    "Forgotten": "Password dimenticata?",
+    "from": "da",
+    "Geohazards": {
+        "All": "Tutti",
+        "Ice": "Ghiaccio",
+        "Snow": "Neve",
+        "Soil": "Suolo",
+        "Water": "Acqua",
+        "WaterSoil": "Acqua e suolo"
+    },
+    "GoBack": "Torna indietro",
+    "GoToObservation": "Vai all'osservazione",
+    "GoToReportPage": "Vai alla vista dei rapporti",
+    "HeightKey": "Quota",
+    "Home": "Home",
+    "HomeLocationSearch": {
+        "All": "Tutti",
+        "Change": "Modifica",
+        "Days": "giorni",
+        "Last": "Ultimo",
+        "NoMaps": "Nessuna mappa di supporto",
+        "Search": "Ricerca"
+    },
+    "Information": "Informazione",
+    "InvalidDate": "Data non valida",
+    "is": "ghiaccio",
+    "jord": "Frana",
+    "LanguageLabel": "Lingua:",
+    "Login": {
+        "CreateNewRegObsUser": "Crea utente regObs qui",
+        "EmailRequired": "L'e-mail è obbligatoria.",
+        "NoUser": "Non ha un utente?",
+        "PasswordRequired": "La password è obbligatoria.",
+        "ValidEmail": "Si prega di inserire un indirizzo email valido."
+    },
+    "Map": {
+        "InMapView": "in vista mappa",
+        "Loading": "Caricando",
+        "LoadingObservations": "Caricamento osservazioni"
+    },
+    "MapMode": "Mappa",
+    "MapSelection": {
+        "Ice": {
+            "Channel": "Canale",
+            "FracturedIceAlongShore": "Ghiaccio rotta lungo la riva",
+            "OftenDangerousIceConditions": "Condizioni di ghiaccio spesso pericolose",
+            "Penstock": "Condotta",
+            "PowerPlantTunnel": "Tunnel di centrale elettrica",
+            "SignificantlyWeakenedIce": "Ghiaccio debolito in modo significativo",
+            "WeakenedIce": "Ghiaccio indebolito"
+        },
+        "Observations": "Osservazioni",
+        "ObservationsAndSupportMaps": "Osservazioni e mappe di supporto",
+        "Opacity": "Opacità",
+        "SnowWarningRegions": "Regioni di previesione",
+        "Soil": {
+            "HighLoose": "Alto (area di distacco)",
+            "HighOutlet": "Alto (area di deposito)",
+            "LowLoose": "Basso (area di distacco)",
+            "LowOutlet": "Basso (area di deposito)",
+            "MappedAreas": "Aree mappate",
+            "MediumLoose": "Medio (area di distacco)",
+            "MediumOutlet": "Medio (area di deposito)",
+            "None": "Nessuno",
+            "PotentialHazards": "Potenziali pericoli"
+        },
+        "SupportClayZonesDescription": "Argilla rapida/frane",
+        "SupportClayZonesName": "Zone di argilla",
+        "SupportFloodZonesDescription": "Zone di alluvione",
+        "SupportFloodZonesName": "Zone di alluvione",
+        "SupportMap": "Mappa di supporto: ",
+        "SupportMaps": "Mappe di supporto",
+        "SupportSteepnessDescription": "I colori indicano la pendenza del terreno in gradi",
+        "SupportSteepnessName": "Pendenza",
+        "SupportWeakenedIceDescription": "La mappa a supporto mostra vie d'acqua che si comportano in modo poco prevedibile perchè sono regolate per la produzione di elettricità",
+        "SupportWeakenedIceName": "Ghiaccio indebolito",
+        "Water": {
+            "1000YearFlood": "Alluivione a 1000 anni",
+            "100YearFlood": "Alluivione a 100 anni",
+            "10YearFlood": "Alluivione a 10 anni",
+            "200YearFlood": "Alluivione a 200 anni",
+            "200YearFloodClimate": "Alluivione a 200 anni (clima)",
+            "20YearFlood": "Alluivione a 20 anni",
+            "500YearFlood": "Alluivione a 500 anni",
+            "50YearFlood": "Alluivione a 50 anni",
+            "AjourRecognized": "Ajour riconosciuto",
+            "Current": "Attuale",
+            "ForReview": "In revisione",
+            "LowPoint": "Punto basso allagato a:",
+            "RiverAndWater10YearFlood": "Alluivione a 10 anni di fiume e lago",
+            "UnderPlanning": "In fase di pianificazione"
+        }
+    },
+    "MapSideNav": {
+        "ChosenObservation": "Osservazione scelta",
+        "Hide": "Nascondi",
+        "MapSelection": "Selezione della mappa",
+        "MoveMap": "Zoomare o estendere i criteri di tempo per vedere più osservazioni",
+        "NoObservationsInMapView": "Nessuna osservazione nella selezione vista della mappa.",
+        "Observations": "Osservazioni",
+        "ObservationsInMapView": "Osservazioni nella mappa",
+        "Options": "Opzioni",
+        "ShowInList": "ShowInList",
+        "ShowMapSelection": "Mostra la selezione della mappa",
+        "ShowObservationsInMapView": "Mostra osservazioni nella mappa"
+    },
+    "Menu": "Menu",
+    "metersOverSeaLevel": "metri sopra il livello del mare",
+    "MultipleRegistrations": "registrazioni",
+    "MyPage": {
+        "MyGroups": "I miei gruppi",
+        "MyObservations": {
+            "Competence": "Competenza",
+            "ContactQuestion": "Non esitate a contattarci se avete domande sulla competenza.",
+            "MyCompetences": "Le mie competenze",
+            "NoCompetence": "Non hai alcuna competenza aggiunta al tuo utente Regobs.",
+            "Title": "Le mie osservazioni"
+        },
+        "MyPage": "La mia pagina",
+        "MyPlaces": "I Miei Luoghi",
+        "VarsomUser": "Utente Varsom"
+    },
+    "Navbar": {
+        "All": {
+            "ObservationsFromLastSevenDays": "Mostra tutte le osservazioni degli ultimi 7 giorni"
+        },
+        "Ice": {
+            "RegisterObservation": "Nuova osservazione del ghiaccio",
+            "SearchInObservation": "Rapporto sul ghiaccio",
+            "ShowObservationsInMap": "Osservazioni sul ghiaccio e mappa del ghiaccio debole"
+        },
+        "RegisterObservation": "Registrare osservazione",
+        "SearchInObservation": "Cerca nelle osservazioni",
+        "ShowObservationsInMap": "Mostra osservazioni nella mappa",
+        "Snow": {
+            "RegisteredTrips": "Uscite registrate",
+            "RegisterObservation": "Nuova osservazione sulla neve",
+            "SearchInObservation": "Rapporto osservazioni neve",
+            "ShowObservationsInMap": "Osservazioni sulla neve e mappa delle pendenze"
+        },
+        "Soil": {
+            "RegisterObservation": "Nuova osservazione del suolo",
+            "SearchInObservation": "Rapporto su suolo e acqua",
+            "ShowObservationsInMap": "Osservazioni del suolo e dell'acqua e terreno esposto a frana"
+        },
+        "Water": {
+            "RegisterObservation": "Nuove osservazioni sull'acqua",
+            "SearchInObservation": "Rapporto su acqua e suolo",
+            "ShowObservationsInMap": "Osservazioni su acqua e suolo e mappa delle zone di inondazione"
+        }
+    },
+    "No": "No",
+    "Now": "ora",
+    "observation": "Osservazioni",
+    "ObservationCard": {
+        "AboveSeaLevel": "slm",
+        "Download": "Scarica",
+        "ForecastRegion": "Regioni di previsione",
+        "Forms": "Moduli",
+        "Observed": "Osservato:",
+        "ObsId": "ID:",
+        "Original": "Vedi originale",
+        "Registered": "Registrato:",
+        "SentInBy": "Inviato da",
+        "Updated": "Aggiornato:"
+    },
+    "observations": "Osservazione(i)",
+    "Observations": {
+        "AvalancheActivityObs": {
+            "Aspect": "Esposizione",
+            "AvalancheTID": "Tipo",
+            "AvalancheTriggerTID": "Causa di distacco",
+            "Comment": "Commento",
+            "DtAvalancheTime": "Tempo",
+            "HeigthStartZone": "Quota zona di distacco",
+            "MetersOverSeaLevel": "metro sul livello del mare",
+            "NumberAndSize": "Numero e dimensioni",
+            "ObsName": "Attività valanghe"
+        },
+        "AvalancheActivityObs2": {
+            "AvalancheTID": "Tipo",
+            "Comment": "Commento",
+            "DtAvalancheTime": "Tempo",
+            "MetersOverSeaLevel": "metro sul livello del mare",
+            "NumberAndSizeAndTrigger": "Numero, dimensioni e causa di distacco",
+            "ObsName": "Attività valanghe",
+            "Prevalence": "Distribuzione spaziale"
+        },
+        "AvalancheDangerObs": {
+            "Comment": "Commento",
+            "DangerSignTID": "Tipo",
+            "ObsName": "Osservazione del pericolo di valanghe"
+        },
+        "AvalancheEvalProblem2": {
+            "AvalancheExtTID": "Tipo",
+            "AvalCauseAttributeLightTID": "Caratteristiche sfavorevoli dello strato debole",
+            "AvalCauseDepthTID": "Distanza dalla superfice allo strato debole",
+            "AvalCauseTID": "Tipo di strato debole",
+            "AvalProbabilityTID": "Probabilità di distacco",
+            "AvalTriggerSimpleTID": "Sovraccarico previsto per distacco",
+            "Comment": "Commento",
+            "DestructiveSizeTID": "Dimensione aspettata",
+            "ObsName": "Valutazione del problema tipico",
+            "PrevalenceArea": "Distribuzione spaziale della situazione tipica"
+        },
+        "AvalancheEvaluation": {
+            "AvalancheDangerTID": "Livello di pericolo",
+            "AvalancheEvaluation1": "Valutazione",
+            "AvalancheProblemTID1": "Problema tipico 1",
+            "AvalancheProblemTID2": "Problema tipico 2",
+            "AvalancheProblemTID3": "Problema tipico 3",
+            "Comment": "Sviluppo",
+            "ObsName": "Evaluazione pericolo valanghivo",
+            "ValidExposition": "Esposizione"
+        },
+        "AvalancheEvaluation2": {
+            "AvalancheDangerTID": "Livello di pericolo",
+            "AvalancheDevelopment": "Sviluppo",
+            "AvalancheEvaluation": "Evaluazione",
+            "AvalancheProblem": "Problema tipico",
+            "ExposedTerrain": "Terreno esposto",
+            "ObsName": "Evaluazione pericolo valanghivo"
+        },
+        "AvalancheEvaluation3": {
+            "AvalancheDangerTID": "Livello di pericolo",
+            "AvalancheDevelopment": "Sviluppo",
+            "AvalancheEvaluation": "Evaluazione",
+            "ForecastComment": "Commento",
+            "ForecastCorrectTID": "Correttezza del bolletino",
+            "ObsName": "Evaluazione pericolo valanghivo"
+        },
+        "AvalancheObs": {
+            "AvalancheTID": "Tipo",
+            "AvalancheTriggerTID": "Causa di distacco",
+            "AvalCauseTID": "Strato debole",
+            "Comment": "Commento",
+            "DestructiveSizeTID": "Dimensioni",
+            "DtAvalancheTime": "Tempo",
+            "FractureHeigth": "Altezza della fronte di rottura",
+            "FractureWidth": "Lunghezza della fronte di rottura",
+            "HeigthStartZone": "Quota area di distacco",
+            "HeigthStopZone": "Quota area di deposito",
+            "ObsName": "Osservazione valanga",
+            "TerrainStartZoneTID": "Terreno nella zona di distacco",
+            "Trajectory": "Traiettoria",
+            "ValidExposition": "Esposizione"
+        },
+        "CompressionTest": {
+            "Comment": "Commento",
+            "ObsName": "Test di compressione",
+            "StabilityEvalTID": "Stabilitá",
+            "Test": "Test"
+        },
+        "DamageObs": {
+            "Comment": "Commento",
+            "DamageTypeTID": "Tipo",
+            "ObsName": "Osseervazione di danni"
+        },
+        "DangerObs": {
+            "Area": "Area",
+            "Comment": "Commento",
+            "DangerSignTName": "Tipo di pericolo",
+            "NewDangerSign": "Aggiungi segno di pericolo",
+            "NoDamageSign": "Nessuni segni di pericolo",
+            "ObsName": "Osservazione di segno di pericolo",
+            "Title": "Segno di pericolo"
+        },
+        "GeneralObservation": {
+            "Comment": "Commento",
+            "NoObservationsFound": "Nessuna osservazione trovata",
+            "Notes": "Note",
+            "ObsComment": "Testo",
+            "ObsHeader": "Titolo",
+            "ObsName": "Osservazione generale",
+            "Urls": "Link"
+        },
+        "IceCoverObs": {
+            "BearingStrength": "Resistenza meccanica",
+            "Comment": "Commento",
+            "Description": "Descrizione",
+            "IceCapacityTName": "Capacità",
+            "IceCover": "Copertura di ghiaccio",
+            "IceCoverAfterTName": "Grado di copertura di ghiaccio dopo la osservazione",
+            "IceCoverBeforeObservation": "Copertura di ghiaccio prima della osservazione",
+            "IceCoverBeforeTName": "Grado di copertura di ghiaccio prima della osservazione",
+            "IceCoverTName": "Copertura di ghiaccio",
+            "IceSkateabilityTName": "Pattinabilità",
+            "ObsName": "Osservazione della copertura del ghiaccio"
+        },
+        "IceThickness": {
+            "AddIceLayer": "Aggiungi strato di ghiaccio",
+            "AddIceThicknessLayer": "Aggiungi strato di ghiaccio",
+            "Comment": "Commento",
+            "IceHeightAfterInput": "Altezza dell'acqua superficiale",
+            "IceHeightBeforeInput": "Altezza dell'acqua superficiale",
+            "IceLayer": "Strato di ghiaccio",
+            "IceLayerThickness": "Altezza strato di ghiaccio (cm)",
+            "IceThicknessLayers": "Strati (dall'alto al basso)",
+            "IceThicknessSum": "Altezza totale di ghiaccio (cm)",
+            "IceType": "Tipo di ghiaccio",
+            "IsEqualToIceSurface": "è uguale alla superficie del ghiaccio",
+            "LowerThanIceSurface": "più bassa della superficie del ghiaccio ",
+            "ObsName": "Spessore del ghiaccio",
+            "OverIce": "Sopra il ghiaccio",
+            "OverWaterAfterDrilling": "sull'acqua dopo la perforazione",
+            "OverWaterBeforeDrilling": "Acqua prima di forare",
+            "SlushSnowBeforeDrilling": "Neve bagniata prima di forare (cm)",
+            "SnowDepthBeforeDrilling": "Neve prima di forare (cm)",
+            "Total": "totale",
+            "TwoDecimalPlaces": "(cm, fino a due decimali)",
+            "WaterSurfaceInHole": "Altezza acqua nel foro"
+        },
+        "Incident": {
+            "ActivityInfluencedTID": "Attività",
+            "Comment": "Commento",
+            "DamageExtentTID": "Estensioni",
+            "Description": "Perché e successo? È tutto bene? Potrebbe essere evitato?",
+            "GeoHazardTID": "Tipo di ossvervazione",
+            "IncidentHeader": "Titolo",
+            "IncidentIngress": "Ingresso",
+            "IncidentText": "Descrizione",
+            "ObsName": "Incidente",
+            "Urls": "Link"
+        },
+        "InCm": "In centimetri",
+        "LandslideObs": {
+            "ActivityInfluencedTName": "Cosa è stato colpito?",
+            "And": "e",
+            "AvalTrigger": "Causa della frana",
+            "Between": "Tra",
+            "Comment": "Commento",
+            "DamageExtent": "Estensione del danno",
+            "DamageExtentTName": "Estensioni di danni",
+            "DtLandSlideTime": "Quando è cominciata la frana?",
+            "DtLandSlideTimeEnd": "Quando è finita la frana?",
+            "ForecastAccurateTName": "Le previsioni erano accurate?",
+            "InMap": "nella mappa",
+            "LandSlideSizeTName": "Dimensioni",
+            "LandslideTime": "Tempo della frana",
+            "LandSlideTName": "Tipo di frana",
+            "LandSlideTriggerTName": "Causa di distacco",
+            "LandslideType": "Tipo di frana",
+            "ObsName": "Osservazione di frana",
+            "Position": "Posizione della frana",
+            "PositionDescription": "Impostare le posizioni di partenza e di arresto della frana.",
+            "Required": "Richiesto",
+            "SetLandslidePosition": "Indica la posizione della frana",
+            "SetStartPosition": "Imposta la posizione iniziale",
+            "SetStopPosition": "Imposta la posizione di arresto",
+            "Time": "Ora",
+            "TimeDescription": "Inserire l'ora in cui è stata fatta l'osservazione. Utilizzare l'ora locale del luogo di osservazione.",
+            "Title": "Incidento di frana",
+            "Urls": "Link"
+        },
+        "Picture": {
+            "Aspect": "Direzione cardinale",
+            "Comment": "Commento",
+            "Copyright": "Copyright",
+            "Edit": "Modifica immagine",
+            "ObsName": "Immagine",
+            "Photographer": "Fotografo",
+            "PictureComment": "Commento",
+            "RegistrationTID": "Immagine di"
+        },
+        "Shared": {
+            "Description": "Descrizione"
+        },
+        "SnowCover": {
+            "CriticalLayer": "Strato debole",
+            "CriticalLayerFound": "strato debole osservato",
+            "CriticalLayerLocation": "locazione",
+            "CriticalLayerNotFound": "Nessun strato debole osservato",
+            "CriticalLayerTID": "Tipo",
+            "DepthHoar": "Brina di profondità",
+            "DepthHoarInSnowCover": "brina di profondità osservata.",
+            "ObsName": "Profilo del manto nevoso",
+            "SnowPilotRefTID": "Profilo del manto nevoso",
+            "UnderSurface": "sotto la superficie"
+        },
+        "SnowProfile": {
+            "AddLayerBottom": "Aggiungi strato in basso",
+            "AddLayers": "Aggiungi strati",
+            "AddLayerTop": "Aggiungi strato in alto",
+            "AddTemperature": "Aggiungi temperatura",
+            "AddTests": "Aggiungi test",
+            "Cm": "cm",
+            "Comment": "Commento",
+            "CompressionTest": "Test di compressione",
+            "CompresstionTestConnectedToProfile": "test di compressione collegati al profilo neve",
+            "Density": {
+                "AddDensity": "Aggiungi densità",
+                "Average": "Media",
+                "CylinderBoreDiam": "Diametro foro cilindro (cm)",
+                "Density": "Densità",
+                "DensityLabel": "Densità (kg/m³)",
+                "Height": "Altezza (cm)",
+                "Layer": "Strato",
+                "Method": "Metodo",
+                "Sum": "Somma",
+                "Summary": "Sintesi",
+                "TareWeight": "Peso tara (g)",
+                "UseCylinder": "Usa cilindro",
+                "WaterEquivalent": "Equivalente in acqua (mm)",
+                "Weight": "Peso (g)"
+            },
+            "DepthPlaceholder": "Altezza dalla superficie (cm)",
+            "IsProfileDugToTheGround": "Il profilo è fino all terreno?",
+            "Layers": "Strati",
+            "LayersObserved": "strati osservati",
+            "Main": "Principale",
+            "ObsName": "Profilo del manto nevoso",
+            "SnowDensity": "Densità della neve",
+            "SnowTemperature": "temperatura",
+            "StratLayers": "Stratificazione",
+            "SumOfAllLayers": "Somma di tutti gli strati:",
+            "TemperaturePlaceholder": "Temperatura (°C)",
+            "TemperatureProfile": "Profilo di temperatura",
+            "Test": {
+                "Add": "Aggiungi",
+                "AddTest": "Aggiungi un nuovo test",
+                "DistanceFromTop": "Altezza dalla superficie (cm)",
+                "FractureType": "Carattere della frattura",
+                "Include": "Includere nel profilo",
+                "NumberOfHits": "Numero di colpi",
+                "Stability": "Stabilitá",
+                "Tests": "Tests",
+                "TestsWillAppearHere": "I test che hai aggiunto appariranno qui",
+                "Type": "Tipo di test",
+                "Update": "Aggiorna il test"
+            }
+        },
+        "SnowSurfaceObservation": {
+            "FootPenetration": "Penetrazione del piede",
+            "HeightLimitLayeredSnow": "Limite di altezza per lo strato di neve",
+            "Kommentar": "Commento",
+            "NewSnow": "neve fresca",
+            "NewSnowDepth24": "Neve fresca nelle ultime 24 ore",
+            "NewSnowLine": "Limite neve fresca",
+            "ObsName": "Superficie del manto nevoso",
+            "SnowDepth": "Altezza manto nevoso",
+            "SnowDriftTName": "Saltazione",
+            "SnowLine": "Limite dell'innevamento",
+            "SnowLines": "Limiti di neve",
+            "SnowSurfaceTName": "Durezza della superficie",
+            "SurfaceRougnessTName": "rugosità della superficie",
+            "SurfaceWaterContentTName": "Contenuto in acqua liquida",
+            "Total": "totale"
+        },
+        "WaterLevel": {
+            "AppliesFor": "valido per",
+            "Comment": "Commento",
+            "Lake": "lago",
+            "MeasuredDischarge": "Deflusso mesurato",
+            "ObsName": "Livello dell'acqua",
+            "River": "fiume",
+            "WaterLevelDescribed": "descrizione livello dell'acqua",
+            "WaterLevelRefTName": "livello dell'acqua di referenza",
+            "WaterLevelValue": "valore"
+        },
+        "WaterLevel2": {
+            "Comment": "Commento",
+            "MeasuredRelativeTo": "Misurazione rispetto a",
+            "MeasurementReferenceTName": "marcatura dell'acqua su/con",
+            "MeasurementTypeTName": "Strumento di misura",
+            "ObservationTimingTName": "Cosa registri?",
+            "ObsName": "Livello dell'acqua",
+            "WaterAstrayTName": "C'è dell'acqua deviata?",
+            "WaterLevelStateTName": "Situazione",
+            "WaterMarking": "Marcatura dell'acqua",
+            "WaterMeasurement": "Misurazione dell'acqua",
+            "WaterMeasurementValue": "Valore di misurazione dell'acqua",
+            "With": "con"
+        },
+        "WeatherObservation": {
+            "AirTemperature": "Temperatura atmosferica (°C)",
+            "CloudCover": "Copertura nuvolosa",
+            "Clouds": "nuvole",
+            "Comment": "Commento",
+            "ObsName": "Osservazione Meteo",
+            "PrecipitationTID": "Tipo di precipitazione",
+            "Wind": "Condizioni del vento",
+            "WindDirection": "da"
+        }
+    },
+    "Of": "di",
+    "Ok": "Ok",
+    "Password": "Password",
+    "picture": "Immagine",
+    "PictureCarousel": {
+        "Comment": "Commento",
+        "Copyright": "Copyright",
+        "Image": "Immagine",
+        "ObservedLocation": "Locazione della osservazione",
+        "Of": "Di"
+    },
+    "PictureKey": "Immagine",
+    "PictureMode": "Immagini",
+    "Reg": {
+        "ObservedTime": "Osservato",
+        "ObserverNickName": "Soprannome",
+        "RegisteredTime": "Registrato",
+        "UpdatedTime": "Aggiornato"
+    },
+    "Register": "Crea utente",
+    "RegistrationDetail": {
+        "EditInfo": "Puoi modificare le tue osservazioni o osservazioni fatte in un gruppo a cui appartieni entro 48 ore dalla registrazione."
+    },
+    "RegistrationEdit": {
+        "AddForm": "Aggiungi modulo",
+        "DeleteObservation": "Elimina osservazione",
+        "Discard": "Scarta",
+        "Done": "Fatto",
+        "FormInfo": "Compila i moduli che corrispondono al tipo di osservazione che hai fatto. È necessario aggiungere almeno un modulo per registrate l'osservazione.",
+        "SaveAsDraft": "Salva come bozza?",
+        "SaveDraft": "Salva bozza",
+        "SaveDraftMessage": "Non hai aggiunto alcun modulo e pertanto l'osservazione non verrà pubblicata, vuoi salvare come bozza e prosegure in seguito?",
+        "SyncInProgress": "Sincronizzazione in corso:"
+    },
+    "RegistrationKeyInfo": {
+        "Accuracy": "Precisione",
+        "Edit": "Modifica",
+        "MetersAboveSeaLevel": "Metri sul livello del mare",
+        "Municipal": "Comunale",
+        "Source": "Fonte",
+        "WarningRegion": "Area di previesione"
+    },
+    "RememberMe": "Ricordati di me",
+    "RequiredField": "*Campo obbligatorio",
+    "RequiredFieldError": "Questo campo è obbligatorio",
+    "Reset": "Reimpostare",
+    "Routes": {
+        "About": "Su",
+        "Cookies": "Cookies",
+        "Home": "Home"
+    },
+    "Search": {
+        "Criterias": {
+            "Area": {
+                "Label": "Aree",
+                "List": "Regioni",
+                "Search": "Nelle vicinanze"
+            },
+            "Country": {
+                "Label": "Altri paesi"
+            },
+            "FreeText": {
+                "Label": "Testo in osservazione",
+                "Placeholder": "Ricerca di testo"
+            },
+            "ObservationType": {
+                "Label": "Tipi di osservazioni"
+            },
+            "Observers": {
+                "CompetenceFilter": "Competenza",
+                "CompetenceLevelExplanation": "Spiegazione del livello di competenza",
+                "Label": "Osservatore",
+                "MyObservations": "Le mie osservazioni",
+                "ObserverNickNamePlaceholder": "Cerca per soprannome di osservatore",
+                "SearchInCompetences": "Ricerca per competenza:",
+                "SearchNickName": "Ricerca per nome"
+            },
+            "QuickSearch": {
+                "Label": "Ricerca rapida"
+            },
+            "Recent": {
+                "Day": "giorni",
+                "FromDate": "Da",
+                "Label": "Le mie ricerche recenti",
+                "Last": "Ultimo",
+                "MyObservations": "Le mie osservazioni",
+                "ObserverCompetence": "Competenza dell'osservatore",
+                "ObserverName": "Nome dell'osservatore",
+                "Regions": "Regioni",
+                "RegistrationTypes": "Tipi di osservazioni",
+                "Time": "Periodo di tempo",
+                "ToDate": "A"
+            },
+            "Regions": {
+                "BRegionInfo": "* Bollettino solo su livello pericolo 4 o 5",
+                "Label": "Regioni di previsione"
+            },
+            "TimePeriod": {
+                "ChooseDate": "selezionare una data:",
+                "Day": "giorno",
+                "Days": "giorni",
+                "FilterByDays": "Mostra dall'ultimo:",
+                "FromDate": "Da",
+                "FromDatePicker": {
+                    "Placeholder": "scegli la data di inizio"
+                },
+                "InvalidDate": "Data non valida",
+                "InvalidDateRange": "Intervallo di date non valido",
+                "InvalidInteger": "Numero non valido",
+                "Label": "Periodo di tempo",
+                "Last": "Ultimo",
+                "NumberOfDays": {
+                    "Placeholder": "Numero di giorni"
+                },
+                "Or": "o",
+                "OrChooseDate": "o scegli data",
+                "OrChooseRange": "Scegli l'intervallo di date",
+                "ToDate": "A",
+                "ToDatePicker": {
+                    "Placeholder": "scegli la data di fine"
+                }
+            }
+        },
+        "GetMoreRegistrationsBtn": "Carica più osservazioni",
+        "Header": {
+            "HideRegTypeFilter": "Nascondi filtro",
+            "ShowRegTypeFilter": "Mostra filtro",
+            "Sort": {
+                "Label": "Ordina per",
+                "LastUpdated": "Data ultimo aggiornamento",
+                "Observed": "Data osservata",
+                "Registered": "Data di registrazione"
+            },
+            "ViewMode": {
+                "ListKey": "Lista",
+                "MapKey": "Mappa",
+                "PictureKey": "Immagine"
+            }
+        },
+        "HeadingColor": {
+            "black": "Nero",
+            "blue": "Blu"
+        },
+        "LoadMoreRegistrationsText": "Le osservazioni non si caricano automaticamente?",
+        "SearchButton": "Cerca nelle osservazioni",
+        "SearchFilters": "Filtri di ricerca",
+        "SortOrder": {
+            "Observert tid": "Osservato",
+            "Registrert tid": "Registrato",
+            "Siste oppdatert tid": "Ultimo aggiornamento"
+        }
+    },
+    "SearchButtonName": "Cerca",
+    "Searching": "Ricerca, si prega di attendere",
+    "SearchResultOfTotal": "di",
+    "ShowAllObservations": "mostra tutte le osservazioni",
+    "ShowFilteredObservations": "mostra solo le osservazioni scelte",
+    "ShowLess": "Mostra meno",
+    "ShowMore": "Mostra di più",
+    "ShowSearchButtonName": "Mostra la barra di ricerca",
+    "SignIn": "Accedi",
+    "SignOut": "Esci",
+    "SingleRegistration": "registrazione",
+    "snø": "neve",
+    "SortByName": "Ordina per:",
+    "TableModes": {
+        "CompactKey": "Compatto",
+        "CompleteKey": "Completo",
+        "ShortKey": "Corto"
+    },
+    "Time": "Ora",
+    "to": "a",
+    "Unknown": "Sconosciuto",
+    "Url": {
+        "Add": "Aggiungi Url",
+        "Delete": "Elimina",
+        "Description": "Descrizione",
+        "Edit": "Modifica",
+        "EditUrl": "Modifica l'URL web",
+        "Url": "URL",
+        "WebUrl": "URL Web"
+    },
+    "UserMenu": {
+        "Language": "LINGUA",
+        "Page": "PAGINA",
+        "Regobs": "REGOBS",
+        "User": "UTENTE"
+    },
+    "vann": "alluvione",
+    "Yes": "Si"
+}
