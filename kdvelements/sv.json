@@ -235,7 +235,32 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_713": {
-        "translation": "Kite skiing",
+        "translation": "Kiteskidåkning",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_714": {
+        "translation": "Isfiskare",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_715": {
+        "translation": "Ridning / vagnar / släde",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_716": {
+        "translation": "Hundspann",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_717": {
+        "translation": "Rädda ett djur",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_719": {
+        "translation": "Person skadad av islossning",
         "notes": "",
         "limit": "30"
     },
@@ -259,6 +284,21 @@
         "notes": "ATV",
         "limit": "1024"
     },
+    "ActivityInfluencedKD_723": {
+        "translation": "Cykel",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_724": {
+        "translation": "Motorcykel",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_725": {
+        "translation": "Sparkstötting",
+        "notes": "",
+        "limit": "30"
+    },
     "ActivityInfluencedKD_730": {
         "translation": "Traktor på isen",
         "notes": "",
@@ -271,6 +311,11 @@
     },
     "ActivityInfluencedKD_732": {
         "translation": "Snow groomer / Belt wagon",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_735": {
+        "translation": "Flygplan / helikopter",
         "notes": "",
         "limit": "30"
     },
@@ -500,7 +545,7 @@
         "limit": "30"
     },
     "AvalancheKD_30": {
-        "translation": "Slask lavin",
+        "translation": "Slasklavin",
         "notes": "",
         "limit": "30"
     },
@@ -790,7 +835,7 @@
         "limit": "1024"
     },
     "AvalReleaseHeightKD_2": {
-        "translation": "Mellan gammal och nysnö",
+        "translation": "Mellan gammal och ny snö",
         "notes": "Avalanches will release between old and new snow.",
         "limit": "30"
     },
@@ -3676,7 +3721,7 @@
         "limit": "1024"
     },
     "IceCoverBeforeKD_3": {
-        "translation": "Förr ingen is, sä även idag",
+        "translation": "Förr ingen is, så även idag",
         "notes": "No ice this winter season, not even today.",
         "limit": "30"
     },
@@ -4589,6 +4634,11 @@
     },
     "SourceKD_22": {
         "translation": "Jag har sett bild/webkamera",
+        "notes": "",
+        "limit": "50"
+    },
+    "SourceKD_23": {
+        "translation": "Antagen/simulerad",
         "notes": "",
         "limit": "50"
     },
