@@ -67,12 +67,12 @@
       "ObsName": "Avalanche Danger Sign"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Avalanche Type",
       "AvalCauseAttributeLightTID": "Unfavorable properties of the weak layer",
       "AvalCauseDepthTID": "Distance from surface to weak layer",
       "AvalCauseTID": "Type of weak layer",
       "AvalProbabilityTID": "Probablity for avalanche",
       "AvalTriggerSimpleTID": "Expected load to trigger avalanche",
-      "AvalancheExtTID": "Avalanche Type",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size of expected avalanche",
       "ObsName": "Avalanche Problem",
@@ -105,10 +105,10 @@
       "ObsName": "Avalanche Evaluation"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Weak layer",
       "Avalanche": "Avalanche",
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Trigger",
+      "AvalCauseTID": "Weak layer",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size",
       "DtAvalancheTime": "Time",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "Measurement relative to",
       "MeasurementReferenceTName": "Watermarking on/with",
       "MeasurementTypeTName": "Measurement instrument",
-      "ObsName": "Water Level",
       "ObservationTimingTName": "What is registered?",
+      "ObsName": "Water Level",
       "WaterAstrayTName": "Is there any water astray?",
       "WaterLevelStateTName": "Situation",
       "WaterMarking": "Water marking",
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Search",
-  "SearchResultOfTotal": "of",
   "Searching": "Searching, please wait",
+  "SearchResultOfTotal": "of",
   "ShowAllObservations": "Show all observations",
   "ShowFilteredObservations": "Show selected observations",
   "ShowLess": "Show fewer",
