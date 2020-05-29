@@ -67,12 +67,12 @@
       "ObsName": "Tecken på Lavinfara"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Lavintyp",
       "AvalCauseAttributeLightTID": "Egenskaper på det svaga lagret",
       "AvalCauseDepthTID": "Avstånd från snöytan till det svaga lagret",
       "AvalCauseTID": "Typ av svagt lager",
       "AvalProbabilityTID": "Sannolikhet för lavin",
       "AvalTriggerSimpleTID": "Trolig belastning för att utlösa lavin",
-      "AvalancheExtTID": "Lavintyp",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Förväntad lavinstorlek",
       "ObsName": "Lavinproblem",
@@ -105,10 +105,10 @@
       "ObsName": "Utvärdering av lavinfara"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Svagt lager",
       "Avalanche": "Lavin",
       "AvalancheTID": "Lavintyp",
       "AvalancheTriggerTID": "Lavinen utlöst av",
+      "AvalCauseTID": "Svagt lager",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "lavinstorlek",
       "DtAvalancheTime": "Tid",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "Mätning i förhållande till",
       "MeasurementReferenceTName": "Vattenmärke på / i",
       "MeasurementTypeTName": "Mätinstrument",
-      "ObsName": "Vattennivå",
       "ObservationTimingTName": "Vad registrerar du?",
+      "ObsName": "Vattennivå",
       "WaterAstrayTName": "Finns det något vatten på väg?",
       "WaterLevelStateTName": "situationen",
       "WaterMarking": "Vattenmarkering",
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Sök",
-  "SearchResultOfTotal": "av",
   "Searching": "Söker, vänta",
+  "SearchResultOfTotal": "av",
   "ShowAllObservations": "Visa alla observationer",
   "ShowFilteredObservations": "Visa valda observationer",
   "ShowLess": "Visa färre",

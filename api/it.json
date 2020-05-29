@@ -67,12 +67,12 @@
       "ObsName": "Indizio di pericolo"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Tipo di valanga",
       "AvalCauseAttributeLightTID": "Propertà del strato debole non favoribili",
       "AvalCauseDepthTID": "Distanza dalla superfice allo strato debole",
       "AvalCauseTID": "Tipo di strato debole",
       "AvalProbabilityTID": "Probabilità di distacco",
       "AvalTriggerSimpleTID": "Sovraccarico aspettato per distacco valanghivo",
-      "AvalancheExtTID": "Tipo di valanga",
       "Comment": "Commento",
       "DestructiveSizeTID": "Dimensione aspettata della valanga",
       "ObsName": "Problema tipico",
@@ -105,10 +105,10 @@
       "ObsName": "Evaluazione pericolo valanghivo"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Strato debole",
       "Avalanche": "Valanga",
       "AvalancheTID": "Tipo",
       "AvalancheTriggerTID": "Causa di distacco",
+      "AvalCauseTID": "Strato debole",
       "Comment": "Commento",
       "DestructiveSizeTID": "Dimensioni",
       "DtAvalancheTime": "Ora",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "mesuramento relativo a",
       "MeasurementReferenceTName": "marcatura dell'acqua su/con",
       "MeasurementTypeTName": "Strumento di misura",
-      "ObsName": "Livello dell'acqua",
       "ObservationTimingTName": "Cosa registri?",
+      "ObsName": "Livello dell'acqua",
       "WaterAstrayTName": "C'è dell'acqua deviata?",
       "WaterLevelStateTName": "Situazione",
       "WaterMarking": "Marcatura dell'acqua",
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Cerca",
-  "SearchResultOfTotal": "di",
   "Searching": "attendere prego",
+  "SearchResultOfTotal": "di",
   "ShowAllObservations": "mostra tutte le osservazioni",
   "ShowFilteredObservations": "mostra osservazioni selezionati",
   "ShowLess": "mostra meno",
