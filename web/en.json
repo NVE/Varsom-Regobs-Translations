@@ -657,6 +657,7 @@
       "WaterLevelValue": "Value"
     },
     "WaterLevel2": {
+      "DescribeSituationQuestion": "How would you describe the situation?",
       "Comment": "Comment",
       "MeasuredRelativeTo": "Measurement relative to",
       "MeasurementReferenceTName": "Watermarking on/with",

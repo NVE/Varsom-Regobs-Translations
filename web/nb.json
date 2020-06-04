@@ -656,6 +656,7 @@
       "WaterLevelValue": "Størrelse"
     },
     "WaterLevel2": {
+      "DescribeSituationQuestion": "Hvordan vil du beskrive situasjonen?",
       "Comment": "Kommentar",
       "MeasuredRelativeTo": "Måling relativt til",
       "MeasurementReferenceTName": "Vannmarkering på/i",
