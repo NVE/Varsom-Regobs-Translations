@@ -62,7 +62,7 @@
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Antall",
   "CreateObservation": "Create observation",
-  "Date": "dato",
+  "Date": "Dato",
   "Delete": "Slett",
   "Dialogs": {
     "Buttons": {
@@ -296,9 +296,14 @@
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Skredutløser",
       "Comment": "Kommentar",
+      "DateWarning": "Dato er forskjellig fra observasjonstidspunktet",
       "DtAvalancheTime": "Tid",
+      "DuringTheDay": "I løpet av dagen",
+      "EstimatedTime": "Antatt tidsrom",
       "HeigthStartZone": "Høyde løsneområde",
+      "HowManyAvalanches": "Antall skred",
       "MetersOverSeaLevel": "moh",
+      "NoAvalancheActivity": "Ingen skredaktivitet observert",
       "NumberAndSize": "Antall og størrelse",
       "ObsName": "Skredaktivitet"
     },
@@ -379,6 +384,13 @@
       "TerrainStartZoneTID": "Terrengtype i løsneområdet",
       "TrajectoryName": "Skredbanenavn",
       "ValidExposition": "Eksposisjon"
+    },
+    "AvalancheProblem": {
+      "AvalancheTriggerProbability": "Utløsbarhet",
+      "AvalancheType": "Skredtype",
+      "NoWeakLayers": "Det finnes ikke svake lag",
+      "Propagation": "Utbredelse",
+      "WeakLayer": "Svakt lag"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -470,7 +482,6 @@
       "DamageExtentTName": "Omfang",
       "DtLandSlideTime": "Når skjedde skredet tidligst?",
       "DtLandSlideTimeEnd": "Når skjedde skredet senest?",
-      "DtLandSlideTimeWarning": "Advarsel! Dato er forskjellig fra observasjonstidspunktet",
       "ForecastAccurateTName": "Stemte varsel på varsom.no?",
       "InMap": "i kart",
       "LandSlideSizeTName": "Størrelse",
@@ -501,7 +512,15 @@
       "RegistrationTID": "Av"
     },
     "Shared": {
-      "Description": "Beskrivelse"
+      "Description": "Beskrivelse",
+      "ExposedHeight": {
+        "Height": "Høyde",
+        "LowerHeight": "Nedre høyde",
+        "Title": "Utsatt høyde"
+      },
+      "ValidExposition": {
+        "Title": "Eksposisjon"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
@@ -550,18 +569,6 @@
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
-      "Stratification": {
-        "CriticalLayer": "Kritisk lag",
-        "GrainFormPrimary": "Kornform",
-        "GrainFormSecondary": "Sek. kornform",
-        "GrainSizeAvg": "Kornstørrelse (mm)",
-        "GrainSizeAvgMax": "Max kornst. (mm)",
-        "Hardness": "Hardhet",
-        "HardnessBottom": "Nedre hardhet",
-        "Layer": "Lag",
-        "Thickness": "Tykkelse (cm)",
-        "Wetness": "Fuktighet"
-      },
       "SumOfAllLayers": "Summen av alle lag:",
       "TemperaturePlaceholder": "Temperatur (°C)",
       "TemperatureProfile": "Temperaturprofil",

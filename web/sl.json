@@ -41,7 +41,7 @@
   "CopiedToClipboard": "Povezava do opažanja skopirana v odložišče.",
   "CountOf": "Število",
   "CreateObservation": "Ustvari opažanje",
-  "Date": "datum",
+  "Date": "Datum",
   "Delete": "Izbriši",
   "Dialogs": {
     "Buttons": {
@@ -270,9 +270,14 @@
       "AvalancheTID": "Vrsta",
       "AvalancheTriggerTID": "Sprožilec",
       "Comment": "Komentar",
+      "DateWarning": "Datum se razlikuje od časa opazovanja",
       "DtAvalancheTime": "Čas",
+      "DuringTheDay": "Čez dan",
+      "EstimatedTime": "Ocenjen časovni okvir",
       "HeigthStartZone": "Višina cone proženja",
+      "HowManyAvalanches": "Število plazov",
       "MetersOverSeaLevel": "metrov nadmorske višine",
+      "NoAvalancheActivity": "Ni opažene plazovne aktivnosti",
       "NumberAndSize": "Število in velikost",
       "ObsName": "Plazovna aktivnost"
     },
@@ -298,7 +303,7 @@
       "AvalTriggerSimpleTID": "Pričakovana obremenitev, ki bi sprožila plaz",
       "AvalancheExtTID": "Vrsta",
       "Comment": "Comment",
-      "DestructiveSizeTID": "Velikost pričakovanega plazu",
+      "DestructiveSizeTID": "Pričakovana velikost plazu",
       "ObsName": "Ocena plazovnega problema",
       "PrevalenceArea": "Razširjenost problema"
     },
@@ -331,7 +336,7 @@
     "AvalancheObs": {
       "AvalCauseTID": "Šibka plast",
       "AvalancheTID": "Vrsta",
-      "AvalancheTriggerTID": "Sprožilec",
+      "AvalancheTriggerTID": "Sprožilec plazu",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
       "DtAvalancheTime": "Čas sprožitve (obvezno)",
@@ -345,6 +350,14 @@
       "TerrainStartZoneTID": "Tip terena na območju proženja",
       "TrajectoryName": "Pot plazu",
       "ValidExposition": "Izpostavljenost"
+    },
+    "AvalancheProblem": {
+      "AvalancheTriggerProbability": "Stabilnost snežne odeje",
+      "AvalancheType": "Tip plazu",
+      "NoWeakLayers": "Ni šibkih plasti",
+      "Propagation": "Prostorska porazdelitev",
+      "WeakLayer": "Šibka plast",
+      "WeakLayerDepth": "Globina šibke plasti"
     },
     "CompressionTest": {
       "Comment": "Komentar",
@@ -459,6 +472,16 @@
       "PictureComment": "Komentar",
       "RegistrationTID": "Slika od"
     },
+    "Shared": {
+      "ExposedHeight": {
+        "Height": "Višina",
+        "LowerHeight": "Spodnja višina",
+        "Title": "Izpostavljena višina"
+      },
+      "ValidExposition": {
+        "Title": "Usmerjenost pobočja"
+      }
+    },
     "SnowCover": {
       "CriticalLayer": "Šibka plast",
       "CriticalLayerFound": "Obstaja šibka plast.",
@@ -506,7 +529,6 @@
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
       "StratLayers": "Plasti",
-      "Stratification": {},
       "SumOfAllLayers": "Vsota vseh plasti:",
       "TemperaturePlaceholder": "Temperatura (°C)",
       "TemperatureProfile": "Temperaturni profil",

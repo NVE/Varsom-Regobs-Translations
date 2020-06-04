@@ -59,7 +59,7 @@
   "CopiedToClipboard": "Länk till observationen kopierad till urklipp.",
   "CountOf": "Antal",
   "CreateObservation": "Skapa observation",
-  "Date": "datum",
+  "Date": "Datum",
   "Delete": "Radera",
   "Dialogs": {
     "Buttons": {
@@ -289,9 +289,14 @@
       "AvalancheTID": "Typ",
       "AvalancheTriggerTID": "Lavinen utlöst av",
       "Comment": "Kommentar",
+      "DateWarning": "Datum skiljer sig från observationstiden",
       "DtAvalancheTime": "Tid",
+      "DuringTheDay": "Under dagen",
+      "EstimatedTime": "Uppskattad tidsram",
       "HeigthStartZone": "Höjd startzon",
+      "HowManyAvalanches": "Antal laviner",
       "MetersOverSeaLevel": "möh",
+      "NoAvalancheActivity": "Ingen lavinaktivitet observerad",
       "NumberAndSize": "Antal och storlek",
       "ObsName": "Lavin aktivitet"
     },
@@ -317,7 +322,7 @@
       "AvalTriggerSimpleTID": "Förväntad belastning för att utlösa laviner",
       "AvalancheExtTID": "Typ",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Storlek på förväntat laviner",
+      "DestructiveSizeTID": "Förväntad lavinstorlek",
       "ObsName": "Lavinproblem",
       "PrevalenceArea": "Utbredning"
     },
@@ -364,6 +369,14 @@
       "TerrainStartZoneTID": "Terräng i startzonen",
       "TrajectoryName": "Namn på lavinbana",
       "ValidExposition": "Väderstreck"
+    },
+    "AvalancheProblem": {
+      "AvalancheTriggerProbability": "Lavinproblemets känslighet",
+      "AvalancheType": "Lavintyp",
+      "NoWeakLayers": "Det finns inga svaga lager",
+      "Propagation": "Utbredning",
+      "WeakLayer": "Svagt lager",
+      "WeakLayerDepth": "Djup svagt lager"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -480,7 +493,15 @@
       "RegistrationTID": "Av"
     },
     "Shared": {
-      "Description": "Beskrivning"
+      "Description": "Beskrivning",
+      "ExposedHeight": {
+        "Height": "Höjd",
+        "LowerHeight": "Lägsta höjd",
+        "Title": "Exponerad höjd"
+      },
+      "ValidExposition": {
+        "Title": "Vädersträck"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Svagt lager",

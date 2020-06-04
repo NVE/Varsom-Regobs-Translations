@@ -59,6 +59,7 @@
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
+  "Date": "Datum",
   "Delete": "Löschen",
   "Dialogs": {
     "Buttons": {
@@ -287,9 +288,14 @@
       "AvalancheTID": "Art",
       "AvalancheTriggerTID": "Auslöseart",
       "Comment": "Kommentar",
+      "DateWarning": "Das Datum unterscheidet sich von der Beobachtungszeit",
       "DtAvalancheTime": "Zeit",
+      "DuringTheDay": "Während des Tages",
+      "EstimatedTime": "Geschätzter Zeitrahmen",
       "HeigthStartZone": "Starthöhe",
+      "HowManyAvalanches": "Anzahl der Lawinen",
       "MetersOverSeaLevel": "m ü.A.",
+      "NoAvalancheActivity": "Es wurde keine Lawinenaktivität beobachtet",
       "NumberAndSize": "Anzahl und Größe",
       "ObsName": "Lawinenaktivität"
     },
@@ -348,7 +354,7 @@
     "AvalancheObs": {
       "AvalCauseTID": "Schwachschicht",
       "AvalancheTID": "Art",
-      "AvalancheTriggerTID": "Auslöseart",
+      "AvalancheTriggerTID": "Auslöseempfindlichkeit",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe",
       "DtAvalancheTime": "Lawinenzeit (erforderlich)",
@@ -362,6 +368,14 @@
       "TerrainStartZoneTID": "Geländetyp im Anbruchgebiet",
       "TrajectoryName": "Name der Lawinenbahn",
       "ValidExposition": "Exposition"
+    },
+    "AvalancheProblem": {
+      "AvalancheTriggerProbability": "Auslöseempfindlichkeit",
+      "AvalancheType": "Lawinenart",
+      "NoWeakLayers": "Es gibt keine Schwachschichten",
+      "Propagation": "Räumliche Verteilung",
+      "WeakLayer": "Schwachschicht",
+      "WeakLayerDepth": "Schwachschichttiefe"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -476,6 +490,16 @@
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
       "RegistrationTID": "Bild von"
+    },
+    "Shared": {
+      "ExposedHeight": {
+        "Height": "Höhe",
+        "LowerHeight": "Niedrigere Höhe",
+        "Title": "Höhe"
+      },
+      "ValidExposition": {
+        "Title": "Aussehen"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Schwachschicht",
