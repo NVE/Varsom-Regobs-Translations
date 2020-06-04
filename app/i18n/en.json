@@ -144,10 +144,10 @@
     "START_WIZARD": "Start wizard",
     "SUPPORT_MAP_CREDITS": "Support maps provided by",
     "TILES": {
-      "ARC_GIS": "ArcGIS (world)",
+      "ARC_GIS": "ESRI World Topo (world)",
+      "GEODATA_LANDSKAP": "Geodata Topo (Norway)",
       "KARTVERKET": "Kartverket (Norway)",
-      "ONLY_KARTVERKET": "Kartverket (only Norway)",
-      "OPEN_TOPO": "OpenTopo (world)"
+      "OPEN_TOPO": "OpenTopoMap (world)"
     },
     "TIME_FRAME": "Period",
     "TODAYS_OBSERVATIONS": "Only todays",
