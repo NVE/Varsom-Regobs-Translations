@@ -1,276 +1,276 @@
 {
     "ActivityInfluencedKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_100": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_111": {
-        "translation": "Topptur",
+        "translation": "Scialpinismo",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_112": {
-        "translation": "Skidåkning i anläggning",
+        "translation": "Stazione sciistica",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_113": {
-        "translation": "Offpistskidåkning",
+        "translation": "Stazione di sci, fuori pista",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_114": {
-        "translation": "Turskidåkning",
+        "translation": "Sci di fondo",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_115": {
-        "translation": "Längdskidåkning",
+        "translation": "Sci di fondo",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_116": {
-        "translation": "Klättring",
+        "translation": "Arrampicata",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_117": {
-        "translation": "Vandring",
+        "translation": "A piedi",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_120": {
-        "translation": "Väg",
+        "translation": "Strada",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_130": {
-        "translation": "Snöskoteråkning",
+        "translation": "Motoslitta",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_140": {
-        "translation": "Järnväg",
+        "translation": "Ferrovia",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_160": {
-        "translation": "Hus",
+        "translation": "Edificio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_190": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_200": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_211": {
-        "translation": "Människor",
+        "translation": "Persone",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_220": {
-        "translation": "Väg",
+        "translation": "Strade",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_240": {
-        "translation": "Järnväg",
+        "translation": "Ferrovie",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_251": {
-        "translation": "Skogs- och jordbruksareal",
+        "translation": "Aree agricole",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_260": {
-        "translation": "Bebyggelse",
+        "translation": "Edifici",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_290": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_300": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_311": {
-        "translation": "Människor",
+        "translation": "Persone",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_320": {
-        "translation": "Väg",
+        "translation": "Strade",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_340": {
-        "translation": "Järnväg",
+        "translation": "Ferrovie",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_351": {
-        "translation": "Skogs- och jordbruksareal",
+        "translation": "Aree agricole",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_360": {
-        "translation": "Bebyggelse",
+        "translation": "Edifici",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_390": {
-        "translation": "Övrig",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_400": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_411": {
-        "translation": "Människor",
+        "translation": "Persone",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_420": {
-        "translation": "veg",
+        "translation": "Strade",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_440": {
-        "translation": "Järnväg",
+        "translation": "Ferrovie",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_451": {
-        "translation": "Skogs- och jordbruksareal",
+        "translation": "Aree agricole",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_460": {
-        "translation": "Bebyggelse",
+        "translation": "Edifici",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_490": {
-        "translation": "Övrig",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_500": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_600": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_610": {
-        "translation": "Fritidsaktivitet",
+        "translation": "Attività ricreativa",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_615": {
-        "translation": "Instrumentering",
+        "translation": "Strumentazione",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_620": {
-        "translation": "Väg",
+        "translation": "Strade",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_640": {
-        "translation": "Järnväg",
+        "translation": "Ferrovie",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_660": {
-        "translation": "Bebyggelse",
+        "translation": "Edifici",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_690": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_700": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_710": {
-        "translation": "Till fots",
+        "translation": "A piedi",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_711": {
-        "translation": "Skridskoåkare",
+        "translation": "Pattinaggio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_712": {
-        "translation": "Cross country ski",
+        "translation": "Sci di fondo",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_713": {
-        "translation": "Kiteskidåkning",
+        "translation": "Kite Ski",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_714": {
-        "translation": "Isfiskare",
+        "translation": "Pescatore sul ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_715": {
-        "translation": "Ridning / vagnar / släde",
+        "translation": "Equitazione o carri/slitta",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_716": {
-        "translation": "Hundspann",
+        "translation": "Slitta trainata da cani",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_717": {
-        "translation": "Rädda ett djur",
+        "translation": "Salva un animale",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_719": {
-        "translation": "Person skadad av islossning",
+        "translation": "Persona ferita dal disgelo",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_720": {
-        "translation": "Snöskoter på isen",
+        "translation": "Motoslitta sul ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_721": {
-        "translation": "Bil på isen",
+        "translation": "Auto sul ghiaccio",
         "notes": "",
         "limit": "30"
     },
@@ -280,67 +280,67 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_722_desc": {
-        "translation": "All Terrain Vehicle",
+        "translation": "Veicolo per tutti i terreni",
         "notes": "ATV",
         "limit": "1024"
     },
     "ActivityInfluencedKD_723": {
-        "translation": "Cykel",
+        "translation": "Bicicletta",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_724": {
-        "translation": "Motorcykel",
+        "translation": "Motocicletta",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_725": {
-        "translation": "Sparkstötting",
+        "translation": "Slittino",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_730": {
-        "translation": "Traktor på isen",
+        "translation": "Trattore sul ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_731": {
-        "translation": "Grävmaskin etc. på isen",
+        "translation": "Camion/scavatore sul ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_732": {
-        "translation": "Snow groomer / Belt wagon",
+        "translation": "Battipista / Carro a cinghia",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_735": {
-        "translation": "Flygplan / helikopter",
+        "translation": "Aereo / elicottero",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_772": {
-        "translation": "Isdrift",
+        "translation": "Disgelo primaverile",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_773": {
-        "translation": "Svallis/ovan isen",
+        "translation": "Alluvione congelata",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_774": {
-        "translation": "Drivis",
+        "translation": "Ghiaccio alla deriva",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_790": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "AnticipatedObservationTimeKD_0_desc": {
-        "translation": "Ej specificerat",
+        "translation": "Non specificato",
         "notes": "",
         "limit": "1024"
     },
@@ -405,552 +405,462 @@
         "limit": "1024"
     },
     "AreaUsageKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_10": {
-        "translation": "Friluftsområde",
+        "translation": "Area ricreativa",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_20": {
-        "translation": "Väg",
+        "translation": "Strada",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_30": {
-        "translation": "Skoterspår",
+        "translation": "Sentiero per altri veicoli",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_40": {
-        "translation": "Järnväg",
+        "translation": "Ferrovia",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_50": {
-        "translation": "Bebyggelse",
+        "translation": "Area edificata",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_90": {
-        "translation": "Övrig",
+        "translation": "Altro",
         "notes": "",
         "limit": "50"
     },
     "AreaUsageKD_99": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "50"
     },
     "AvalancheDangerKD_0": {
-        "translation": "0 Ej angivet",
+        "translation": "0 Non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalancheDangerKD_1": {
-        "translation": "1 Liten",
+        "translation": "1 Debole",
         "notes": "",
         "limit": "30"
     },
     "AvalancheDangerKD_2": {
-        "translation": "2 Måttlig",
+        "translation": "2 Moderato",
         "notes": "",
         "limit": "30"
     },
     "AvalancheDangerKD_3": {
-        "translation": "3 Betydande",
+        "translation": "3 Marcato",
         "notes": "",
         "limit": "30"
     },
     "AvalancheDangerKD_4": {
-        "translation": "4 Stor",
+        "translation": "4 Forte",
         "notes": "",
         "limit": "30"
     },
     "AvalancheDangerKD_5": {
-        "translation": "5 Extrem",
+        "translation": "5 Molto forte",
         "notes": "",
         "limit": "30"
     },
     "AvalancheExtKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_10": {
-        "translation": "Torr lössnölavin",
+        "translation": "Valanga di neve sciolta secca",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_15": {
-        "translation": "Våt lössnölavin",
+        "translation": "Neve sciolta bagnata",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_20": {
-        "translation": "Torr flaklavin",
+        "translation": "Valanga a lastroni asciutti",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_25": {
-        "translation": "Våt flaklavin",
+        "translation": "Valanga a lastroni bagnati",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_27": {
-        "translation": "Glid lavin",
+        "translation": "Valaga di slittamento",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_30": {
-        "translation": "Slask lavin",
+        "translation": "Valanga di neve bagnata",
         "notes": "",
         "limit": "100"
     },
     "AvalancheExtKD_40": {
-        "translation": "Hängdriva",
+        "translation": "Cornice",
         "notes": "",
         "limit": "100"
     },
     "AvalancheKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_11": {
-        "translation": "Våt lössnölavin",
+        "translation": "Neve sciolta bagnata",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_12": {
-        "translation": "Torr lössnölavin",
+        "translation": "Valanga di neve sciolta secca",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_21": {
-        "translation": "Våt flaklavin",
+        "translation": "Valanga a lastroni bagnati",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_22": {
-        "translation": "Torr flaklavin",
+        "translation": "Valanga a lastroni asciutti",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_27": {
-        "translation": "Glid lavin",
+        "translation": "Valaga di slittamento",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_30": {
-        "translation": "Slasklavin",
+        "translation": "Valanga di neve bagnata",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_40": {
-        "translation": "Hängdriva",
+        "translation": "Caduta cornice",
         "notes": "",
         "limit": "30"
     },
     "AvalancheKD_99": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_10": {
-        "translation": "Naturligt utlöst",
+        "translation": "Distacco naturale",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_22": {
-        "translation": "Fjärrutlöst",
+        "translation": "Distacco a distanza",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_23": {
-        "translation": "Lavin utlöst på testsluttning",
+        "translation": "Distacco pendio di test",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_25": {
-        "translation": "Utlöst med sprängämnen",
+        "translation": "Distacco da esplosivi",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_26": {
-        "translation": "Mänskligt utlöst",
+        "translation": "Distacco causa umano",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_27": {
-        "translation": "Utlöst av snöskoter",
+        "translation": "Distacco causa motoslitta",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTriggerKD_99": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "AvalancheTypeKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
     "AvalancheTypeKD_10": {
-        "translation": "Flaklavin",
+        "translation": "Valanga di lastra",
         "notes": "",
         "limit": "100"
     },
     "AvalancheTypeKD_20": {
-        "translation": "Lössnölavin",
+        "translation": "Valanga di neve sciolta",
         "notes": "",
         "limit": "100"
     },
     "AvalCauseAttributFlags_1": {
-        "translation": "Det svaga lagret kollapsar lätt och rent (sprickutbredning sker lätt).",
+        "translation": "Lo strato debole si frattura facilmente e con superfici pulite.",
         "notes": "",
         "limit": "1073741823"
     },
     "AvalCauseAttributFlags_2": {
-        "translation": "Det kollapsande svaga lagret är tunt <3 cm.",
+        "translation": "Lo strato debole che collassa è sottile < 3 cm.",
         "notes": "",
         "limit": "1073741823"
     },
     "AvalCauseAttributFlags_4": {
-        "translation": "Det överliggande lagret är mjuk",
+        "translation": "Lo strato sovrastante è morbida.",
         "notes": "",
         "limit": "1073741823"
     },
     "AvalCauseAttributFlags_8": {
-        "translation": "En stor och identifierbar kristall i det svaga skiktet.",
+        "translation": "Un cristallo grande e identificabile nello strato debole.",
         "notes": "",
         "limit": "1073741823"
     },
     "AvalCauseDepthKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalCauseDepthKD_1": {
-        "translation": "Inom en halv meter",
+        "translation": "Entro mezzo metro",
         "notes": "",
         "limit": "30"
     },
     "AvalCauseDepthKD_2": {
-        "translation": "Inom en meter",
+        "translation": "Entro un metro",
         "notes": "",
         "limit": "30"
     },
     "AvalCauseDepthKD_3": {
-        "translation": "Över en meter",
+        "translation": "Più di un metro",
         "notes": "",
         "limit": "30"
     },
     "AvalCauseKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "Not given",
         "limit": "100"
     },
     "AvalCauseKD_0_desc": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "Not given",
         "limit": "1024"
     },
     "AvalCauseKD_10": {
-        "translation": "Svagt lager av nysnö",
+        "translation": "Neve fresca debole sepolta",
         "notes": "Weak layer of new snow",
         "limit": "100"
     },
-    "AvalCauseKD_10_desc": {
-        "translation": "Svagt lager av nysnö",
-        "notes": "Buried weak layer of new snow",
-        "limit": "1024"
-    },
     "AvalCauseKD_11": {
-        "translation": "Svagt lager av rimfrost",
+        "translation": "Brina di superficie",
         "notes": "Weak layer of surface hoar",
         "limit": "100"
     },
-    "AvalCauseKD_11_desc": {
-        "translation": "Svagt lager av rimfrost",
-        "notes": "Buried weak layer of surface hoar",
-        "limit": "1024"
-    },
     "AvalCauseKD_13": {
-        "translation": "Svagt skikt av facetterad snö",
+        "translation": "Neve sfaccettata",
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
-    "AvalCauseKD_13_desc": {
-        "translation": "Svagt skikt av fasetterad snö",
-        "notes": "Buried weak layer of faceted snow near surface",
-        "limit": "1024"
-    },
     "AvalCauseKD_14": {
-        "translation": "Svaga bindningar mot skare",
+        "translation": "Scarso legame tra crosta e la neve sovrastante",
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
-    "AvalCauseKD_14_desc": {
-        "translation": "Svaga bindningar mot skare",
-        "notes": "Poor bonding between crust and overlying snow",
-        "limit": "1024"
-    },
     "AvalCauseKD_15": {
-        "translation": "Svaga bindningar i drevsnön",
+        "translation": "Scarso legame tra gli strati di neve ventata",
         "notes": "Poor bonding within windslab",
         "limit": "100"
     },
-    "AvalCauseKD_15_desc": {
-        "translation": "Svaga bindningar i drevsnön",
-        "notes": "Poor bonding between layers in wind deposited snow",
-        "limit": "1024"
-    },
     "AvalCauseKD_16": {
-        "translation": "Facetterad snö nära marken",
+        "translation": "Neve sfaccettata vicino al suolo",
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
-    "AvalCauseKD_16_desc": {
-        "translation": "Facetterad snö nära marken",
-        "notes": "Buried weak layer of faceted snow near the ground",
-        "limit": "1024"
-    },
     "AvalCauseKD_18": {
-        "translation": "Facetterad snö över skare",
+        "translation": "Neve sfaccettata su una crosta",
         "notes": "Faceted snow above a crust",
         "limit": "100"
     },
-    "AvalCauseKD_18_desc": {
-        "translation": "Facetterad snö över skare",
-        "notes": "Buried weak layer of faceted snow above a crust",
-        "limit": "1024"
-    },
     "AvalCauseKD_19": {
-        "translation": "Fasetterad snö under skare",
+        "translation": "Neve sfaccettata sotto una crosta",
         "notes": "Faceted snow beneath a crust",
         "limit": "100"
     },
-    "AvalCauseKD_19_desc": {
-        "translation": "Fasetterad snö under skare",
-        "notes": "Buried weak layer of faceted snow beneath a crust",
-        "limit": "1024"
-    },
     "AvalCauseKD_20": {
-        "translation": "Smälter nära marken",
+        "translation": "Neve bagnata / scioglimento vicino al suolo",
         "notes": "Melting near the ground",
         "limit": "100"
     },
-    "AvalCauseKD_20_desc": {
-        "translation": "Smälter nära marken",
-        "notes": "Wet snow/melting near the ground",
-        "limit": "1024"
-    },
     "AvalCauseKD_22": {
-        "translation": "Ackumulering av vatten över lager",
+        "translation": "Raccolta d'acqua sopra/in strati di neve",
         "notes": "Water pooling above snow layers",
         "limit": "100"
     },
-    "AvalCauseKD_22_desc": {
-        "translation": "Ackumulering av vatten över lager",
-        "notes": "Water pooling in/above snow layers",
-        "limit": "1024"
-    },
     "AvalCauseKD_24": {
-        "translation": "Obunden snö",
+        "translation": "Neve sciolta",
         "notes": "Loose snow",
         "limit": "100"
     },
-    "AvalCauseKD_24_desc": {
-        "translation": "Obunden snö",
-        "notes": "Loose snow",
-        "limit": "1024"
-    },
     "AvalProbabilityKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalProbabilityKD_2": {
-        "translation": "Osannolikt",
+        "translation": "Improbabile",
         "notes": "",
         "limit": "30"
     },
     "AvalProbabilityKD_3": {
-        "translation": "Möjligt",
+        "translation": "Possibile",
         "notes": "",
         "limit": "30"
     },
     "AvalProbabilityKD_5": {
-        "translation": "Trolig",
+        "translation": "Probabile",
         "notes": "",
         "limit": "30"
     },
     "AvalProbabilityKD_7": {
-        "translation": "Mycket trolig",
+        "translation": "Molto probabile",
         "notes": "",
         "limit": "30"
     },
     "AvalPropagationKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
     "AvalPropagationKD_1": {
-        "translation": "Isolerade branta sluttningar",
+        "translation": "Pochi pendii ripidi",
         "notes": "",
         "limit": "100"
     },
     "AvalPropagationKD_2": {
-        "translation": "Specifika branta sluttningar",
+        "translation": "Alcuni pendii ripidi",
         "notes": "",
         "limit": "100"
     },
     "AvalPropagationKD_3": {
-        "translation": "Utbredda branta sluttningar",
+        "translation": "Molti pendii ripidi",
         "notes": "",
         "limit": "100"
     },
     "AvalReleaseHeightKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalReleaseHeightKD_1": {
-        "translation": "I den nya snön",
+        "translation": "Nella neve fresca",
         "notes": "Avalanches will release in the new snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_1_desc": {
-        "translation": "Laviner kommer att gå in den nya snön.",
-        "notes": "In the new snow",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_2": {
-        "translation": "Mellan gammal och ny snö",
+        "translation": "Tra neve vecchia e neve fresca",
         "notes": "Avalanches will release between old and new snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_2_desc": {
-        "translation": "Laviner kommer att gå mellan gammal och nysnö.",
-        "notes": "Between old and new snow",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_3": {
-        "translation": "Vid marken",
+        "translation": "Al suolo",
         "notes": "Avalanches will release at the ground.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_3_desc": {
-        "translation": "Laviner kommer att gå vid marken.",
-        "notes": "At the ground",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_4": {
-        "translation": "I den gamla snön",
+        "translation": "Nella neve vecchia",
         "notes": "Avalanches will release in the old snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_4_desc": {
-        "translation": "Laviner kommer att gå i den gamla snön (under nysnön).",
-        "notes": "In the old snow",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_6": {
-        "translation": "Fuktigt hela vägen till marken",
+        "translation": "Tutto il manto nevoso è umido",
         "notes": "The whole snow cover is moist and unstable.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_6_desc": {
-        "translation": "Hela snötäcket är fuktigt och instabilt.",
-        "notes": "The snow cover is moist",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_7": {
-        "translation": "Snön är övermättad med vatten",
+        "translation": "Saturato con acqua",
         "notes": "The whole snow cover is over saturated with water and unstable.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_7_desc": {
-        "translation": "Laviner startat antagligen på grund av att det översta skiktet är genomblött av vatten, bindningarna i detta skikt har smält och skiktet blir således instabilt.",
-        "notes": "Saturated with water",
-        "limit": "1024"
-    },
     "AvalReleaseHeightKD_8": {
-        "translation": "Endast i gammal snö",
+        "translation": "Solo neve vecchia",
         "notes": "Avalanches will release in the old snow.",
         "limit": "30"
     },
-    "AvalReleaseHeightKD_8_desc": {
-        "translation": "Laviner kommer förmodligen att starta i den gamla snön.",
-        "notes": "Only old snow",
-        "limit": "1024"
-    },
     "AvalTriggerSimpleKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "AvalTriggerSimpleKD_22": {
-        "translation": "Naturligt utlöst",
+        "translation": "Distacco spontaneo",
         "notes": "",
         "limit": "30"
     },
     "AvalTriggerSimpleKD_30": {
-        "translation": "Mycket svårt att utlösa",
+        "translation": "Molto difficile a distaccare",
         "notes": "",
         "limit": "30"
     },
     "AvalTriggerSimpleKD_40": {
-        "translation": "Svårt att utlösa",
+        "translation": "Difficile a distaccare",
         "notes": "",
         "limit": "30"
     },
     "AvalTriggerSimpleKD_50": {
-        "translation": "Lätt att utlösa",
+        "translation": "Facile a distaccare",
         "notes": "",
         "limit": "30"
     },
     "AvalTriggerSimpleKD_60": {
-        "translation": "Mycket lätt att utlösa",
+        "translation": "Molto facile a distaccare",
         "notes": "",
         "limit": "30"
     },
     "CloudCoverKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
     "CloudCoverKD_10": {
-        "translation": "Klart väder",
+        "translation": "Cielo sereno",
         "notes": "",
         "limit": "100"
     },
     "CloudCoverKD_20": {
-        "translation": "Delvis molnigt",
+        "translation": "Parzialmente nuvoloso",
         "notes": "",
         "limit": "100"
     },
     "CloudCoverKD_30": {
-        "translation": "Molnigt",
+        "translation": "Nuvoloso",
         "notes": "",
         "limit": "100"
     },
     "CompetenceLevelKD_0": {
-        "translation": "Okänd",
+        "translation": "Sconosciuto",
         "notes": "Unknown competance.",
         "limit": "30"
     },
     "CompetenceLevelKD_0_desc": {
-        "translation": "Okänd kompetens.",
+        "translation": "Competenza sconosciuta.",
         "notes": "Unknown",
         "limit": "1024"
     },
@@ -960,7 +870,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_100_desc": {
-        "translation": "Okänd kompetens om snö.",
+        "translation": "Sconosciuto per la neve.",
         "notes": "-",
         "limit": "1024"
     },
@@ -970,7 +880,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_105_desc": {
-        "translation": "Automatiserad service.",
+        "translation": "Servizio automatico",
         "notes": "A",
         "limit": "1024"
     },
@@ -980,7 +890,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_110_desc": {
-        "translation": "Observatören har grundläggande färdigheter för att bedöma lavinfaran. Observatören är inte utbildad i hur regObs och Varsom kommunicerar lavinfara.",
+        "translation": "L'osservatore ha le competenze di base per valutare il pericolo di valanghe. L'osservatore non è istruito su come regObs e Varsom comunicano il pericolo di valanghe.",
         "notes": "*",
         "limit": "1024"
     },
@@ -990,7 +900,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_115_desc": {
-        "translation": "Erfaren observatör utan kurs. Observatören har erfarenhet av att bedöma lavinfara. Observatören är inte utbildad i hur regObs och Varsom kommunicerar lavinfara.",
+        "translation": "Osservatore esperto ma non istruito su come regObs e Varsom comunicano il pericolo di valanghe.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1000,7 +910,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_120_desc": {
-        "translation": "Observatören är utbildad och har avancerade färdigheter i att bedöma lavinfara. Observatören har en grundläggande kurs i hur regObs och Varsom kommunicerar lavinfara",
+        "translation": "L'osservatore è istruito e ha competenze avanzate nella valutazione del pericolo di valanghe. L'osservatore ha un corso base su come regObs e Varsom comunicano il pericolo di valanghe.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1010,7 +920,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_130_desc": {
-        "translation": "Observatör med avancerad observatörskurs. Observatören har mycket erfarenhet av att bedöma lavinrisk. Observatören har avancerade kurser eller liknande erfarenheter avseende användning av regObs och Varsom.",
+        "translation": "L'osservatore è istruito e ha competenze avanzate nella valutazione del pericolo di valanghe. L'osservatore ha un corso esteso su come regObs e Varsom comunicano il pericolo di valanghe.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1020,7 +930,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_150_desc": {
-        "translation": "Observatören tillhör en varningstjänst.",
+        "translation": "Observer è un prevvisorio delle valanghe.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1030,7 +940,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_200_desc": {
-        "translation": "Okänd kompetens.",
+        "translation": "Competenza sconosciuta.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1040,7 +950,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_210_desc": {
-        "translation": "Observatören har lämnat relevanta observationer.",
+        "translation": "L'osservatore ha presentato osservazioni pertinenti.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1050,7 +960,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_220_desc": {
-        "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Observer ha presentato osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1060,7 +970,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_230_desc": {
-        "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con diverse osservazioni pertinenti.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1070,7 +980,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_240_desc": {
-        "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con esperienza con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1080,7 +990,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_250_desc": {
-        "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista di NVE o equivalente con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1090,7 +1000,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_300_desc": {
-        "translation": "Okänd kompetens.",
+        "translation": "Competenza sconosciuta.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1100,7 +1010,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_310_desc": {
-        "translation": "Observatören har lämnat relevanta observationer.",
+        "translation": "L'osservatore ha presentato osservazioni pertinenti.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1110,7 +1020,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_320_desc": {
-        "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Observer ha presentato osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1120,7 +1030,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_330_desc": {
-        "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con diverse osservazioni pertinenti.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1130,7 +1040,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_340_desc": {
-        "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con esperienza con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1140,7 +1050,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_350_desc": {
-        "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista di NVE o equivalente con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1150,7 +1060,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_400_desc": {
-        "translation": "Okänd kompetens.",
+        "translation": "Competenza sconosciuta.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1160,7 +1070,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_410_desc": {
-        "translation": "Observatören har lämnat relevanta observationer.",
+        "translation": "L'osservatore ha presentato osservazioni pertinenti.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1170,7 +1080,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_420_desc": {
-        "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Observer ha presentato osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1180,7 +1090,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_430_desc": {
-        "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con diverse osservazioni pertinenti.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1190,7 +1100,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_440_desc": {
-        "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con esperienza con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1200,7 +1110,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_450_desc": {
-        "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista di NVE o equivalente con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1210,7 +1120,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_600_desc": {
-        "translation": "Okänd kompetens.",
+        "translation": "Competenza sconosciuta.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1220,7 +1130,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_610_desc": {
-        "translation": "Observatören har lämnat relevanta observationer.",
+        "translation": "L'osservatore ha presentato osservazioni pertinenti.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1230,7 +1140,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_620_desc": {
-        "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Observer ha presentato osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1240,7 +1150,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_630_desc": {
-        "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con diverse osservazioni pertinenti.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1250,7 +1160,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_640_desc": {
-        "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista con esperienza con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1260,7 +1170,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_650_desc": {
-        "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
+        "translation": "Professionista di NVE o equivalente con diverse osservazioni pertinenti con l'uso corretto dei moduli Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1270,7 +1180,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_700_desc": {
-        "translation": "Okänd på is.",
+        "translation": "Sconosciuto per il ghiaccio.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1280,7 +1190,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_710_desc": {
-        "translation": "Nybörjare.",
+        "translation": "Principiante.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1290,7 +1200,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_720_desc": {
-        "translation": "Erfaren observatör.",
+        "translation": "Osservatore con esperienza",
         "notes": "**",
         "limit": "1024"
     },
@@ -1300,7 +1210,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_730_desc": {
-        "translation": "Utbildad observatör med fält erfarenhet.",
+        "translation": "Osservatore istruito con esperienza sul campo.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1310,7 +1220,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_740_desc": {
-        "translation": "Utbildad personal.",
+        "translation": "Educato personale.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1320,12 +1230,12 @@
         "limit": "30"
     },
     "CompetenceLevelKD_750_desc": {
-        "translation": "Utbildad personal vid NV eller motsvarande.",
+        "translation": "Educato personale in NVE o eqivalente.",
         "notes": "*****",
         "limit": "1024"
     },
     "CompressionTestKD_0": {
-        "translation": "N/A",
+        "translation": "N/D",
         "notes": "",
         "limit": "30"
     },
@@ -1334,23 +1244,13 @@
         "notes": "Coloumn test",
         "limit": "30"
     },
-    "CompressionTestKD_1_desc": {
-        "translation": "Kompressionstest",
-        "notes": "CT",
-        "limit": "1024"
-    },
     "CompressionTestKD_2": {
         "translation": "ECT",
         "notes": "Extended coloumn test",
         "limit": "30"
     },
-    "CompressionTestKD_2_desc": {
-        "translation": "Utvidgat kompressionstest",
-        "notes": "ECT",
-        "limit": "1024"
-    },
     "ComprTestFractureKD_0": {
-        "translation": "Ej angivet",
+        "translation": "Non specificato",
         "notes": "",
         "limit": "30"
     },
@@ -1370,7 +1270,7 @@
         "limit": "30"
     },
     "CountryKD_0": {
-        "translation": "Not given",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
@@ -2080,7 +1980,7 @@
         "limit": "100"
     },
     "CountryKD_554": {
-        "translation": "New Zealand",
+        "translation": "Nuova Zelanda",
         "notes": "",
         "limit": "100"
     },
@@ -2365,7 +2265,7 @@
         "limit": "100"
     },
     "CountryKD_724": {
-        "translation": "Spain",
+        "translation": "Spania",
         "notes": "",
         "limit": "100"
     },
@@ -2400,7 +2300,7 @@
         "limit": "100"
     },
     "CountryKD_752": {
-        "translation": "Sweden",
+        "translation": "Svezia",
         "notes": "",
         "limit": "100"
     },
@@ -2460,7 +2360,7 @@
         "limit": "100"
     },
     "CountryKD_792": {
-        "translation": "Turkey",
+        "translation": "Turchia",
         "notes": "",
         "limit": "100"
     },
@@ -2490,17 +2390,17 @@
         "limit": "100"
     },
     "CountryKD_804": {
-        "translation": "Ukraine",
+        "translation": "Ucraina",
         "notes": "",
         "limit": "100"
     },
     "CountryKD_807": {
-        "translation": "The former Yugoslav Republic of Macedonia",
+        "translation": "L'ex Repubblica Iugoslava di Macedonia",
         "notes": "",
         "limit": "100"
     },
     "CountryKD_818": {
-        "translation": "Egypt",
+        "translation": "Egitto",
         "notes": "",
         "limit": "100"
     },
@@ -2525,7 +2425,7 @@
         "limit": "100"
     },
     "CountryKD_834": {
-        "translation": "United Republic of Tanzania",
+        "translation": "Repubblica Unita di Tanzania",
         "notes": "",
         "limit": "100"
     },
@@ -2535,12 +2435,12 @@
         "limit": "100"
     },
     "CountryKD_840": {
-        "translation": "United States",
+        "translation": "Stati Uniti",
         "notes": "",
         "limit": "100"
     },
     "CountryKD_850": {
-        "translation": "United States Virgin Islands",
+        "translation": "Isole Vergini degli Stati Uniti",
         "notes": "",
         "limit": "100"
     },
@@ -2570,7 +2470,7 @@
         "limit": "100"
     },
     "CountryKD_876": {
-        "translation": "Wallis and Futuna Islands",
+        "translation": "Isole Wallis e Futuna",
         "notes": "",
         "limit": "100"
     },
@@ -2605,533 +2505,522 @@
         "limit": "100"
     },
     "CriticalLayerKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "CriticalLayerKD_11": {
-        "translation": "Övre delen",
+        "translation": "Parte superiore",
         "notes": "",
         "limit": "30"
     },
     "CriticalLayerKD_12": {
-        "translation": "Nedre delen",
+        "translation": "Parte inferiore",
         "notes": "",
         "limit": "30"
     },
     "CriticalLayerKD_13": {
-        "translation": "Hela lagret",
+        "translation": "Intero strato",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_0": {
-        "translation": "Ej specificerat",
+        "translation": "Non specificato",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_10": {
-        "translation": "Ingen påverkan",
+        "translation": "Non ha influenzato nulla",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_13": {
-        "translation": "Initierad sökning och räddning",
+        "translation": "Ricerca e salvataggio avviati",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_15": {
-        "translation": "Trafiken hindras",
+        "translation": "Traffico interrotto",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_20": {
-        "translation": "Endast materiell skada",
+        "translation": "Solo danni materiali",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_25": {
-        "translation": "Evakuering",
+        "translation": "Evacuazione",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_27": {
-        "translation": "Ingen begravd, men nära",
+        "translation": "Nessuno sepolto, ma scampata",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_28": {
-        "translation": "Person begravd, utan skador",
+        "translation": "Persona sepolta, ma nessuna fe",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_30": {
-        "translation": "Personer skadade",
+        "translation": "Persone ferite",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_40": {
-        "translation": "Personer omkomna",
+        "translation": "Persone morte",
         "notes": "",
         "limit": "30"
     },
     "DamageExtentKD_99": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "30"
     },
     "DamageTypeKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_1": {
-        "translation": "Byggnader och ägodelar",
+        "translation": "Edifici e proprietà",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_2": {
-        "translation": "Infrastruktur",
+        "translation": "Infrastruttura",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_3": {
-        "translation": "Odlad mark",
+        "translation": "Terreno coltivato",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_4": {
-        "translation": "Annan mark",
+        "translation": "Terreno periferico",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_5": {
-        "translation": "Person/personer",
+        "translation": "Persona/persone",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_6": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "1024"
     },
     "DamageTypeKD_7": {
-        "translation": "Ingen skada observerad",
+        "translation": "Nessun danno osservato",
         "notes": "",
         "limit": "1024"
     },
     "DangerSignKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_1": {
-        "translation": "Inga tecken på lavinfara",
+        "translation": "Nessun segno di pericolo",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_2": {
-        "translation": "Färska laviner",
+        "translation": "Valanghe recenti",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_200": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_201": {
-        "translation": "Inga tecken på fara",
+        "translation": "Nessun segno di pericolo",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_202": {
-        "translation": "Kraftigt regn",
+        "translation": "Piogge intense",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_203": {
-        "translation": "Intensiv snösmältning",
+        "translation": "Intenso scioglimento di neve",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_204": {
-        "translation": "Ytvatten i terrängen",
+        "translation": "Deflusso superficiale",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_205": {
-        "translation": "Otillräcklig dränering",
+        "translation": "Drenaggio insufficiente",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_206": {
-        "translation": "Högt vattenflöde",
+        "translation": "Acqua alta in torrenti/fiumi",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_207": {
-        "translation": "Jordfärgade bäckar/älvar",
+        "translation": "Flussi/fiumi di colore marrone",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_208": {
-        "translation": "Sprickor/krypning i terräng",
+        "translation": "Crepe/scorrimento nel terreno",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_209": {
-        "translation": "Observerat jordskred",
+        "translation": "Frana osservata",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_212": {
-        "translation": "Snötäcke med mycket vatten",
+        "translation": "Manto nevoso con molta acqua",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_214": {
-        "translation": "Bäckar hittar nya vägar",
+        "translation": "Flussi trovano nuovi percorsi",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_222": {
-        "translation": "Rörelse i jordskredskanten",
+        "translation": "Movimento nel margine della fr",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_223": {
-        "translation": "\"Lutande träd\"",
+        "translation": "Alberi pendenti",
         "notes": "",
         "limit": "30"
     },
-    "DangerSignKD_223_desc": {
-        "translation": "Träd som böjs",
-        "notes": "Leaning trees",
-        "limit": "1024"
-    },
     "DangerSignKD_230": {
-        "translation": "Erosion längs bäckar/älvar",
+        "translation": "Erosione lungo torrenti/fiumi",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_299": {
-        "translation": "Andra tecken på fara",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_3": {
-        "translation": "Whumpf-ljud",
+        "translation": "Suono di Whumpf",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_4": {
-        "translation": "Färska sprickor",
+        "translation": "Crepe recenti",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_5": {
-        "translation": "Stort snöfall",
+        "translation": "Grande nevicata",
         "notes": "Brukes i elrapp",
         "limit": "30"
     },
-    "DangerSignKD_5_desc": {
-        "translation": "Används i elrapp",
-        "notes": "Large snowfall",
-        "limit": "1024",
-        "context": "elrapp is a norwegian app for the public road administration that has an integration against regobs."
-    },
     "DangerSignKD_600": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_601": {
-        "translation": "Inga tecken på fara",
+        "translation": "Nessun segno di pericolo",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_611": {
-        "translation": "Is blockerad vattendrag",
+        "translation": "Ghiaccio blocca la via d'acqua",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_612": {
-        "translation": "Sediment blockerar vattendrag",
+        "translation": "Sedimenti nelle vie d'acqua",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_621": {
-        "translation": "Måttlig vattennivåökning",
+        "translation": "Aumento moderato del livello",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_622": {
-        "translation": "Kraftig vattennivåökning",
+        "translation": "Aumento rapido del livello",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_623": {
-        "translation": "Hög vattennivå/översvämning",
+        "translation": "Acqua alta. Allagamento.",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_699": {
-        "translation": "Annat (skriv kommentar)",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_7": {
-        "translation": "Snabb temperaturökning",
+        "translation": "Riscaldamento rapido",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_700": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_701": {
-        "translation": "Inga tecken på fara",
+        "translation": "Nessun segno di pericolo",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_705": {
-        "translation": "Tunn isbeläggning",
+        "translation": "Copertura di ghiaccio sottile",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_711": {
-        "translation": "Isen har lossnat från land",
+        "translation": "Ghiaccio rilasciato dalla riva",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_712": {
-        "translation": "Inloppet är isfritt",
+        "translation": "Immissario privo di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_713": {
-        "translation": "Utloppet är isfritt",
+        "translation": "Emissario privo di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_714": {
-        "translation": "Stora sprickor eller råkar",
+        "translation": "Grandi crepe o canali aperti",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_720": {
-        "translation": "Kraftigt översvämmad is",
+        "translation": "Ghiaccio pesantemente allagato",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_730": {
-        "translation": "Ökat vattenflöde",
+        "translation": "Aumento dello scarico",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_799": {
-        "translation": "Annat (skriv kommentar)",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_8": {
-        "translation": "Mycket vatten i snön",
+        "translation": "Molta acqua nella neve",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_9": {
-        "translation": "Färsk drevsnö",
+        "translation": "Neve ventata recentemente",
         "notes": "",
         "limit": "30"
     },
     "DangerSignKD_99": {
-        "translation": "Annat (skriv kommentar)",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "DestructiveSizeKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "DestructiveSizeKD_1": {
-        "translation": "1 - Små",
+        "translation": "1 - Piccolo",
         "notes": "Minimal danger of burying (danger of falling)",
         "limit": "30"
     },
     "DestructiveSizeKD_1_desc": {
-        "translation": "Minimal fara för att begrava en människa (risk för att falla)",
+        "translation": "Relativamente innocua per le persone, seppellimento improbabile.",
         "notes": "1 - Small",
         "limit": "1024"
     },
     "DestructiveSizeKD_2": {
-        "translation": "2 - Medel",
+        "translation": "2 - Medio",
         "notes": "Could bury, injure or kill a person",
         "limit": "30"
     },
     "DestructiveSizeKD_2_desc": {
-        "translation": "Kan begrava, skada eller döda en människa",
+        "translation": "Può seppellire, ferire o causare la morte di persone.",
         "notes": "2 - Medium",
         "limit": "1024"
     },
     "DestructiveSizeKD_3": {
-        "translation": "3 - Stor",
+        "translation": "3 - Grande",
         "notes": "Could bury and destroy a car, damage a truck; destroy a small building or break a few trees",
         "limit": "30"
     },
     "DestructiveSizeKD_3_desc": {
-        "translation": "Kan begrava och förstöra bilar, förstöra hus eller bryta träd",
+        "translation": "Può seppellire e distruggere automobili, danneggiare autocarri. Può distruggere piccoli edifici e piegare alberi isolati.",
         "notes": "3 - Large",
         "limit": "1024"
     },
     "DestructiveSizeKD_4": {
-        "translation": "4 - Mycket stor",
+        "translation": "4 - Molto grande",
         "notes": "Could bury and destroy a railway car, large truck, several buildings or a piece of forest",
         "limit": "30"
     },
     "DestructiveSizeKD_4_desc": {
-        "translation": "Kan förstöra tåg, flera hus eller skog",
+        "translation": "Può seppellire e distruggere autocarri pesanti e vagoni ferroviari. Può distruggere edifici più grandi e parti del bosco.",
         "notes": "4 - Very large",
         "limit": "1024"
     },
     "DestructiveSizeKD_5": {
-        "translation": "5 - Extremt stor",
+        "translation": "5 - dimensioni estreme",
         "notes": "Could gouge the landscape; disastrous damage potential",
         "limit": "30"
     },
     "DestructiveSizeKD_5_desc": {
-        "translation": "Stor potential för skador. Kan ändra landskap, förstöra bebyggelse och skogar",
+        "translation": "Può devastare il paesaggio, ha un potenziale distruttivo catastrofico.",
         "notes": "5 - Extremely large",
         "limit": "1024"
     },
     "DestructiveSizeKD_9": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_1": {
-        "translation": "Ingen lavinaktivitet",
+        "translation": "Nessuna attività valanghiva",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_2": {
-        "translation": "En (1)",
+        "translation": "Uno (1)",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_3": {
-        "translation": "Få (2-5)",
+        "translation": "Pochi (2-5)",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_4": {
-        "translation": "Flera (6-10)",
+        "translation": "Diversi (6-10)",
         "notes": "",
         "limit": "30"
     },
     "EstimatedNumKD_5": {
-        "translation": "Många (10 eller mer)",
+        "translation": "Numerosi (10 o più)",
         "notes": "",
         "limit": "30"
     },
     "ExposedClimateKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ExposedClimateKD_1": {
-        "translation": "På/nära fastlandet",
+        "translation": "Nell'entroterra",
         "notes": "",
         "limit": "30"
     },
     "ExposedClimateKD_2": {
-        "translation": "Havsnära",
+        "translation": "Aree costiere",
         "notes": "",
         "limit": "30"
     },
     "ExposedHeightComboKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ExposedHeightComboKD_1": {
-        "translation": "Vitt i botten",
+        "translation": "Bianco nella parte inferiore",
         "notes": "",
         "limit": "30"
     },
     "ExposedHeightComboKD_2": {
-        "translation": "Svart i botten",
+        "translation": "Nero nella parte inferiore",
         "notes": "",
         "limit": "30"
     },
     "ExposedHeightComboKD_3": {
-        "translation": "Vitt i mitten",
+        "translation": "Bianco nella parte media",
         "notes": "",
         "limit": "30"
     },
     "ExposedHeightComboKD_4": {
-        "translation": "Svart i mitten",
+        "translation": "Nero nella parte media",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_0": {
-        "translation": "Ej specificerat",
+        "translation": "Non specificato",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_1": {
-        "translation": "Ingen prognos utfärdad",
+        "translation": "Previsione non data",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_2": {
-        "translation": "Prognos för låg",
+        "translation": "Previsione troppo bassa",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_3": {
-        "translation": "Prognos stämmer",
+        "translation": "Previsione corretta",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_4": {
-        "translation": "Prognos för hög",
+        "translation": "Previsione troppo alta",
         "notes": "",
         "limit": "30"
     },
     "ForecastAccurateKD_9": {
-        "translation": "Varningen är inte känd",
+        "translation": "Bollettino sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "ForecastCorrectKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "ForecastCorrectKD_1": {
-        "translation": "Prognosen är korrekt",
+        "translation": "Livello pericolo corretto",
         "notes": "",
         "limit": "30"
     },
     "ForecastCorrectKD_2": {
-        "translation": "Prognosen är för låg",
+        "translation": "Livello pericolo troppo basso",
         "notes": "",
         "limit": "30"
     },
     "ForecastCorrectKD_3": {
-        "translation": "Prognosen är för hög",
+        "translation": "Livello pericolo troppo alto",
         "notes": "",
         "limit": "30"
     },
     "ForecastRegionTypeKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
@@ -3141,7 +3030,7 @@
         "limit": "100"
     },
     "ForecastRegionTypeKD_10_desc": {
-        "translation": "A region",
+        "translation": "Regione A",
         "notes": "A",
         "limit": "1024"
     },
@@ -3151,7 +3040,7 @@
         "limit": "100"
     },
     "ForecastRegionTypeKD_20_desc": {
-        "translation": "B region",
+        "translation": "Regione B",
         "notes": "B",
         "limit": "1024"
     },
@@ -3161,7 +3050,7 @@
         "limit": "100"
     },
     "ForecastRegionTypeKD_30_desc": {
-        "translation": "Länsregion",
+        "translation": "Regione",
         "notes": "C",
         "limit": "1024"
     },
@@ -3171,107 +3060,107 @@
         "limit": "100"
     },
     "ForecastRegionTypeKD_90_desc": {
-        "translation": "H region",
+        "translation": "Regione H",
         "notes": "H",
         "limit": "1024"
     },
     "GeoHazardKD_0": {
-        "translation": "Ej specificerat",
+        "translation": "Non specificato",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_10": {
-        "translation": "Snö",
+        "translation": "Neve",
         "notes": "Avalanche",
         "limit": "30"
     },
     "GeoHazardKD_10_desc": {
-        "translation": "Lavin",
+        "translation": "Valanga",
         "notes": "Snow",
         "limit": "1024"
     },
     "GeoHazardKD_100": {
-        "translation": "Händelse på glaciärer",
+        "translation": "Evento su ghiacciaio",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_110": {
-        "translation": "Jökellopp",
+        "translation": "Jøkulhlaup",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_20": {
-        "translation": "Jord",
+        "translation": "Suolo",
         "notes": "Earth slide",
         "limit": "30"
     },
     "GeoHazardKD_20_desc": {
-        "translation": "Jordskred",
+        "translation": "Scivolo di terra",
         "notes": "Soil",
         "limit": "1024"
     },
     "GeoHazardKD_200": {
-        "translation": "Torka",
+        "translation": "Siccità",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_30": {
-        "translation": "Våt jord",
+        "translation": "Terreno bagnato",
         "notes": "Flood slide",
         "limit": "30"
     },
     "GeoHazardKD_30_desc": {
-        "translation": "Översvämningskred",
+        "translation": "Frana a causa di alluvione",
         "notes": "Wet soil",
         "limit": "1024"
     },
     "GeoHazardKD_33": {
-        "translation": "Lera",
+        "translation": "Argilla",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_36": {
-        "translation": "Slask",
+        "translation": "Neve bagnata",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_40": {
-        "translation": "Sten",
+        "translation": "Roccia",
         "notes": "Rock fall",
         "limit": "30"
     },
     "GeoHazardKD_40_desc": {
-        "translation": "Stenslag",
+        "translation": "Caduta massi",
         "notes": "Rock",
         "limit": "1024"
     },
     "GeoHazardKD_50": {
-        "translation": "Isras",
+        "translation": "Caduta di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "GeoHazardKD_60": {
-        "translation": "Vatten",
+        "translation": "Acqua",
         "notes": "Flooding",
         "limit": "30"
     },
     "GeoHazardKD_60_desc": {
-        "translation": "Översvämning",
+        "translation": "Alluvioni",
         "notes": "Water",
         "limit": "1024"
     },
     "GeoHazardKD_70": {
-        "translation": "Is",
+        "translation": "Ghiaccio",
         "notes": "Weak ice",
         "limit": "30"
     },
     "GeoHazardKD_70_desc": {
-        "translation": "Försvagad is",
+        "translation": "Ghiaccio debole",
         "notes": "Ice",
         "limit": "1024"
     },
     "GeoHazardKD_999": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
@@ -3511,7 +3400,7 @@
         "limit": "30"
     },
     "HardnessKD_0": {
-        "translation": " - ",
+        "translation": "-",
         "notes": "",
         "limit": "30"
     },
@@ -3591,7 +3480,7 @@
         "limit": "30"
     },
     "HardnessKD_4": {
-        "translation": " F-4F",
+        "translation": "F-4F",
         "notes": "",
         "limit": "30"
     },
@@ -3621,348 +3510,348 @@
         "limit": "30"
     },
     "IceCapacityKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_10": {
-        "translation": "Liten fara att gå igenom",
+        "translation": "Poco pericolo che il ghiaccio ",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_20": {
-        "translation": "Normal fara att gå igenom",
+        "translation": "Pericolo normale che il ghiacc",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_30": {
-        "translation": "Stor fara att gå igenom",
+        "translation": "Grande pericolo che il ghiacci",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_40": {
-        "translation": "Isen håller inte för en person",
+        "translation": "Il ghiaccio non trattiene una ",
         "notes": "",
         "limit": "30"
     },
     "IceCoverAfterKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceCoverAfterKD_10": {
-        "translation": "Isfritt resten av vintern",
+        "translation": "Nessun ghiaccio dopo questo",
         "notes": "Used to tell that this season has a confirmed end.",
         "limit": "30"
     },
     "IceCoverAfterKD_10_desc": {
-        "translation": "Används för att säkerställa att den här säsongen är komplett i avslutningsfasen",
+        "translation": "Usato per dire che questa stagione ha una fine confermata.",
         "notes": "No ice after this date",
         "limit": "1024"
     },
     "IceCoverAfterKD_4": {
-        "translation": "Gradvis hel isbeläggning",
+        "translation": "Gelamento graduale completo",
         "notes": "Used at stations giving \"Ice build up\", but not \"Completely ice covered\"",
         "limit": "30"
     },
     "IceCoverAfterKD_4_desc": {
-        "translation": "Används på stationer som bara anger \"isbeläggning\" utan något datum för helt isbelagt, men vanligtvis isbeläggs det fort.",
+        "translation": "Utilizzato alle stazioni che danno \"accumulo di ghiaccio\", ma non \"completamente coperto di ghiaccio\"",
         "notes": "Gradually complete ice cover",
         "limit": "1024"
     },
     "IceCoverAfterKD_5": {
-        "translation": "Gradvis islossning",
+        "translation": "Disgelo graduale del ghiaccio",
         "notes": "Used at stations giving \"Ice break-up\", but not \"Free of ice\"",
         "limit": "30"
     },
     "IceCoverAfterKD_5_desc": {
-        "translation": "Används på stationer som bara anger \"Islossning\" men inte när den var isfri.",
+        "translation": "Utilizzato nelle stazioni che danno \"Rottura del ghiacci\", ma non \"Niente ghiaccio\"",
         "notes": "Gradually ice break-up",
         "limit": "1024"
     },
     "IceCoverAfterKD_99": {
-        "translation": "Okända förhållanden efter dett",
+        "translation": "Condizioni sconosciute dopo qu",
         "notes": "",
         "limit": "30"
     },
     "IceCoverBeforeKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceCoverBeforeKD_1": {
-        "translation": "Isfritt, nu först vid mätplats",
+        "translation": "Oggi primo ghiaccio sul sito",
         "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
         "limit": "30"
     },
     "IceCoverBeforeKD_1_desc": {
-        "translation": "Ingen is på mätplatsen före idag. Det kan ha varit is längs stranden. Mätplatsen är vanligtvis något ute på vattnet.",
+        "translation": "Nessun ghiaccio sul posto prima di oggi. Potrebbe esserci stato ghiaccio lungo la riva. \"Sito\" è generalmente un punto virtuale sul lago lontano dalla riva.",
         "notes": "No ice, now first ice at site",
         "limit": "1024"
     },
     "IceCoverBeforeKD_10": {
-        "translation": "Sista obs giltig tills igår",
+        "translation": "Ultima osservazione valida fin",
         "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
         "limit": "30"
     },
     "IceCoverBeforeKD_10_desc": {
-        "translation": "Kontinuerliga observationer. Vi kan anta att istäcket från tidigare observationer är giltigt fram till idag. Idag är ett nytt värde (eller samma istäcke)",
+        "translation": "Continua osservazione. Si può supporre che la copertura di ghiaccio dalla precedente osservazione è valida fino a ieri. Oggi è un nuovo valore (o la stessa copertura di ghiaccio)",
         "notes": "Last obs valid until yesterday",
         "limit": "1024"
     },
     "IceCoverBeforeKD_2": {
-        "translation": "Förr ingen is, nu vid stranden",
+        "translation": "Oggi primo ghiaccio a riva",
         "notes": "No ice along the shore before today.",
         "limit": "30"
     },
     "IceCoverBeforeKD_2_desc": {
-        "translation": "Ingen is hittills den här säsongen. Idag är längs land.",
+        "translation": "Niente ghiaccio lungo la riva prima di oggi.",
         "notes": "No ice, now first ice at shore",
         "limit": "1024"
     },
     "IceCoverBeforeKD_3": {
-        "translation": "Förr ingen is, så även idag",
+        "translation": "Niente ghiaccio, compreso oggi",
         "notes": "No ice this winter season, not even today.",
         "limit": "30"
     },
     "IceCoverBeforeKD_3_desc": {
-        "translation": "Ingen is hittills den här säsongen, även i dag är den isfri.",
+        "translation": "Niente ghiaccio in questa stagione invernale, nemmeno oggi.",
         "notes": "No ice so far, including today",
         "limit": "1024"
     },
     "IceCoverBeforeKD_99": {
-        "translation": "Avbrott - Okänd tills nu",
+        "translation": "Pausa - Sconosciuto fin'oggi",
         "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
         "limit": "30"
     },
     "IceCoverBeforeKD_99_desc": {
-        "translation": "Avbrått i mätningarna. Isförhållandena från föregående mätning är troligtvis inte giltiga till igår.",
+        "translation": "Interruzione delle misurazioni. La copertura di ghiaccio della precedente osservazione non è probabilmente valida fino a ieri.",
         "notes": "Break - Unknown until today",
         "limit": "1024"
     },
     "IceCoverKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_1": {
-        "translation": "Isfritt vid mätpunkten",
+        "translation": "Nessun ghiaccio al sito",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_10": {
-        "translation": "Islossning längs land",
+        "translation": "Rottura del ghiaccio lungo la ",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_11": {
-        "translation": "Is längs land",
+        "translation": "Ghiaccio lungo la riva",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_2": {
-        "translation": "Delvis istäckt vid mätpunkten",
+        "translation": "Sito parzialmente ghiacciato",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_20": {
-        "translation": "Hela sjön isfri",
+        "translation": "Nessun ghiaccio sul lago",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_21": {
-        "translation": "Hela sjön istäckt",
+        "translation": "Lago coperto di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_3": {
-        "translation": "Helt istäckt vid mätpunkten",
+        "translation": "Sito coperto di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_40": {
-        "translation": "Isrörelse i älv",
+        "translation": "Disgelo primaverile",
         "notes": "",
         "limit": "30",
         "context": "When large pieces of ice breaks up and follows the currents. This can create ice dams."
     },
     "IceCoverKD_41": {
-        "translation": "Drivande kravis på älven",
+        "translation": "Ghiaccio a pezzetti sul fiume",
         "notes": "",
         "limit": "30"
     },
     "IceCoverKD_99": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_0": {
-        "translation": "Ej angivet",
+        "translation": "Non dato",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_1": {
-        "translation": "Kärnis",
+        "translation": "Ghiaccio nero",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_11": {
-        "translation": "Kärnis under nedbrytning",
+        "translation": "Ghiaccio nero in decomposizion",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_13": {
-        "translation": "Stöpis under nedbrytning",
+        "translation": "Ghiaccio da neve in decomposiz",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_14": {
-        "translation": "Pipis (våris)",
+        "translation": "Ghiaccio colonnare (primavera)",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_3": {
-        "translation": "Stöpis",
+        "translation": "Ghiaccio di neve",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_5": {
-        "translation": "Vatten/issörja (mellan lager)",
+        "translation": "Acqua/neve bagnata",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_7": {
-        "translation": "Troligtvis stöpis + kärnis",
+        "translation": "Credo nevato e ghiaccio nero",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_9": {
-        "translation": "Kravis",
+        "translation": "Pezzetti di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "IceLayerKD_99": {
-        "translation": "Annat (specificera)",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_10": {
-        "translation": "Drivis/ispropp",
+        "translation": "Blocco di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_20": {
-        "translation": "Svallis/ovan isen",
+        "translation": "Alluvione congelata",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_30": {
-        "translation": "Isdammar",
+        "translation": "Diga di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_40": {
-        "translation": "Kravis fryser på inloppsgaller",
+        "translation": "Ghiaccio a pezzetti sulla grig",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_50": {
-        "translation": "Kravis samlas under isen",
+        "translation": "Ghiaccio a pezzetti bloccati",
         "notes": "",
         "limit": "30"
     },
     "IceProblemKD_99": {
-        "translation": "Annat (skriv kommentar)",
+        "translation": "Altro (usa commento)",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_10": {
-        "translation": "Ej åkbar",
+        "translation": "Non pattinabile",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_20": {
-        "translation": "Tvivelaktiga förhållanden",
+        "translation": "Pattinabilità discutibile",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_30": {
-        "translation": "Normala förhållanden",
+        "translation": "Pattinabilità buona",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_40": {
-        "translation": "Mycket goda förhållanden",
+        "translation": "Ottima pattinabilità",
         "notes": "",
         "limit": "30"
     },
     "IceSkateabilityKD_50": {
-        "translation": "Drömförhållanden",
+        "translation": "Come un sogno",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_1": {
-        "translation": "Utglidning",
+        "translation": "Frana poco profonda",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_10": {
-        "translation": "Kvicklera-skred",
+        "translation": "Frana di argilla rapida",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_11": {
-        "translation": "Stenras",
+        "translation": "Frana di rocce",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_2": {
-        "translation": "Jordskred",
+        "translation": "Frana di detriti",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_4": {
-        "translation": "Vattenskred",
+        "translation": "Flusso di detriti",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_6": {
-        "translation": "Stenslag",
+        "translation": "Caduta di roccia",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_7": {
-        "translation": "Slaskflöde",
+        "translation": "Frana di neve bagnata",
         "notes": "",
         "limit": "30"
     },
     "LandSlideKD_8": {
-        "translation": "Lerskred",
+        "translation": "Frana di argilla",
         "notes": "",
         "limit": "30"
     },
     "LandSlideSizeKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "LandSlideSizeKD_1": {
-        "translation": "<100 m3",
+        "translation": "< 100 m3",
         "notes": "",
         "limit": "30"
     },
@@ -3972,37 +3861,37 @@
         "limit": "30"
     },
     "LandSlideSizeKD_3": {
-        "translation": ">10000 m3",
+        "translation": "> 10000 m3",
         "notes": "",
         "limit": "30"
     },
     "LandSlideSizeKD_9": {
-        "translation": "Okänd storlek",
+        "translation": "Altro (prego specificare)",
         "notes": "",
         "limit": "30"
     },
     "LandSlideTriggerKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "LandSlideTriggerKD_1": {
-        "translation": "Naturlig utlöst",
+        "translation": "Staccato naturalmente",
         "notes": "",
         "limit": "30"
     },
     "LandSlideTriggerKD_2": {
-        "translation": "Grävning i området",
+        "translation": "Scavo nella zona",
         "notes": "",
         "limit": "30"
     },
     "LandSlideTriggerKD_3": {
-        "translation": "Dräneringsfel",
+        "translation": "Problemi nel drenaggio",
         "notes": "",
         "limit": "30"
     },
     "LandSlideTriggerKD_9": {
-        "translation": "Annat (skriv kommentar)",
+        "translation": "Altro (commento)",
         "notes": "",
         "limit": "30"
     },
@@ -4012,322 +3901,302 @@
         "limit": "30"
     },
     "LayerOfConcernKD_1": {
-        "translation": "Övre delen",
+        "translation": "Parte superiore",
         "notes": "",
         "limit": "30"
     },
     "LayerOfConcernKD_2": {
-        "translation": "Nedre delen",
+        "translation": "Parte inferiore",
         "notes": "",
         "limit": "30"
     },
     "LayerOfConcernKD_3": {
-        "translation": "Hela lagret",
+        "translation": "Intero strato",
         "notes": "",
         "limit": "30"
     },
     "MarkingReferenceKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "MarkingReferenceKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "MarkingReferenceKD_1": {
-        "translation": "i terrängen",
+        "translation": "nel terreno",
         "notes": "Terrain",
         "limit": "100"
     },
     "MarkingReferenceKD_1_desc": {
-        "translation": "terrängen",
+        "translation": "Terreno",
         "notes": "in terrain",
         "limit": "1024"
     },
     "MarkingReferenceKD_2": {
-        "translation": "på bro",
+        "translation": "su un ponte",
         "notes": "Bridge",
         "limit": "100"
     },
     "MarkingReferenceKD_2_desc": {
-        "translation": "Bro",
+        "translation": "Ponte",
         "notes": "on bridge",
         "limit": "1024"
     },
     "MarkingReferenceKD_3": {
-        "translation": "på översvämningsbank",
+        "translation": "sul supporto alluvione",
         "notes": "Flood support",
         "limit": "100"
     },
     "MarkingReferenceKD_3_desc": {
-        "translation": "Översvämningsbank",
+        "translation": "Supporto alluvione",
         "notes": "on flood support",
         "limit": "1024"
     },
     "MarkingReferenceKD_4": {
-        "translation": "på byggnad",
+        "translation": "su edificio",
         "notes": "Building",
         "limit": "100"
     },
     "MarkingReferenceKD_4_desc": {
-        "translation": "Byggnad",
+        "translation": "Su edificio",
         "notes": "on building",
         "limit": "1024"
     },
     "MarkingReferenceKD_5": {
-        "translation": "på påle",
+        "translation": "Polo",
         "notes": "Pole",
         "limit": "100"
     },
     "MarkingReferenceKD_5_desc": {
-        "translation": "Påle",
+        "translation": "Polo",
         "notes": "Pole",
         "limit": "1024"
     },
     "MarkingReferenceKD_6": {
-        "translation": "på något annat",
+        "translation": "altro",
         "notes": "other",
         "limit": "100"
     },
     "MarkingReferenceKD_6_desc": {
-        "translation": "på något annat",
+        "translation": "altro",
         "notes": "other",
         "limit": "1024"
     },
     "MarkingTypeKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "MarkingTypeKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "MarkingTypeKD_1": {
-        "translation": "Spray",
+        "translation": "Spruzzo",
         "notes": "",
         "limit": "100"
     },
     "MarkingTypeKD_1_desc": {
-        "translation": "Spray",
+        "translation": "Spruzzo",
         "notes": "",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
-        "translation": "Märke",
+        "translation": "Marcatore",
         "notes": "Marker",
         "limit": "100"
     },
     "MarkingTypeKD_2_desc": {
-        "translation": "Märke",
+        "translation": "Marcatore",
         "notes": "Marker",
         "limit": "1024"
     },
     "MarkingTypeKD_3": {
-        "translation": "Spikar",
+        "translation": "Chiodo",
         "notes": "Nail",
         "limit": "100"
     },
     "MarkingTypeKD_3_desc": {
-        "translation": "Spikar",
+        "translation": "Chiodo",
         "notes": "Nail",
         "limit": "1024"
     },
     "MarkingTypeKD_4": {
-        "translation": "Inristning",
+        "translation": "Intaglio",
         "notes": "Carving",
         "limit": "100"
     },
     "MarkingTypeKD_4_desc": {
-        "translation": "Inristning",
+        "translation": "Intaglio",
         "notes": "Carving",
         "limit": "1024"
     },
     "MarkingTypeKD_5": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "Other",
         "limit": "100"
     },
     "MarkingTypeKD_5_desc": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "Other",
         "limit": "1024"
     },
     "MeasurementReferenceKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "MeasurementReferenceKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "MeasurementReferenceKD_1": {
-        "translation": "Marken",
+        "translation": "Terra",
         "notes": "Ground",
         "limit": "100"
     },
     "MeasurementReferenceKD_1_desc": {
-        "translation": "Marken",
+        "translation": "Terra",
         "notes": "Ground",
         "limit": "1024"
     },
     "MeasurementReferenceKD_2": {
-        "translation": "Översvämningsbank",
+        "translation": "Argine",
         "notes": "Flood embankment",
         "limit": "100"
     },
     "MeasurementReferenceKD_2_desc": {
-        "translation": "Översvämningsbank",
+        "translation": "Argine",
         "notes": "Flood embankment",
         "limit": "1024"
     },
     "MeasurementReferenceKD_3": {
-        "translation": "Golv",
+        "translation": "Pavimento",
         "notes": "Floor",
         "limit": "100"
     },
     "MeasurementReferenceKD_3_desc": {
-        "translation": "Golv",
+        "translation": "Pavimento",
         "notes": "Floor",
         "limit": "1024"
     },
     "MeasurementReferenceKD_4": {
-        "translation": "Bro",
+        "translation": "Ponte",
         "notes": "Bridge",
         "limit": "100"
     },
     "MeasurementReferenceKD_4_desc": {
-        "translation": "Bro",
+        "translation": "Ponte",
         "notes": "Bridge",
         "limit": "1024"
     },
     "MeasurementReferenceKD_5": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "Other",
         "limit": "100"
     },
     "MeasurementReferenceKD_5_desc": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "Other",
         "limit": "1024"
     },
     "MeasurementTypeKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
-    },
-    "MeasurementTypeKD_0_desc": {
-        "translation": "Okänt",
-        "notes": "Unknown",
-        "limit": "1024"
     },
     "MeasurementTypeKD_1": {
-        "translation": "I förhållande till märkning",
+        "translation": "Rispetto alla marcatura",
         "notes": "Relative to marking",
         "limit": "100"
     },
-    "MeasurementTypeKD_1_desc": {
-        "translation": "I förhållande till märkning",
-        "notes": "Relative to marking",
-        "limit": "1024"
-    },
     "MeasurementTypeKD_2": {
-        "translation": "Mätsticka",
+        "translation": "Metro",
         "notes": "measuring stick",
         "limit": "100"
     },
-    "MeasurementTypeKD_2_desc": {
-        "translation": "Mätsticka",
-        "notes": "Measuring stick",
-        "limit": "1024"
-    },
     "MeasurementTypeKD_3": {
-        "translation": "Mätinstrument",
+        "translation": "Strumento di misura",
         "notes": "measuring tool",
         "limit": "100"
     },
-    "MeasurementTypeKD_3_desc": {
-        "translation": "Mätinstrument",
-        "notes": "Measuring tool",
-        "limit": "1024"
-    },
     "ObservationTimingKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "ObservationTimingKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "ObservationTimingKD_1": {
-        "translation": "Spår av tidigare vattennivå",
+        "translation": "Traccia del precedente livello dell'acqua",
         "notes": "Earlier water trace",
         "limit": "100"
     },
     "ObservationTimingKD_1_desc": {
-        "translation": "Spår av tidigare vattennivå",
+        "translation": "Traccia del precedente livello dell'acqua",
         "notes": "Trace of earlier water level",
         "limit": "1024"
     },
     "ObservationTimingKD_2": {
-        "translation": "Nuvarande vattennivå",
+        "translation": "Livello attuale dell'acqua",
         "notes": "Current water level",
         "limit": "100"
     },
     "ObservationTimingKD_2_desc": {
-        "translation": "Nuvarande vattennivå",
+        "translation": "Livello attuale dell'acqua",
         "notes": "Current water level",
         "limit": "1024"
     },
     "PrecipitationKD_0": {
-        "translation": "Ej observerad",
+        "translation": "Non osservato",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_1": {
-        "translation": "Ingen nederbörd",
+        "translation": "Nessuna precipitazione",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_2": {
-        "translation": "Duggregn",
+        "translation": "Pioggerella",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_3": {
-        "translation": "Regn",
+        "translation": "Pioggia",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_4": {
-        "translation": "Snöblandat regn",
+        "translation": "Nevischio",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_5": {
-        "translation": "Snö",
+        "translation": "Neve",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_6": {
-        "translation": "Hagel",
+        "translation": "Grandine",
         "notes": "",
         "limit": "30"
     },
     "PrecipitationKD_8": {
-        "translation": "Underkylt regn",
+        "translation": "Pioggia gelida",
         "notes": "",
         "limit": "30"
     },
     "PropagationKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30",
         "context": "One of the snow stability tests one can choose to submit."
@@ -4393,37 +4262,37 @@
         "context": "One of the snow stability tests one can choose to submit."
     },
     "RegistrationKD_10": {
-        "translation": "Anteckningar",
+        "translation": "Note",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_11": {
-        "translation": "Olycka / tillbud",
+        "translation": "Incidento",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_13": {
-        "translation": "Tecken på fara",
+        "translation": "Segno di pericolo",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_14": {
-        "translation": "Skador",
+        "translation": "Danni",
         "notes": "Gjelder alle geohazard. Brukes kun av vann foreløpig.",
         "limit": "30"
     },
     "RegistrationKD_14_desc": {
-        "translation": "Gäller alla geohazards. Används bara för vatten för närvarande.",
+        "translation": "Valido per tutti i pericoli naturali. Usato solo per acqua a questo punto.",
         "notes": "Damages",
         "limit": "1024"
     },
     "RegistrationKD_21": {
-        "translation": "Väder",
+        "translation": "Condizioni meteorologiche",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_22": {
-        "translation": "Snötäcke",
+        "translation": "Manto nevoso",
         "notes": "",
         "limit": "30"
     },
@@ -4433,482 +4302,452 @@
         "limit": "30"
     },
     "RegistrationKD_26": {
-        "translation": "Lavinaktivitet",
+        "translation": "Osservazione valanga",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_31": {
-        "translation": "Bedömning av lavinfara",
+        "translation": "Evaluazione del pericolo valanghivo",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_32": {
-        "translation": "Lavinproblem",
+        "translation": "Problemi tipici valanghivi",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_33": {
-        "translation": "Lavinaktivitet",
+        "translation": "Attivitá valanghiva",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_36": {
-        "translation": "Snöprofil",
+        "translation": "Profilo del manto nevoso",
         "notes": "SnowProfile top-node",
         "limit": "30"
     },
-    "RegistrationKD_36_desc": {
-        "translation": "Snöprofil",
-        "notes": "Snow Profile",
-        "limit": "1024"
-    },
     "RegistrationKD_50": {
-        "translation": "istjocklek",
+        "translation": "Altezza di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_51": {
-        "translation": "Istäckningsgrad",
+        "translation": "Copertura di ghiaccio",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_62": {
-        "translation": "Vattennivå",
+        "translation": "Livello dell'acqua",
         "notes": "new waterleve observajon for flom database project.",
         "limit": "30"
     },
     "RegistrationKD_62_desc": {
-        "translation": "Ny vattennivå för översvämningsdatabasprojekt",
+        "translation": "nuova osservazione del livello dell'acqua per il progetto del database delle alluvioni",
         "notes": "Water Level",
         "limit": "1024"
     },
     "RegistrationKD_71": {
-        "translation": "Jordskred",
+        "translation": "Frana",
         "notes": "",
         "limit": "30"
     },
     "RegistrationKD_80": {
-        "translation": "Händelser",
+        "translation": "Incidenti",
         "notes": "Grupperings type - Hendelser",
         "limit": "30"
     },
-    "RegistrationKD_80_desc": {
-        "translation": "Händelser",
-        "notes": "Incidents",
-        "limit": "1024"
-    },
     "RegistrationKD_81": {
-        "translation": "Laviner och tecken på fara",
+        "translation": "Valanghe e segnali di pericolo",
         "notes": "Grupperings type - Skred og faretegn",
         "limit": "30"
     },
-    "RegistrationKD_81_desc": {
-        "translation": "Laviner och tecken på fara",
-        "notes": "Avalanches and Danger Signs",
-        "limit": "1024"
-    },
     "RegistrationKD_82": {
-        "translation": "Snötäcke och väder",
+        "translation": "Copertura nevosa e meteo",
         "notes": "Grupperings type - Snødekke og vær",
         "limit": "30"
     },
-    "RegistrationKD_82_desc": {
-        "translation": "Snötäcke och väder",
-        "notes": "Snow Cover and Weather",
-        "limit": "1024"
-    },
     "RegistrationKD_83": {
-        "translation": "Bedömningar och problem",
+        "translation": "Valutazioni e problemi",
         "notes": "Grupperings type - Vurderinger og problemer",
         "limit": "30"
     },
-    "RegistrationKD_83_desc": {
-        "translation": "Bedömningar och problem",
-        "notes": "Evaluations and Problems",
-        "limit": "1024"
-    },
     "SnowDriftKD_0": {
-        "translation": "Ej observerad",
+        "translation": "Non osservato",
         "notes": "",
         "limit": "30"
     },
     "SnowDriftKD_1": {
-        "translation": "Inget snödrev",
+        "translation": "Niente saltazione",
         "notes": "",
         "limit": "30"
     },
     "SnowDriftKD_2": {
-        "translation": "Svagt snödrev",
+        "translation": "Saltazione debole",
         "notes": "",
         "limit": "30"
     },
     "SnowDriftKD_3": {
-        "translation": "Måttligt snödrev",
+        "translation": "Saltazione moderata",
         "notes": "",
         "limit": "30"
     },
     "SnowDriftKD_4": {
-        "translation": "Kraftigt snödrev",
+        "translation": "Saltazione forte",
         "notes": "",
         "limit": "30"
     },
     "SnowSurfaceKD_0": {
-        "translation": "Ej observerad",
+        "translation": "Non osservato",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_101": {
-        "translation": "Väldigt mycket lös snö (> 30 cm)",
+        "translation": "Molta neve sciolta (>30cm)",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_102": {
-        "translation": "Mycket lös snö (10-30 cm)",
+        "translation": "Molta neve sciolta (10-30 cm)",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_103": {
-        "translation": "Viss lös snö (10-30 cm)",
+        "translation": "Un po' di neve sciolta (1-10cm)",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_104": {
-        "translation": "Våt lössnö",
+        "translation": "Neve sciolta bagnata",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_105": {
-        "translation": "Vindflak (hårt)",
+        "translation": "Ventata dura",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_106": {
-        "translation": "Stormflak (mjukt)",
+        "translation": "Ventata morbida",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_107": {
-        "translation": "Skare",
+        "translation": "Crosta",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_108": {
-        "translation": "Annat",
+        "translation": "Altro",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_50": {
-        "translation": "Ytliga facetter",
+        "translation": "Cristalli sfaccettati superficiali",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_61": {
-        "translation": "Frostkristaller på hård yta",
+        "translation": "Brina di superficie su una superficie dura",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_62": {
-        "translation": "Fostkristaller på mjuk yta",
+        "translation": "Brina di superficie su una superficie morbida",
         "notes": "",
         "limit": "100"
     },
     "SourceKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_10": {
-        "translation": "Jag har sett detta",
+        "translation": "Ho visto questo",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_20": {
-        "translation": "Jag har hört detta",
+        "translation": "Mi è stato detto questo",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_21": {
-        "translation": "Jag har läst i nyheterna",
+        "translation": "Ho letto in notizie / rapporti",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_22": {
-        "translation": "Jag har sett bild/webkamera",
+        "translation": "Ho visto immagine/webcam",
         "notes": "",
         "limit": "50"
     },
     "SourceKD_23": {
-        "translation": "Antagen/simulerad",
+        "translation": "Assunta / simulato",
         "notes": "",
         "limit": "50"
     },
     "StabilityEvalKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "StabilityEvalKD_1": {
-        "translation": "God",
+        "translation": "Buona",
         "notes": "",
         "limit": "30"
     },
     "StabilityEvalKD_2": {
-        "translation": "Medel",
+        "translation": "Media",
         "notes": "",
         "limit": "30"
     },
     "StabilityEvalKD_3": {
-        "translation": "Dålig",
+        "translation": "Scarsa",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_0": {
-        "translation": "Inte observerad",
+        "translation": "Non osservato",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_1": {
-        "translation": "Ingen snö",
+        "translation": "Niente neve",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_2": {
-        "translation": "Slät",
+        "translation": "Liscio",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_3": {
-        "translation": "Vågig",
+        "translation": "Ondulato",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_4": {
-        "translation": "Eroderad",
+        "translation": "Eroso",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_5": {
-        "translation": "Solpåverkad",
+        "translation": "Influenzata dal sole",
         "notes": "",
         "limit": "30"
     },
     "SurfaceRoughnessKD_6": {
-        "translation": "Smältrillor",
+        "translation": "Scanalature di drenaggio",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_0": {
-        "translation": "Ej observerad",
+        "translation": "Non osservato",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_1": {
-        "translation": "Ingen snö",
+        "translation": "Niente neve",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_2": {
-        "translation": "Torr",
+        "translation": "Asciutta",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_3": {
-        "translation": "Fuktig",
+        "translation": "Umida",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_4": {
-        "translation": "Våt",
+        "translation": "Bagnata",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_5": {
-        "translation": "Mycket våt",
+        "translation": "Molto bagnata",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_6": {
-        "translation": "Slask",
+        "translation": "Neve bagnata",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_10": {
-        "translation": "Brant sluttning",
+        "translation": "Pendenza ripida",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_20": {
-        "translation": "Läsida",
+        "translation": "Faccia sottovento",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_30": {
-        "translation": "Nära rygg",
+        "translation": "Vicino a una cresta",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_40": {
-        "translation": "I ränna eller försänkning",
+        "translation": "In canalone o in formazione co",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_50": {
-        "translation": "Stenhäll",
+        "translation": "Costone di roccia",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_60": {
-        "translation": "Skålformation",
+        "translation": "Conca",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_70": {
-        "translation": "I skogen",
+        "translation": "Nella foresta",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_75": {
-        "translation": "Kalhygge",
+        "translation": "Area di taglio",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_95": {
-        "translation": "Överallt i terrängen",
+        "translation": "Ovunque",
         "notes": "",
         "limit": "30"
     },
     "TerrainStartZoneKD_99": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "30"
     },
     "TripTypeKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_20": {
-        "translation": "Vanligt uppdrag för lavinvarningstjänsten",
+        "translation": "Missione ordinaria per la previsione valanghe",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_30": {
-        "translation": "Ytterligare uppdrag för lavinvarningstjänsten",
+        "translation": "Missione ulteriore per la previsione valanghe",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_40": {
-        "translation": "Beställt uppdrag för lavinvarningstjänsten",
+        "translation": "Missione commessa dalla previsione valanghe",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_50": {
-        "translation": "Uppdrag för arbetsgivaren",
+        "translation": "Uscita professionale",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_55": {
-        "translation": "Undervisning och kurser",
+        "translation": "Uscita educativa",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_60": {
-        "translation": "Privat tur",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_70": {
-        "translation": "Guidning",
+        "translation": "Privato",
         "notes": "",
         "limit": "50"
     },
     "UsageFlagKD_0": {
-        "translation": "Ingen flagga ges",
+        "translation": "Nessuna bandiera fornita",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_1": {
-        "translation": "Redo för historisk db",
+        "translation": "Pronto per il database storico",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_10": {
-        "translation": "Godkänd av datahanteraren",
+        "translation": "Approvato dall'amministratore ",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_101": {
-        "translation": "För administrativt bruk",
+        "translation": "A scopo amministrativo",
         "notes": "The observation og group has a administrative purpose. It is elswize hidden as though it has been deleted.",
         "limit": "30"
     },
     "UsageFlagKD_101_desc": {
-        "translation": "Observation eller grupp har en admin-funktion. Det är dold som om det raderades.",
+        "translation": "Il gruppo di osservazione ha uno scopo amministrativo. È altrove nascosto come se fosse stato cancellato.",
         "notes": "For administarive purpose",
         "limit": "1024"
     },
     "UsageFlagKD_2": {
-        "translation": "Skickad till historisk db",
+        "translation": "Inviato al database storico",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_51": {
-        "translation": "Raderad av användaren",
+        "translation": "Eliminato dall'utente",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_52": {
-        "translation": "Raderad av admin",
+        "translation": "Eliminato da admin",
         "notes": "",
         "limit": "30"
     },
     "UsageFlagKD_61": {
-        "translation": "Underkänd av datahanteraren",
+        "translation": "Disapprovato da admin",
         "notes": "",
         "limit": "30"
     },
     "UTMSourceKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_10": {
-        "translation": "Läst från GPS",
+        "translation": "Letto su un GPS",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_20": {
-        "translation": "Läst från kartan",
+        "translation": "Letto da una mappa",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_30": {
-        "translation": "Klicka på kartan på regObs",
+        "translation": "Clicca sulla mappa su regObs",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_35": {
-        "translation": "Klicka på kartan i regObs-appen",
+        "translation": "Clicca sulla mappa nell'app regObs",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_40": {
-        "translation": "GPS i smartphone",
+        "translation": "GPS in telefonino",
         "notes": "",
         "limit": "50"
     },
     "UTMSourceKD_45": {
-        "translation": "Gammal position i smartphone",
+        "translation": "Vecchia posizione dal telefonino",
         "notes": "Position from smart phone storage. Is used when curent position isnt available.",
         "limit": "50"
     },
     "UTMSourceKD_45_desc": {
-        "translation": "Position från lagrad i smartphone. Används när aktuell position inte är tillgänglig",
+        "translation": "Posizione dalla memoria dello smartphone. Viene utilizzato quando la posizione corrente non è disponibile.",
         "notes": "Old position in smartPhone",
         "limit": "150"
     },
@@ -4918,7 +4757,7 @@
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
-        "translation": "Nationell vägdatabas",
+        "translation": "Banca dati delle strade nazionali",
         "notes": "NVDB",
         "limit": "150"
     },
@@ -4928,172 +4767,172 @@
         "limit": "50"
     },
     "WaterAstrayKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "WaterAstrayKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "WaterAstrayKD_1": {
-        "translation": "Ja",
+        "translation": "Si",
         "notes": "Yes",
         "limit": "100"
     },
     "WaterAstrayKD_1_desc": {
-        "translation": "Ja",
+        "translation": "Si",
         "notes": "Yes",
         "limit": "1024"
     },
     "WaterAstrayKD_2": {
-        "translation": "Nej",
+        "translation": "No",
         "notes": "No",
         "limit": "100"
     },
     "WaterAstrayKD_2_desc": {
-        "translation": "Nej",
+        "translation": "No",
         "notes": "No",
         "limit": "1024"
     },
     "WaterLevelMethodKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "100"
     },
     "WaterLevelMethodKD_0_desc": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "WaterLevelMethodKD_1": {
-        "translation": "Vattennivåmarkering",
+        "translation": "Marca del livello d'acqua",
         "notes": "Water level marking",
         "limit": "100"
     },
     "WaterLevelMethodKD_1_desc": {
-        "translation": "Vattennivåmarkering",
+        "translation": "Marca del livello d'acqua",
         "notes": "Water level marking",
         "limit": "1024"
     },
     "WaterLevelMethodKD_2": {
-        "translation": "Vattennivåmätning",
+        "translation": "Misura del livello d'acqua",
         "notes": "water level measurement",
         "limit": "100"
     },
     "WaterLevelMethodKD_2_desc": {
-        "translation": "Vattennivåmätning",
+        "translation": "misurazione del livello dell'acqua",
         "notes": "Water level measurement",
         "limit": "1024"
     },
     "WaterLevelRefKD_100": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_110": {
-        "translation": "Skala på vattennivåmätare",
+        "translation": "Scala sull'indicatore di livel",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_120": {
-        "translation": "Känt landmärke (ange)",
+        "translation": "Punto di riferimento ben noto",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_130": {
-        "translation": "Märke tidigare översvämningar",
+        "translation": "Monumento storico alluvioni",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_140": {
-        "translation": "Visas i bifogad bild",
+        "translation": "Come mostrato nella foto",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_200": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_210": {
-        "translation": "Skala på vattennivåmätare",
+        "translation": "Scala sull'indicatore di livel",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_211": {
-        "translation": "Måttstock",
+        "translation": "Metro",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_212": {
-        "translation": "Max/min-märke för regleringen",
+        "translation": "Marchio Max/min da regolazione",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_220": {
-        "translation": "Känt landmärke (ange)",
+        "translation": "Punto di riferimento ben noto ",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_221": {
-        "translation": "Översvämningsstötta",
+        "translation": "Monumento su alluvioni storiche",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelRefKD_240": {
-        "translation": "Visas i bifogad bild",
+        "translation": "Come mostrato nella foto",
         "notes": "",
         "limit": "30"
     },
     "WaterLevelStateKD_0": {
-        "translation": "Okänt",
+        "translation": "Sconosciuto",
         "notes": "unknown water level",
         "limit": "100"
     },
     "WaterLevelStateKD_0_desc": {
-        "translation": "Okänd vattennivå",
+        "translation": "Livello dell'acqua sconosciuto",
         "notes": "Unknown",
         "limit": "1024"
     },
     "WaterLevelStateKD_1": {
-        "translation": "Vattennivån är sjunkande",
+        "translation": "Il livello dell'acqua è in diminuzione",
         "notes": "Water level is decreasing",
         "limit": "100"
     },
     "WaterLevelStateKD_1_desc": {
-        "translation": "Vattennivån är sjunkande",
+        "translation": "Il livello dell'acqua è in diminuzione",
         "notes": "Water level is decreasing",
         "limit": "1024"
     },
     "WaterLevelStateKD_2": {
-        "translation": "Vattennivån är stigande",
+        "translation": "Il livello dell'acqua è in aumento",
         "notes": "Water level is increasing",
         "limit": "100"
     },
     "WaterLevelStateKD_2_desc": {
-        "translation": "Vattennivå är stigande",
+        "translation": "Il livello dell'acqua è in aumento",
         "notes": "Water level is increasing",
         "limit": "1024"
     },
     "WaterLevelStateKD_3": {
-        "translation": "Vattennivån är stabil",
+        "translation": "Il livello dell'acqua è stabile",
         "notes": "Water level is stable",
         "limit": "100"
     },
     "WaterLevelStateKD_3_desc": {
-        "translation": "Vattennivån är stabil",
+        "translation": "Il livello dell'acqua è stabile",
         "notes": "Water level is stable",
         "limit": "1024"
     },
     "WaterLevelStateKD_4": {
-        "translation": "Vattennivån kan inte fastställas",
+        "translation": "Impossibile determinare il livello dell'acqua",
         "notes": "Can not determine that now",
         "limit": "100"
     },
     "WaterLevelStateKD_4_desc": {
-        "translation": "Det kan jag inte avgöra nu",
+        "translation": "Non riesco a determinarlo ora",
         "notes": "Cannot determine water level",
         "limit": "1024"
     },
@@ -5123,7 +4962,7 @@
         "limit": "30"
     },
     "WetnessKD_5": {
-        "translation": "W",
+        "translation": "O",
         "notes": "",
         "limit": "30"
     },
@@ -5148,52 +4987,52 @@
         "limit": "30"
     },
     "WindSpeedKD_0": {
-        "translation": "Ej angivet",
+        "translation": "non dato",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_10": {
-        "translation": "Lätt bris",
+        "translation": "Brezza leggera",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_20": {
-        "translation": "Frisk bris",
+        "translation": "Vento moderato",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_30": {
-        "translation": "Styv bris",
+        "translation": "Vento teso",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_40": {
-        "translation": "Hård Bris",
+        "translation": "Vento fresco",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_50": {
-        "translation": "Styv kuling",
+        "translation": "Vento forte",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_60": {
-        "translation": "Hård Kuling",
+        "translation": "Burrasca",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_70": {
-        "translation": "Halv storm",
+        "translation": "Burrasca forte",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_80": {
-        "translation": "Storm",
+        "translation": "Tempesta",
         "notes": "",
         "limit": "100"
     },
     "WindSpeedKD_90": {
-        "translation": "Orkanstyrka",
+        "translation": "Uragano",
         "notes": "",
         "limit": "100"
     }

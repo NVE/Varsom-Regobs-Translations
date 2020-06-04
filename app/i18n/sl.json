@@ -144,10 +144,10 @@
     "START_WIZARD": "Zaženi pomočnika",
     "SUPPORT_MAP_CREDITS": "Podporni zemljevidi priskrbljeni od",
     "TILES": {
-      "ARC_GIS": "ArcGIS (svet)",
+      "ARC_GIS": "ESRI World Topo (svet)",
+      "GEODATA_LANDSKAP": "Geodata Topo (Norveška)",
       "KARTVERKET": "Kartverket (Norveška)",
-      "ONLY_KARTVERKET": "Kartverket (samo Norveška)",
-      "OPEN_TOPO": "OpenTopo (svet)"
+      "OPEN_TOPO": "OpenTopoMap (svet)"
     },
     "TIME_FRAME": "Obdobje",
     "TODAYS_OBSERVATIONS": "Današnja opažanja",
@@ -293,7 +293,7 @@
         "ICE_LAYER_THICKNESS": "Debelina ledene plasti (cm)",
         "ICE_THICKNESS_SUM": "Skupna debelina (cm)",
         "ICE_TYPE": "Tip ledu",
-        "SLUSH_SNOW_BEFORE_DRILL": "Snežna brozga pred vrtanjem (cm)",
+        "SLUSH_SNOW_BEFORE_DRILL": "Plundra pred vrtanjem (cm)",
         "TITLE": "Debelina ledu"
       }
     },

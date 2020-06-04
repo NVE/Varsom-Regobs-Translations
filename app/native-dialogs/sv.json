@@ -1,9 +1,9 @@
 {
   "config_ios": {
-    "NSLocationWhenInUseUsageDescription": "Din plats används för att visa din position på kartan och för att fastställa positionen när observationer registreras.",
+    "NSCameraUsageDescription": "Lägg till bilder i observationen",
     "NSLocationAlwaysUsageDescription": "Din plats används för att visa din position på kartan och för att fastställa positionen när observationer registreras.",
-    "NSPhotoLibraryUsageDescription": "Lägg till bilder i observationen",
+    "NSLocationWhenInUseUsageDescription": "Din plats används för att visa din position på kartan och för att fastställa positionen när observationer registreras.",
     "NSPhotoLibraryAddUsageDescription": "Lägg till bilder i observationen",
-    "NSCameraUsageDescription": "Lägg till bilder i observationen"
+    "NSPhotoLibraryUsageDescription": "Lägg till bilder i observationen"
   }
 }

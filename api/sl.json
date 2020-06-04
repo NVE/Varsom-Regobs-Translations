@@ -67,12 +67,12 @@
       "ObsName": "Znak plazovne nevarnosti"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Tip plazu",
       "AvalCauseAttributeLightTID": "Neugodne lastnosti šibke plasti",
       "AvalCauseDepthTID": "Višina snežne odeje med šibko plastjo in površjem",
       "AvalCauseTID": "Tip šibke plasti",
       "AvalProbabilityTID": "Verjetnost proženja snežnih plazov",
       "AvalTriggerSimpleTID": "Pričakovana dodatna obremenitev, ki bi sprožila plazove",
-      "AvalancheExtTID": "Tip plazu",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Pričakovana velikost plazu",
       "ObsName": "Plazovni problem",
@@ -105,10 +105,10 @@
       "ObsName": "Ocena plazovne nevarnosti"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Šibka plast",
       "Avalanche": "Plaz",
       "AvalancheTID": "Tip plazu",
       "AvalancheTriggerTID": "Sprožilec",
+      "AvalCauseTID": "Šibka plast",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
       "DtAvalancheTime": "Čas",
@@ -117,8 +117,8 @@
       "FractureHeigth": "višina",
       "FractureWidth": "širina",
       "HeightStartZoneText": "začetna točka na",
-      "HeigthStartZone": "Območje proženja",
-      "HeigthStopZone": "Območje odlaganja",
+      "HeigthStartZone": "Višina območja proženja",
+      "HeigthStopZone": "Višina območja odlaganja",
       "HeigthStopZoneText": "najnižja točka na",
       "ObsName": "Opažen snežni plaz",
       "TerrainStartZoneTID": "Teren na območju proženja",
@@ -150,7 +150,7 @@
     },
     "IceCoverObs": {
       "Comment": "Komentar",
-      "IceCapacityTName": "moč",
+      "IceCapacityTName": "Nosilnost",
       "IceCoverAfterTName": "Delež ledenega pokrova po opazovanju",
       "IceCoverBeforeTName": "Delež ledenega pokrova pred opazovanjem",
       "IceCoverTName": "Pokritost z ledom",
@@ -162,7 +162,7 @@
       "Comment": "Komentar",
       "IceThicknessLayers": "Plasti (od vrha do dna)",
       "IceThicknessSum": "Debelina",
-      "IsEqualToIceSurface": "Površina ledu je naka površini vode",
+      "IsEqualToIceSurface": "Površina ledu je enaka površini vode",
       "LowerThanIceSurface": "od površja do vodne gladine v luknji",
       "ObsName": "Debelina ledu",
       "OverIce": "Nad ledom",
@@ -172,7 +172,7 @@
       "Snow": "sneg",
       "Total": "v celoti",
       "UnknownIceLayer": "neznan sloj ledu",
-      "WaterSurfaceInHole": "vodna gladina v luknji"
+      "WaterSurfaceInHole": "Vodna gladina v luknji"
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivnost",
@@ -187,7 +187,7 @@
     },
     "LandslideObs": {
       "ActivityInfluencedTName": "Kaj je bilo poškodovano?",
-      "And": "in",
+      "And": " in ",
       "Between": "Med",
       "Comment": "Komentar",
       "DamageExtentTName": "Obseg škode",
@@ -235,11 +235,11 @@
       "StratLayers": "Plastenje"
     },
     "SnowSurfaceObservation": {
-      "FootPenetration": "Vgrez pri hoji",
+      "FootPenetration": "Ugrez pri hoji",
       "HeightLimitLayeredSnow": "Sneg v plasteh se začne na",
       "Kommentar": "Komentar",
       "NewSnow": "nov sneg",
-      "NewSnowDepth24": "Nov sneg v zadnjih 24-ih urah",
+      "NewSnowDepth24": "Nov sneg v zadnjih 24 urah",
       "NewSnowLine": "Nov sneg na višini do",
       "ObsName": "Površina snežne odeje",
       "SnowDepth": "Višina snežne odeje",
@@ -260,7 +260,7 @@
       "River": "reka",
       "WaterLevelDescribed": "Opis vodne gladine / vodostaja",
       "WaterLevelRefTName": "Izhodiščna točka pri merjenju vodostaja",
-      "WaterLevelValue": "Verdnost"
+      "WaterLevelValue": "Vrednost"
     },
     "WaterLevel2": {
       "Comment": "Komentar",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "Relativna meritev glede na",
       "MeasurementReferenceTName": "Vodostaj sem označil na",
       "MeasurementTypeTName": "Naprava za meritev",
-      "ObsName": "Vodostaj",
       "ObservationTimingTName": "Kaj želiš označiti?",
+      "ObsName": "Vodostaj",
       "WaterAstrayTName": "Ali obstaja vodni tok?",
       "WaterLevelStateTName": "Situacija",
       "WaterMarking": "Vodna oznaka",
@@ -293,7 +293,7 @@
   "PictureMode": "Slike",
   "Reg": {
     "ObservedTime": "Opaženo",
-    "ObserverNickName": "od",
+    "ObserverNickName": "Od",
     "RegisteredTime": "Ustvarjeno",
     "UpdatedTime": "Posodobljeno"
   },
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Išči",
-  "SearchResultOfTotal": "od",
   "Searching": "Iskanje poteka, prosimo počakajte",
+  "SearchResultOfTotal": "od",
   "ShowAllObservations": "Pokaži vsa opažanja",
   "ShowFilteredObservations": "Pokaži izbrana opažanja",
   "ShowLess": "Pokaži manj",

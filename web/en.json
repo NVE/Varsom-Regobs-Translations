@@ -395,9 +395,15 @@
     },
     "CompressionTest": {
       "Comment": "Comment",
+      "DistanceFromTop": "Distance from top (cm)",
+      "FractureType": "Fracture type",
+      "Include": "Include in snow profile",
+      "NumberOfHits": "Number of hits",
       "ObsName": "Compression test",
+      "Stability": "Stability",
       "StabilityEvalTID": "Stability",
-      "Test": "Test"
+      "Test": "Test",
+      "Type": "Test type"
     },
     "DamageObs": {
       "Comment": "Comment",
@@ -539,7 +545,6 @@
       "AddLayerBottom": "Add a new layer at the bottom",
       "AddLayerTop": "Add a new layer at the top",
       "AddLayers": "Add layers",
-      "AddTemperature": "Add temperature",
       "AddTests": "Add tests",
       "Cm": "cm",
       "Comment": "Comment",
@@ -551,6 +556,8 @@
         "CylinderBoreDiam": "Cylinder bore diameter (cm)",
         "Density": "Density",
         "DensityLabel": "Density (kg/m3)",
+        "DensityProfileAdded": "density profile added",
+        "DensityProfiles": "density profiles",
         "Height": "Height (cm)",
         "Layer": "Layer",
         "Method": "Method",
@@ -570,20 +577,41 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
+<<<<<<< HEAD
+=======
+      "Stratification": {
+        "CriticalLayer": "Critical layer",
+        "DeleteLayer": "Delete layer",
+        "GetLayers": "Get layers from other profile",
+        "GrainFormPrimary": "Grainform",
+        "GrainFormSecondary": "Sec. grainform",
+        "GrainSizeAvg": "Grain size (mm)",
+        "GrainSizeAvgMax": "Max grainsize (mm)",
+        "Hardness": "Hardness",
+        "HardnessBottom": "Hardness bottom",
+        "Layer": "Layer",
+        "MultipleObserved": "layers",
+        "Observed": "layer",
+        "ShowLess": "Show less options",
+        "ShowMore": "Show more options",
+        "Thickness": "Thickness (cm)",
+        "Wetness": "Wetness"
+      },
+>>>>>>> master
       "SumOfAllLayers": "Sum of all layers:",
-      "TemperaturePlaceholder": "Temperature (°C)",
-      "TemperatureProfile": "Temperature profile",
+      "Temperature": {
+        "Add": "Add temperature",
+        "MultipleObserved": "temperature points observed",
+        "Observed": "temperature point observed",
+        "Placeholder": "Temperature (°C)",
+        "TempProfile": "Temperature profile"
+      },
       "Test": {
         "Add": "Add",
         "AddTest": "Add test",
-        "DistanceFromTop": "Distance from top (cm)",
-        "FractureType": "Fracture type",
-        "Include": "Include in snow profile",
-        "NumberOfHits": "Number of hits",
-        "Stability": "Stability",
+        "AttachedToProfile": "tests attached to profile",
         "Tests": "tests",
         "TestsWillAppearHere": "Tests you have added will appear here",
-        "Type": "Test type",
         "Update": "Update test"
       }
     },

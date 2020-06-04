@@ -379,9 +379,15 @@
     },
     "CompressionTest": {
       "Comment": "Kommentar",
+      "DistanceFromTop": "Distanz von oben (cm)",
+      "FractureType": "Bruchtyp",
+      "Include": "In das Schneeprofil aufnehmen",
+      "NumberOfHits": "Anzahl von Schlägen",
       "ObsName": "Kompressionstest",
+      "Stability": "Stabilität",
       "StabilityEvalTID": "Stabilität",
-      "Test": "Test"
+      "Test": "Test",
+      "Type": "Testtyp"
     },
     "DamageObs": {
       "Comment": "Kommentar",
@@ -517,7 +523,6 @@
       "AddLayerBottom": "Unten eine neue Schicht hinzufügen",
       "AddLayerTop": "Oben eine neue Schicht dazufügen",
       "AddLayers": "Schicht hinzufügen",
-      "AddTemperature": "Temperatur hinzufügen",
       "AddTests": "Test hinzufügen",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -549,19 +554,16 @@
       "SnowTemperature": "Temperatur",
       "StratLayers": "Schichten",
       "SumOfAllLayers": "Anzahl von Schichten:",
-      "TemperaturePlaceholder": "Temperatur (°C)",
-      "TemperatureProfile": "Temperaturprofil",
+      "Temperature": {
+        "Add": "Temperatur hinzufügen",
+        "Placeholder": "Temperatur (°C)",
+        "TempProfile": "Temperaturprofil"
+      },
       "Test": {
         "Add": "Hinzufügen",
         "AddTest": "Test hinzufügen",
-        "DistanceFromTop": "Distanz von oben (cm)",
-        "FractureType": "Bruchtyp",
-        "Include": "In das Schneeprofil aufnehmen",
-        "NumberOfHits": "Anzahl von Schlägen",
-        "Stability": "Stabilität",
         "Tests": "Tests",
         "TestsWillAppearHere": "Von Ihnen hinzugefügte Tests werden hier angezeigt",
-        "Type": "Testtyp",
         "Update": "Test aktualisieren"
       }
     },

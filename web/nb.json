@@ -394,9 +394,15 @@
     },
     "CompressionTest": {
       "Comment": "Kommentar",
+      "DistanceFromTop": "Avstand fra toppen (cm)",
+      "FractureType": "Bruddtype",
+      "Include": "Inkluder i snøprofil",
+      "NumberOfHits": "Antall slag",
       "ObsName": "Stabilitetstest",
+      "Stability": "Stabilitet",
       "StabilityEvalTID": "Stabilitet",
-      "Test": "Test"
+      "Test": "Test",
+      "Type": "Test type"
     },
     "DamageObs": {
       "Comment": "Kommentar",
@@ -538,7 +544,6 @@
       "AddLayerBottom": "Legg til et nytt lag nederst",
       "AddLayerTop": "Legg til et nytt lag øverst",
       "AddLayers": "Legg til lagdeling",
-      "AddTemperature": "Legg til temperatur",
       "AddTests": "Legg til tester",
       "Cm": "cm",
       "Comment": "Kommentar",
@@ -550,6 +555,8 @@
         "CylinderBoreDiam": "Sylinderdiameter (cm)",
         "Density": "Tetthet",
         "DensityLabel": "Tetthet (kg/m3)",
+        "DensityProfileAdded": "tetthetsprofil lagt til",
+        "DensityProfiles": "tetthetsprofiler",
         "Height": "Høyde (cm)",
         "Layer": "Lag",
         "Method": "Metode",
@@ -569,20 +576,41 @@
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
+<<<<<<< HEAD
+=======
+      "Stratification": {
+        "CriticalLayer": "Kritisk lag",
+        "DeleteLayer": "Slett laget",
+        "GetLayers": "Hent lagdeling fra en annen observasjon",
+        "GrainFormPrimary": "Kornform",
+        "GrainFormSecondary": "Sek. kornform",
+        "GrainSizeAvg": "Kornstørrelse (mm)",
+        "GrainSizeAvgMax": "Max kornst. (mm)",
+        "Hardness": "Hardhet",
+        "HardnessBottom": "Nedre hardhet",
+        "Layer": "Lag",
+        "MultipleObserved": "lagdelinger observert",
+        "Observed": "lagdeling observert",
+        "ShowLess": "Vis færre valg for dette laget",
+        "ShowMore": "Vis flere valg for dette laget",
+        "Thickness": "Tykkelse (cm)",
+        "Wetness": "Fuktighet"
+      },
+>>>>>>> master
       "SumOfAllLayers": "Summen av alle lag:",
-      "TemperaturePlaceholder": "Temperatur (°C)",
-      "TemperatureProfile": "Temperaturprofil",
+      "Temperature": {
+        "Add": "Legg til temperatur",
+        "MultipleObserved": "temperaturpunkter observert",
+        "Observed": "temperaturpunkt observert",
+        "Placeholder": "Temperatur (°C)",
+        "TempProfile": "Temperaturprofil"
+      },
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",
-        "DistanceFromTop": "Avstand fra toppen (cm)",
-        "FractureType": "Bruddtype",
-        "Include": "Inkluder i snøprofil",
-        "NumberOfHits": "Antall slag",
-        "Stability": "Stabilitet",
+        "AttachedToProfile": "tester knyttet til profilen",
         "Tests": "tester",
         "TestsWillAppearHere": "Tester du har lagt til vises her",
-        "Type": "Test type",
         "Update": "Oppdater test"
       }
     },

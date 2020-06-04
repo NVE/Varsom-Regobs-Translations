@@ -144,10 +144,10 @@
     "START_WIZARD": "Starta guiden",
     "SUPPORT_MAP_CREDITS": "Supportkartor tillhandahållna av",
     "TILES": {
-      "ARC_GIS": "ArcGIS (värld)",
+      "ARC_GIS": "ESRI World Topo (värld)",
+      "GEODATA_LANDSKAP": "Geodata Landskap (Norge)",
       "KARTVERKET": "Kartverket (Norge)",
-      "ONLY_KARTVERKET": "Kartverket (bara Norge)",
-      "OPEN_TOPO": "OpenTopo (värld)"
+      "OPEN_TOPO": "OpenTopoMap (värld)"
     },
     "TIME_FRAME": "Period",
     "TODAYS_OBSERVATIONS": "Endast dagens observationer",
