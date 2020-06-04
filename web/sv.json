@@ -367,9 +367,15 @@
     },
     "CompressionTest": {
       "Comment": "Kommentar",
+      "DistanceFromTop": "Avstånd till toppen",
+      "FractureType": "Brått typ",
+      "Include": "Inkludera i snöprofil",
+      "NumberOfHits": "Antal slag",
       "ObsName": "Stabilitetstest",
+      "Stability": "Stabilitet",
       "StabilityEvalTID": "Stabilitet",
-      "Test": "Test"
+      "Test": "Test",
+      "Type": "Test typ"
     },
     "DamageObs": {
       "Comment": "Kommentar",
@@ -528,7 +534,6 @@
       "SnowDensity": "Snödensitet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Indelning av lager",
-      "Stratification": {},
       "SumOfAllLayers": "Summan av alla lager:",
       "Temperature": {
         "Add": "Lägg till temperatur",
@@ -538,14 +543,8 @@
       "Test": {
         "Add": "Lägg till",
         "AddTest": "Lägg till test",
-        "DistanceFromTop": "Avstånd till toppen",
-        "FractureType": "Brått typ",
-        "Include": "Inkludera i snöprofil",
-        "NumberOfHits": "Antal slag",
-        "Stability": "Stabilitet",
         "Tests": "tester",
         "TestsWillAppearHere": "Tester du har lagt till visas här",
-        "Type": "Test typ",
         "Update": "Uppdatera test"
       }
     },
