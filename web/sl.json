@@ -348,9 +348,15 @@
     },
     "CompressionTest": {
       "Comment": "Komentar",
+      "DistanceFromTop": "Oddaljenost od vrha (cm)",
+      "FractureType": "Tip razpoke",
+      "Include": "Vključi v snežni profil",
+      "NumberOfHits": "Število udarcev",
       "ObsName": "Tlačni test",
+      "Stability": "Stabilnost",
       "StabilityEvalTID": "Stabilnost",
-      "Test": "Test"
+      "Test": "Test",
+      "Type": "Tip testa"
     },
     "DamageObs": {
       "Comment": "Komentar",
@@ -505,7 +511,6 @@
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
       "StratLayers": "Plasti",
-      "Stratification": {},
       "SumOfAllLayers": "Vsota vseh plasti:",
       "Temperature": {
         "Add": "Dodaj temperaturo",
@@ -515,14 +520,8 @@
       "Test": {
         "Add": "Dodaj",
         "AddTest": "Dodaj test",
-        "DistanceFromTop": "Oddaljenost od vrha (cm)",
-        "FractureType": "Tip razpoke",
-        "Include": "Vključi v snežni profil",
-        "NumberOfHits": "Število udarcev",
-        "Stability": "Stabilnost",
         "Tests": "testi",
         "TestsWillAppearHere": "Testi, ki ste jih dodali, se bodo pojavili tukaj",
-        "Type": "Tip testa",
         "Update": "Posodobi test"
       }
     },
