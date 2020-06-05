@@ -657,6 +657,8 @@
     },
     "WaterLevel2": {
       "DescribeSituationQuestion": "Hvordan vil du beskrive situasjonen?",
+      "WaterAstrayQuestion": "Kan du se vann på avveie?",
+      "ObservationTimingQuestion": "Hva registrerer du?",
       "Comment": "Kommentar",
       "MeasuredRelativeTo": "Måling relativt til",
       "MeasurementReferenceTName": "Vannmarkering på/i",

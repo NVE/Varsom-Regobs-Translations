@@ -658,6 +658,8 @@
     },
     "WaterLevel2": {
       "DescribeSituationQuestion": "How would you describe the situation?",
+      "WaterAstrayQuestion": "Is there any water astray?",
+      "ObservationTimingQuestion": "What do you register?",
       "Comment": "Comment",
       "MeasuredRelativeTo": "Measurement relative to",
       "MeasurementReferenceTName": "Watermarking on/with",
