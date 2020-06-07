@@ -577,8 +577,6 @@
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
-<<<<<<< HEAD
-=======
       "Stratification": {
         "CriticalLayer": "Critical layer",
         "DeleteLayer": "Delete layer",
@@ -597,7 +595,6 @@
         "Thickness": "Thickness (cm)",
         "Wetness": "Wetness"
       },
->>>>>>> master
       "SumOfAllLayers": "Sum of all layers:",
       "Temperature": {
         "Add": "Add temperature",

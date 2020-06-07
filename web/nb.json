@@ -576,8 +576,6 @@
       "SnowDensity": "Snøtetthet",
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
-<<<<<<< HEAD
-=======
       "Stratification": {
         "CriticalLayer": "Kritisk lag",
         "DeleteLayer": "Slett laget",
@@ -596,7 +594,6 @@
         "Thickness": "Tykkelse (cm)",
         "Wetness": "Fuktighet"
       },
->>>>>>> master
       "SumOfAllLayers": "Summen av alle lag:",
       "Temperature": {
         "Add": "Legg til temperatur",
