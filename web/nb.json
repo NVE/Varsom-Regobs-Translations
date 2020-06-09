@@ -558,7 +558,6 @@
       "SnowTemperature": "Temperatur",
       "StratLayers": "Lagdeling",
       "Stratification": {
-        "ChooseLayers": "Velg lagdeling",
         "CriticalLayer": "Kritisk lag",
         "DeleteLayer": "Slett laget",
         "GetLayers": "Hent lagdeling fra en annen observasjon",
@@ -572,6 +571,7 @@
         "MultipleObserved": "lagdelinger observert",
         "NoPreviousLayersFound": "Ingen tidligere lagdelinger funnet",
         "Observed": "lagdeling observert",
+        "SelectLayers": "Velg lagdeling",
         "ShowLess": "Vis færre valg for dette laget",
         "ShowMore": "Vis flere valg for dette laget",
         "Thickness": "Tykkelse (cm)",

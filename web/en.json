@@ -558,7 +558,6 @@
       "SnowTemperature": "Temperature",
       "StratLayers": "Strat layers",
       "Stratification": {
-        "ChooseLayers": "Choose layers",
         "CriticalLayer": "Critical layer",
         "DeleteLayer": "Delete layer",
         "GetLayers": "Get layers from other profile",
@@ -572,6 +571,7 @@
         "MultipleObserved": "layers",
         "NoPreviousLayersFound": "No layers from other profiles found",
         "Observed": "layer",
+        "SelectLayers": "Select layers",
         "ShowLess": "Show less options",
         "ShowMore": "Show more options",
         "Thickness": "Thickness (cm)",
