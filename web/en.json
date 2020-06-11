@@ -62,7 +62,7 @@
   "CopiedToClipboard": "Hyperlink to the observation copied to the clipboard.",
   "CountOf": "Count",
   "CreateObservation": "Create observation",
-  "Date": "date",
+  "Date": "Date",
   "Delete": "Delete",
   "Dialogs": {
     "Buttons": {
@@ -296,9 +296,14 @@
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Trigger",
       "Comment": "Comment",
+      "DateWarning": "Date is different from observation time",
       "DtAvalancheTime": "Time",
+      "DuringTheDay": "During the day",
+      "EstimatedTime": "Estimated timeframe",
       "HeigthStartZone": "Start height",
+      "HowManyAvalanches": "Number of avalanches",
       "MetersOverSeaLevel": "meter above sea level",
+      "NoAvalancheActivity": "No avalanche activity observed",
       "NumberAndSize": "Number of occurences and size",
       "ObsName": "Avalanche activity"
     },
@@ -360,7 +365,7 @@
     "AvalancheObs": {
       "AvalCauseTID": "Weak layer",
       "AvalancheTID": "Type",
-      "AvalancheTriggerTID": "Trigger",
+      "AvalancheTriggerTID": "Sensitivity to triggers",
       "AvalancheType": "Landslide type",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size",
@@ -379,6 +384,14 @@
       "TerrainStartZoneTID": "Terrain type in the release area",
       "TrajectoryName": "Name of avalanche path",
       "ValidExposition": "Exposition"
+    },
+    "AvalancheProblem": {
+      "AvalancheTriggerProbability": "Sensitivity to triggers",
+      "AvalancheType": "Avalanche type",
+      "NoWeakLayers": "There are no weak layers",
+      "Propagation": "Spatial distribution",
+      "WeakLayer": "Weak layer",
+      "WeakLayerDepth": "Weak layer depth"
     },
     "CompressionTest": {
       "Comment": "Comment",
@@ -476,7 +489,6 @@
       "DamageExtentTName": "Damage extent",
       "DtLandSlideTime": "When did the landslide start?",
       "DtLandSlideTimeEnd": "When did the landslide end?",
-      "DtLandSlideTimeWarning": "Warning! Landslide date is different than observation time",
       "ForecastAccurateTName": "Was forecast accurate?",
       "InMap": "in map",
       "LandSlideSizeTName": "Size",
@@ -507,7 +519,15 @@
       "RegistrationTID": "Picture of"
     },
     "Shared": {
-      "Description": "Description"
+      "Description": "Description",
+      "ExposedHeight": {
+        "Height": "Height",
+        "LowerHeight": "Lower height",
+        "Title": "Elevation"
+      },
+      "ValidExposition": {
+        "Title": "Aspect"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Weak layer",
