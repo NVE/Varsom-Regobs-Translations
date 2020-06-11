@@ -589,10 +589,13 @@
         "HardnessBottom": "Hardness bottom",
         "Layer": "Layer",
         "MultipleObserved": "layers",
+        "NoPreviousLayersFound": "No layers from other profiles found",
         "Observed": "layer",
+        "SelectLayers": "Select layers",
         "ShowLess": "Show less options",
         "ShowMore": "Show more options",
         "Thickness": "Thickness (cm)",
+        "UseLayers": "Use layers",
         "Wetness": "Wetness"
       },
       "SumOfAllLayers": "Sum of all layers:",

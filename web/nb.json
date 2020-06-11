@@ -588,10 +588,13 @@
         "HardnessBottom": "Nedre hardhet",
         "Layer": "Lag",
         "MultipleObserved": "lagdelinger observert",
+        "NoPreviousLayersFound": "Ingen tidligere lagdelinger funnet",
         "Observed": "lagdeling observert",
+        "SelectLayers": "Velg lagdeling",
         "ShowLess": "Vis færre valg for dette laget",
         "ShowMore": "Vis flere valg for dette laget",
         "Thickness": "Tykkelse (cm)",
+        "UseLayers": "Bruk lagdelingen",
         "Wetness": "Fuktighet"
       },
       "SumOfAllLayers": "Summen av alle lag:",
