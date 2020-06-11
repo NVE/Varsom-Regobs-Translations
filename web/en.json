@@ -590,6 +590,7 @@
         "Add": "Add",
         "AddTest": "Add test",
         "AttachedToProfile": "tests attached to profile",
+        "AttachedToProfileTooltip": "The test is linked to the snow profile",
         "Tests": "tests",
         "TestsWillAppearHere": "Tests you have added will appear here",
         "Update": "Update test"

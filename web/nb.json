@@ -590,6 +590,7 @@
         "Add": "Legg til",
         "AddTest": "Legg til test",
         "AttachedToProfile": "tester knyttet til profilen",
+        "AttachedToProfileTooltip": "Testen er knyttet til snøprofilen",
         "Tests": "tester",
         "TestsWillAppearHere": "Tester du har lagt til vises her",
         "Update": "Oppdater test"
