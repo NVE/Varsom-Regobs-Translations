@@ -7,7 +7,6 @@
   "Attachment": {
     "Attachment": "Attachment",
     "DropzoneText": "Drag files here to upload, or click to select",
-    "ErrorInfo": "One or more objects could not be submitted. Please check your network connection. We will keep trying to submit as long as the page is open in the browser.",
     "InvalidAttachmentType": "Invalid attachment. Allowed file types are:",
     "NoDescription": "No description",
     "Uploading": "Uploading"
@@ -525,6 +524,8 @@
         "LowerHeight": "Lower height",
         "Title": "Elevation"
       },
+      "UnsentDescription": "Form not saved to Regobs.",
+      "UnsentSummaryTitle": "Unsent form",
       "ValidExposition": {
         "Title": "Aspect"
       }
@@ -710,6 +711,7 @@
   },
   "RegistrationEdit": {
     "AddForm": "Add form",
+    "BadRequest": "Bad request.",
     "ConfirmDelete": "Are you sure you want to delete this observation?",
     "ContinueOnDraft": "Continue on draft",
     "ContinueOnDraftButton": "Continue on draft",
@@ -720,12 +722,17 @@
     "DeleteObservation": "Delete observation",
     "Discard": "Discard",
     "Done": "Done",
+    "ErrorHasBeenLogged": "The error message has been logged in the system with reference id",
     "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
+    "MissingNetwork": "Network is offlone or connection timed out. We will try again after a while and hope that the connection has improved.",
     "NoCancel": "No, cancel",
+    "Retry": "Retry",
     "SaveAsDraft": "Save as draft?",
     "SaveDraft": "Save draft",
     "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
+    "SubmitFailedHeader": "Submission failed",
     "SyncError": "Could not sync observation with Regobs!",
+    "SyncErrorFormInfo": "One or more objects on this form could not be submitted.",
     "SyncInProgress": "Sync in progress:",
     "YesDelete": "Yes, delete!"
   },

@@ -7,7 +7,6 @@
   "Attachment": {
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
-    "ErrorInfo": "Et eller flere objekter kunne ikke sendes inn, sannsynligvis grunnet manglende nettverkstilkobling. Vi fortsetter å prøve å sende inn så lenge siden er åpen i nettleseren.",
     "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtyper er:",
     "NoDescription": "Ingen beskrivelse",
     "Uploading": "Laster opp"
@@ -524,6 +523,8 @@
         "LowerHeight": "Nedre høyde",
         "Title": "Utsatt høyde"
       },
+      "UnsentDescription": "Skjema ikke synkronisert med Regobs.",
+      "UnsentSummaryTitle": "Usendt skjema",
       "ValidExposition": {
         "Title": "Eksposisjon"
       }
@@ -709,6 +710,7 @@
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
+    "BadRequest": "Ugyldig skjema.",
     "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
     "ContinueOnDraft": "Fortsett på kladd",
     "ContinueOnDraftButton": "Fortsett på kladd",
@@ -719,12 +721,17 @@
     "DeleteObservation": "Slett observasjon",
     "Discard": "Forkast",
     "Done": "Ferdig",
+    "ErrorHasBeenLogged": "Feilmeldingen har blitt logget i systemet med referanse",
     "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst et skjema for at observasjonen skal bli registrert.",
+    "MissingNetwork": "Mangler nettverk eller innsending tok for lang tid. Vi prøver igjen etter en stund og håper at nettet har bedret seg.",
     "NoCancel": "Nei, avbryt",
+    "Retry": "Prøv på nytt",
     "SaveAsDraft": "Lagre som kladd?",
     "SaveDraft": "Lagre kladd",
     "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
+    "SubmitFailedHeader": "Innsending feilet",
     "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
+    "SyncErrorFormInfo": "Et eller flere objekter på dette skjemaet kunne ikke sendes inn.",
     "SyncInProgress": "Synkronisering pågår:",
     "YesDelete": "Ja, slett!"
   },
