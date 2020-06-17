@@ -581,6 +581,7 @@
         "CriticalLayer": "Kritisk lag",
         "DeleteLayer": "Slett laget",
         "GetLayers": "Hent lagdeling fra en annen observasjon",
+        "GetLayersFromOtherObsInfo": "Du kan velge å kopiere inn lagene fra et tidligere registrert profil blant siste 14 dager innen 100 km.",
         "GrainFormPrimary": "Kornform",
         "GrainFormSecondary": "Sek. kornform",
         "GrainSizeAvg": "Kornstørrelse (mm)",
