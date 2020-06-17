@@ -582,6 +582,7 @@
         "CriticalLayer": "Critical layer",
         "DeleteLayer": "Delete layer",
         "GetLayers": "Get layers from other profile",
+        "GetLayersFromOtherObsInfo": "You can choose to copy the layers from a previously registered profile among the last 14 days within 100 km.",
         "GrainFormPrimary": "Grainform",
         "GrainFormSecondary": "Sec. grainform",
         "GrainSizeAvg": "Grain size (mm)",
