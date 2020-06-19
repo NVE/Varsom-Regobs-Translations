@@ -64,6 +64,10 @@
   "Date": "Date",
   "Delete": "Delete",
   "Dialogs": {
+    "Account": {
+      "LoggedOutDescription": "You have been automatically logged out. Do you want to log in again?",
+      "LoggedOutTitle": "Logged out"
+    },
     "Buttons": {
       "AddForm": "Add form",
       "Back": "Back",

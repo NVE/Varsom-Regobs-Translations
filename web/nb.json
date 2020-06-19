@@ -64,6 +64,10 @@
   "Date": "Dato",
   "Delete": "Slett",
   "Dialogs": {
+    "Account": {
+      "LoggedOutDescription": "Du har blitt automatisk logget ut. Vil du logge inn på nytt?",
+      "LoggedOutTitle": "Logget ut"
+    },
     "Buttons": {
       "AddForm": "Legg til skjema",
       "Back": "Tilbake",
