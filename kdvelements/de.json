@@ -270,12 +270,12 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_732": {
-        "translation": "Snow groomer / Belt wagon",
+        "translation": "Pistenraupe",
         "notes": "",
         "limit": "30"
     },
     "ActivityInfluencedKD_772": {
-        "translation": "Eislauf - ???",
+        "translation": "Eislauf",
         "notes": "",
         "limit": "30"
     },
@@ -580,7 +580,7 @@
         "limit": "1073741823"
     },
     "AvalCauseAttributFlags_4": {
-        "translation": "Das drüberliegende Schneebrett ist weich.",
+        "translation": "Das darüberliegende Schneebrett ist weich.",
         "notes": "",
         "limit": "1073741823"
     },
@@ -640,7 +640,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_13": {
-        "translation": "Aufbauend umgewandelte Schwachschicht",
+        "translation": "Oberflächennahe aufbauend umgewandelte Schwachschicht",
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
@@ -2680,7 +2680,7 @@
         "limit": "30"
     },
     "DangerSignKD_1": {
-        "translation": "Keine Gefahrenzeichen erfasst",
+        "translation": "Keine Gefahrenzeichen erkannt",
         "notes": "",
         "limit": "30"
     },
@@ -2796,7 +2796,7 @@
         "limit": "30"
     },
     "DangerSignKD_601": {
-        "translation": "Keine Gefahrenzeichen erfasst",
+        "translation": "Keine Gefahrenzeichen erkannt",
         "notes": "",
         "limit": "30"
     },
@@ -2876,7 +2876,7 @@
         "limit": "30"
     },
     "DangerSignKD_730": {
-        "translation": "Erhöhte Durchfluss",
+        "translation": "Erhöhter Durchfluss",
         "notes": "",
         "limit": "30"
     },
@@ -3576,17 +3576,17 @@
         "limit": "30"
     },
     "IceCapacityKD_10": {
-        "translation": "Geringe Gefahr: Eiseinbruch",
+        "translation": "Geringe Einbruchsgefahr",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_20": {
-        "translation": "Normale Gefahr: Eiseinbruch",
+        "translation": "Normale Einbruchsgefahr",
         "notes": "",
         "limit": "30"
     },
     "IceCapacityKD_30": {
-        "translation": "Große Gefahr: Eiseinbruch",
+        "translation": "Große Einbruchsgefahr",
         "notes": "",
         "limit": "30"
     },
@@ -3681,7 +3681,7 @@
         "limit": "1024"
     },
     "IceCoverBeforeKD_99": {
-        "translation": "Pause - bis heute unbekannt",
+        "translation": "Lücke - bis heute unbekannt",
         "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
         "limit": "30"
     },
@@ -4187,7 +4187,7 @@
         "limit": "1024"
     },
     "MeasurementTypeKD_2": {
-        "translation": "Meßstab",
+        "translation": "Maßstab",
         "notes": "measuring stick",
         "limit": "100"
     },
@@ -4518,12 +4518,12 @@
         "limit": "100"
     },
     "SnowSurfaceKD_108": {
-        "translation": "Ander",
+        "translation": "Andere",
         "notes": "",
         "limit": "100"
     },
     "SnowSurfaceKD_50": {
-        "translation": "Oberflächennahe Facetten",
+        "translation": "Oberflächennahe kantige Kristalle",
         "notes": "",
         "limit": "100"
     },
