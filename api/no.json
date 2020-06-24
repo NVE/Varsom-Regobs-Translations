@@ -67,12 +67,12 @@
       "ObsName": "Skredfaretegn"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Skredtype",
       "AvalCauseAttributeLightTID": "Ugunstige egenskaper på det svake laget",
       "AvalCauseDepthTID": "Avstand fra overflaten til det svake laget",
       "AvalCauseTID": "Type svakt lag",
       "AvalProbabilityTID": "Sannsynlighet for skred",
       "AvalTriggerSimpleTID": "Sannsynlig belasting for å løse ut skred",
-      "AvalancheExtTID": "Skredtype",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Størrelse på forventet skred",
       "ObsName": "Skredproblem",
@@ -105,10 +105,10 @@
       "ObsName": "Skredfarevurdering"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Svakt lag",
       "Avalanche": "Skredet",
       "AvalancheTID": "Skredtype",
       "AvalancheTriggerTID": "Skredutløser",
+      "AvalCauseTID": "Svakt lag",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Størrelse",
       "DtAvalancheTime": "Tid",
@@ -268,8 +268,8 @@
       "MeasuredRelativeTo": "Måling relativt til",
       "MeasurementReferenceTName": "Vannmarkering på/i",
       "MeasurementTypeTName": "Måleinstrument",
-      "ObsName": "Vannstand",
       "ObservationTimingTName": "Hva registrerer du?",
+      "ObsName": "Vannstand",
       "WaterAstrayTName": "Vann på avveie",
       "WaterLevelStateTName": "Situasjon",
       "WaterMarking": "Vannmarkering",
@@ -356,8 +356,8 @@
     }
   },
   "SearchButtonName": "Søk",
-  "SearchResultOfTotal": "av",
   "Searching": "Søker",
+  "SearchResultOfTotal": "av",
   "ShowAllObservations": "Vis alle observasjoner",
   "ShowFilteredObservations": "Vis valgte observasjoner",
   "ShowLess": "Vis færre",
