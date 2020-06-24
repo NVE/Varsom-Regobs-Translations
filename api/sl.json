@@ -1,377 +1,1268 @@
 {
-  "AppearanceName": "Videz:",
-  "Converters": {
-    "Above": "Nad",
-    "AboveSeaLevel": "m.n.v.",
-    "And": "in",
-    "Below": "Pod",
-    "Between": "Med",
-    "East": "Vzhod",
-    "EastShort": "V",
-    "North": "Sever",
-    "NorthEast": "Severovzhod",
-    "NorthEastShort": "SV",
-    "NorthShort": "S",
-    "NorthWest": "Severozahod",
-    "NorthWestShort": "SZ",
-    "NotBetween": "Ne med",
-    "South": "Jug",
-    "SouthEast": "Jugovzhod",
-    "SouthEastShort": "JV",
-    "SouthShort": "J",
-    "SouthWest": "Jugozahod",
-    "SouthWestShort": "JZ",
-    "UnknownDirection": "Neznana smer",
-    "West": "Zahod",
-    "WestShort": "Z"
-  },
-  "CountOf": "Število",
-  "From": "od",
-  "GoToObservation": "Pojdi na opažanje",
-  "HeightKey": "Višina",
-  "Ice": "led",
-  "LanguageLabel": "Jezik:",
-  "MapMode": "Zemljevid",
-  "Months": {
-    "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec"
-  },
-  "MultipleRegistrations": "registracije",
-  "Observation": "opažanja",
-  "ObservationPlural": "opažanje/-a",
-  "Observations": {
-    "AvalancheActivityObs": {
-      "Aspect": "Usmerjenost pobočja",
-      "AvalancheTID": "Tip",
-      "AvalancheTriggerTID": "Sprožilec",
-      "Comment": "Komentar",
-      "DtAvalancheTime": "Čas",
-      "HeigthStartZone": "Višina območja proženja",
-      "MetersOverSeaLevel": "m.n.v.",
-      "NumberAndSize": "Število in velikost",
-      "ObsName": "Plazovna aktivnost"
+    "AppearanceName": {
+        "translation": "Videz:",
+        "notes": ""
     },
-    "AvalancheActivityObs2": {
-      "AvalancheExtTID": "Tip",
-      "AvalancheTID": "Tip",
-      "Comment": "Komentar",
-      "DtAvalancheTime": "Čas",
-      "DuringTheDay": "Čez dan",
-      "MetersOverSeaLevel": "m.n.v.",
-      "NumberAndSizeAndTrigger": "Število, velikost in sprožilec",
-      "ObsName": "Plazovna aktivnost",
-      "Prevalence": "Porazdelitev nevarnih območij"
+    "Converters": {
+        "Above": {
+            "translation": "Nad",
+            "notes": ""
+        },
+        "AboveSeaLevel": {
+            "translation": "m.n.v.",
+            "notes": ""
+        },
+        "And": {
+            "translation": "in",
+            "notes": ""
+        },
+        "Below": {
+            "translation": "Pod",
+            "notes": ""
+        },
+        "Between": {
+            "translation": "Med",
+            "notes": ""
+        },
+        "East": {
+            "translation": "Vzhod",
+            "notes": ""
+        },
+        "EastShort": {
+            "translation": "V",
+            "notes": ""
+        },
+        "North": {
+            "translation": "Sever",
+            "notes": ""
+        },
+        "NorthEast": {
+            "translation": "Severovzhod",
+            "notes": ""
+        },
+        "NorthEastShort": {
+            "translation": "SV",
+            "notes": ""
+        },
+        "NorthShort": {
+            "translation": "S",
+            "notes": ""
+        },
+        "NorthWest": {
+            "translation": "Severozahod",
+            "notes": ""
+        },
+        "NorthWestShort": {
+            "translation": "SZ",
+            "notes": ""
+        },
+        "NotBetween": {
+            "translation": "Ne med",
+            "notes": ""
+        },
+        "South": {
+            "translation": "Jug",
+            "notes": ""
+        },
+        "SouthEast": {
+            "translation": "Jugovzhod",
+            "notes": ""
+        },
+        "SouthEastShort": {
+            "translation": "JV",
+            "notes": ""
+        },
+        "SouthShort": {
+            "translation": "J",
+            "notes": ""
+        },
+        "SouthWest": {
+            "translation": "Jugozahod",
+            "notes": ""
+        },
+        "SouthWestShort": {
+            "translation": "JZ",
+            "notes": ""
+        },
+        "UnknownDirection": {
+            "translation": "Neznana smer",
+            "notes": ""
+        },
+        "West": {
+            "translation": "Zahod",
+            "notes": ""
+        },
+        "WestShort": {
+            "translation": "Z",
+            "notes": ""
+        }
     },
-    "AvalancheDangerObs": {
-      "Comment": "Komentar",
-      "DangerSignTID": "Tip",
-      "ObsName": "Znak plazovne nevarnosti"
+    "CountOf": {
+        "translation": "Število",
+        "notes": ""
     },
-    "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Tip plazu",
-      "AvalCauseAttributeLightTID": "Neugodne lastnosti šibke plasti",
-      "AvalCauseDepthTID": "Višina snežne odeje med šibko plastjo in površjem",
-      "AvalCauseTID": "Tip šibke plasti",
-      "AvalProbabilityTID": "Verjetnost proženja snežnih plazov",
-      "AvalTriggerSimpleTID": "Pričakovana dodatna obremenitev, ki bi sprožila plazove",
-      "Comment": "Komentar",
-      "DestructiveSizeTID": "Pričakovana velikost plazu",
-      "ObsName": "Plazovni problem",
-      "PrevalenceArea": "Porazdelitev nevarnih območij"
+    "From": {
+        "translation": "od",
+        "notes": ""
     },
-    "AvalancheEvaluation": {
-      "AvalancheDangerTID": "Stopnja nevarnosti",
-      "AvalancheEvaluation1": "Ocena plazu",
-      "AvalancheProblemTID1": "Plazovni problem 1",
-      "AvalancheProblemTID2": "Plazovni problem 2",
-      "AvalancheProblemTID3": "Plazovni problem 3",
-      "Comment": "Razvoj",
-      "ObsName": "Ocena plazovne nevarnosti",
-      "ValidExposition": "Usmerjenost pobočja"
+    "GoToObservation": {
+        "translation": "Pojdi na opažanje",
+        "notes": ""
     },
-    "AvalancheEvaluation2": {
-      "AvalancheDangerTID": "Stopnja nevarnosti",
-      "AvalancheDevelopment": "Razvoj",
-      "AvalancheEvaluation": "Ocena plazovne nevarnosti",
-      "AvalancheProblem": "Plazovni problem",
-      "ExposedTerrain": "Izpostavljen teren",
-      "ObsName": "Ocena plazovne nevarnosti"
+    "HeightKey": {
+        "translation": "Višina",
+        "notes": ""
     },
-    "AvalancheEvaluation3": {
-      "AvalancheDangerTID": "Stopnja nevarnosti",
-      "AvalancheDevelopment": "Razvoj",
-      "AvalancheEvaluation": "Ocena plazovne nevarnosti",
-      "ForecastComment": "Komentar",
-      "ForecastCorrectTID": "Točnost napovedi",
-      "ObsName": "Ocena plazovne nevarnosti"
+    "Ice": {
+        "translation": "led",
+        "notes": ""
     },
-    "AvalancheObs": {
-      "Avalanche": "Plaz",
-      "AvalancheTID": "Tip plazu",
-      "AvalancheTriggerTID": "Sprožilec",
-      "AvalCauseTID": "Šibka plast",
-      "Comment": "Komentar",
-      "DestructiveSizeTID": "Velikost",
-      "DtAvalancheTime": "Čas",
-      "Facing": "v smeri",
-      "Fracture": "Napoka",
-      "FractureHeigth": "višina",
-      "FractureWidth": "širina",
-      "HeightStartZoneText": "začetna točka na",
-      "HeigthStartZone": "Višina območja proženja",
-      "HeigthStopZone": "Višina območja odlaganja",
-      "HeigthStopZoneText": "najnižja točka na",
-      "ObsName": "Opažen snežni plaz",
-      "TerrainStartZoneTID": "Teren na območju proženja",
-      "Trajectory": "Pot plazu",
-      "ValidExposition": "Usmerjenost pobočja"
+    "LanguageLabel": {
+        "translation": "Jezik:",
+        "notes": ""
     },
-    "CompressionTest": {
-      "Comment": "Komentar",
-      "ObsName": "Test",
-      "StabilityEvalTID": "Stabilnost",
-      "Test": "Test"
+    "MapMode": {
+        "translation": "Zemljevid",
+        "notes": ""
     },
-    "DamageObs": {
-      "Comment": "Komentar",
-      "DamageTypeTID": "Tip",
-      "ObsName": "Opažena škoda"
+    "Months": {
+        "ShortList": {
+            "translation": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec",
+            "notes": ""
+        }
     },
-    "DangerObs": {
-      "Comment": "Komentar",
-      "DangerSignTName": "Tip",
-      "ObsName": "Opažena nevarnost"
+    "MultipleRegistrations": {
+        "translation": "registracije",
+        "notes": ""
     },
-    "GeneralObservation": {
-      "Comment": "Komentar",
-      "ObsComment": "Besedilo",
-      "ObsHeader": "Glava",
-      "ObsName": "Opažena splošna nevarnost",
-      "Urls": "Povezave"
+    "Observation": {
+        "translation": "opažanja",
+        "notes": ""
     },
-    "IceCoverObs": {
-      "Comment": "Komentar",
-      "IceCapacityTName": "Nosilnost",
-      "IceCoverAfterTName": "Delež ledenega pokrova po opazovanju",
-      "IceCoverBeforeTName": "Delež ledenega pokrova pred opazovanjem",
-      "IceCoverTName": "Pokritost z ledom",
-      "IceSkateabilityTName": "Gladkost",
-      "ObsName": "Opazovanje zaledenelih površin"
+    "ObservationPlural": {
+        "translation": "opažanje/-a",
+        "notes": ""
     },
-    "IceThickness": {
-      "BeforeDrilling": "pred vrtanjem",
-      "Comment": "Komentar",
-      "IceThicknessLayers": "Plasti (od vrha do dna)",
-      "IceThicknessSum": "Debelina",
-      "IsEqualToIceSurface": "Površina ledu je enaka površini vode",
-      "LowerThanIceSurface": "od površja do vodne gladine v luknji",
-      "ObsName": "Debelina ledu",
-      "OverIce": "Nad ledom",
-      "OverWater": "vodna gladina",
-      "OverWaterAfterDrilling": "vodna gladina po vrtanju",
-      "SlushSnow": "Ledena kaša",
-      "Snow": "sneg",
-      "Total": "v celoti",
-      "UnknownIceLayer": "neznan sloj ledu",
-      "WaterSurfaceInHole": "Vodna gladina v luknji"
+    "Observations": {
+        "AvalancheActivityObs": {
+            "Aspect": {
+                "translation": "Usmerjenost pobočja",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Sprožilec",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Čas",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Višina območja proženja",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m.n.v.",
+                "notes": ""
+            },
+            "NumberAndSize": {
+                "translation": "Število in velikost",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Plazovna aktivnost",
+                "notes": ""
+            }
+        },
+        "AvalancheActivityObs2": {
+            "AvalancheExtTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Čas",
+                "notes": ""
+            },
+            "DuringTheDay": {
+                "translation": "Čez dan",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m.n.v.",
+                "notes": ""
+            },
+            "NumberAndSizeAndTrigger": {
+                "translation": "Število, velikost in sprožilec",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Plazovna aktivnost",
+                "notes": ""
+            },
+            "Prevalence": {
+                "translation": "Porazdelitev nevarnih območij",
+                "notes": ""
+            }
+        },
+        "AvalancheDangerObs": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DangerSignTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Znak plazovne nevarnosti",
+                "notes": ""
+            }
+        },
+        "AvalancheEvalProblem2": {
+            "AvalancheExtTID": {
+                "translation": "Tip plazu",
+                "notes": ""
+            },
+            "AvalCauseAttributeLightTID": {
+                "translation": "Neugodne lastnosti šibke plasti",
+                "notes": ""
+            },
+            "AvalCauseDepthTID": {
+                "translation": "Višina snežne odeje med šibko plastjo in površjem",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Tip šibke plasti",
+                "notes": ""
+            },
+            "AvalProbabilityTID": {
+                "translation": "Verjetnost proženja snežnih plazov",
+                "notes": ""
+            },
+            "AvalTriggerSimpleTID": {
+                "translation": "Pričakovana dodatna obremenitev, ki bi sprožila plazove",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Pričakovana velikost plazu",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Plazovni problem",
+                "notes": ""
+            },
+            "PrevalenceArea": {
+                "translation": "Porazdelitev nevarnih območij",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation": {
+            "AvalancheDangerTID": {
+                "translation": "Stopnja nevarnosti",
+                "notes": ""
+            },
+            "AvalancheEvaluation1": {
+                "translation": "Ocena plazu",
+                "notes": ""
+            },
+            "AvalancheProblemTID1": {
+                "translation": "Plazovni problem 1",
+                "notes": ""
+            },
+            "AvalancheProblemTID2": {
+                "translation": "Plazovni problem 2",
+                "notes": ""
+            },
+            "AvalancheProblemTID3": {
+                "translation": "Plazovni problem 3",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Razvoj",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Ocena plazovne nevarnosti",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Usmerjenost pobočja",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation2": {
+            "AvalancheDangerTID": {
+                "translation": "Stopnja nevarnosti",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Razvoj",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Ocena plazovne nevarnosti",
+                "notes": ""
+            },
+            "AvalancheProblem": {
+                "translation": "Plazovni problem",
+                "notes": ""
+            },
+            "ExposedTerrain": {
+                "translation": "Izpostavljen teren",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Ocena plazovne nevarnosti",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation3": {
+            "AvalancheDangerTID": {
+                "translation": "Stopnja nevarnosti",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Razvoj",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Ocena plazovne nevarnosti",
+                "notes": ""
+            },
+            "ForecastComment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "ForecastCorrectTID": {
+                "translation": "Točnost napovedi",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Ocena plazovne nevarnosti",
+                "notes": ""
+            }
+        },
+        "AvalancheObs": {
+            "Avalanche": {
+                "translation": "Plaz",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Tip plazu",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Sprožilec",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Šibka plast",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Velikost",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Čas",
+                "notes": ""
+            },
+            "Facing": {
+                "translation": "v smeri",
+                "notes": ""
+            },
+            "Fracture": {
+                "translation": "Napoka",
+                "notes": ""
+            },
+            "FractureHeigth": {
+                "translation": "višina",
+                "notes": ""
+            },
+            "FractureWidth": {
+                "translation": "širina",
+                "notes": ""
+            },
+            "HeightStartZoneText": {
+                "translation": "začetna točka na",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Višina območja proženja",
+                "notes": ""
+            },
+            "HeigthStopZone": {
+                "translation": "Višina območja odlaganja",
+                "notes": ""
+            },
+            "HeigthStopZoneText": {
+                "translation": "najnižja točka na",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opažen snežni plaz",
+                "notes": ""
+            },
+            "TerrainStartZoneTID": {
+                "translation": "Teren na območju proženja",
+                "notes": ""
+            },
+            "Trajectory": {
+                "translation": "Pot plazu",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Usmerjenost pobočja",
+                "notes": ""
+            }
+        },
+        "CompressionTest": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "StabilityEvalTID": {
+                "translation": "Stabilnost",
+                "notes": ""
+            },
+            "Test": {
+                "translation": "Test",
+                "notes": ""
+            }
+        },
+        "DamageObs": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DamageTypeTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opažena škoda",
+                "notes": ""
+            }
+        },
+        "DangerObs": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DangerSignTName": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opažena nevarnost",
+                "notes": ""
+            }
+        },
+        "GeneralObservation": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "ObsComment": {
+                "translation": "Besedilo",
+                "notes": ""
+            },
+            "ObsHeader": {
+                "translation": "Glava",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opažena splošna nevarnost",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Povezave",
+                "notes": ""
+            }
+        },
+        "IceCoverObs": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "IceCapacityTName": {
+                "translation": "Nosilnost",
+                "notes": ""
+            },
+            "IceCoverAfterTName": {
+                "translation": "Delež ledenega pokrova po opazovanju",
+                "notes": ""
+            },
+            "IceCoverBeforeTName": {
+                "translation": "Delež ledenega pokrova pred opazovanjem",
+                "notes": ""
+            },
+            "IceCoverTName": {
+                "translation": "Pokritost z ledom",
+                "notes": ""
+            },
+            "IceSkateabilityTName": {
+                "translation": "Gladkost",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opazovanje zaledenelih površin",
+                "notes": ""
+            }
+        },
+        "IceThickness": {
+            "BeforeDrilling": {
+                "translation": "pred vrtanjem",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "IceThicknessLayers": {
+                "translation": "Plasti (od vrha do dna)",
+                "notes": ""
+            },
+            "IceThicknessSum": {
+                "translation": "Debelina",
+                "notes": ""
+            },
+            "IsEqualToIceSurface": {
+                "translation": "Površina ledu je enaka površini vode",
+                "notes": ""
+            },
+            "LowerThanIceSurface": {
+                "translation": "od površja do vodne gladine v luknji",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Debelina ledu",
+                "notes": ""
+            },
+            "OverIce": {
+                "translation": "Nad ledom",
+                "notes": ""
+            },
+            "OverWater": {
+                "translation": "vodna gladina",
+                "notes": ""
+            },
+            "OverWaterAfterDrilling": {
+                "translation": "vodna gladina po vrtanju",
+                "notes": ""
+            },
+            "SlushSnow": {
+                "translation": "plundra",
+                "notes": ""
+            },
+            "Snow": {
+                "translation": "sneg",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "v celoti",
+                "notes": ""
+            },
+            "UnknownIceLayer": {
+                "translation": "neznan sloj ledu",
+                "notes": ""
+            },
+            "WaterSurfaceInHole": {
+                "translation": "Vodna gladina v luknji",
+                "notes": ""
+            }
+        },
+        "Incident": {
+            "ActivityInfluencedTID": {
+                "translation": "Aktivnost",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DamageExtentTID": {
+                "translation": "Obseg",
+                "notes": ""
+            },
+            "GeoHazardTID": {
+                "translation": "Tip opažanja",
+                "notes": ""
+            },
+            "IncidentHeader": {
+                "translation": "Glava",
+                "notes": ""
+            },
+            "IncidentIngress": {
+                "translation": "Uvod",
+                "notes": ""
+            },
+            "IncidentText": {
+                "translation": "Opis",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Incident",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Povezave",
+                "notes": ""
+            }
+        },
+        "LandslideObs": {
+            "ActivityInfluencedTName": {
+                "translation": "Kaj je bilo poškodovano?",
+                "notes": ""
+            },
+            "And": {
+                "translation": " in ",
+                "notes": ""
+            },
+            "Between": {
+                "translation": "Med",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DamageExtentTName": {
+                "translation": "Obseg škode",
+                "notes": ""
+            },
+            "ForecastAccurateTName": {
+                "translation": "Je bilo opozorilo na varsom.no točno?",
+                "notes": ""
+            },
+            "LandSlideSizeTName": {
+                "translation": "Velikost",
+                "notes": ""
+            },
+            "LandSlideTName": {
+                "translation": "Tip plazu",
+                "notes": ""
+            },
+            "LandSlideTriggerTName": {
+                "translation": "Sprožilec",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Opažen zemeljski plaz",
+                "notes": ""
+            },
+            "Time": {
+                "translation": "Čas",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Povezave",
+                "notes": ""
+            }
+        },
+        "Picture": {
+            "Aspect": {
+                "translation": "Usmerjenost",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "Copyright": {
+                "translation": "Avtorske pravice",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Slika",
+                "notes": ""
+            },
+            "Photographer": {
+                "translation": "Fotograf",
+                "notes": ""
+            },
+            "PictureComment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "RegistrationTID": {
+                "translation": "Od",
+                "notes": ""
+            }
+        },
+        "SnowCover": {
+            "CriticalLayer": {
+                "translation": "Šibka plast",
+                "notes": ""
+            },
+            "CriticalLayerFound": {
+                "translation": "Šibka plast opažena",
+                "notes": ""
+            },
+            "CriticalLayerLocation": {
+                "translation": "Lokacija",
+                "notes": ""
+            },
+            "CriticalLayerNotFound": {
+                "translation": "Ni bilo opažene šibke plasti.",
+                "notes": ""
+            },
+            "CriticalLayerTID": {
+                "translation": "Tip",
+                "notes": ""
+            },
+            "DepthHoar": {
+                "translation": "Globinski srež",
+                "notes": ""
+            },
+            "DepthHoarInSnowCover": {
+                "translation": "opažen globinski srež",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Snežni profil",
+                "notes": ""
+            },
+            "SnowPilotRefTID": {
+                "translation": "Snežni profil",
+                "notes": ""
+            },
+            "UnderSurface": {
+                "translation": "pod površjem",
+                "notes": ""
+            }
+        },
+        "SnowProfile": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "CompressionTest": {
+                "translation": "Testi",
+                "notes": ""
+            },
+            "CompressionTests": {
+                "translation": "Testi",
+                "notes": ""
+            },
+            "CompressionTestsConnectedToProfile": {
+                "translation": "povezani s snežnim profilom",
+                "notes": ""
+            },
+            "LayersObserved": {
+                "translation": "opažene plasti",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Snežni profil",
+                "notes": ""
+            },
+            "SnowDensity": {
+                "translation": "Gostota snega",
+                "notes": ""
+            },
+            "SnowDensityLayersObserved": {
+                "translation": "opažene plasti gostote snega",
+                "notes": ""
+            },
+            "SnowTemperature": {
+                "translation": "Temperatura",
+                "notes": ""
+            },
+            "SnowTemperatureLayersObserved": {
+                "translation": "opažene temperature v točkah",
+                "notes": ""
+            },
+            "StartProfileLayersObserved": {
+                "translation": "opaženo plastenje",
+                "notes": ""
+            },
+            "StratLayers": {
+                "translation": "Plastenje",
+                "notes": ""
+            }
+        },
+        "SnowSurfaceObservation": {
+            "FootPenetration": {
+                "translation": "Ugrez pri hoji",
+                "notes": ""
+            },
+            "HeightLimitLayeredSnow": {
+                "translation": "Sneg v plasteh se začne na",
+                "notes": ""
+            },
+            "Kommentar": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "NewSnow": {
+                "translation": "nov sneg",
+                "notes": ""
+            },
+            "NewSnowDepth24": {
+                "translation": "Nov sneg v zadnjih 24 urah",
+                "notes": ""
+            },
+            "NewSnowLine": {
+                "translation": "Nov sneg na višini do",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Površina snežne odeje",
+                "notes": ""
+            },
+            "SnowDepth": {
+                "translation": "Višina snežne odeje",
+                "notes": ""
+            },
+            "SnowDriftTName": {
+                "translation": "Napihan sneg",
+                "notes": ""
+            },
+            "SnowLine": {
+                "translation": "Snežna meja na",
+                "notes": ""
+            },
+            "SnowLines": {
+                "translation": "Snežna meja",
+                "notes": ""
+            },
+            "SnowSurfaceTName": {
+                "translation": "Trdota snežne odeje",
+                "notes": ""
+            },
+            "SurfaceRougnessTName": {
+                "translation": "Hrapavost površine snežne odeje",
+                "notes": ""
+            },
+            "SurfaceWaterContentTName": {
+                "translation": "Vodnatost snega",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "skupaj",
+                "notes": ""
+            }
+        },
+        "WaterLevel": {
+            "AppliesFor": {
+                "translation": "Velja za",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "Lake": {
+                "translation": "Jezero",
+                "notes": ""
+            },
+            "MeasuredDischarge": {
+                "translation": "Izmerjen pretok",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Vodostaj",
+                "notes": ""
+            },
+            "River": {
+                "translation": "reka",
+                "notes": ""
+            },
+            "WaterLevelDescribed": {
+                "translation": "Opis vodne gladine / vodostaja",
+                "notes": ""
+            },
+            "WaterLevelRefTName": {
+                "translation": "Izhodiščna točka pri merjenju vodostaja",
+                "notes": ""
+            },
+            "WaterLevelValue": {
+                "translation": "Vrednost",
+                "notes": ""
+            }
+        },
+        "WaterLevel2": {
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "DtMeasurementTime": {
+                "translation": "Čas",
+                "notes": ""
+            },
+            "MeasuredRelativeTo": {
+                "translation": "Relativna meritev glede na",
+                "notes": ""
+            },
+            "MeasurementReferenceTName": {
+                "translation": "Vodostaj sem označil na",
+                "notes": ""
+            },
+            "MeasurementTypeTName": {
+                "translation": "Naprava za meritev",
+                "notes": ""
+            },
+            "ObservationTimingTName": {
+                "translation": "Kaj želiš označiti?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Vodostaj",
+                "notes": ""
+            },
+            "WaterAstrayTName": {
+                "translation": "Ali obstaja vodni tok?",
+                "notes": ""
+            },
+            "WaterLevelStateTName": {
+                "translation": "Situacija",
+                "notes": ""
+            },
+            "WaterMarking": {
+                "translation": "Vodna oznaka",
+                "notes": ""
+            },
+            "WaterMeasurement": {
+                "translation": "Merjenje vode",
+                "notes": ""
+            },
+            "WaterMeasurementValue": {
+                "translation": "Vrednost",
+                "notes": ""
+            },
+            "With": {
+                "translation": "z",
+                "notes": ""
+            }
+        },
+        "WeatherObservation": {
+            "AirTemperature": {
+                "translation": "Temperatura zraka",
+                "notes": ""
+            },
+            "CloudCover": {
+                "translation": "Oblačnost",
+                "notes": ""
+            },
+            "Clouds": {
+                "translation": "oblaki",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Komentar",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Vreme",
+                "notes": ""
+            },
+            "PrecipitationTID": {
+                "translation": "Tip padavin",
+                "notes": ""
+            },
+            "Wind": {
+                "translation": "Veter",
+                "notes": ""
+            },
+            "WindDirection": {
+                "translation": "iz smeri",
+                "notes": ""
+            }
+        }
     },
-    "Incident": {
-      "ActivityInfluencedTID": "Aktivnost",
-      "Comment": "Komentar",
-      "DamageExtentTID": "Obseg",
-      "GeoHazardTID": "Tip opažanja",
-      "IncidentHeader": "Glava",
-      "IncidentIngress": "Uvod",
-      "IncidentText": "Opis",
-      "ObsName": "Incident",
-      "Urls": "Povezave"
+    "Of": {
+        "translation": "za",
+        "notes": ""
     },
-    "LandslideObs": {
-      "ActivityInfluencedTName": "Kaj je bilo poškodovano?",
-      "And": " in ",
-      "Between": "Med",
-      "Comment": "Komentar",
-      "DamageExtentTName": "Obseg škode",
-      "ForecastAccurateTName": "Je bilo opozorilo na varsom.no točno?",
-      "LandSlideSizeTName": "Velikost",
-      "LandSlideTName": "Tip plazu",
-      "LandSlideTriggerTName": "Sprožilec",
-      "ObsName": "Opažen zemeljski plaz",
-      "Time": "Čas",
-      "Urls": "Povezave"
+    "PictureKey": {
+        "translation": "Slika",
+        "notes": ""
     },
-    "Picture": {
-      "Aspect": "Usmerjenost",
-      "Comment": "Komentar",
-      "Copyright": "Avtorske pravice",
-      "ObsName": "Slika",
-      "Photographer": "Fotograf",
-      "PictureComment": "Komentar",
-      "RegistrationTID": "Od"
+    "PictureMode": {
+        "translation": "Slike",
+        "notes": ""
     },
-    "SnowCover": {
-      "CriticalLayer": "Šibka plast",
-      "CriticalLayerFound": "Šibka plast opažena",
-      "CriticalLayerLocation": "Lokacija",
-      "CriticalLayerNotFound": "Ni bilo opažene šibke plasti.",
-      "CriticalLayerTID": "Tip",
-      "DepthHoar": "Globinski srež",
-      "DepthHoarInSnowCover": "opažen globinski srež",
-      "ObsName": "Snežni profil",
-      "SnowPilotRefTID": "Snežni profil",
-      "UnderSurface": "pod površjem"
+    "Reg": {
+        "ObservedTime": {
+            "translation": "Opaženo",
+            "notes": ""
+        },
+        "ObserverNickName": {
+            "translation": "Od",
+            "notes": ""
+        },
+        "RegisteredTime": {
+            "translation": "Ustvarjeno",
+            "notes": ""
+        },
+        "UpdatedTime": {
+            "translation": "Posodobljeno",
+            "notes": ""
+        }
     },
-    "SnowProfile": {
-      "Comment": "Komentar",
-      "CompressionTest": "Test",
-      "CompressionTests": "Testi",
-      "CompressionTestsConnectedToProfile": "povezani s snežnim profilom",
-      "LayersObserved": "opažene plasti",
-      "ObsName": "Snežni profil",
-      "SnowDensity": "Gostota snega",
-      "SnowDensityLayersObserved": "opažene plasti gostote snega",
-      "SnowTemperature": "Temperatura",
-      "SnowTemperatureLayersObserved": "opažene temperature v točkah",
-      "StartProfileLayersObserved": "opaženo plastenje",
-      "StratLayers": "Plastenje"
+    "Search": {
+        "Criterias": {
+            "Country": {
+                "CountryInfo": {
+                    "translation": "Če država manjka na seznamu, je to zato, ker tam še ni bilo dodanih nobenih opažanj.",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Ostale države",
+                    "notes": ""
+                }
+            },
+            "ObservationTypes": {
+                "Label": {
+                    "translation": "Tipi opažanj",
+                    "notes": ""
+                }
+            },
+            "Observers": {
+                "Label": {
+                    "translation": "Opazovalci",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Moja opažanja",
+                    "notes": ""
+                },
+                "ObserverNickNamePlaceholder": {
+                    "translation": "Išči po uporabniškem imenu opazovalca",
+                    "notes": ""
+                },
+                "SearchInCompetences": {
+                    "translation": "Išči po usposobljenosti opazovalca: ",
+                    "notes": ""
+                }
+            },
+            "QuickSearch": {
+                "Label": {
+                    "translation": "Hitro iskanje",
+                    "notes": ""
+                }
+            },
+            "Recent": {
+                "CountryKey": {
+                    "translation": "Država",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "Dnevi",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "Od",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Moja nedavna iskanja",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "zadnji",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Moja opažanja",
+                    "notes": ""
+                },
+                "ObserverCompetence": {
+                    "translation": "Usposobljenost opazovalca",
+                    "notes": ""
+                },
+                "ObserverName": {
+                    "translation": "Ime opazovalca",
+                    "notes": ""
+                },
+                "Regions": {
+                    "translation": "Območja",
+                    "notes": ""
+                },
+                "RegistrationTypes": {
+                    "translation": "Tipi opažanj",
+                    "notes": ""
+                },
+                "Time": {
+                    "translation": "Čas",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Do",
+                    "notes": ""
+                }
+            },
+            "Regions": {
+                "BRegionInfo": {
+                    "translation": "Za območja, označena z *, so opozorila izdana samo v primeru, da je stopnja nevarnosti 4 ali 5.",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Območja",
+                    "notes": ""
+                }
+            },
+            "TimePeriod": {
+                "ChooseDate": {
+                    "translation": "izberi datum:",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "dan",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "Od",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Časovno obdobje",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "zadnji",
+                    "notes": ""
+                },
+                "Or": {
+                    "translation": "ali",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Do",
+                    "notes": ""
+                }
+            }
+        },
+        "GetMoreRegistrationsBtn": {
+            "translation": "Pridobi več opažanj",
+            "notes": ""
+        },
+        "HeadingColor": {
+            "black": {
+                "translation": "Črna",
+                "notes": ""
+            },
+            "blue": {
+                "translation": "Modra",
+                "notes": ""
+            }
+        },
+        "LoadMoreRegistrationsText": {
+            "translation": "Kliknite sem, če se opažanja ne naložijo samodejno.",
+            "notes": ""
+        },
+        "SortOrder": {
+            "LastUpdated": {
+                "translation": "Zadnjič posodobljeno",
+                "notes": ""
+            },
+            "ObservedTime": {
+                "translation": "Opaženo",
+                "notes": ""
+            },
+            "RegistrationTime": {
+                "translation": "Ustvarjeno",
+                "notes": ""
+            }
+        }
     },
-    "SnowSurfaceObservation": {
-      "FootPenetration": "Ugrez pri hoji",
-      "HeightLimitLayeredSnow": "Sneg v plasteh se začne na",
-      "Kommentar": "Komentar",
-      "NewSnow": "nov sneg",
-      "NewSnowDepth24": "Nov sneg v zadnjih 24 urah",
-      "NewSnowLine": "Nov sneg na višini do",
-      "ObsName": "Površina snežne odeje",
-      "SnowDepth": "Višina snežne odeje",
-      "SnowDriftTName": "Napihan sneg",
-      "SnowLine": "Snežna meja na",
-      "SnowLines": "Snežna meja",
-      "SnowSurfaceTName": "Trdota snežne odeje",
-      "SurfaceRougnessTName": "Hrapavost površine snežne odeje",
-      "SurfaceWaterContentTName": "Vodnatost snega",
-      "Total": "skupaj"
+    "SearchButtonName": {
+        "translation": "Išči",
+        "notes": ""
     },
-    "WaterLevel": {
-      "AppliesFor": "Velja za",
-      "Comment": "Komentar",
-      "Lake": "Jezero",
-      "MeasuredDischarge": "Izmerjen pretok",
-      "ObsName": "Vodostaj",
-      "River": "reka",
-      "WaterLevelDescribed": "Opis vodne gladine / vodostaja",
-      "WaterLevelRefTName": "Izhodiščna točka pri merjenju vodostaja",
-      "WaterLevelValue": "Vrednost"
+    "Searching": {
+        "translation": "Iskanje poteka, prosimo počakajte",
+        "notes": ""
     },
-    "WaterLevel2": {
-      "Comment": "Komentar",
-      "DtMeasurementTime": "Čas",
-      "MeasuredRelativeTo": "Relativna meritev glede na",
-      "MeasurementReferenceTName": "Vodostaj sem označil na",
-      "MeasurementTypeTName": "Naprava za meritev",
-      "ObservationTimingTName": "Kaj želiš označiti?",
-      "ObsName": "Vodostaj",
-      "WaterAstrayTName": "Ali obstaja vodni tok?",
-      "WaterLevelStateTName": "Situacija",
-      "WaterMarking": "Vodna oznaka",
-      "WaterMeasurement": "Merjenje vode",
-      "WaterMeasurementValue": "Vrednost",
-      "With": "z"
+    "SearchResultOfTotal": {
+        "translation": "od",
+        "notes": ""
     },
-    "WeatherObservation": {
-      "AirTemperature": "Temperatura zraka",
-      "CloudCover": "Oblačnost",
-      "Clouds": "oblaki",
-      "Comment": "Komentar",
-      "ObsName": "Vreme",
-      "PrecipitationTID": "Tip padavin",
-      "Wind": "Veter",
-      "WindDirection": "iz smeri"
+    "ShowAllObservations": {
+        "translation": "Pokaži vsa opažanja",
+        "notes": ""
+    },
+    "ShowFilteredObservations": {
+        "translation": "Pokaži izbrana opažanja",
+        "notes": ""
+    },
+    "ShowLess": {
+        "translation": "Pokaži manj",
+        "notes": ""
+    },
+    "ShowMore": {
+        "translation": "Pokaži več",
+        "notes": ""
+    },
+    "ShowSearchButtonName": {
+        "translation": "Pokaži iskalno vrstico",
+        "notes": ""
+    },
+    "SingleRegistration": {
+        "translation": "registracija",
+        "notes": ""
+    },
+    "Snow": {
+        "translation": "sneg",
+        "notes": ""
+    },
+    "Soil": {
+        "translation": "zemlja",
+        "notes": ""
+    },
+    "SortByName": {
+        "translation": "Razvrsti po:",
+        "notes": ""
+    },
+    "TableModes": {
+        "CompactKey": {
+            "translation": "Strnjeno",
+            "notes": ""
+        },
+        "CompleteKey": {
+            "translation": "Popolno",
+            "notes": ""
+        },
+        "ShortKey": {
+            "translation": "Kratko",
+            "notes": ""
+        }
+    },
+    "To": {
+        "translation": "do",
+        "notes": ""
+    },
+    "Water": {
+        "translation": "voda",
+        "notes": ""
     }
-  },
-  "Of": "za",
-  "PictureKey": "Slika",
-  "PictureMode": "Slike",
-  "Reg": {
-    "ObservedTime": "Opaženo",
-    "ObserverNickName": "Od",
-    "RegisteredTime": "Ustvarjeno",
-    "UpdatedTime": "Posodobljeno"
-  },
-  "Search": {
-    "Criterias": {
-      "Country": {
-        "CountryInfo": "Če država manjka na seznamu, je to zato, ker tam še ni bilo dodanih nobenih opažanj.",
-        "Label": "Ostale države"
-      },
-      "ObservationTypes": {
-        "Label": "Tipi opažanj"
-      },
-      "Observers": {
-        "Label": "Opazovalci",
-        "MyObservations": "Moja opažanja",
-        "ObserverNickNamePlaceholder": "Išči po uporabniškem imenu opazovalca",
-        "SearchInCompetences": "Išči po usposobljenosti opazovalca"
-      },
-      "QuickSearch": {
-        "Label": "Hitro iskanje"
-      },
-      "Recent": {
-        "CountryKey": "Država",
-        "Day": "Dnevi",
-        "FromDate": "Od",
-        "Label": "Moja nedavna iskanja",
-        "Last": "zadnji",
-        "MyObservations": "Moja opažanja",
-        "ObserverCompetence": "Usposobljenost opazovalca",
-        "ObserverName": "Ime opazovalca",
-        "Regions": "Območja",
-        "RegistrationTypes": "Tipi opažanj",
-        "Time": "Čas",
-        "ToDate": "Do"
-      },
-      "Regions": {
-        "BRegionInfo": "Za območja, označena z *, so opozorila izdana samo v primeru, da je stopnja nevarnosti 4 ali 5.",
-        "Label": "Območja"
-      },
-      "TimePeriod": {
-        "ChooseDate": "izberi datum:",
-        "Day": "dan",
-        "FromDate": "Od",
-        "Label": "Časovno obdobje",
-        "Last": "zadnji",
-        "Or": "ali",
-        "ToDate": "Do"
-      }
-    },
-    "GetMoreRegistrationsBtn": "Pridobi več opažanj",
-    "HeadingColor": {
-      "black": "Črna",
-      "blue": "Modra"
-    },
-    "LoadMoreRegistrationsText": "Kliknite sem, če se opažanja ne naložijo samodejno.",
-    "SortOrder": {
-      "LastUpdated": "Zadnjič posodobljeno",
-      "ObservedTime": "Opaženo",
-      "RegistrationTime": "Ustvarjeno"
-    }
-  },
-  "SearchButtonName": "Išči",
-  "Searching": "Iskanje poteka, prosimo počakajte",
-  "SearchResultOfTotal": "od",
-  "ShowAllObservations": "Pokaži vsa opažanja",
-  "ShowFilteredObservations": "Pokaži izbrana opažanja",
-  "ShowLess": "Pokaži manj",
-  "ShowMore": "Pokaži več",
-  "ShowSearchButtonName": "Pokaži iskalno vrstico",
-  "SingleRegistration": "registracija",
-  "Snow": "sneg",
-  "Soil": "zemlja",
-  "SortByName": "Razvrsti po:",
-  "TableModes": {
-    "CompactKey": "Strnjeno",
-    "CompleteKey": "Popolno",
-    "ShortKey": "Kratko"
-  },
-  "To": "do",
-  "Water": "voda"
 }
