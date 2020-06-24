@@ -1,377 +1,1268 @@
 {
-  "AppearanceName": "Aussehen:",
-  "Converters": {
-    "Above": "Über",
-    "AboveSeaLevel": "m.ü.A",
-    "And": "und",
-    "Below": "Unter",
-    "Between": "Zwischen",
-    "East": "Ost",
-    "EastShort": "O",
-    "North": "Nord",
-    "NorthEast": "Nordost",
-    "NorthEastShort": "NO",
-    "NorthShort": "N",
-    "NorthWest": "Nordwest",
-    "NorthWestShort": "NW",
-    "NotBetween": "Nicht zwischen",
-    "South": "Süd",
-    "SouthEast": "Südost",
-    "SouthEastShort": "SO",
-    "SouthShort": "S",
-    "SouthWest": "Südwest",
-    "SouthWestShort": "SW",
-    "UnknownDirection": "Unbekannt Richtung",
-    "West": "West",
-    "WestShort": "W"
-  },
-  "CountOf": "Anzahl",
-  "From": "von",
-  "GoToObservation": "Gehe zur Beobachtung",
-  "HeightKey": "Höhe",
-  "Ice": "Eis",
-  "LanguageLabel": "Sprache:",
-  "MapMode": "Karte",
-  "Months": {
-    "ShortList": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
-  },
-  "MultipleRegistrations": "Beobachtungen",
-  "Observation": "Beobachtungen",
-  "ObservationPlural": "Beobachtung(en)",
-  "Observations": {
-    "AvalancheActivityObs": {
-      "Aspect": "Hangrichtung",
-      "AvalancheTID": "Typ",
-      "AvalancheTriggerTID": "Auslöseart",
-      "Comment": "Kommentar",
-      "DtAvalancheTime": "Zeit",
-      "HeigthStartZone": "Höhe des Anrissgebietes",
-      "MetersOverSeaLevel": "m.ü.A",
-      "NumberAndSize": "Lawinenanzahl und Größe",
-      "ObsName": "Lawinenaktivität"
+    "AppearanceName": {
+        "translation": "Aussehen:",
+        "notes": ""
     },
-    "AvalancheActivityObs2": {
-      "AvalancheExtTID": "Typ",
-      "AvalancheTID": "Typ",
-      "Comment": "Bemerkung",
-      "DtAvalancheTime": "Zeit",
-      "DuringTheDay": "Während des Tages",
-      "MetersOverSeaLevel": "m.ü.A",
-      "NumberAndSizeAndTrigger": "Anzahl, Größe und Auslöseart",
-      "ObsName": "Lawinenaktivität",
-      "Prevalence": "Verbreitung der Gefahrenstellen"
+    "Converters": {
+        "Above": {
+            "translation": "Über",
+            "notes": ""
+        },
+        "AboveSeaLevel": {
+            "translation": "m.ü.A",
+            "notes": ""
+        },
+        "And": {
+            "translation": "und",
+            "notes": ""
+        },
+        "Below": {
+            "translation": "Unter",
+            "notes": ""
+        },
+        "Between": {
+            "translation": "Zwischen",
+            "notes": ""
+        },
+        "East": {
+            "translation": "Ost",
+            "notes": ""
+        },
+        "EastShort": {
+            "translation": "O",
+            "notes": ""
+        },
+        "North": {
+            "translation": "Nord",
+            "notes": ""
+        },
+        "NorthEast": {
+            "translation": "Nordost",
+            "notes": ""
+        },
+        "NorthEastShort": {
+            "translation": "NO",
+            "notes": ""
+        },
+        "NorthShort": {
+            "translation": "N",
+            "notes": ""
+        },
+        "NorthWest": {
+            "translation": "Nordwest",
+            "notes": ""
+        },
+        "NorthWestShort": {
+            "translation": "NW",
+            "notes": ""
+        },
+        "NotBetween": {
+            "translation": "Nicht zwischen",
+            "notes": ""
+        },
+        "South": {
+            "translation": "Süd",
+            "notes": ""
+        },
+        "SouthEast": {
+            "translation": "Südost",
+            "notes": ""
+        },
+        "SouthEastShort": {
+            "translation": "SO",
+            "notes": ""
+        },
+        "SouthShort": {
+            "translation": "S",
+            "notes": ""
+        },
+        "SouthWest": {
+            "translation": "Südwest",
+            "notes": ""
+        },
+        "SouthWestShort": {
+            "translation": "SW",
+            "notes": ""
+        },
+        "UnknownDirection": {
+            "translation": "Unbekannt Richtung",
+            "notes": ""
+        },
+        "West": {
+            "translation": "West",
+            "notes": ""
+        },
+        "WestShort": {
+            "translation": "W",
+            "notes": ""
+        }
     },
-    "AvalancheDangerObs": {
-      "Comment": "Kommentar",
-      "DangerSignTID": "Typ",
-      "ObsName": "Lawinengefahrenzeichen"
+    "CountOf": {
+        "translation": "Anzahl",
+        "notes": ""
     },
-    "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Lawinentyp",
-      "AvalCauseAttributeLightTID": "Ungünstige Eigenschaften der Schwachschicht",
-      "AvalCauseDepthTID": "Abstand der Schwachschicht zur Oberfläche",
-      "AvalCauseTID": "Art der Schwachschicht",
-      "AvalProbabilityTID": "Lawinenwahrscheinlichkeit",
-      "AvalTriggerSimpleTID": "Zusatzbelastung für Lawinenauslösung",
-      "Comment": "Kommentar",
-      "DestructiveSizeTID": "Größe der erwarteten Lawinen",
-      "ObsName": "Lawinenproblem",
-      "PrevalenceArea": "Verbreitung der Gefahrenstellen"
+    "From": {
+        "translation": "von",
+        "notes": ""
     },
-    "AvalancheEvaluation": {
-      "AvalancheDangerTID": "Gefahrenstufe",
-      "AvalancheEvaluation1": "Beurteilung",
-      "AvalancheProblemTID1": "Lawinenproblem 1",
-      "AvalancheProblemTID2": "Lawinenproblem 2",
-      "AvalancheProblemTID3": "Lawinenproblem 3",
-      "Comment": "Vorhersage",
-      "ObsName": "Lawinenwahrscheinlichkeit",
-      "ValidExposition": "Hangrichtung"
+    "GoToObservation": {
+        "translation": "Gehe zur Beobachtung",
+        "notes": ""
     },
-    "AvalancheEvaluation2": {
-      "AvalancheDangerTID": "Gefahrenstufe",
-      "AvalancheDevelopment": "Vorhersage",
-      "AvalancheEvaluation": "Beurteilung",
-      "AvalancheProblem": "Lawinenproblem",
-      "ExposedTerrain": "Betroffenes Gelände",
-      "ObsName": "Lawinenwahrscheinlichkeit"
+    "HeightKey": {
+        "translation": "Höhe",
+        "notes": ""
     },
-    "AvalancheEvaluation3": {
-      "AvalancheDangerTID": "Gefahrenstufe",
-      "AvalancheDevelopment": "Vorhersage",
-      "AvalancheEvaluation": "Beurteilung",
-      "ForecastComment": "Kommentar",
-      "ForecastCorrectTID": "Rückmeldung Lawinenprognose",
-      "ObsName": "Lawinenwahrscheinlichkeit"
+    "Ice": {
+        "translation": "Eis",
+        "notes": ""
     },
-    "AvalancheObs": {
-      "Avalanche": "Lawine",
-      "AvalancheTID": "Typ",
-      "AvalancheTriggerTID": "Auslöser",
-      "AvalCauseTID": "Schwachschicht",
-      "Comment": "Kommentar",
-      "DestructiveSizeTID": "Größe",
-      "DtAvalancheTime": "Zeit",
-      "Facing": "zugewandt",
-      "Fracture": "Bruch",
-      "FractureHeigth": "hoch",
-      "FractureWidth": "breit",
-      "HeightStartZoneText": "Abbruch bei",
-      "HeigthStartZone": "Anrisshöhe",
-      "HeigthStopZone": "Höhe des Ablagerungsgebietes",
-      "HeigthStopZoneText": "endet bei",
-      "ObsName": "Lawinenbeobachtung",
-      "TerrainStartZoneTID": "Gelände im Anrissgebiet",
-      "Trajectory": "Lawinenbahn",
-      "ValidExposition": "Exposition"
+    "LanguageLabel": {
+        "translation": "Sprache:",
+        "notes": ""
     },
-    "CompressionTest": {
-      "Comment": "Kommentar",
-      "ObsName": "Test",
-      "StabilityEvalTID": "Stabilität",
-      "Test": "Test"
+    "MapMode": {
+        "translation": "Karte",
+        "notes": ""
     },
-    "DamageObs": {
-      "Comment": "Kommentar",
-      "DamageTypeTID": "Typ",
-      "ObsName": "Schadensbeobachtung"
+    "Months": {
+        "ShortList": {
+            "translation": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez",
+            "notes": ""
+        }
     },
-    "DangerObs": {
-      "Comment": "Kommentar",
-      "DangerSignTName": "Gefahrentyp",
-      "ObsName": "Gefahrenzeichen"
+    "MultipleRegistrations": {
+        "translation": "Beobachtungen",
+        "notes": ""
     },
-    "GeneralObservation": {
-      "Comment": "Kommentar",
-      "ObsComment": "Text",
-      "ObsHeader": "Überschrift",
-      "ObsName": "Beobachtung",
-      "Urls": "Links"
+    "Observation": {
+        "translation": "Beobachtungen",
+        "notes": ""
     },
-    "IceCoverObs": {
-      "Comment": "Kommentar",
-      "IceCapacityTName": "Tragkraft",
-      "IceCoverAfterTName": "Eisdecke nach der Beobachtung",
-      "IceCoverBeforeTName": "Eisdecke vor der Beobachtung",
-      "IceCoverTName": "Eisdecke",
-      "IceSkateabilityTName": "Befahrbarkeit",
-      "ObsName": "Eisdeckenbeobachtung"
+    "ObservationPlural": {
+        "translation": "Beobachtung(en)",
+        "notes": ""
     },
-    "IceThickness": {
-      "BeforeDrilling": "vor dem Bohren",
-      "Comment": "Kommentar",
-      "IceThicknessLayers": "Schichten (von oben nach unten)",
-      "IceThicknessSum": "Gesamtdicke",
-      "IsEqualToIceSurface": "Wasserspiegel gleich Eisoberfläche",
-      "LowerThanIceSurface": "von der Oberfläche zum Wasser im Loch",
-      "ObsName": "Eisdicke",
-      "OverIce": "Über dem Eis",
-      "OverWater": "Oberflächenwasser",
-      "OverWaterAfterDrilling": "Oberflächenwasser nach dem Bohren",
-      "SlushSnow": "Matsch",
-      "Snow": "Schnee",
-      "Total": "insgesamt",
-      "UnknownIceLayer": "unbekannte Eisschicht",
-      "WaterSurfaceInHole": "Wasserstand im Loch"
+    "Observations": {
+        "AvalancheActivityObs": {
+            "Aspect": {
+                "translation": "Hangrichtung",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Auslöseart",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Zeit",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Höhe des Anrissgebietes",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m.ü.A",
+                "notes": ""
+            },
+            "NumberAndSize": {
+                "translation": "Lawinenanzahl und Größe",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenaktivität",
+                "notes": ""
+            }
+        },
+        "AvalancheActivityObs2": {
+            "AvalancheExtTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Bemerkung",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Zeit",
+                "notes": ""
+            },
+            "DuringTheDay": {
+                "translation": "Während des Tages",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m.ü.A",
+                "notes": ""
+            },
+            "NumberAndSizeAndTrigger": {
+                "translation": "Anzahl, Größe und Auslöseart",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenaktivität",
+                "notes": ""
+            },
+            "Prevalence": {
+                "translation": "Verbreitung der Gefahrenstellen",
+                "notes": ""
+            }
+        },
+        "AvalancheDangerObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DangerSignTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinengefahrenzeichen",
+                "notes": ""
+            }
+        },
+        "AvalancheEvalProblem2": {
+            "AvalancheExtTID": {
+                "translation": "Lawinentyp",
+                "notes": ""
+            },
+            "AvalCauseAttributeLightTID": {
+                "translation": "Ungünstige Eigenschaften der Schwachschicht",
+                "notes": ""
+            },
+            "AvalCauseDepthTID": {
+                "translation": "Abstand der Schwachschicht zur Oberfläche",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Art der Schwachschicht",
+                "notes": ""
+            },
+            "AvalProbabilityTID": {
+                "translation": "Lawinenwahrscheinlichkeit",
+                "notes": ""
+            },
+            "AvalTriggerSimpleTID": {
+                "translation": "Zusatzbelastung für Lawinenauslösung",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Größe der erwarteten Lawinen",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenproblem",
+                "notes": ""
+            },
+            "PrevalenceArea": {
+                "translation": "Verbreitung der Gefahrenstellen",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation": {
+            "AvalancheDangerTID": {
+                "translation": "Gefahrenstufe",
+                "notes": ""
+            },
+            "AvalancheEvaluation1": {
+                "translation": "Beurteilung",
+                "notes": ""
+            },
+            "AvalancheProblemTID1": {
+                "translation": "Lawinenproblem 1",
+                "notes": ""
+            },
+            "AvalancheProblemTID2": {
+                "translation": "Lawinenproblem 2",
+                "notes": ""
+            },
+            "AvalancheProblemTID3": {
+                "translation": "Lawinenproblem 3",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Vorhersage",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenwahrscheinlichkeit",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Hangrichtung",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation2": {
+            "AvalancheDangerTID": {
+                "translation": "Gefahrenstufe",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Vorhersage",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Beurteilung",
+                "notes": ""
+            },
+            "AvalancheProblem": {
+                "translation": "Lawinenproblem",
+                "notes": ""
+            },
+            "ExposedTerrain": {
+                "translation": "Betroffenes Gelände",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenwahrscheinlichkeit",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation3": {
+            "AvalancheDangerTID": {
+                "translation": "Gefahrenstufe",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Vorhersage",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Beurteilung",
+                "notes": ""
+            },
+            "ForecastComment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "ForecastCorrectTID": {
+                "translation": "Rückmeldung Lawinenprognose",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenwahrscheinlichkeit",
+                "notes": ""
+            }
+        },
+        "AvalancheObs": {
+            "Avalanche": {
+                "translation": "Lawine",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Auslöser",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Schwachschicht",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Größe",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Zeit",
+                "notes": ""
+            },
+            "Facing": {
+                "translation": "zugewandt",
+                "notes": ""
+            },
+            "Fracture": {
+                "translation": "Bruch",
+                "notes": ""
+            },
+            "FractureHeigth": {
+                "translation": "hoch",
+                "notes": ""
+            },
+            "FractureWidth": {
+                "translation": "breit",
+                "notes": ""
+            },
+            "HeightStartZoneText": {
+                "translation": "Abbruch bei",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Anrisshöhe",
+                "notes": ""
+            },
+            "HeigthStopZone": {
+                "translation": "Höhe des Ablagerungsgebietes",
+                "notes": ""
+            },
+            "HeigthStopZoneText": {
+                "translation": "endet bei",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Lawinenbeobachtung",
+                "notes": ""
+            },
+            "TerrainStartZoneTID": {
+                "translation": "Gelände im Anrissgebiet",
+                "notes": ""
+            },
+            "Trajectory": {
+                "translation": "Lawinenbahn",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Exposition",
+                "notes": ""
+            }
+        },
+        "CompressionTest": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "StabilityEvalTID": {
+                "translation": "Stabilität",
+                "notes": ""
+            },
+            "Test": {
+                "translation": "Test",
+                "notes": ""
+            }
+        },
+        "DamageObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DamageTypeTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Schadensbeobachtung",
+                "notes": ""
+            }
+        },
+        "DangerObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DangerSignTName": {
+                "translation": "Gefahrentyp",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Gefahrenzeichen",
+                "notes": ""
+            }
+        },
+        "GeneralObservation": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "ObsComment": {
+                "translation": "Text",
+                "notes": ""
+            },
+            "ObsHeader": {
+                "translation": "Überschrift",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Beobachtung",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Links",
+                "notes": ""
+            }
+        },
+        "IceCoverObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "IceCapacityTName": {
+                "translation": "Tragkraft",
+                "notes": ""
+            },
+            "IceCoverAfterTName": {
+                "translation": "Eisdecke nach der Beobachtung",
+                "notes": ""
+            },
+            "IceCoverBeforeTName": {
+                "translation": "Eisdecke vor der Beobachtung",
+                "notes": ""
+            },
+            "IceCoverTName": {
+                "translation": "Eisdecke",
+                "notes": ""
+            },
+            "IceSkateabilityTName": {
+                "translation": "Befahrbarkeit",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Eisdeckenbeobachtung",
+                "notes": ""
+            }
+        },
+        "IceThickness": {
+            "BeforeDrilling": {
+                "translation": "vor dem Bohren",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "IceThicknessLayers": {
+                "translation": "Schichten (von oben nach unten)",
+                "notes": ""
+            },
+            "IceThicknessSum": {
+                "translation": "Gesamtdicke",
+                "notes": ""
+            },
+            "IsEqualToIceSurface": {
+                "translation": "Wasserspiegel gleich Eisoberfläche",
+                "notes": ""
+            },
+            "LowerThanIceSurface": {
+                "translation": "von der Oberfläche zum Wasser im Loch",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Eisdicke",
+                "notes": ""
+            },
+            "OverIce": {
+                "translation": "Über dem Eis",
+                "notes": ""
+            },
+            "OverWater": {
+                "translation": "Oberflächenwasser",
+                "notes": ""
+            },
+            "OverWaterAfterDrilling": {
+                "translation": "Oberflächenwasser nach dem Bohren",
+                "notes": ""
+            },
+            "SlushSnow": {
+                "translation": "Matsch",
+                "notes": ""
+            },
+            "Snow": {
+                "translation": "Schnee",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "insgesamt",
+                "notes": ""
+            },
+            "UnknownIceLayer": {
+                "translation": "unbekannte Eisschicht",
+                "notes": ""
+            },
+            "WaterSurfaceInHole": {
+                "translation": "Wasserstand im Loch",
+                "notes": ""
+            }
+        },
+        "Incident": {
+            "ActivityInfluencedTID": {
+                "translation": "Aktivität",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DamageExtentTID": {
+                "translation": "Schadensumfang",
+                "notes": ""
+            },
+            "GeoHazardTID": {
+                "translation": "Art der Beobachtung",
+                "notes": ""
+            },
+            "IncidentHeader": {
+                "translation": "Überschrift",
+                "notes": ""
+            },
+            "IncidentIngress": {
+                "translation": "Ereigniseintritt",
+                "notes": ""
+            },
+            "IncidentText": {
+                "translation": "Beschreibung",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Ereignis",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Links",
+                "notes": ""
+            }
+        },
+        "LandslideObs": {
+            "ActivityInfluencedTName": {
+                "translation": "Was war betroffen?",
+                "notes": ""
+            },
+            "And": {
+                "translation": " und ",
+                "notes": ""
+            },
+            "Between": {
+                "translation": "Zwischen",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DamageExtentTName": {
+                "translation": "Schadensausmaß",
+                "notes": ""
+            },
+            "ForecastAccurateTName": {
+                "translation": "War die Warnung genau?",
+                "notes": ""
+            },
+            "LandSlideSizeTName": {
+                "translation": "Größe",
+                "notes": ""
+            },
+            "LandSlideTName": {
+                "translation": "Erdrutschtyp",
+                "notes": ""
+            },
+            "LandSlideTriggerTName": {
+                "translation": "Auslöser",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Erdrutschbeobachtung",
+                "notes": ""
+            },
+            "Time": {
+                "translation": "Zeit",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Links",
+                "notes": ""
+            }
+        },
+        "Picture": {
+            "Aspect": {
+                "translation": "Ausrichtung",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "Copyright": {
+                "translation": "Copyright",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Bild",
+                "notes": ""
+            },
+            "Photographer": {
+                "translation": "Foto",
+                "notes": ""
+            },
+            "PictureComment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "RegistrationTID": {
+                "translation": "Bild von",
+                "notes": ""
+            }
+        },
+        "SnowCover": {
+            "CriticalLayer": {
+                "translation": "Schwachschicht",
+                "notes": ""
+            },
+            "CriticalLayerFound": {
+                "translation": "Schwachschicht erkannt.",
+                "notes": ""
+            },
+            "CriticalLayerLocation": {
+                "translation": "Lage",
+                "notes": ""
+            },
+            "CriticalLayerNotFound": {
+                "translation": "Keine Schwachschicht erkannt.",
+                "notes": ""
+            },
+            "CriticalLayerTID": {
+                "translation": "Typ",
+                "notes": ""
+            },
+            "DepthHoar": {
+                "translation": "Tiefenreif",
+                "notes": ""
+            },
+            "DepthHoarInSnowCover": {
+                "translation": "Tiefenreif nahe Boden.",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Schneeprofil",
+                "notes": ""
+            },
+            "SnowPilotRefTID": {
+                "translation": "Schneeprofil",
+                "notes": ""
+            },
+            "UnderSurface": {
+                "translation": "unter der Oberfläche",
+                "notes": ""
+            }
+        },
+        "SnowProfile": {
+            "Comment": {
+                "translation": "Kommentart",
+                "notes": ""
+            },
+            "CompressionTest": {
+                "translation": "Tests",
+                "notes": ""
+            },
+            "CompressionTests": {
+                "translation": "Tests",
+                "notes": ""
+            },
+            "CompressionTestsConnectedToProfile": {
+                "translation": "mit Schneeprofil verbunden",
+                "notes": ""
+            },
+            "LayersObserved": {
+                "translation": "Vorhandene Schichten",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Schneeprofil",
+                "notes": ""
+            },
+            "SnowDensity": {
+                "translation": "Schneedichte",
+                "notes": ""
+            },
+            "SnowDensityLayersObserved": {
+                "translation": "Dichtemessungen",
+                "notes": ""
+            },
+            "SnowTemperature": {
+                "translation": "Temperatur",
+                "notes": ""
+            },
+            "SnowTemperatureLayersObserved": {
+                "translation": "Temperaturmessungen",
+                "notes": ""
+            },
+            "StartProfileLayersObserved": {
+                "translation": "alte Schichten beobachtet",
+                "notes": ""
+            },
+            "StratLayers": {
+                "translation": "Schneeschichten",
+                "notes": ""
+            }
+        },
+        "SnowSurfaceObservation": {
+            "FootPenetration": {
+                "translation": "Einsinktiefe Fuss",
+                "notes": ""
+            },
+            "HeightLimitLayeredSnow": {
+                "translation": "Schneeschicht beginnt bei",
+                "notes": ""
+            },
+            "Kommentar": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "NewSnow": {
+                "translation": "Neuschnee",
+                "notes": ""
+            },
+            "NewSnowDepth24": {
+                "translation": "Neuschnee in den letzten 24 Stunden",
+                "notes": ""
+            },
+            "NewSnowLine": {
+                "translation": "Neuschneehöhe",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Schneeoberfläche",
+                "notes": ""
+            },
+            "SnowDepth": {
+                "translation": "Schneedeckendicke",
+                "notes": ""
+            },
+            "SnowDriftTName": {
+                "translation": "Schneeverwehung",
+                "notes": ""
+            },
+            "SnowLine": {
+                "translation": "Schneegrenze bei",
+                "notes": ""
+            },
+            "SnowLines": {
+                "translation": "Schneegrenzen",
+                "notes": ""
+            },
+            "SnowSurfaceTName": {
+                "translation": "Schneeoberflächenhärte",
+                "notes": ""
+            },
+            "SurfaceRougnessTName": {
+                "translation": "Oberflächenrauheit",
+                "notes": ""
+            },
+            "SurfaceWaterContentTName": {
+                "translation": "Schneewassergehalt",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "insgesamt",
+                "notes": ""
+            }
+        },
+        "WaterLevel": {
+            "AppliesFor": {
+                "translation": "Gilt für",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "Lake": {
+                "translation": "See",
+                "notes": ""
+            },
+            "MeasuredDischarge": {
+                "translation": "Gemessener Abfluss",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Wasserstand",
+                "notes": ""
+            },
+            "River": {
+                "translation": "Fluß",
+                "notes": ""
+            },
+            "WaterLevelDescribed": {
+                "translation": "Wasserstand Beschreibung",
+                "notes": ""
+            },
+            "WaterLevelRefTName": {
+                "translation": "Wasserstandsreferenzmessunge",
+                "notes": ""
+            },
+            "WaterLevelValue": {
+                "translation": "Wert",
+                "notes": ""
+            }
+        },
+        "WaterLevel2": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DtMeasurementTime": {
+                "translation": "Zeit",
+                "notes": ""
+            },
+            "MeasuredRelativeTo": {
+                "translation": "Messungen relativ zu",
+                "notes": ""
+            },
+            "MeasurementReferenceTName": {
+                "translation": "Wassermarkierung auf/mit",
+                "notes": ""
+            },
+            "MeasurementTypeTName": {
+                "translation": "Messinstrument",
+                "notes": ""
+            },
+            "ObservationTimingTName": {
+                "translation": "Was wurde registriert?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Wasserpegel",
+                "notes": ""
+            },
+            "WaterAstrayTName": {
+                "translation": "Ist Wasser über die Ufer getreten?",
+                "notes": ""
+            },
+            "WaterLevelStateTName": {
+                "translation": "Situation",
+                "notes": ""
+            },
+            "WaterMarking": {
+                "translation": "Wassermarkierung",
+                "notes": ""
+            },
+            "WaterMeasurement": {
+                "translation": "Wassermessung",
+                "notes": ""
+            },
+            "WaterMeasurementValue": {
+                "translation": "Wert",
+                "notes": ""
+            },
+            "With": {
+                "translation": "mit",
+                "notes": ""
+            }
+        },
+        "WeatherObservation": {
+            "AirTemperature": {
+                "translation": "Lufttemperatur",
+                "notes": ""
+            },
+            "CloudCover": {
+                "translation": "Wolkendecke",
+                "notes": ""
+            },
+            "Clouds": {
+                "translation": "Wolken",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Wetter",
+                "notes": ""
+            },
+            "PrecipitationTID": {
+                "translation": "Niederschlagstyp",
+                "notes": ""
+            },
+            "Wind": {
+                "translation": "Wind",
+                "notes": ""
+            },
+            "WindDirection": {
+                "translation": "aus",
+                "notes": ""
+            }
+        }
     },
-    "Incident": {
-      "ActivityInfluencedTID": "Aktivität",
-      "Comment": "Kommentar",
-      "DamageExtentTID": "Schadensumfang",
-      "GeoHazardTID": "Art der Beobachtung",
-      "IncidentHeader": "Überschrift",
-      "IncidentIngress": "Ereigniseintritt",
-      "IncidentText": "Beschreibung",
-      "ObsName": "Ereignis",
-      "Urls": "Links"
+    "Of": {
+        "translation": "von",
+        "notes": ""
     },
-    "LandslideObs": {
-      "ActivityInfluencedTName": "Was war betroffen?",
-      "And": " und ",
-      "Between": "Zwischen",
-      "Comment": "Kommentar",
-      "DamageExtentTName": "Schadensausmaß",
-      "ForecastAccurateTName": "War die Warnung genau?",
-      "LandSlideSizeTName": "Größe",
-      "LandSlideTName": "Erdrutschtyp",
-      "LandSlideTriggerTName": "Auslöser",
-      "ObsName": "Erdrutschbeobachtung",
-      "Time": "Zeit",
-      "Urls": "Links"
+    "PictureKey": {
+        "translation": "Bild",
+        "notes": ""
     },
-    "Picture": {
-      "Aspect": "Ausrichtung",
-      "Comment": "Kommentar",
-      "Copyright": "Copyright",
-      "ObsName": "Bild",
-      "Photographer": "Foto",
-      "PictureComment": "Kommentar",
-      "RegistrationTID": "Bild von"
+    "PictureMode": {
+        "translation": "Nur Bilder",
+        "notes": ""
     },
-    "SnowCover": {
-      "CriticalLayer": "Schwachschicht",
-      "CriticalLayerFound": "Schwachschicht erkannt.",
-      "CriticalLayerLocation": "Lage",
-      "CriticalLayerNotFound": "Keine Schwachschicht erkannt.",
-      "CriticalLayerTID": "Typ",
-      "DepthHoar": "Tiefenreif",
-      "DepthHoarInSnowCover": "Tiefenreif nahe Boden.",
-      "ObsName": "Schneeprofil",
-      "SnowPilotRefTID": "Schneeprofil",
-      "UnderSurface": "unter der Oberfläche"
+    "Reg": {
+        "ObservedTime": {
+            "translation": "Beobachtet",
+            "notes": ""
+        },
+        "ObserverNickName": {
+            "translation": "Von",
+            "notes": ""
+        },
+        "RegisteredTime": {
+            "translation": "Eingetragen",
+            "notes": ""
+        },
+        "UpdatedTime": {
+            "translation": "Aktualisiert",
+            "notes": ""
+        }
     },
-    "SnowProfile": {
-      "Comment": "Kommentart",
-      "CompressionTest": "Tests",
-      "CompressionTests": "Tests",
-      "CompressionTestsConnectedToProfile": "mit Schneeprofil verbunden",
-      "LayersObserved": "Vorhandene Schichten",
-      "ObsName": "Schneeprofil",
-      "SnowDensity": "Schneedichte",
-      "SnowDensityLayersObserved": "Dichtemessungen",
-      "SnowTemperature": "Temperatur",
-      "SnowTemperatureLayersObserved": "Temperaturmessungen",
-      "StartProfileLayersObserved": "alte Schichten beobachtet",
-      "StratLayers": "Schneeschichten"
+    "Search": {
+        "Criterias": {
+            "Country": {
+                "CountryInfo": {
+                    "translation": "Falls ein Land in der obigen Liste fehlt, liegt dies daran, dass von dort keine Beobachtungen eingereicht wurden.​",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Andere Länder",
+                    "notes": ""
+                }
+            },
+            "ObservationTypes": {
+                "Label": {
+                    "translation": "Beobachtungstypen",
+                    "notes": ""
+                }
+            },
+            "Observers": {
+                "Label": {
+                    "translation": "Beobachter",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Meine Beobachtungen",
+                    "notes": ""
+                },
+                "ObserverNickNamePlaceholder": {
+                    "translation": "Suche nach Beobachter-Nickname",
+                    "notes": ""
+                },
+                "SearchInCompetences": {
+                    "translation": "Suche nach Benutzerkompetenz: ",
+                    "notes": ""
+                }
+            },
+            "QuickSearch": {
+                "Label": {
+                    "translation": "Schnellsuche",
+                    "notes": ""
+                }
+            },
+            "Recent": {
+                "CountryKey": {
+                    "translation": "Land",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "Tage",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "von",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Meine letzten Suchergebnisse",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "zuletzt",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Meine Beobachtungen",
+                    "notes": ""
+                },
+                "ObserverCompetence": {
+                    "translation": "Beobachterkompetenz",
+                    "notes": ""
+                },
+                "ObserverName": {
+                    "translation": "Beobachtername",
+                    "notes": ""
+                },
+                "Regions": {
+                    "translation": "Regionen",
+                    "notes": ""
+                },
+                "RegistrationTypes": {
+                    "translation": "Beobachtungstyp",
+                    "notes": ""
+                },
+                "Time": {
+                    "translation": "Zeitspanne",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Zu",
+                    "notes": ""
+                }
+            },
+            "Regions": {
+                "BRegionInfo": {
+                    "translation": "Für * gekennzeichnete Regionen werden Prognosen nur bei Gefährdungsstufen 4 und 5 ausgegeben.",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Warnregionen",
+                    "notes": ""
+                }
+            },
+            "TimePeriod": {
+                "ChooseDate": {
+                    "translation": "Datum auswählen:",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "Tag",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "Von",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Zeitraum",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "zuletzt",
+                    "notes": ""
+                },
+                "Or": {
+                    "translation": "oder",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Von",
+                    "notes": ""
+                }
+            }
+        },
+        "GetMoreRegistrationsBtn": {
+            "translation": "Mehr Beobachtungen ansehen",
+            "notes": ""
+        },
+        "HeadingColor": {
+            "black": {
+                "translation": "Schwarz",
+                "notes": ""
+            },
+            "blue": {
+                "translation": "Blau",
+                "notes": ""
+            }
+        },
+        "LoadMoreRegistrationsText": {
+            "translation": "Klicken Sie hier, wenn die Beobachtungen nicht automatisch geladen werden",
+            "notes": ""
+        },
+        "SortOrder": {
+            "LastUpdated": {
+                "translation": "Letztes Update",
+                "notes": ""
+            },
+            "ObservedTime": {
+                "translation": "Beobachtet",
+                "notes": ""
+            },
+            "RegistrationTime": {
+                "translation": "Erstellt",
+                "notes": ""
+            }
+        }
     },
-    "SnowSurfaceObservation": {
-      "FootPenetration": "Einsinktiefe Fuss",
-      "HeightLimitLayeredSnow": "Schneeschicht beginnt bei",
-      "Kommentar": "Kommentar",
-      "NewSnow": "Neuschnee",
-      "NewSnowDepth24": "Neuschnee in den letzten 24 Stunden",
-      "NewSnowLine": "Neuschneehöhe",
-      "ObsName": "Schneeoberfläche",
-      "SnowDepth": "Schneedeckendicke",
-      "SnowDriftTName": "Schneeverwehung",
-      "SnowLine": "Schneegrenze bei",
-      "SnowLines": "Schneegrenzen",
-      "SnowSurfaceTName": "Schneeoberflächenhärte",
-      "SurfaceRougnessTName": "Oberflächenrauheit",
-      "SurfaceWaterContentTName": "Schneewassergehalt",
-      "Total": "insgesamt"
+    "SearchButtonName": {
+        "translation": "Suche",
+        "notes": ""
     },
-    "WaterLevel": {
-      "AppliesFor": "Gilt für",
-      "Comment": "Kommentar",
-      "Lake": "See",
-      "MeasuredDischarge": "Gemessener Abfluss",
-      "ObsName": "Wasserstand",
-      "River": "Fluß",
-      "WaterLevelDescribed": "Wasserstand Beschreibung",
-      "WaterLevelRefTName": "Wasserstandsreferenzmessunge",
-      "WaterLevelValue": "Wert"
+    "Searching": {
+        "translation": "Suchvorgang läuft, bitte warten",
+        "notes": ""
     },
-    "WaterLevel2": {
-      "Comment": "Kommentar",
-      "DtMeasurementTime": "Zeit",
-      "MeasuredRelativeTo": "Messungen relativ zu",
-      "MeasurementReferenceTName": "Wassermarkierung auf/mit",
-      "MeasurementTypeTName": "Messinstrument",
-      "ObservationTimingTName": "Was wurde registriert?",
-      "ObsName": "Wasserpegel",
-      "WaterAstrayTName": "Ist Wasser über die Ufer getreten?",
-      "WaterLevelStateTName": "Situation",
-      "WaterMarking": "Wassermarkierung",
-      "WaterMeasurement": "Wassermessung",
-      "WaterMeasurementValue": "Wert",
-      "With": "mit"
+    "SearchResultOfTotal": {
+        "translation": "von",
+        "notes": ""
     },
-    "WeatherObservation": {
-      "AirTemperature": "Lufttemperatur",
-      "CloudCover": "Wolkendecke",
-      "Clouds": "Wolken",
-      "Comment": "Kommentar",
-      "ObsName": "Wetter",
-      "PrecipitationTID": "Niederschlagstyp",
-      "Wind": "Wind",
-      "WindDirection": "aus"
+    "ShowAllObservations": {
+        "translation": "Zeige alle Beobachtungen",
+        "notes": ""
+    },
+    "ShowFilteredObservations": {
+        "translation": "Zeige ausgewählte Beobachtungen",
+        "notes": ""
+    },
+    "ShowLess": {
+        "translation": "Zeige weniger",
+        "notes": ""
+    },
+    "ShowMore": {
+        "translation": "Zeige mehr",
+        "notes": ""
+    },
+    "ShowSearchButtonName": {
+        "translation": "Zeige Suchleiste",
+        "notes": ""
+    },
+    "SingleRegistration": {
+        "translation": "Anmeldung",
+        "notes": ""
+    },
+    "Snow": {
+        "translation": "Schnee",
+        "notes": ""
+    },
+    "Soil": {
+        "translation": "Erde",
+        "notes": ""
+    },
+    "SortByName": {
+        "translation": "Sortiert nach:",
+        "notes": ""
+    },
+    "TableModes": {
+        "CompactKey": {
+            "translation": "Kompakt",
+            "notes": ""
+        },
+        "CompleteKey": {
+            "translation": "Vollständig",
+            "notes": ""
+        },
+        "ShortKey": {
+            "translation": "Kurz",
+            "notes": ""
+        }
+    },
+    "To": {
+        "translation": "zu",
+        "notes": ""
+    },
+    "Water": {
+        "translation": "Wasser",
+        "notes": ""
     }
-  },
-  "Of": "von",
-  "PictureKey": "Bild",
-  "PictureMode": "Nur Bilder",
-  "Reg": {
-    "ObservedTime": "Beobachtet",
-    "ObserverNickName": "Von",
-    "RegisteredTime": "Eingetragen",
-    "UpdatedTime": "Aktualisiert"
-  },
-  "Search": {
-    "Criterias": {
-      "Country": {
-        "CountryInfo": "Falls ein Land in der obigen Liste fehlt, liegt dies daran, dass von dort keine Beobachtungen eingereicht wurden.​",
-        "Label": "Andere Länder"
-      },
-      "ObservationTypes": {
-        "Label": "Beobachtungstypen"
-      },
-      "Observers": {
-        "Label": "Beobachter",
-        "MyObservations": "Meine Beobachtungen",
-        "ObserverNickNamePlaceholder": "Suche nach Beobachter-Nickname",
-        "SearchInCompetences": "Suche nach Benutzerkompetenz: "
-      },
-      "QuickSearch": {
-        "Label": "Schnellsuche"
-      },
-      "Recent": {
-        "CountryKey": "Land",
-        "Day": "Tage",
-        "FromDate": "von",
-        "Label": "Meine letzten Suchergebnisse",
-        "Last": "zuletzt",
-        "MyObservations": "Meine Beobachtungen",
-        "ObserverCompetence": "Beobachterkompetenz",
-        "ObserverName": "Beobachtername",
-        "Regions": "Regionen",
-        "RegistrationTypes": "Beobachtungsty",
-        "Time": "Zeitspanne",
-        "ToDate": "Zu"
-      },
-      "Regions": {
-        "BRegionInfo": "Für * gekennzeichnete Regionen werden Prognosen nur bei Gefährdungsstufen 4 und 5 ausgegeben.",
-        "Label": "Warnregionen"
-      },
-      "TimePeriod": {
-        "ChooseDate": "Datum auswählen:",
-        "Day": "Tag",
-        "FromDate": "Von",
-        "Label": "Zeitraum",
-        "Last": "zuletzt",
-        "Or": "oder",
-        "ToDate": "Von"
-      }
-    },
-    "GetMoreRegistrationsBtn": "Mehr Beobachtungen ansehen",
-    "HeadingColor": {
-      "black": "Schwarz",
-      "blue": "Blau"
-    },
-    "LoadMoreRegistrationsText": "Klicken Sie hier, wenn die Beobachtungen nicht automatisch geladen werden",
-    "SortOrder": {
-      "LastUpdated": "Letztes Update",
-      "ObservedTime": "Beobachtet",
-      "RegistrationTime": "Erstellt"
-    }
-  },
-  "SearchButtonName": "Suche",
-  "Searching": "Suchvorgang läuft, bitte warten",
-  "SearchResultOfTotal": "von",
-  "ShowAllObservations": "Zeige alle Beobachtungen",
-  "ShowFilteredObservations": "Zeige ausgewählte Beobachtungen",
-  "ShowLess": "Zeige weniger",
-  "ShowMore": "Zeige mehr",
-  "ShowSearchButtonName": "Zeige Suchleiste",
-  "SingleRegistration": "Anmeldung",
-  "Snow": "Schnee",
-  "Soil": "Erde",
-  "SortByName": "Sortiert nach:",
-  "TableModes": {
-    "CompactKey": "Kompakt",
-    "CompleteKey": "Vollständig",
-    "ShortKey": "Kurz"
-  },
-  "To": "zu",
-  "Water": "Wasser"
 }
