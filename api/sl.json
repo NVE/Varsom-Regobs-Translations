@@ -168,7 +168,7 @@
       "OverIce": "Nad ledom",
       "OverWater": "vodna gladina",
       "OverWaterAfterDrilling": "vodna gladina po vrtanju",
-      "SlushSnow": "Ledena kaša",
+      "SlushSnow": "plundra",
       "Snow": "sneg",
       "Total": "v celoti",
       "UnknownIceLayer": "neznan sloj ledu",
@@ -222,7 +222,7 @@
     },
     "SnowProfile": {
       "Comment": "Komentar",
-      "CompressionTest": "Test",
+      "CompressionTest": "Testi",
       "CompressionTests": "Testi",
       "CompressionTestsConnectedToProfile": "povezani s snežnim profilom",
       "LayersObserved": "opažene plasti",
@@ -310,7 +310,7 @@
         "Label": "Opazovalci",
         "MyObservations": "Moja opažanja",
         "ObserverNickNamePlaceholder": "Išči po uporabniškem imenu opazovalca",
-        "SearchInCompetences": "Išči po usposobljenosti opazovalca"
+        "SearchInCompetences": "Išči po usposobljenosti opazovalca: "
       },
       "QuickSearch": {
         "Label": "Hitro iskanje"
