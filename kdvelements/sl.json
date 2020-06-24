@@ -220,7 +220,7 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_710": {
-        "translation": "Hoja",
+        "translation": "Pohodništvo",
         "notes": "",
         "limit": "30"
     },
@@ -236,6 +236,31 @@
     },
     "ActivityInfluencedKD_713": {
         "translation": "Kajtanje na snegu",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_714": {
+        "translation": "Ribolov na ledu",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_715": {
+        "translation": "Jahanje / voz / sani",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_716": {
+        "translation": "Pasja vprega",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_717": {
+        "translation": "Reševanje živali",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_719": {
+        "translation": "Oseba, ki jo je poškodoval led",
         "notes": "",
         "limit": "30"
     },
@@ -259,6 +284,21 @@
         "notes": "ATV",
         "limit": "1024"
     },
+    "ActivityInfluencedKD_723": {
+        "translation": "Kolo",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_724": {
+        "translation": "Motorno kolo",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_725": {
+        "translation": "Potisne sani",
+        "notes": "",
+        "limit": "30"
+    },
     "ActivityInfluencedKD_730": {
         "translation": "Traktor na ledu",
         "notes": "",
@@ -271,6 +311,11 @@
     },
     "ActivityInfluencedKD_732": {
         "translation": "Teptalec snega",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_735": {
+        "translation": "Letalo / helikopter",
         "notes": "",
         "limit": "30"
     },
@@ -630,7 +675,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_11": {
-        "translation": "Šibka plast površinskega sreža",
+        "translation": "Zasuta šibka plast površinskega sreža",
         "notes": "Weak layer of surface hoar",
         "limit": "100"
     },
@@ -640,7 +685,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_13": {
-        "translation": "Šibka plast sreža",
+        "translation": "Zasuta šibka plast sreža blizu površja snežne odeje",
         "notes": "Weak layer of faceted snow",
         "limit": "100"
     },
@@ -650,7 +695,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_14": {
-        "translation": "Slaba povezanost s skorjo",
+        "translation": "Slaba povezanost skorje in snega nad njo",
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
@@ -660,7 +705,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_15": {
-        "translation": "Slabo povezan vetrni nanos",
+        "translation": "Slabo povezane plasti napihanega snega",
         "notes": "Poor bonding within windslab",
         "limit": "100"
     },
@@ -670,7 +715,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_16": {
-        "translation": "Srež blizu tal",
+        "translation": "Zasuta šibka plast sreža blizu tal",
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
@@ -680,7 +725,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_18": {
-        "translation": "Srež nad skorjo",
+        "translation": "Zasuta šibka plast sreža nad skorjo",
         "notes": "Faceted snow above a crust",
         "limit": "100"
     },
@@ -690,7 +735,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_19": {
-        "translation": "Srež pod skorjo",
+        "translation": "Zasuta šibka plast sreža pod skorjo",
         "notes": "Faceted snow beneath a crust",
         "limit": "100"
     },
@@ -700,7 +745,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_20": {
-        "translation": "Taljenje blizu tal",
+        "translation": "Moker sneg/taljenje blizu tal",
         "notes": "Melting near the ground",
         "limit": "100"
     },
@@ -710,7 +755,7 @@
         "limit": "1024"
     },
     "AvalCauseKD_22": {
-        "translation": "Luže nad snežnimi plastmi",
+        "translation": "Luže med/nad snežnimi plastmi",
         "notes": "Water pooling above snow layers",
         "limit": "100"
     },
@@ -905,7 +950,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_0_desc": {
-        "translation": "Pomanjkanje kompetenc.",
+        "translation": "Kompetence niso znane.",
         "notes": "Unknown",
         "limit": "1024"
     },
@@ -915,7 +960,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_100_desc": {
-        "translation": "Pomanjkanje kompetenc za sneg.",
+        "translation": "Kompetence za sneg niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -985,7 +1030,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_200_desc": {
-        "translation": "Pomanjkanje kompetenc.",
+        "translation": "Kompetence niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1045,7 +1090,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_300_desc": {
-        "translation": "Pomanjkanje kompetenc.",
+        "translation": "Kompetence niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1105,7 +1150,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_400_desc": {
-        "translation": "Pomanjkanje kompetenc.",
+        "translation": "Kompetence niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1165,7 +1210,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_600_desc": {
-        "translation": "Pomanjkanje kompetenc.",
+        "translation": "Kompetence niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1225,7 +1270,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_700_desc": {
-        "translation": "Pomanjkanje kompetenc za led.",
+        "translation": "Kompetence za led niso znane.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1285,7 +1330,7 @@
         "limit": "30"
     },
     "CompressionTestKD_1": {
-        "translation": "CT",
+        "translation": "CT (tlačni preizkus stolpca)",
         "notes": "Coloumn test",
         "limit": "30"
     },
@@ -1295,7 +1340,7 @@
         "limit": "1024"
     },
     "CompressionTestKD_2": {
-        "translation": "ECT",
+        "translation": "ECT (razširjen stolpec)",
         "notes": "Extended coloumn test",
         "limit": "30"
     },
@@ -2891,7 +2936,7 @@
         "limit": "30"
     },
     "DangerSignKD_9": {
-        "translation": "Svež snežni zamet",
+        "translation": "Sveži snežni zameti",
         "notes": "",
         "limit": "30"
     },
@@ -3681,7 +3726,7 @@
         "limit": "1024"
     },
     "IceCoverBeforeKD_99": {
-        "translation": "Napaka - neznana vednost",
+        "translation": "Luknja - neznano do danes",
         "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
         "limit": "30"
     },
@@ -3882,7 +3927,7 @@
         "limit": "30"
     },
     "LandSlideKD_2": {
-        "translation": "Skalni podor",
+        "translation": "Plaz drobirja",
         "notes": "",
         "limit": "30"
     },
@@ -3897,7 +3942,7 @@
         "limit": "30"
     },
     "LandSlideKD_7": {
-        "translation": "Tekoči snežni plaz",
+        "translation": "Tok plundre",
         "notes": "",
         "limit": "30"
     },
@@ -4373,7 +4418,7 @@
         "limit": "30"
     },
     "RegistrationKD_25": {
-        "translation": "Test",
+        "translation": "Testi",
         "notes": "",
         "limit": "30"
     },
@@ -4557,6 +4602,11 @@
         "notes": "",
         "limit": "50"
     },
+    "SourceKD_23": {
+        "translation": "Predpostavljeno",
+        "notes": "",
+        "limit": "50"
+    },
     "StabilityEvalKD_0": {
         "translation": "Ni določeno",
         "notes": "",
@@ -4673,7 +4723,7 @@
         "limit": "30"
     },
     "TerrainStartZoneKD_50": {
-        "translation": "Kloža",
+        "translation": "Plošče",
         "notes": "",
         "limit": "30"
     },
