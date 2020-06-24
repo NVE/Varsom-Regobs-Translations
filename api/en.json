@@ -373,5 +373,9 @@
     "ShortKey": "Short"
   },
   "To": "to",
-  "Water": "water"
+  "Water": "water",
+  "Location": {
+    "Municipality": "municipality",
+    "WarningRegion": "Warning region"
+  }
 }
