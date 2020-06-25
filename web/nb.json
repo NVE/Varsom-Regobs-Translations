@@ -410,6 +410,8 @@
     "DamageObs": {
       "Comment": "Kommentar",
       "DamageTypeTID": "Type",
+      "LocationDescription": "Angi skadepunktet hvis du kjenner det",
+      "LocationTitle": "Hvor er skadepunktet?",
       "ObsName": "Skader"
     },
     "DangerObs": {

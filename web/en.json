@@ -411,6 +411,8 @@
     "DamageObs": {
       "Comment": "Comment",
       "DamageTypeTID": "Type",
+      "LocationDescription": "Specify the damage location if you know it",
+      "LocationTitle": "Where is the damage location?",
       "ObsName": "Damage Observation"
     },
     "DangerObs": {
