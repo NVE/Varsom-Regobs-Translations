@@ -522,8 +522,6 @@
       "UnderSurface": "under ytan"
     },
     "SnowProfile": {
-      "AddLayerBottom": "Lägg till ett nytt lager i botten",
-      "AddLayerTop": "Lägg till ett nytt lager i toppen",
       "AddLayers": "Lägg till lager",
       "AddTests": "Lägg till test",
       "Cm": "cm",
