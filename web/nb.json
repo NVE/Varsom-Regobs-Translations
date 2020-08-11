@@ -669,6 +669,7 @@
       "MarkingTypeQuestion": "Jeg har markert vannstanden med",
       "MeasuredRelativeTo": "Måling relativt til",
       "MeasurementComment": "Beskriv målingen",
+      "MeasurementReferenceComment": "Beskriv høyden",
       "MeasurementReferenceQuestion": "Høyden er relativ til",
       "MeasurementReferenceTName": "Vannmarkering på/i",
       "MeasurementTypeQuestion": "Hvordan måler du vannstanden?",
