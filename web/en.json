@@ -669,6 +669,7 @@
       "MarkingTypeQuestion": "I have marked water level with",
       "MeasuredRelativeTo": "Measurement relative to",
       "MeasurementComment": "Describe measurement",
+      "MeasurementReferenceComment": "Describe height",
       "MeasurementReferenceQuestion": "The height is relative to",
       "MeasurementReferenceTName": "Watermarking on/with",
       "MeasurementTypeQuestion": "How do you read the water level?",
