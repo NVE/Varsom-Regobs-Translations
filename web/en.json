@@ -553,8 +553,8 @@
       "UnderSurface": "under the surface"
     },
     "SnowProfile": {
-      "AddLayerBottom": "Underlying layer",
-      "AddLayerTop": "Overlying layer",
+      "AddLayerBottom": "Add underlying layer",
+      "AddLayerTop": "Add overlying layer",
       "AddLayers": "Add layers",
       "AddTests": "Add tests",
       "Cm": "cm",
