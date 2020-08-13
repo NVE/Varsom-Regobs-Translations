@@ -520,8 +520,6 @@
       "UnderSurface": "unter der Oberfläche"
     },
     "SnowProfile": {
-      "AddLayerBottom": "Unten eine neue Schicht hinzufügen",
-      "AddLayerTop": "Oben eine neue Schicht dazufügen",
       "AddLayers": "Schicht hinzufügen",
       "AddTests": "Test hinzufügen",
       "Cm": "cm",

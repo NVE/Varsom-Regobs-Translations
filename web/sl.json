@@ -501,8 +501,6 @@
       "UnderSurface": "pod površino"
     },
     "SnowProfile": {
-      "AddLayerBottom": "Dodaj novo plast na dnu",
-      "AddLayerTop": "Dodaj novo plast na vrhu",
       "AddLayers": "Dodaj plasti",
       "AddTests": "Dodaj teste",
       "Cm": "cm",
