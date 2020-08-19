@@ -537,7 +537,8 @@
       "UnsentDescription": "Skjema ikke synkronisert med Regobs.",
       "UnsentSummaryTitle": "Usendt skjema",
       "ValidExposition": {
-        "Title": "Eksposisjon"
+        "Title": "Eksposisjon",
+        "All": "Alle"
       }
     },
     "SnowCover": {

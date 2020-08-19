@@ -537,7 +537,8 @@
       "UnsentDescription": "Form not saved to Regobs.",
       "UnsentSummaryTitle": "Unsent form",
       "ValidExposition": {
-        "Title": "Aspect"
+        "Title": "Aspect",
+        "All": "All"
       }
     },
     "SnowCover": {
