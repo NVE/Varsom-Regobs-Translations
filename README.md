@@ -22,12 +22,12 @@ Some content is dynamic. Eg content in select-menus and help texts. These can be
 
 *Note, that in the kdvelements file, most of the "name" elements are restricted to 30chars. This is because the elements are used in select-menus which often are restricted in width (e.g. on a mobile phone). Exceptions from this rule may be seen when norwegian or english name are larger than 30 chars.*
 
-## Linking translation files into another project
+## Linking translation files for web into another project
 
 1. Inside `Varsom-Regobs-Translations`, run `npm link`
-2. Inside the other project that uses `Varsom-Regobs-Translations`, run `npm link "@varsom-regobs-common/translations"`.
+2. Inside the other project that uses `@varsom-regobs-common/translations`, run `npm link "@varsom-regobs-common/translations"`.
 
-You can now edit the files inside the local `Varsom-Regobs-Translations` folder, and the changes should be linked/available in the other project.
+You can now edit the files inside the local `Varsom-Regobs-Translations/web` folder, and the changes should be linked/available in the other project.
 
 ## Using i18n-editor to edit translation files
 
