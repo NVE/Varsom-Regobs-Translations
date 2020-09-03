@@ -1,6 +1,8 @@
 # Varsom-Regobs-Translations
 Translation files for Varsom Regobs - Web, Mobile app, and API.
 
+Translations for web are released as an [npm package](https://www.npmjs.com/package/@varsom-regobs-common/translations).
+
 ## Clone or download git repository
 
 To clone repository:
@@ -19,6 +21,13 @@ The mobile app has static content such as label names, tags and most menu items.
 Some content is dynamic. Eg content in select-menus and help texts. These can be updated in the database, and api and app (and web) will sync the changes without the need for a new release. These files are found in `kdvelements` and `helptexts`. They do not follow the i18n standard so editing must be done in the json files directly. Again, Atom might be a good editor for this.
 
 *Note, that in the kdvelements file, most of the "name" elements are restricted to 30chars. This is because the elements are used in select-menus which often are restricted in width (e.g. on a mobile phone). Exceptions from this rule may be seen when norwegian or english name are larger than 30 chars.*
+
+## Linking translation files into another project
+
+1. Inside `Varsom-Regobs-Translations`, run `npm link`
+2. Inside the other project that uses `Varsom-Regobs-Translations`, run `npm link "@varsom-regobs-common/translations"`.
+
+You can now edit the files inside the local `Varsom-Regobs-Translations` folder, and the changes should be linked/available in the other project.
 
 ## Using i18n-editor to edit translation files
 
