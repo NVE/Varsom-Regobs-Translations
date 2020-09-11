@@ -90,6 +90,15 @@
       "Source": "Kildeangivelse",
       "Title": "Når ble observasjonen gjort?",
       "Uncertainty": "Usikkerhet i posisjon"
+    },
+    "NickName": {
+        "Title": "Legg til kallenavn",
+        "HelpText": "Du må legge til et kallenavn for å bruke Varsom Regobs. Kallenavnet vises når du gjør observasjoner.",
+        "InputText": "Skriv inn kallenavn",
+        "Error": {
+            "Invalid": "Vennligst angi kallenavn",
+            "Error": "Fikk ikke til å lagre kallenavn. Vennligst prøv igjen senere."
+        }
     }
   },
   "Direction": {
@@ -780,6 +789,7 @@
     "Cookies": "Informasjonskapsler",
     "Home": "Hjem"
   },
+  "Save": "Lagre",
   "Search": {
     "Criterias": {
       "Area": {
