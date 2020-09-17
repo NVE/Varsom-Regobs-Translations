@@ -92,8 +92,14 @@
       "Uncertainty": "Uncertainty in position"
     },
     "NickName": {
-        "Title": "Add nickname",
-        "HelpText": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations.",
+        "Create": {
+            "Title": "Add nickname",
+            "HelpText": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations."
+            },
+        "Edit": {
+            "Title": "Edit nickname",
+            "HelpText": "The nickname is shown on your observations."
+            },
         "InputText": "Please type nickname",
         "Error": {
             "Invalid": "Please provide a nickname",
