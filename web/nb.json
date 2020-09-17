@@ -92,8 +92,14 @@
       "Uncertainty": "Usikkerhet i posisjon"
     },
     "NickName": {
-        "Title": "Legg til kallenavn",
-        "HelpText": "Du må legge til et kallenavn for å bruke Varsom Regobs. Kallenavnet vises når du gjør observasjoner.",
+        "Create": {
+            "Title": "Legg til kallenavn",
+            "HelpText": "Du må legge til et kallenavn for å bruke Varsom Regobs. Kallenavnet vises når du gjør observasjoner."
+        },
+        "Edit": {
+            "Title": "Rediger kallenavn",
+            "HelpText": "Kallenavnet vises når du gjør observasjoner."
+        },
         "InputText": "Skriv inn kallenavn",
         "Error": {
             "Invalid": "Vennligst angi kallenavn",
