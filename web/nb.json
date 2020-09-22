@@ -156,6 +156,13 @@
     "Water": "Vann",
     "WaterSoil": "Vann & jord"
   },
+  "GeoLocation": {
+    "PositionError": {
+      "PermissionDenied": "Du har ikke tillatt at vi henter posisjonen din. Du må endre innstillinger i nettleseren hvis du ønsker at vi henter posisjonen din",
+      "PositionUnavailable": "Får ikke tak i posisjonen din",
+      "Timeout": "Det tok for lang tid å få tak i posisjonen din"
+    }
+  },
   "GoBack": "Gå tilbake",
   "GoToObservation": "Gå til observasjon",
   "GoToReportPage": "Gå til rapportvisning",
