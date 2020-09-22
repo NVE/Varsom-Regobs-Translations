@@ -156,6 +156,13 @@
     "Water": "Water",
     "WaterSoil": "Water & Soil"
   },
+  "GeoLocation": {
+    "PositionError": {
+      "PERMISSION_DENIED": "You haven't allowed us to fetch your position. You may alter the browser settings if you change your mind.",
+      "POSITION_UNAVAILABLE": "Not able fetch your position",
+      "TIMEOUT": "It took to long time to fetch your position"
+    }
+  },
   "GoBack": "Go back",
   "GoToObservation": "Go to observation",
   "GoToReportPage": "Go to report view",
