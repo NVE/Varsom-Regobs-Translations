@@ -270,7 +270,10 @@
     },
     "MyPage": "My Page",
     "MyPlaces": "My Places",
-    "VarsomUser": "Varsom User"
+    "VarsomUser": "Varsom User",
+    "UserInfo": {
+      "EditNickname": "Edit nickname"
+    }
   },
   "Navbar": {
     "All": {
