@@ -270,7 +270,10 @@
     },
     "MyPage": "Min side",
     "MyPlaces": "Mine plasser",
-    "VarsomUser": "Varsom-bruker"
+    "VarsomUser": "Varsom-bruker",
+    "UserInfo": {
+      "EditNickname": "Rediger kallenavn"
+    }
   },
   "Navbar": {
     "All": {
