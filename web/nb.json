@@ -158,7 +158,7 @@
   },
   "GeoLocation": {
     "PositionError": {
-      "PermissionDenied": "Du har ikke tillatt at vi henter posisjonen din. Du må endre innstillinger i nettleseren hvis du ønsker at vi henter posisjonen din",
+      "PermissionDenied": "For å hente posisjonen din må du endre innstillinger i nettleseren",
       "PositionUnavailable": "Får ikke tak i posisjonen din",
       "Timeout": "Det tok for lang tid å få tak i posisjonen din"
     }

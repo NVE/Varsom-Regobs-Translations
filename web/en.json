@@ -158,7 +158,7 @@
   },
   "GeoLocation": {
     "PositionError": {
-      "PERMISSION_DENIED": "You haven't allowed us to fetch your position. You may alter the browser settings if you change your mind.",
+      "PERMISSION_DENIED": "To fetch your position you need to alter your browser settings",
       "POSITION_UNAVAILABLE": "Not able fetch your position",
       "TIMEOUT": "It took to long time to fetch your position"
     }
