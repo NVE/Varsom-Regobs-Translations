@@ -260,7 +260,7 @@
   "Menu": "Menu",
   "MultipleRegistrations": "registrations",
   "MyPage": {
-    "MyGroups": "My Groups",
+    "MyGroups": "My groups",
     "MyObservations": {
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
@@ -268,8 +268,9 @@
       "NoCompetence": "You have no competence added to your Regobs user.",
       "Title": "My Observations"
     },
-    "MyPage": "My Page",
-    "MyPlaces": "My Places",
+    "MyPage": "My page",
+    "MyPlaces": "My places",
+    "MyCompetence": "My competence",
     "VarsomUser": "Varsom User",
     "UserInfo": {
       "EditNickname": "Edit nickname"
