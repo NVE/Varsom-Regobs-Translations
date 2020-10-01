@@ -289,7 +289,6 @@
     "ShowObservationsInMap": "Show observations in map",
     "Snow": {
       "RegisterObservation": "New snow observation",
-      "RegisteredTrips": "Registered trips",
       "SearchInObservation": "Snow report",
       "ShowObservationsInMap": "Snow observations and steepness map"
     },
