@@ -1,34 +1,34 @@
 {
-  "AppearanceName": "Utseende:",
+  "AppearanceName": "Utsjånad:",
   "Converters": {
     "Above": "Over",
     "AboveSeaLevel": "moh",
     "And": "og",
     "Below": "Under",
     "Between": "Mellom",
-    "East": "Øst",
+    "East": "Aust",
     "EastShort": "Ø",
     "North": "Nord",
-    "NorthEast": "Nord-Øst",
+    "NorthEast": "Nordaust",
     "NorthEastShort": "NØ",
     "NorthShort": "N",
-    "NorthWest": "Nord-Vest",
+    "NorthWest": "Nordvest",
     "NorthWestShort": "NV",
-    "NotBetween": "Ikke mellom",
+    "NotBetween": "Ikkje mellom",
     "South": "Sør",
-    "SouthEast": "Sør-Øst",
+    "SouthEast": "Søraust",
     "SouthEastShort": "SØ",
     "SouthShort": "S",
-    "SouthWest": "Sør-Vest",
+    "SouthWest": "Sørvest",
     "SouthWestShort": "SV",
-    "UnknownDirection": "Ukjent retning",
+    "UnknownDirection": "Ukjend retning",
     "West": "Vest",
     "WestShort": "V"
   },
-  "CountOf": "Antall",
-  "From": "fra",
+  "CountOf": "Antal",
+  "From": "frå",
   "GoToObservation": "Gå til observasjon",
-  "HeightKey": "Høyde",
+  "HeightKey": "Høgd",
   "Ice": "is",
   "LanguageLabel": "Språk:",
   "Location": {
@@ -39,19 +39,19 @@
   "Months": {
     "ShortList": "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Des"
   },
-  "MultipleRegistrations": "registreringer",
-  "Observation": "observasjoner",
-  "ObservationPlural": "observasjon(er)",
+  "MultipleRegistrations": "registreringar",
+  "Observation": "observasjonar",
+  "ObservationPlural": "observasjon(ar)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Eksposisjon",
       "AvalancheTID": "Type",
-      "AvalancheTriggerTID": "Skredutløser",
+      "AvalancheTriggerTID": "Skredutløysar",
       "Comment": "Kommentar",
       "DtAvalancheTime": "Tid",
-      "HeigthStartZone": "Høyde løsneområde",
+      "HeigthStartZone": "Høgd løysneområde",
       "MetersOverSeaLevel": "moh",
-      "NumberAndSize": "Antall og størrelse",
+      "NumberAndSize": "Antal og storleik",
       "ObsName": "Skredaktivitet"
     },
     "AvalancheActivityObs2": {
@@ -61,26 +61,26 @@
       "DtAvalancheTime": "Tid",
       "DuringTheDay": "I løpet av dagen",
       "MetersOverSeaLevel": "moh",
-      "NumberAndSizeAndTrigger": "Antall, størrelse og skredutløser",
+      "NumberAndSizeAndTrigger": "Antal, storleik og skredutløysar",
       "ObsName": "Skredaktivitet",
-      "Prevalence": "Utbredelse"
+      "Prevalence": "Utbreiing"
     },
     "AvalancheDangerObs": {
       "Comment": "Kommentar",
       "DangerSignTID": "Type",
-      "ObsName": "Skredfaretegn"
+      "ObsName": "Skredfareteikn"
     },
     "AvalancheEvalProblem2": {
       "AvalancheExtTID": "Skredtype",
-      "AvalCauseAttributeLightTID": "Ugunstige egenskaper på det svake laget",
-      "AvalCauseDepthTID": "Avstand fra overflaten til det svake laget",
+      "AvalCauseAttributeLightTID": "Ugunstige eigenskapar til det svake laget",
+      "AvalCauseDepthTID": "Avstanden mellom det svake laget og overflata",
       "AvalCauseTID": "Type svakt lag",
-      "AvalProbabilityTID": "Sannsynlighet for skred",
-      "AvalTriggerSimpleTID": "Sannsynlig belasting for å løse ut skred",
+      "AvalProbabilityTID": "Sannsyn for skred",
+      "AvalTriggerSimpleTID": "Sannsynleg last for å løyse ut skred",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Størrelse på forventet skred",
+      "DestructiveSizeTID": "Storleik på venta skred",
       "ObsName": "Skredproblem",
-      "PrevalenceArea": "Utbredelse løsneområder"
+      "PrevalenceArea": "Utbreiing losneområder"
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Faregrad",
@@ -97,7 +97,7 @@
       "AvalancheDevelopment": "Utvikling",
       "AvalancheEvaluation": "Skredfarevurdering",
       "AvalancheProblem": "Skredproblem",
-      "ExposedTerrain": "Utsatt terreng",
+      "ExposedTerrain": "Utsett terreng",
       "ObsName": "Skredfarevurdering"
     },
     "AvalancheEvaluation3": {
@@ -105,31 +105,29 @@
       "AvalancheDevelopment": "Utvikling",
       "AvalancheEvaluation": "Skredfarevurdering",
       "ForecastComment": "Kommentar",
-      "ForecastCorrectTID": "Varselets riktighet",
+      "ForecastCorrectTID": "Riktigheit av varselet",
       "ObsName": "Skredfarevurdering"
     },
     "AvalancheObs": {
       "Avalanche": "Skredet",
       "AvalancheTID": "Skredtype",
-      "AvalancheTriggerTID": "Skredutløser",
+      "AvalancheTriggerTID": "Skredutløysar",
       "AvalCauseTID": "Svakt lag",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Størrelse",
+      "DestructiveSizeTID": "Storleik",
       "DtAvalancheTime": "Tid",
       "Facing": "vendt",
-      "Fracture": "Bruddkant",
-      "FractureHeigth": "høy",
-      "FractureWidth": "bred",
-      "HeightStartZoneText": "startet på",
-      "HeigthStartZone": "Løsneområdet",
+      "Fracture": "Brotkant",
+      "FractureHeigth": "høg",
+      "FractureWidth": "brei",
+      "HeightStartZoneText": "starta på",
+      "HeigthStartZone": "Losneområdet",
       "HeigthStopZone": "Stoppområdet",
-      "HeigthStopZoneText": "sluttet på",
-      "ObsName": "Skredhendelse",
-      "TerrainStartZoneTID": "Terreng i løsneområdet",
-      "Trajectory": "Skredbanenavn",
-      "ValidExposition": "Eksposisjon",
-      "StartLabel": "Skredet startet her",
-      "StopLabel": "Skredet stoppet her"
+      "HeigthStopZoneText": "slutta på",
+      "ObsName": "Skredhending",
+      "TerrainStartZoneTID": "Terreng i losneområdet",
+      "Trajectory": "Skredbanenamn",
+      "ValidExposition": "Eksposisjon"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -140,46 +138,45 @@
     "DamageObs": {
       "Comment": "Kommentar",
       "DamageTypeTID": "Type",
-      "ObsName": "Skader",
-      "PositionLabel": "Skadeposisjon"
+      "ObsName": "Skadar"
     },
     "DangerObs": {
       "Comment": "Kommentar",
       "DangerSignTName": "Type",
-      "ObsName": "Faretegn"
+      "ObsName": "Fareteikn"
     },
     "GeneralObservation": {
       "Comment": "Kommentar",
       "ObsComment": "Tekst",
       "ObsHeader": "Overskrift",
-      "ObsName": "Notater",
+      "ObsName": "Notatar",
       "Urls": "Lenker"
     },
     "IceCoverObs": {
       "Comment": "Kommentar",
-      "IceCapacityTName": "Bæreevne",
+      "IceCapacityTName": "Bereevne",
       "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
       "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
       "IceCoverTName": "Isdekning",
-      "IceSkateabilityTName": "Skøytbarhet",
+      "IceSkateabilityTName": "Skøyteforhold",
       "ObsName": "Isdekningsgrad"
     },
     "IceThickness": {
       "BeforeDrilling": "før boring",
       "Comment": "Kommentar",
-      "IceThicknessLayers": "Islag (ovenfra og ned)",
-      "IceThicknessSum": "Total istykkelse",
-      "IsEqualToIceSurface": "Vannflaten er likt med isoverflaten",
-      "LowerThanIceSurface": "fra isoverflaten til vannflaten i borehullet",
-      "ObsName": "Istykkelse",
-      "OverIce": "Over isen ",
-      "OverWater": "overvann",
-      "OverWaterAfterDrilling": "overvann etter boring",
+      "IceThicknessLayers": "Islag (ovanfra og ned)",
+      "IceThicknessSum": "Total istjukkleik",
+      "IsEqualToIceSurface": "Vassflata er den same som isoverflata",
+      "LowerThanIceSurface": "frå is- til vassoverflata i boreholet",
+      "ObsName": "Istjukkleik",
+      "OverIce": "Over isen",
+      "OverWater": "overvatn ",
+      "OverWaterAfterDrilling": "overvatn etter boring",
       "SlushSnow": "sørpe",
       "Snow": "snø",
       "Total": "totalt",
       "UnknownIceLayer": "ukjent islag",
-      "WaterSurfaceInHole": "Vannflaten i hullet"
+      "WaterSurfaceInHole": "Vassflata i holet"
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
@@ -188,61 +185,61 @@
       "GeoHazardTID": "Observasjonstype",
       "IncidentHeader": "Overskrift",
       "IncidentIngress": "Ingress",
-      "IncidentText": "Beskrivelse",
-      "ObsName": "Ulykke / Hendelse",
+      "IncidentText": "Skildring",
+      "ObsName": "Ulykke/hending",
       "Urls": "Lenker"
     },
     "LandslideObs": {
-      "ActivityInfluencedTName": "Hva ble påvirket?",
-      "And": " og ",
+      "ActivityInfluencedTName": "Kva blei påverka?",
+      "And": "og",
       "Between": "Mellom",
       "Comment": "Kommentar",
       "DamageExtentTName": "Omfang",
       "ForecastAccurateTName": "Stemte varsel på varsom.no?",
-      "LandSlideSizeTName": "Størrelse",
+      "LandSlideSizeTName": "Storleik",
       "LandSlideTName": "Skredtype",
-      "LandSlideTriggerTName": "Trigger",
-      "ObsName": "Skredhendelse",
+      "LandSlideTriggerTName": "Utløysar",
+      "ObsName": "Skredhending",
       "Time": "Tid",
       "Urls": "Lenker"
     },
     "Picture": {
       "Aspect": "Himmelretning",
       "Comment": "Kommentar",
-      "Copyright": "Copyright",
-      "ObsName": "Bildet",
+      "Copyright": "Opphavsrett",
+      "ObsName": "Bilete",
       "Photographer": "Fotograf",
       "PictureComment": "Kommentar",
       "RegistrationTID": "Av"
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
-      "CriticalLayerFound": "Svakt lag finnes ",
+      "CriticalLayerFound": "Det finnast svakt lag",
       "CriticalLayerLocation": "Plassering",
-      "CriticalLayerNotFound": "Svakt lag finnes ikke.",
+      "CriticalLayerNotFound": "Det finnast ikkje svakt lag",
       "CriticalLayerTID": "Type",
-      "DepthHoar": "Begerkrystaller",
-      "DepthHoarInSnowCover": "med begerkrystaller nederst i snødekke",
+      "DepthHoar": "Begerkrystallar",
+      "DepthHoarInSnowCover": "med begerkrystallar nedst i snødekke",
       "ObsName": "Snøprofil",
       "SnowPilotRefTID": "Snøprofil",
-      "UnderSurface": "under overflaten"
+      "UnderSurface": "under overflata"
     },
     "SnowProfile": {
       "Comment": "Kommentar",
       "CompressionTest": "Test",
-      "CompressionTests": "Tester",
-      "CompressionTestsConnectedToProfile": "knyttet til snøprofilen",
+      "CompressionTests": "Testar",
+      "CompressionTestsConnectedToProfile": "knytt til snøprofilen",
       "LayersObserved": "lag observert",
       "ObsName": "Snøprofil",
-      "SnowDensity": "Snøtetthet",
-      "SnowDensityLayersObserved": "tetthetslag observert",
+      "SnowDensity": "Snøtettleik",
+      "SnowDensityLayersObserved": "tettleikslag observert",
       "SnowTemperature": "Temperatur",
-      "SnowTemperatureLayersObserved": "temperaturpunkter observert",
-      "StartProfileLayersObserved": "lagdelinger observert",
+      "SnowTemperatureLayersObserved": "temperaturpunkt observert",
+      "StartProfileLayersObserved": "lagdelingar observert",
       "StratLayers": "Lagdeling"
     },
     "SnowSurfaceObservation": {
-      "FootPenetration": "Innsynkning fot",
+      "FootPenetration": "Innsynking fot",
       "HeightLimitLayeredSnow": "Grense for lagdelt snø er på",
       "Kommentar": "Kommentar",
       "NewSnow": "nysnø",
@@ -253,34 +250,34 @@
       "SnowDriftTName": "Snøfokk",
       "SnowLine": "Snøgrense på",
       "SnowLines": "Snøgrenser",
-      "SnowSurfaceTName": "Snødekkehardhet",
+      "SnowSurfaceTName": "Snødekkehardheit",
       "SurfaceRougnessTName": "Overflate",
-      "SurfaceWaterContentTName": "Snøfuktighet",
+      "SurfaceWaterContentTName": "Snøfuktigheit",
       "Total": "totalt"
     },
     "WaterLevel": {
-      "AppliesFor": "Gjelder for",
+      "AppliesFor": "Gjeld for",
       "Comment": "Kommentar",
       "Lake": "Innsjø",
-      "MeasuredDischarge": "Målt vannføring",
-      "ObsName": "Vannstand",
+      "MeasuredDischarge": "Målt vassføring",
+      "ObsName": "Vasstand",
       "River": "elv",
-      "WaterLevelDescribed": "Vannstand beskrivelse",
+      "WaterLevelDescribed": "Vasstand skildring",
       "WaterLevelRefTName": "Referansenivå",
-      "WaterLevelValue": "Størrelse"
+      "WaterLevelValue": "Storleik"
     },
     "WaterLevel2": {
       "Comment": "Kommentar",
       "DtMeasurementTime": "Tid",
       "MeasuredRelativeTo": "Måling relativt til",
-      "MeasurementReferenceTName": "Vannmarkering på/i",
+      "MeasurementReferenceTName": "Vassmarkering på/i",
       "MeasurementTypeTName": "Måleinstrument",
-      "ObservationTimingTName": "Hva registrerer du?",
-      "ObsName": "Vannstand",
-      "WaterAstrayTName": "Vann på avveie",
+      "ObservationTimingTName": "Kva registrerar du?",
+      "ObsName": "Vasstand",
+      "WaterAstrayTName": "Vatn på vidvanke",
       "WaterLevelStateTName": "Situasjon",
-      "WaterMarking": "Vannmarkering",
-      "WaterMeasurement": "Vannmåling",
+      "WaterMarking": "Vassmarkering",
+      "WaterMeasurement": "Vassmåling",
       "WaterMeasurementValue": "Verdi",
       "With": "med"
     },
@@ -289,15 +286,15 @@
       "CloudCover": "Skydekke",
       "Clouds": "skyer",
       "Comment": "Kommentar",
-      "ObsName": "Vær",
+      "ObsName": "Vêr",
       "PrecipitationTID": "Nedbørstype",
       "Wind": "Vind",
-      "WindDirection": "fra"
+      "WindDirection": "frå"
     }
   },
   "Of": "av",
-  "PictureKey": "Bildet",
-  "PictureMode": "Kun bilder",
+  "PictureKey": "Bilete",
+  "PictureMode": "Berre bilete",
   "Reg": {
     "ObservedTime": "Observert",
     "ObserverNickName": "Av",
@@ -307,17 +304,17 @@
   "Search": {
     "Criterias": {
       "Country": {
-        "CountryInfo": "Mangler det et land er det fordi det aldri har vært gjort observasjoner der.​",
+        "CountryInfo": "Om eit land manglar er det aldri gjort observasjonar der. ",
         "Label": "Andre land"
       },
       "ObservationTypes": {
         "Label": "Observasjonstype"
       },
       "Observers": {
-        "Label": "Observatører",
-        "MyObservations": "Mine observasjoner",
-        "ObserverNickNamePlaceholder": "Søk på kallenavn",
-        "SearchInCompetences": "Søk på kompetanse: "
+        "Label": "Observatørar",
+        "MyObservations": "Mine observasjonar",
+        "ObserverNickNamePlaceholder": "Søk på kallenamn",
+        "SearchInCompetences": "Søk på kompetanse:"
       },
       "QuickSearch": {
         "Label": "HurtigSøk"
@@ -325,50 +322,50 @@
       "Recent": {
         "CountryKey": "Land",
         "Day": "døgn",
-        "FromDate": "Fra",
+        "FromDate": "Frå",
         "Label": "Mine siste søk",
         "Last": "siste",
-        "MyObservations": "Mine observasjoner",
-        "ObserverCompetence": "Observatør kompetanse",
-        "ObserverName": "Observatør navn",
-        "Regions": "Regioner",
-        "RegistrationTypes": "Observasjonstyper",
+        "MyObservations": "Mine observasjonar",
+        "ObserverCompetence": "Observatørkompetanse",
+        "ObserverName": "Observatørnamn",
+        "Regions": "Regionar",
+        "RegistrationTypes": "Observasjonstypar",
         "Time": "Tid",
         "ToDate": "Til"
       },
       "Regions": {
-        "BRegionInfo": "Regioner i med * varsles kun ved faregrad 4 og 5.",
-        "Label": "Regioner"
+        "BRegionInfo": "Regionar med * blir berre varsla når det er faregrad 4 og 5.",
+        "Label": "Regionar"
       },
       "TimePeriod": {
-        "ChooseDate": "velg dato:",
+        "ChooseDate": "vel dato:",
         "Day": "døgn",
-        "FromDate": "Fra",
+        "FromDate": "Frå",
         "Label": "Tidsperiode",
         "Last": "siste",
         "Or": "eller",
         "ToDate": "Til"
       }
     },
-    "GetMoreRegistrationsBtn": "Hent flere observasjoner",
+    "GetMoreRegistrationsBtn": "Hent fleire observasjonar",
     "HeadingColor": {
       "black": "Svart",
       "blue": "Blå"
     },
-    "LoadMoreRegistrationsText": "Klikk her for å laste flere registreringer manuelt",
+    "LoadMoreRegistrationsText": "Klikk her for å laste fleire registreringar manuelt",
     "SortOrder": {
-      "LastUpdated": "Siste oppdatert tid",
+      "LastUpdated": "Siste oppdaterte tid",
       "ObservedTime": "Observert tid",
-      "RegistrationTime": "Registrert tid"
+      "RegistrationTime": "Registert tid"
     }
   },
   "SearchButtonName": "Søk",
   "Searching": "Søker",
   "SearchResultOfTotal": "av",
-  "ShowAllObservations": "Vis alle observasjoner",
-  "ShowFilteredObservations": "Vis valgte observasjoner",
+  "ShowAllObservations": "Vis alle observasjonar",
+  "ShowFilteredObservations": "Vis valgte observasjonar",
   "ShowLess": "Vis færre",
-  "ShowMore": "Vis flere",
+  "ShowMore": "Vis fleire",
   "ShowSearchButtonName": "Vis søk",
   "SingleRegistration": "registrering",
   "Snow": "snø",
@@ -376,11 +373,9 @@
   "SortByName": "Sorter på:",
   "TableModes": {
     "CompactKey": "Kompakt",
-    "CompleteKey": "Komplett",
+    "CompleteKey": "Fullstendig",
     "ShortKey": "Kort"
   },
   "To": "til",
-  "Unknown": "ukjent",
-  "Water": "vann"
-  
+  "Water": "vatn"
 }

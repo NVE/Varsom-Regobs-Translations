@@ -31,6 +31,10 @@
   "HeightKey": "Höjd",
   "Ice": "is",
   "LanguageLabel": "Språk:",
+  "Location": {
+    "Municipality": "kommun",
+    "WarningRegion": "Prognosområde"
+  },
   "MapMode": "Karta",
   "Months": {
     "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Aug, Sep, Okt, Nov, Dec"
