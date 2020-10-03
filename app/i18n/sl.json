@@ -85,9 +85,9 @@
     "HEADER": "O podatkih v Varsom Regobs",
     "LINE_1": "Uporaba opozoril, podatkov in zemljevidov na lastno odgovornost. Lahko so prisotne napake in opustitve informacij.",
     "LINE_2": "Opozorila so samo orodje za načrtovanje in se lahko razlikujejo od dejanske situacije. Vedno naredite svojo oceno stanja. Pogoji, v katerih ste, so lahko bolj zapleteni in se lahko razlikujejo od opozoril.",
-    "LINE_3": "Podatki na Regobs so pridobljeni s strani uporabnikov in so dostopni, «takšni, kot so». Lahko vsebujejo napake in opustitve informacij. NVE ne jamči za pravilnost in popolnost podatkov ter za ocene stanja s strani uporabnikov.",
+    "LINE_3": "Podatki na Regobs so pridobljeni s strani uporabnikov in so dostopni, »takšni, kot so«. Lahko vsebujejo napake in opustitve informacij. NVE ne jamči za pravilnost in popolnost podatkov ter za ocene stanja s strani uporabnikov.",
     "OK": "Ok, sprejemam",
-    "TERMS": "Podatki na Varsom Regobs so pridobljeni s strani uporabnikov aplikacije Regobs in so dostopni, «takšni, kot so». Informacije lahko vsebujejo napake in opustitve. NVE ne jamči za kvaliteto ali točnost informacij, ki so dostopne na Regobs in ne prevzema odgovornosti za podatke, ki so nepravilni ali zavajajoči. Število zvezdic ob uporabniškem imenu (1-5) nakazuje nivo usposobljenosti osebe, ki je prispevala opažanje. Brez zvezdic je nivo usposobljenosti neznan ali nizek."
+    "TERMS": "Podatki na Varsom Regobs so pridobljeni s strani uporabnikov aplikacije Regobs in so dostopni, »takšni, kot so«. Informacije lahko vsebujejo napake in opustitve. NVE ne jamči za kvaliteto ali točnost informacij, ki so dostopne na Regobs in ne prevzema odgovornosti za podatke, ki so nepravilni ali zavajajoči. Število zvezdic ob uporabniškem imenu (1-5) nakazuje nivo usposobljenosti osebe, ki je prispevala opažanje. Brez zvezdic je nivo usposobljenosti neznan ali nizek."
   },
   "LOGIN": {
     "CHANGE_PASSWORD": "Spremeni geslo",
