@@ -123,7 +123,9 @@
       "ObsName": "Avalanche Observation",
       "TerrainStartZoneTID": "Terrain start zone",
       "Trajectory": "Avalanche path",
-      "ValidExposition": "Exposition"
+      "ValidExposition": "Exposition",
+      "StartLabel": "Avalanche start position",
+      "StopLabel": "Avalanche stop position"
     },
     "CompressionTest": {
       "Comment": "Comment",
@@ -134,7 +136,8 @@
     "DamageObs": {
       "Comment": "Comment",
       "DamageTypeTID": "Type",
-      "ObsName": "Damage Observation"
+      "ObsName": "Damage Observation",
+      "PositionLabel": "Damage position"
     },
     "DangerObs": {
       "Comment": "Comment",
@@ -377,5 +380,6 @@
   "Location": {
     "Municipality": "municipality",
     "WarningRegion": "Warning region"
-  }
+  },
+  "Unknown": "unknown"
 }
