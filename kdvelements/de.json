@@ -4712,21 +4712,6 @@
         "notes": "",
         "limit": "50"
     },
-    "TripTypeKD_20": {
-        "translation": "Wert nicht angegeben",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_30": {
-        "translation": "Wert nicht angegeben",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_40": {
-        "translation": "Wert nicht angegeben",
-        "notes": "",
-        "limit": "50"
-    },
     "TripTypeKD_50": {
         "translation": "Angestellt",
         "notes": "",
