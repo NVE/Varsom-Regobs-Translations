@@ -2800,7 +2800,7 @@
         "limit": "30"
     },
     "DangerSignKD_223": {
-        "translation": "Nagib dreves",
+        "translation": "Nagibanje dreves",
         "notes": "",
         "limit": "30"
     },
@@ -4062,7 +4062,7 @@
         "limit": "1024"
     },
     "MarkingReferenceKD_4": {
-        "translation": "Na zgradbi",
+        "translation": "na zgradbi",
         "notes": "Building",
         "limit": "100"
     },
@@ -4072,7 +4072,7 @@
         "limit": "1024"
     },
     "MarkingReferenceKD_5": {
-        "translation": "Drog",
+        "translation": "na drogu",
         "notes": "Pole",
         "limit": "100"
     },
@@ -4182,7 +4182,7 @@
         "limit": "1024"
     },
     "MeasurementReferenceKD_3": {
-        "translation": "Na poplavnem obelisku",
+        "translation": "Na poplavni obelisk",
         "notes": "Floor",
         "limit": "100"
     },
@@ -4754,21 +4754,6 @@
     },
     "TripTypeKD_0": {
         "translation": "Neznano",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_20": {
-        "translation": "Vrednost ni določena",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_30": {
-        "translation": "Vrednost ni določena",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_40": {
-        "translation": "Vrednost ni določena",
         "notes": "",
         "limit": "50"
     },
