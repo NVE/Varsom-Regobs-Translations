@@ -31,6 +31,10 @@
   "HeightKey": "Altezza",
   "Ice": "ghiaccio",
   "LanguageLabel": "Lingua:",
+  "Location": {
+    "Municipality": "Comune",
+    "WarningRegion": "Area di previesione"
+  },
   "MapMode": "Mappa",
   "Months": {
     "ShortList": "Gen, Feb, Mar, Apr, Mag, Giu, Lul, Ago, Set, Ott, Nov, Dic"
