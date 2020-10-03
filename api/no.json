@@ -123,7 +123,9 @@
       "ObsName": "Skredhendelse",
       "TerrainStartZoneTID": "Terreng i løsneområdet",
       "Trajectory": "Skredbanenavn",
-      "ValidExposition": "Eksposisjon"
+      "ValidExposition": "Eksposisjon",
+      "StartLabel": "Skredet startet her",
+      "StopLabel": "Skredet stoppet her"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -134,7 +136,8 @@
     "DamageObs": {
       "Comment": "Kommentar",
       "DamageTypeTID": "Type",
-      "ObsName": "Skader"
+      "ObsName": "Skader",
+      "PositionLabel": "Skadeposisjon"
     },
     "DangerObs": {
       "Comment": "Kommentar",
@@ -377,5 +380,6 @@
   "Location": {
     "Municipality": "kommune",
     "WarningRegion": "Varslingsregion"
-  }
+  },
+  "Unknown": "ukjent"
 }
