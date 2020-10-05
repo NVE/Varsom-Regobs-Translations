@@ -264,9 +264,13 @@
     "MyObservations": {
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
-      "MyCompetences": "My Competences",
+      "MyCompetences": "My competences",
       "NoCompetence": "You have no competence added to your Regobs user.",
-      "Title": "My Observations"
+      "NoObservations": {
+        "Title": "Share what you see!",
+        "Message": "You haven't logged any observations yet. As soon as you share what you see outdoors by logging an observation, it will be visible here."
+      },
+      "Title": "My observations"
     },
     "MyPage": "My page",
     "MyPlaces": "My places",
