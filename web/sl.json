@@ -15,6 +15,20 @@
     "GoToObservation": "Pojdi na opažanje",
     "ShowAllObservations": "Pokaži vse"
   },
+  "COMPASS_DIRECTION": {
+    "EAST": "Vzhod",
+    "EAST_SHORT": "V",
+    "NORTH": "Sever",
+    "NORTH_EAST_SHORT": "SV",
+    "NORTH_SHORT": "S",
+    "NORTH_WEST_SHORT": "SZ",
+    "SOUTH": "Jug",
+    "SOUTH_EAST_SHORT": "JV",
+    "SOUTH_SHORT": "J",
+    "SOUTH_WEST_SHORT": "JZ",
+    "WEST": "Zahod",
+    "WEST_SHORT": "Z"
+  },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs uporablja piškotke za izboljšanje vaše uporabniške izkušnje, ko obiščete spletno stran. Piškotek je besedilna datoteka, ki se med obiskom ali ob interakciji s spletno stranjo vstavi v notranji pomnilnik vašega brskalnika.",
     "AboutUseSecondParagraph": "Osnova za to je 6. člen (1) (f) Pravilnika o zasebnosti, ki nam omogoča obdelavo informacij, ki so potrebne za zaščito interesa, ki odtehta zasebnost posameznikov. Ta interes je dobro delovanje strani, ki vam omogoča dobro uporabniško izkušnjo.",
@@ -60,7 +74,9 @@
       "AdditionalInformation": "Dodatne informacije",
       "Description": "Vnesite čas opažanja. Uporabite lokalni čas na mestu opažanja.",
       "Share": "Delite s skupino",
-      "Title": "Kdaj je bilo opravljeno opažanje?"
+      "Source": "Vir",
+      "Title": "Kdaj je bilo opravljeno opažanje?",
+      "Uncertainty": "Negotovo določen položaj"
     }
   },
   "Direction": {
@@ -104,6 +120,7 @@
     "XGeoAlt": "Logotip za Xgeo.no"
   },
   "Forgotten": "Pozabljeno geslo?",
+  "from": "od",
   "Geohazards": {
     "All": "Vse",
     "Ice": "Led",
@@ -127,6 +144,8 @@
   },
   "Information": "Informacije",
   "InvalidDate": "Neveljaven datum",
+  "is": "led",
+  "jord": "zemeljski plaz",
   "LanguageLabel": "Jezik:",
   "Login": {
     "CreateNewRegObsUser": "Tu ustvarite regObs uporabnika",
@@ -207,6 +226,7 @@
     "ShowObservationsInMapView": "Prikaži opažanja na zemljevidu"
   },
   "Menu": "Menu",
+  "metersOverSeaLevel": "metrov nadmorske višine",
   "MultipleRegistrations": "registracije",
   "MyPage": {
     "MyGroups": "Moje skupine",
@@ -234,6 +254,7 @@
     "SearchInObservation": "Išči med opažanji",
     "ShowObservationsInMap": "Prikaži opažanja na zemljevidu",
     "Snow": {
+      "RegisteredTrips": "Vnešeni ogledi",
       "RegisterObservation": "Novo opažanje snega",
       "SearchInObservation": "Poročila o snegu",
       "ShowObservationsInMap": "Opažanja snega in zemljevid naklona"
@@ -251,18 +272,20 @@
   },
   "No": "Ne",
   "Now": "zdaj",
+  "observation": " opažanja",
   "ObservationCard": {
     "AboveSeaLevel": "m.n.v.",
     "Download": "Prenos",
     "ForecastRegion": "Opozorilno območje",
     "Forms": "Obrazci",
-    "ObsId": "ID:",
     "Observed": "Opaženo:",
+    "ObsId": "ID:",
     "Original": "Prikaži izvirnik",
     "Registered": "Vnešeno:",
     "SentInBy": "Objavil",
     "Updated": "Posodobljeno:"
   },
+  "observations": "opažanje/a",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Orientacija pobočja",
@@ -295,12 +318,12 @@
       "ObsName": "Opažanje nevarnosti za snežni plaz"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Vrsta",
       "AvalCauseAttributeLightTID": "Neugodne značilnosti šibke plasti",
       "AvalCauseDepthTID": "Razdalja od površine do šibke plasti",
       "AvalCauseTID": "Vrsta šibke plasti",
       "AvalProbabilityTID": "Verjetnost za plaz",
       "AvalTriggerSimpleTID": "Pričakovana obremenitev, ki bi sprožila plaz",
-      "AvalancheExtTID": "Vrsta",
       "Comment": "Comment",
       "DestructiveSizeTID": "Pričakovana velikost plazu",
       "ObsName": "Ocena plazovnega problema",
@@ -313,6 +336,7 @@
       "AvalancheProblemTID1": "Plazovni problem 1",
       "AvalancheProblemTID2": "Plazovni problem 2",
       "AvalancheProblemTID3": "Plazovni problem 3",
+      "Comment": "Razvoj",
       "ObsName": "Ocena nevarnosti plazov",
       "ValidExposition": "Izpostavljenost"
     },
@@ -333,9 +357,9 @@
       "ObsName": "Ocena nevarnosti plazov"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Šibka plast",
       "AvalancheTID": "Vrsta",
       "AvalancheTriggerTID": "Sprožilec plazu",
+      "AvalCauseTID": "Šibka plast",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
       "DtAvalancheTime": "Čas sprožitve (obvezno)",
@@ -431,6 +455,7 @@
       "ActivityInfluencedTID": "Dejavnost",
       "Comment": "Opis",
       "DamageExtentTID": "Obseg škode",
+      "Description": "Zakaj se je to zgodilo? Se je dobro končalo? Se bi bilo situaciji mogoče izogniti?",
       "GeoHazardTID": "Vrsta opažanja",
       "IncidentHeader": "Naslov",
       "IncidentIngress": "Vstop",
@@ -451,9 +476,9 @@
       "ForecastAccurateTName": "Je bila napoved ustrezna?",
       "InMap": "na zemljevidu",
       "LandSlideSizeTName": "Velikost",
+      "LandslideTime": "Čas plazu",
       "LandSlideTName": "Vrsta zemeljskega plazu",
       "LandSlideTriggerTName": "Sprožilec",
-      "LandslideTime": "Čas plazu",
       "LandslideType": "Tip plazu",
       "ObsName": "Opažanje zemeljskega plazu",
       "Position": "Lokacija plazu",
@@ -478,6 +503,7 @@
       "RegistrationTID": "Slika od"
     },
     "Shared": {
+      "Description": "Opis",
       "ExposedHeight": {
         "Height": "Višina",
         "LowerHeight": "Spodnja višina",
@@ -500,7 +526,9 @@
       "UnderSurface": "pod površino"
     },
     "SnowProfile": {
+      "AddLayerBottom": "Dodaj novo plast na dnu",
       "AddLayers": "Dodaj plasti",
+      "AddLayerTop": "Dodaj novo plast na vrhu",
       "AddTests": "Dodaj teste",
       "Cm": "cm",
       "Comment": "Komentar",
@@ -578,8 +606,8 @@
       "MeasuredRelativeTo": "Meritev glede na",
       "MeasurementReferenceTName": "Vodna oznaka na/z",
       "MeasurementTypeTName": "Merilni inštrument",
-      "ObsName": "Nivo vode",
       "ObservationTimingTName": "Kaj vnašate?",
+      "ObsName": "Nivo vode",
       "WaterAstrayTName": "Je kaj vode izven struge?",
       "WaterLevelStateTName": "Stanje",
       "WaterMarking": "Vodna oznaka",
@@ -601,6 +629,7 @@
   "Of": "od",
   "Ok": "Ok",
   "Password": "Geslo",
+  "picture": "slika",
   "PictureCarousel": {
     "Comment": "Komentar",
     "Copyright": "Avtorske pravice",
@@ -617,6 +646,11 @@
     "UpdatedTime": "Posodobljeno"
   },
   "Register": "Registracija novega uporabnika",
+  "RegistrationEdit": {
+    "AddForm": "Dodaj obrazec",
+    "DeleteObservation": "Izbriši opažanje",
+    "SaveAsDraft": "Shraniti kot osnutek?"
+  },
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
     "Edit": "Uredi",
@@ -736,8 +770,8 @@
     }
   },
   "SearchButtonName": "Išči",
-  "SearchResultOfTotal": "od",
   "Searching": "Iskanje, prosimo počakajte",
+  "SearchResultOfTotal": "od",
   "ShowAllObservations": "Pokaži vsa opažanja",
   "ShowFilteredObservations": "Pokaži samo izbrana opažanja",
   "ShowLess": "Pokaži manj",
@@ -746,6 +780,7 @@
   "SignIn": "Prijava",
   "SignOut": "Odjava",
   "SingleRegistration": "registracija",
+  "snø": "snega",
   "SortByName": "Razvrsti po:",
   "TableModes": {
     "CompactKey": "Strnjeno",
@@ -753,6 +788,7 @@
     "ShortKey": "Kratko"
   },
   "Time": "čas",
+  "to": "do",
   "Unknown": "Neznano",
   "Url": {
     "Add": "Dodaj spletno povezavo",
@@ -768,15 +804,6 @@
     "Regobs": "REGOBS",
     "User": "UPORABNIK"
   },
-  "Yes": "Ja",
-  "from": "od",
-  "is": "led",
-  "jord": "zemeljski plaz",
-  "metersOverSeaLevel": "metrov nadmorske višine",
-  "observation": " opažanja",
-  "observations": "opažanje/a",
-  "picture": "slika",
-  "snø": "snega",
-  "to": "do",
-  "vann": "poplava"
+  "vann": "poplava",
+  "Yes": "Ja"
 }
