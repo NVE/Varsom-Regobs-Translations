@@ -266,10 +266,15 @@
       "ContactQuestion": "Ta gjerne kontakt hvis du har spørsmål rundt kompetanse.",
       "MyCompetences": "Min kompetanse",
       "NoCompetence": "Du har ingen kompetanse knyttet til Regobs-brukeren din.",
+      "NoObservations": {
+        "Title": "Del det du ser!",
+        "Message": "Du har ikke registrert noen observasjoner enda. Så fort du deler det du ser ute i naturen ved å gjøre en observasjon, vil den vises her."
+      },
       "Title": "Mine observasjoner"
     },
     "MyPage": "Min side",
     "MyPlaces": "Mine plasser",
+    "MyCompetence": "Min kompetanse",
     "VarsomUser": "Varsom-bruker",
     "UserInfo": {
       "EditNickname": "Rediger kallenavn"
