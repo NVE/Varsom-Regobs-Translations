@@ -9,10 +9,16 @@
     "DropzoneText": "Ziehen Sie Dateien zum Hochladen hierher oder klicken Sie zur Auswahl",
     "NoDescription": "Keine Beschreibung"
   },
+  "Cancel": "Abbruch",
+  "ChangePassword": "Passwort ändern",
+  "Chip": {
+    "GoToObservation": "Zur Beobachtung gehen",
+    "ShowAllObservations": "Alle zeigen"
+  },
   "COMPASS_DIRECTION": {
-    "EAST": "Osten",
+    "EAST": "Ost",
     "EAST_SHORT": "O",
-    "NORTH": "Norden",
+    "NORTH": "Nord",
     "NORTH_EAST": "Nordost",
     "NORTH_EAST_SHORT": "NO",
     "NORTH_SHORT": "N",
@@ -26,12 +32,6 @@
     "SOUTH_WEST_SHORT": "SW",
     "WEST": "West",
     "WEST_SHORT": "W"
-  },
-  "Cancel": "Cancel",
-  "ChangePassword": "Passwort ändern",
-  "Chip": {
-    "GoToObservation": "Zur Beobachtung gehen",
-    "ShowAllObservations": "Alle zeigen"
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs verwendet Cookies, um Ihre Benutzererfahrung beim Besuch der Website zu verbessern. Ein Cookie ist eine Textdatei, die beim Besuch oder bei der Interaktion mit einer Website im internen Speicher Ihres Browsers abgelegt wird.",
@@ -59,8 +59,6 @@
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
   "CreateObservation": "Beobachtung erstellen",
-  "Date": "Datum",
-  "Delete": "Löschen",
   "Dialogs": {
     "Buttons": {
       "AddForm": "Formular hinzufügen",
@@ -77,19 +75,10 @@
     "Time": {
       "AdditionalInformation": "Zusätzliche Information",
       "Description": "Geben Sie die Zeit ein, zu der die Beobachtung gemacht wurde. Verwenden Sie die Ortszeit am Beobachtungsort.",
-      "Share": "Mit der Gruppe teilen",
+      "Share": "Mit Gruppe teilen",
+      "Source": "Quelle",
       "Title": "Wann wurde die Beobachtung gemacht?"
     }
-  },
-  "Direction": {
-    "E": "O",
-    "N": "N",
-    "NE": "NO",
-    "NW": "NW",
-    "S": "S",
-    "SE": "SO",
-    "SW": "SW",
-    "W": "W"
   },
   "Email": "Email",
   "Footer": {
@@ -122,8 +111,9 @@
     "XGeoAlt": "Logo für Xgeo.no"
   },
   "Forgotten": "Passwort vergessen?",
+  "from": "von",
   "Geohazards": {
-    "All": "Alle",
+    "All": "Alles",
     "Ice": "Eis",
     "Snow": "Schnee",
     "Soil": "Boden",
@@ -131,12 +121,12 @@
     "WaterSoil": "Wasser und Boden"
   },
   "GoBack": "Zurück",
-  "GoToObservation": "Zur Beobachtung",
+  "GoToObservation": "Gehe zu Beobachtung",
   "GoToReportPage": "Gehe zur Berichtsansicht",
-  "HeightKey": "Hoch",
+  "HeightKey": "Höhe",
   "Home": "Home",
   "HomeLocationSearch": {
-    "All": "Alle",
+    "All": "Alles",
     "Change": "Bearbeiten",
     "Days": "Tage",
     "Last": "Letzten",
@@ -145,6 +135,8 @@
   },
   "Information": "Information",
   "InvalidDate": "Ungültiges Datum",
+  "is": "Eis",
+  "jord": "Erdrutsch",
   "LanguageLabel": "Sprache:",
   "Login": {
     "CreateNewRegObsUser": "Erstellen Sie hier einen regObs-Benutzer",
@@ -184,31 +176,31 @@
       "None": "Keine",
       "PotentialHazards": "Mögliche Gefahren"
     },
-    "SupportClayZonesDescription": "Ablagerungsbereiche",
-    "SupportClayZonesName": "Ablagerungsbereiche",
+    "SupportClayZonesDescription": "Tonzone",
+    "SupportClayZonesName": "Tonzone",
     "SupportFloodZonesDescription": "Überflutungsbereichen",
-    "SupportFloodZonesName": "Überflutungsbereiche",
+    "SupportFloodZonesName": "Hochwasserzonen",
     "SupportMap": "Unterstützte Karte: ",
     "SupportMaps": "Unterstützte Karten",
     "SupportSteepnessDescription": "Die Farben geben die Steilheit des Geländes in Grad an",
     "SupportSteepnessName": "Hangneigung",
     "SupportWeakenedIceDescription": "Die Unterstützungskarte zeigt Teile von Wasserläufen, die sich im Winter aufgrund von Vorschriften zur Stromerzeugung unvorhersehbar verhalten",
-    "SupportWeakenedIceName": "Schwacheis",
+    "SupportWeakenedIceName": "Geschwächtes Eis",
     "Water": {
-      "1000YearFlood": "1000-jährliches Hochwasser",
-      "100YearFlood": "100-jährliches Hochwasser",
-      "10YearFlood": "10-jährliches Hochwasser",
-      "200YearFlood": "200-jährliches Hochwasser",
+      "1000YearFlood": "1000 jährliches Hochwasser",
+      "100YearFlood": "100 jährliches Hochwasser",
+      "10YearFlood": "10 jährliches Hochwasser",
+      "200YearFlood": "200 jährliches Hochwasser",
       "200YearFloodClimate": "200-jährliches Hochwasser (Klima)",
-      "20YearFlood": "20-jährliches Hochwasser",
-      "500YearFlood": "500-jährliches Hochwasser",
-      "50YearFlood": "50-jährliches Hochwasser",
+      "20YearFlood": "20 jährliches Hochwasser",
+      "500YearFlood": "500 jährliches Hochwasser",
+      "50YearFlood": "50 jährliches Hochwasser",
       "AjourRecognized": "Aktuell erkannt",
-      "Current": "Derzeitig",
-      "ForReview": "Zur Überprüfung",
+      "Current": "Aktuell",
+      "ForReview": "Zur Durchsicht",
       "LowPoint": "Überfluteter Tiefpunkt bei:",
-      "RiverAndWater10YearFlood": "Fluss und Wasser 10-jährliches Hochwasser",
-      "UnderPlanning": "Geplant"
+      "RiverAndWater10YearFlood": "Fluss und Wasser 10 jährliches Hochwasser",
+      "UnderPlanning": "In Planung"
     }
   },
   "MapSideNav": {
@@ -225,6 +217,7 @@
     "ShowObservationsInMapView": "Beobachtungen in der Kartenansicht anzeigen"
   },
   "Menu": "Menü",
+  "metersOverSeaLevel": "m ü. A.",
   "MultipleRegistrations": "Eintragungen",
   "MyPage": {
     "MyGroups": "Meine Gruppen",
@@ -252,6 +245,7 @@
     "SearchInObservation": "Suche in Beobachtungen",
     "ShowObservationsInMap": "Beobachtungen in Karte anzeigen",
     "Snow": {
+      "RegisteredTrips": "Tour eintragen",
       "RegisterObservation": "Neuschnee Beobachtung",
       "SearchInObservation": "Schneebericht",
       "ShowObservationsInMap": "Schneebeobachtungen und Hangneigungskarte"
@@ -269,73 +263,60 @@
   },
   "No": "Nein",
   "Now": "Jetzt",
+  "observation": "Beobachtungen",
   "ObservationCard": {
     "AboveSeaLevel": "m ü. A.",
     "Download": "Herunterladen",
     "ForecastRegion": "Prognoseregion",
-    "Forms": "Formulare",
-    "ObsId": "ID:",
+    "Forms": "Form",
     "Observed": "Beobachtet:",
+    "ObsId": "ID:",
     "Original": "Original ansehen",
     "Registered": "Eingetragen:",
     "SentInBy": "Eingesandt von",
     "Updated": "Aktualisiert:"
   },
+  "observations": "Beobachtung(en)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Exposition",
-      "AvalancheTID": "Art",
+      "AvalancheTID": "Typ",
       "AvalancheTriggerTID": "Auslöseart",
       "Comment": "Kommentar",
-      "DateWarning": "Das Datum unterscheidet sich von der Beobachtungszeit",
       "DtAvalancheTime": "Zeit",
-      "DuringTheDay": "Während des Tages",
-      "EstimatedTime": "Geschätzter Zeitrahmen",
-      "HeigthStartZone": "Starthöhe",
-      "HowManyAvalanches": "Anzahl der Lawinen",
-      "MetersOverSeaLevel": "m ü.A.",
-      "NoAvalancheActivity": "Es wurde keine Lawinenaktivität beobachtet",
-      "NumberAndSize": "Anzahl und Größe",
-      "ObsName": "Lawinenaktivität"
+      "NumberAndSize": "Anzahl und Größe"
     },
     "AvalancheActivityObs2": {
-      "AvalancheTID": "Art",
+      "AvalancheTID": "Typ",
       "Comment": "Kommentar",
       "DtAvalancheTime": "Zeit",
-      "MetersOverSeaLevel": "m ü.A.",
       "NumberAndSizeAndTrigger": "Anzahl, Größe und Auslöseart",
-      "ObsName": "Lawinenaktivität",
       "Prevalence": "Gefahrenverteilung"
     },
     "AvalancheDangerObs": {
       "Comment": "Kommentar",
-      "DangerSignTID": "Art",
-      "ObsName": "Lawinengefahrenzeichen"
+      "DangerSignTID": "Typ"
     },
     "AvalancheEvalProblem2": {
-      "AvalCauseAttributeLightTID": "Ungünstige Eigenschaften der Schwachschicht",
+      "AvalancheExtTID": "Typ",
       "AvalCauseDepthTID": "Abstand von der Oberfläche zur Schwachschicht",
       "AvalCauseTID": "Schwachschichtart",
       "AvalProbabilityTID": "Lawinenauslösewahrscheinlichkeit",
       "AvalTriggerSimpleTID": "Zusatzbelastung",
-      "AvalancheExtTID": "Art",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe der zu erwartenden Lawine",
-      "ObsName": "Lawinenproblem bewerten",
       "PrevalenceArea": "Gefahrenverteilung"
     },
     "AvalancheEvaluation": {
-      "AvalancheDangerTID": "Gefahrenstufe",
-      "AvalancheDevelopment": "Entwicklung",
       "AvalancheEvaluation1": "Bewertung",
       "AvalancheProblemTID1": "Lawinenproblem 1",
       "AvalancheProblemTID2": "Lawinenproblem 2",
       "AvalancheProblemTID3": "Lawinenproblem 3",
+      "Comment": "Entwicklung",
       "ObsName": "Lawinenbewertung",
       "ValidExposition": "Exposition"
     },
     "AvalancheEvaluation2": {
-      "AvalancheDangerTID": "Gefahrenstufe",
       "AvalancheDevelopment": "Entwicklung",
       "AvalancheEvaluation": "Bewertung",
       "AvalancheProblem": "Lawinenproblem",
@@ -343,63 +324,38 @@
       "ObsName": "Lawinenbewertung"
     },
     "AvalancheEvaluation3": {
-      "AvalancheDangerTID": "Gefahrenstufe",
       "AvalancheDevelopment": "Entwicklung",
       "AvalancheEvaluation": "Bewertung",
       "ForecastComment": "Kommentar",
-      "ForecastCorrectTID": "Vorhersagerichtigkeit",
       "ObsName": "Lawinenbewertung"
     },
     "AvalancheObs": {
+      "AvalancheTID": "Typ",
+      "AvalancheTriggerTID": "Auslöseart",
       "AvalCauseTID": "Schwachschicht",
-      "AvalancheTID": "Art",
-      "AvalancheTriggerTID": "Auslöseempfindlichkeit",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Größe",
-      "DtAvalancheTime": "Lawinenzeit (erforderlich)",
-      "FractureHeight": "Anrisshöhe (cm)",
-      "FractureWidth": "Anrissbreite (m)",
-      "HeigthStartZone": "Anrissgebiet",
-      "HeigthStopZone": "Ablagerungsgebiet",
-      "IncidentDescription": "Unfall oder Verletzung",
-      "IncidentPlaceholder": "Hat die Lawine Schäden, Unfälle oder Stürze verursacht? Warum und wie ist es passiert? Könnte die Situation vermieden worden sein?",
-      "ObsName": "Lawinenbeobachtung",
-      "TerrainStartZoneTID": "Geländetyp im Anbruchgebiet",
-      "TrajectoryName": "Name der Lawinenbahn",
+      "DtAvalancheTime": "Zeit",
+      "FractureWidth": "Anrissbreite",
+      "TerrainStartZoneTID": "Anrissgebiet Gelände",
       "ValidExposition": "Exposition"
-    },
-    "AvalancheProblem": {
-      "AvalancheTriggerProbability": "Auslöseempfindlichkeit",
-      "AvalancheType": "Lawinenart",
-      "NoWeakLayers": "Es gibt keine Schwachschichten",
-      "Propagation": "Räumliche Verteilung",
-      "WeakLayer": "Schwachschicht",
-      "WeakLayerDepth": "Schwachschichttiefe"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
-      "DistanceFromTop": "Distanz von oben (cm)",
-      "FractureType": "Bruchtyp",
-      "Include": "In das Schneeprofil aufnehmen",
-      "NumberOfHits": "Anzahl von Schlägen",
-      "ObsName": "Kompressionstest",
-      "Stability": "Stabilität",
       "StabilityEvalTID": "Stabilität",
-      "Test": "Test",
-      "Type": "Testtyp"
+      "Test": "Test"
     },
     "DamageObs": {
       "Comment": "Kommentar",
-      "DamageTypeTID": "Art",
+      "DamageTypeTID": "Typ",
       "ObsName": "Schadensbeobachtung"
     },
     "DangerObs": {
-      "Area": "Region",
+      "Area": "Bereich",
       "Comment": "Kommentar",
       "DangerSignTName": "Gefahrenart",
-      "NewDangerSign": "Gefahrenzeichen hinzufügen",
+      "NewDangerSign": "Fügen Sie ein Gefahrenzeichen hinzu",
       "NoDamageSign": "Keine Gefahrenzeichen",
-      "ObsName": "Gefahrenbeobachtung",
       "Title": "Gefahrenzeichen"
     },
     "GeneralObservation": {
@@ -412,17 +368,14 @@
       "Urls": "Links"
     },
     "IceCoverObs": {
-      "BearingStrength": "Belastungsfähigkeit",
+      "BearingStrength": "Tragkraft",
       "Comment": "Kommentar",
       "Description": "Beschreibung",
-      "IceCapacityTName": "Kapazität",
       "IceCover": "Eisdecke",
       "IceCoverAfterTName": "Eisbedeckung vor der Beobachtung",
-      "IceCoverBeforeObservation": "Eisdecke vor der Beobachtung",
+      "IceCoverBeforeObservation": "Eisbedeckung vor der Beobachtung",
       "IceCoverBeforeTName": "Eisdecke vor der Beobachtung",
-      "IceCoverTName": "Bedeckung",
-      "IceSkateabilityTName": "Belaufbarkeit",
-      "ObsName": "Eisdeckenbeobachtung"
+      "IceSkateabilityTName": "Befahrbarkeit"
     },
     "IceThickness": {
       "AddIceLayer": "Eisschicht hinzufügen",
@@ -430,28 +383,19 @@
       "Comment": "Kommentar",
       "IceLayer": "Eisschicht",
       "IceLayerThickness": "Eisschichtdicke",
-      "IceThicknessLayers": "Schichten (von oben nach unten)",
       "IceThicknessSum": "Gesamtdicke",
       "IceType": "Eistyp",
-      "IsEqualToIceSurface": "ist gleich zur Eisfläche",
-      "LowerThanIceSurface": "niedriger als Eisfläche ",
-      "ObsName": "Eisdicke",
-      "OverIce": "Über dem Eis",
-      "OverWaterAfterDrilling": "nach dem Bohren über Wasser",
       "OverWaterBeforeDrilling": "Wasser vor dem Bohren",
       "SlushSnowBeforeDrilling": "Matsch vor dem Bohren",
       "SnowDepthBeforeDrilling": "Schnee vor dem Bohren.",
-      "Total": " total",
-      "TwoDecimalPlaces": "(cm, bis zu zwei Dezimalstellen)",
-      "WaterSurfaceInHole": "Wasseroberfläche im Loch"
+      "TwoDecimalPlaces": "(cm, bis zu zwei Dezimalstellen)"
     },
     "Incident": {
       "ActivityInfluencedTID": "Aktivität",
-      "Comment": "Beschreibung",
-      "DamageExtentTID": "Schadensumfang",
-      "Description": "Warum ist das geschehen? Ist es gut ausgegangen?Kann die Situation vermieden werden?",
+      "Comment": "Kommentar",
+      "DamageExtentTID": "Umfang",
+      "Description": "Warum ist das passiert? Ist es gut gelaufen? Könnte die Situation vermieden worden sein?",
       "GeoHazardTID": "Beobachtungsart",
-      "IncidentHeader": "Überschrift",
       "IncidentIngress": "Eintritt",
       "IncidentText": "Beschreibung",
       "ObsName": "Ereignis",
@@ -467,18 +411,16 @@
       "DamageExtentTName": "Schadensumfang",
       "DtLandSlideTime": "Wann begann der Erdrutsch?",
       "DtLandSlideTimeEnd": "Wann endete der Erdrutsch?",
-      "ForecastAccurateTName": "War die Vorhersage korrekt?",
       "InMap": "in der Karte",
       "LandSlideSizeTName": "Größe",
-      "LandSlideTName": "Erdrutschart",
-      "LandSlideTriggerTName": "Auslöseart",
       "LandslideTime": "Erdrutschzeit",
+      "LandSlideTName": "Erdrutschtyp",
+      "LandSlideTriggerTName": "Auslöseart",
       "LandslideType": "Erdrutschtyp",
-      "ObsName": "Erdrutschbeobachtung",
       "Position": "Erdrutschposition",
       "PositionDescription": "Geben Sie die Start- und Stopposition des Erdrutschs ein",
       "Required": "Erforderlich",
-      "SetLandslidePosition": "Erdrutschposition angeben",
+      "SetLandslidePosition": "Erdrutschposition setzen",
       "SetStartPosition": "Startposition angeben",
       "SetStopPosition": "Stopposition angeben",
       "Time": "Zeit",
@@ -497,14 +439,7 @@
       "RegistrationTID": "Bild von"
     },
     "Shared": {
-      "ExposedHeight": {
-        "Height": "Höhe",
-        "LowerHeight": "Niedrigere Höhe",
-        "Title": "Höhe"
-      },
-      "ValidExposition": {
-        "Title": "Aussehen"
-      }
+      "Description": "Beschreibung"
     },
     "SnowCover": {
       "CriticalLayer": "Schwachschicht",
@@ -519,16 +454,17 @@
       "UnderSurface": "unter der Oberfläche"
     },
     "SnowProfile": {
+      "AddLayerBottom": "Unten eine neue Schicht hinzufügen",
       "AddLayers": "Schicht hinzufügen",
+      "AddLayerTop": "Oben eine neue Schicht dazufügen",
       "AddTests": "Test hinzufügen",
       "Cm": "cm",
       "Comment": "Kommentar",
-      "CompressionTest": "Kompressionstest",
       "CompresstionTestConnectedToProfile": "Kompressionstest mit Schneeprofil",
       "Density": {
         "AddDensity": "Dichte hinzufügen",
         "Average": "Durchschnitt",
-        "CylinderBoreDiam": "Zylinderbohrungsdurchmesser",
+        "CylinderBoreDiam": "Zylinderbohrungsdurchmesser (cm)",
         "Density": "Dichte",
         "DensityLabel": "Dichte (kg/m3)",
         "Height": "Höhe (cm)",
@@ -549,13 +485,7 @@
       "ObsName": "Schneeprofil",
       "SnowDensity": "Schneedichte",
       "SnowTemperature": "Temperatur",
-      "StratLayers": "Schichten",
       "SumOfAllLayers": "Anzahl von Schichten:",
-      "Temperature": {
-        "Add": "Temperatur hinzufügen",
-        "Placeholder": "Temperatur (°C)",
-        "TempProfile": "Temperaturprofil"
-      },
       "Test": {
         "Add": "Hinzufügen",
         "AddTest": "Test hinzufügen",
@@ -565,73 +495,63 @@
       }
     },
     "SnowSurfaceObservation": {
-      "Comment": "Kommentar",
       "FootPenetration": "Eindringtiefe",
-      "HeightLimitLayeredSnow": "Höhe der Schneegrenze (müA)",
+      "HeightLimitLayeredSnow": "Höhenbegrenzung für Schneeschicht",
       "NewSnow": "Neuschnee",
-      "NewSnowDepth24": "Schneehöhe in den letzten 24 Stunden (cm)",
-      "NewSnowLine": "Neuschnee ab (müA)",
-      "ObsName": "Schneeoberfläche",
-      "SnowDepth": "Schneehöhe (cm)",
-      "SnowDriftTName": "Schneeverwehung",
-      "SnowLine": "Höhe der Schneegrenze (müA)",
+      "NewSnowLine": "Neue Schneegrenzen",
+      "ObsName": "Schneeoberflächenhärte",
+      "SnowDepth": "Schneehöhe",
+      "SnowDriftTName": "Schneeverwehungen",
+      "SnowLine": "Schneegrenze",
       "SnowLines": "Schneegrenzen",
-      "SnowSurfaceTName": "Schneeoberflächenhärte",
+      "SnowSurfaceTName": "Härte der Schneeoberfläche",
       "SurfaceRougnessTName": "Oberflächenrauheit",
-      "SurfaceWaterContentTName": "Oberflächenfeuchtigkeit",
-      "Total": "total"
+      "SurfaceWaterContentTName": "Schneewassergehalt"
     },
     "WaterLevel": {
       "AppliesFor": "Gilt für",
       "Comment": "Kommentar",
       "Lake": "See",
       "MeasuredDischarge": "Gemessene Entladung",
-      "ObsName": "Wasserstand",
       "River": "Fluss",
       "WaterLevelDescribed": "Wasserstandsbeschreibung",
       "WaterLevelRefTName": "Referenz für die Wasserstandsmessung",
-      "WaterLevelValue": "Wert"
+      "WaterLevelValue": "Wassermesswert"
     },
     "WaterLevel2": {
       "Comment": "Kommentar",
       "MeasuredRelativeTo": "Messung relativ zu",
       "MeasurementReferenceTName": "Wasserzeichen auf/mit",
       "MeasurementTypeTName": "Messgerät",
-      "ObsName": "Wasserstand",
       "ObservationTimingTName": "Was ist zugelassen?",
       "WaterAstrayTName": "Geht Wasser verloren?",
       "WaterLevelStateTName": "Situation",
       "WaterMarking": "Wasserzeichen",
       "WaterMeasurement": "Wassermessung",
-      "WaterMeasurementValue": "Wassermesswert",
       "With": "mit"
     },
     "WeatherObservation": {
-      "AirTemperature": "Lufttemperatur",
-      "CloudCover": "Wolkenbedeckung",
       "Clouds": "Wolken",
       "Comment": "Kommentar",
-      "ObsName": "Wetterbeobachtung",
       "PrecipitationTID": "Niederschlagsart",
-      "Wind": "Windverhältnisse",
       "WindDirection": "von"
     }
   },
   "Of": "von",
   "Ok": "Ok",
   "Password": "Passwort",
+  "picture": "Bild",
   "PictureCarousel": {
     "Comment": "Kommentar",
     "Copyright": "Copyright",
     "Image": "Bild",
     "ObservedLocation": "Beobachtungsort",
-    "Of": "von"
+    "Of": "Von"
   },
   "PictureKey": "Bild",
   "PictureMode": "Bilder",
   "Reg": {
     "ObservedTime": "Beobachtet",
-    "ObserverNickName": "Nickname",
     "RegisteredTime": "Eingetragen",
     "UpdatedTime": "Aktualisiert"
   },
@@ -685,7 +605,7 @@
         "CompetenceFilter": "Kompetenz",
         "CompetenceLevelExplanation": "Kompetenzniveau Erklärung",
         "Label": "Beobachter",
-        "MyObservations": "My observations",
+        "MyObservations": "Meine Beobachtungen",
         "ObserverNickNamePlaceholder": "Suche nach Beobachter-Spitznamen",
         "SearchInCompetences": "Suche nach Benutzerkompetenz: ",
         "SearchNickName": "Namenssuche"
@@ -695,7 +615,7 @@
       },
       "Recent": {
         "Day": "Tage",
-        "FromDate": "von",
+        "FromDate": "Von",
         "Label": "Meine letzten Suchanfragen",
         "Last": "Letzten",
         "MyObservations": "Meine Beobachtungen",
@@ -704,14 +624,12 @@
         "Regions": "Regionen",
         "RegistrationTypes": "Beobachtungsarten",
         "Time": "Zeitraum",
-        "ToDate": "bis"
+        "ToDate": "Bis"
       },
       "Regions": {
-        "BRegionInfo": "* Prognosen werden nur für die Gefahrenstufen 4 und 5 abgegeben",
         "Label": "Prognoseregionen"
       },
       "TimePeriod": {
-        "ChooseDate": "Datum wählen",
         "Day": "Tag",
         "Days": "Tage",
         "FilterByDays": "Vom letzten anzeigen: ",
@@ -723,7 +641,7 @@
         "InvalidDateRange": "Ungültiger Datumsbereich",
         "InvalidInteger": "Ungültige Zahl",
         "Label": "Zeitraum",
-        "Last": "Zuletzt",
+        "Last": "Letzten",
         "NumberOfDays": {
           "Placeholder": "Anzahl der Tage"
         },
@@ -756,26 +674,23 @@
       "black": "Schwarz",
       "blue": "Blau"
     },
-    "LoadMoreRegistrationsText": "Beobachtungen werden nicht automatisch geladen?",
     "SearchButton": "Suche in Beobachtungen",
     "SearchFilters": "Suchfilter",
     "SortOrder": {
       "Observert tid": "Beobachtet",
-      "Registrert tid": "Eingetragen",
-      "Siste oppdatert tid": "Zuletzt aktualisiert"
+      "Registrert tid": "Erstellt",
+      "Siste oppdatert tid": "Letzte Aktualisierung"
     }
   },
   "SearchButtonName": "Suche",
   "SearchResultOfTotal": "von",
-  "Searching": "Suche, bitte warten",
   "ShowAllObservations": "Alle Beobachtungen anzeigen",
-  "ShowFilteredObservations": "zeige nur ausgewählte Beobachtungen",
   "ShowLess": "Weniger zeigen",
   "ShowMore": "Mehr zeigen",
-  "ShowSearchButtonName": "Suchleiste anzeigen",
   "SignIn": "Einloggen",
   "SignOut": "Ausloggen",
   "SingleRegistration": "Eintragung",
+  "snø": "Schnee",
   "SortByName": "Sortieren nach:",
   "TableModes": {
     "CompactKey": "Kompakt",
@@ -783,6 +698,7 @@
     "ShortKey": "Kurz"
   },
   "Time": "Zeitpunkt",
+  "to": "zu",
   "Unknown": "Unbekannt",
   "Url": {
     "Add": "Web-URL hinzufügen",
@@ -798,15 +714,6 @@
     "Regobs": "REGOBS",
     "User": "BENUTZER"
   },
-  "Yes": "Ja",
-  "from": "von",
-  "is": "Eis",
-  "jord": "Erdrutsch",
-  "metersOverSeaLevel": "m ü. A.",
-  "observation": " Beobachtungen",
-  "observations": "Beobachtung(en)",
-  "picture": "Bild",
-  "snø": "Schnee",
-  "to": "bis",
-  "vann": "Hochwasser"
+  "vann": "Hochwasser",
+  "Yes": "Ja"
 }
