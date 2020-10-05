@@ -1,5100 +1,1019 @@
 {
-    "ActivityInfluencedKD_0": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_100": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_111": {
-        "translation": "Skitour",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_112": {
-        "translation": "Skigebiet",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_113": {
-        "translation": "Skigebiet, abseits der Piste",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_114": {
-        "translation": "Langlauf",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_115": {
-        "translation": "Skilanglauf",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_116": {
-        "translation": "Klettern",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_117": {
-        "translation": "Zu Fuß",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_120": {
-        "translation": "Straße",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_130": {
-        "translation": "Schneemobil",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_140": {
-        "translation": "Eisenbahn",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_160": {
-        "translation": "Gebäude",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_190": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_200": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_211": {
-        "translation": "Personen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_220": {
-        "translation": "Straßen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_240": {
-        "translation": "Eisenbahnlinien",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_251": {
-        "translation": "Landwirtschaftliche Flächen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_260": {
-        "translation": "Gebäude",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_290": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_300": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_311": {
-        "translation": "Menschen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_320": {
-        "translation": "Straßen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_340": {
-        "translation": "Eisenbahnen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_351": {
-        "translation": "Landwirtschaftliche Flächen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_360": {
-        "translation": "Gebäude",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_390": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_400": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_411": {
-        "translation": "Menschen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_420": {
-        "translation": "Straßen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_440": {
-        "translation": "Eisenbahnen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_451": {
-        "translation": "Landwirtschaftliche Flächen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_460": {
-        "translation": "Gebäude",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_490": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_500": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_600": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_610": {
-        "translation": "Freizeitgestaltung",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_615": {
-        "translation": "Instrumentierung",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_620": {
-        "translation": "Straßen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_640": {
-        "translation": "Eisenbahnlinien",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_660": {
-        "translation": "Gebäude",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_690": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_700": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_710": {
-        "translation": "Zu Fuß",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_711": {
-        "translation": "Schlittschuhlaufen",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_712": {
-        "translation": "Cross country ski",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_713": {
-        "translation": "Kite skiing",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_720": {
-        "translation": "Snowmobile auf dem Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_721": {
-        "translation": "Auto auf dem Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_722": {
-        "translation": "ATV",
-        "notes": "All Terrain Vehicle",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_722_desc": {
-        "translation": "All Terrain Vehicle",
-        "notes": "ATV",
-        "limit": "1024"
-    },
-    "ActivityInfluencedKD_730": {
-        "translation": "Traktor auf dem Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_731": {
-        "translation": "Bagger oder Raupe auf dem Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_732": {
-        "translation": "Pistenraupe",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_772": {
-        "translation": "Eislauf",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_773": {
-        "translation": "Ausgebuchtetes Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_774": {
-        "translation": "Treibeis",
-        "notes": "",
-        "limit": "30"
-    },
-    "ActivityInfluencedKD_790": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "30"
-    },
-    "AnticipatedObservationTimeKD_0_desc": {
-        "translation": "Nicht spezifiziert",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_10_desc": {
-        "translation": "08:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_100_desc": {
-        "translation": "18:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_110_desc": {
-        "translation": "20:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_120_desc": {
-        "translation": "22:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_20_desc": {
-        "translation": "09:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_30_desc": {
-        "translation": "10:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_40_desc": {
-        "translation": "11:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_50_desc": {
-        "translation": "12:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_60_desc": {
-        "translation": "13:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_70_desc": {
-        "translation": "14:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_80_desc": {
-        "translation": "15:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AnticipatedObservationTimeKD_90_desc": {
-        "translation": "16:00",
-        "notes": "",
-        "limit": "1024"
-    },
-    "AreaUsageKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_10": {
-        "translation": "Erholungsgebiet",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_20": {
-        "translation": "Straße",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_30": {
-        "translation": "Weg für andere Fahrzeuge",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_40": {
-        "translation": "Eisenbahn",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_50": {
-        "translation": "Ablagerungsgebiet",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_90": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "50"
-    },
-    "AreaUsageKD_99": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "50"
-    },
-    "AvalancheDangerKD_0": {
-        "translation": "0 Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheDangerKD_1": {
-        "translation": "1 Gering",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheDangerKD_2": {
-        "translation": "2 Mässig",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheDangerKD_3": {
-        "translation": "3 Erheblich",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheDangerKD_4": {
-        "translation": "4 Gross",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheDangerKD_5": {
-        "translation": "5 Sehr gross",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheExtKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_10": {
-        "translation": "Trockene Lockerschneelawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_15": {
-        "translation": "Nasse Lockerschneelawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_20": {
-        "translation": "Trockene Schneebrettlawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_25": {
-        "translation": "Nasse Schneebrettlawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_27": {
-        "translation": "Gleitschneelawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_30": {
-        "translation": "Nassschneelawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheExtKD_40": {
-        "translation": "Wächte",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_11": {
-        "translation": "Nasse Lockerschneelawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_12": {
-        "translation": "Trockene Lockerschneelawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_21": {
-        "translation": "Nasse Schneebrettlawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_22": {
-        "translation": "Trockene Schneebrettlawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_27": {
-        "translation": "Gleitschneelawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_30": {
-        "translation": "Nassschneelawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_40": {
-        "translation": "Wächtenbruch",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheKD_99": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_10": {
-        "translation": "Natürliche Auslösung",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_22": {
-        "translation": "Fernauslösung",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_23": {
-        "translation": "Künstliche Auslösung: Testhang",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_25": {
-        "translation": "Sprengauslösung",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_26": {
-        "translation": "Auslösung durch Person(en)",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_27": {
-        "translation": "Ausgelöst durch ein Snowmobile",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTriggerKD_99": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalancheTypeKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheTypeKD_10": {
-        "translation": "Schneebrettlawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalancheTypeKD_20": {
-        "translation": "Lockerschneelawine",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalCauseAttributFlags_1": {
-        "translation": "Die Schwachschicht bricht leicht und glatt (gute Bruchausbreitung).",
-        "notes": "",
-        "limit": "1073741823"
-    },
-    "AvalCauseAttributFlags_2": {
-        "translation": "Die kollabierende Schwachschicht ist dünn < 3 cm.",
-        "notes": "",
-        "limit": "1073741823"
-    },
-    "AvalCauseAttributFlags_4": {
-        "translation": "Das darüberliegende Schneebrett ist weich.",
-        "notes": "",
-        "limit": "1073741823"
-    },
-    "AvalCauseAttributFlags_8": {
-        "translation": "Erkennbare, große Kristalle in der Schwachschicht.",
-        "notes": "",
-        "limit": "1073741823"
-    },
-    "AvalCauseDepthKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalCauseDepthKD_1": {
-        "translation": "Innerhalb eines halben Meters",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalCauseDepthKD_2": {
-        "translation": "Innerhalb eines Meters",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalCauseDepthKD_3": {
-        "translation": "Über ein Meter",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalCauseKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "Not given",
-        "limit": "100"
-    },
-    "AvalCauseKD_0_desc": {
-        "translation": "Nicht angegeben",
-        "notes": "Not given",
-        "limit": "1024"
-    },
-    "AvalCauseKD_10": {
-        "translation": "Schwachschicht aus Neuschnee",
-        "notes": "Weak layer of new snow",
-        "limit": "100"
-    },
-    "AvalCauseKD_10_desc": {
-        "translation": "Schwachschicht aus Neuschnee",
-        "notes": "Buried weak layer of new snow",
-        "limit": "1024"
-    },
-    "AvalCauseKD_11": {
-        "translation": "Schwachschicht aus eingeschneitem Oberflächenreif",
-        "notes": "Weak layer of surface hoar",
-        "limit": "100"
-    },
-    "AvalCauseKD_11_desc": {
-        "translation": "Schwachschicht aus Oberflächenreif",
-        "notes": "Buried weak layer of surface hoar",
-        "limit": "1024"
-    },
-    "AvalCauseKD_13": {
-        "translation": "Oberflächennahe aufbauend umgewandelte Schwachschicht",
-        "notes": "Weak layer of faceted snow",
-        "limit": "100"
-    },
-    "AvalCauseKD_13_desc": {
-        "translation": "Aufbauend umgewandelte Schwachschicht",
-        "notes": "Buried weak layer of faceted snow near surface",
-        "limit": "1024"
-    },
-    "AvalCauseKD_14": {
-        "translation": "Schlechte Bindung zur Kruste",
-        "notes": "Poor bonding to crust",
-        "limit": "100"
-    },
-    "AvalCauseKD_14_desc": {
-        "translation": "Schlechte Bindung zur Kruste",
-        "notes": "Poor bonding between crust and overlying snow",
-        "limit": "1024"
-    },
-    "AvalCauseKD_15": {
-        "translation": "Schlechte Bindung innerhalb des Triebschnees",
-        "notes": "Poor bonding within windslab",
-        "limit": "100"
-    },
-    "AvalCauseKD_15_desc": {
-        "translation": "Schlechte Bindung innerhalb des Windharsches",
-        "notes": "Poor bonding between layers in wind deposited snow",
-        "limit": "1024"
-    },
-    "AvalCauseKD_16": {
-        "translation": "Kantige Kristalle in Bodennähe",
-        "notes": "Faceted snow near the ground",
-        "limit": "100"
-    },
-    "AvalCauseKD_16_desc": {
-        "translation": "Aufbauend umgewandelte Kristalle in Bodennähe",
-        "notes": "Buried weak layer of faceted snow near the ground",
-        "limit": "1024"
-    },
-    "AvalCauseKD_18": {
-        "translation": "Kantige Kristalle über einer Kruste",
-        "notes": "Faceted snow above a crust",
-        "limit": "100"
-    },
-    "AvalCauseKD_18_desc": {
-        "translation": "Aufbauend umgewandelte Kristalle über einer Kruste",
-        "notes": "Buried weak layer of faceted snow above a crust",
-        "limit": "1024"
-    },
-    "AvalCauseKD_19": {
-        "translation": "Kantige Kristalle unter einer Kruste",
-        "notes": "Faceted snow beneath a crust",
-        "limit": "100"
-    },
-    "AvalCauseKD_19_desc": {
-        "translation": "Aufbauend umgewandelte Kristalle unter einer Kruste",
-        "notes": "Buried weak layer of faceted snow beneath a crust",
-        "limit": "1024"
-    },
-    "AvalCauseKD_20": {
-        "translation": "Schmelzen in Bodennähe",
-        "notes": "Melting near the ground",
-        "limit": "100"
-    },
-    "AvalCauseKD_20_desc": {
-        "translation": "Schmelzen in Bodennähe",
-        "notes": "Wet snow/melting near the ground",
-        "limit": "1024"
-    },
-    "AvalCauseKD_22": {
-        "translation": "Wasseransammlung über Schneeschichten",
-        "notes": "Water pooling above snow layers",
-        "limit": "100"
-    },
-    "AvalCauseKD_22_desc": {
-        "translation": "Wasseransammlung über Schneeschichten",
-        "notes": "Water pooling in/above snow layers",
-        "limit": "1024"
-    },
-    "AvalCauseKD_24": {
-        "translation": "Lockerschnee",
-        "notes": "Loose snow",
-        "limit": "100"
-    },
-    "AvalCauseKD_24_desc": {
-        "translation": "Lockerschnee",
-        "notes": "Loose snow",
-        "limit": "1024"
-    },
-    "AvalProbabilityKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalProbabilityKD_2": {
-        "translation": "Unwahrscheinlich",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalProbabilityKD_3": {
-        "translation": "Möglich",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalProbabilityKD_5": {
-        "translation": "Wahrscheinlich",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalProbabilityKD_7": {
-        "translation": "Sehr wahrscheinlich",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalPropagationKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalPropagationKD_1": {
-        "translation": "Einzelne Steilhänge",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalPropagationKD_2": {
-        "translation": "Bestimmte Steilhänge",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalPropagationKD_3": {
-        "translation": "Viele Steilhänge",
-        "notes": "",
-        "limit": "100"
-    },
-    "AvalReleaseHeightKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_1": {
-        "translation": "Im Neuschnee",
-        "notes": "Avalanches will release in the new snow.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_1_desc": {
-        "translation": "Lawinen lösen im Neuschnee aus.",
-        "notes": "In the new snow",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_2": {
-        "translation": "Zwischen Alt- und Neuschnee",
-        "notes": "Avalanches will release between old and new snow.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_2_desc": {
-        "translation": "Lawinen lösen zwischen Alt- und Neuschnee aus.",
-        "notes": "Between old and new snow",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_3": {
-        "translation": "Am Boden",
-        "notes": "Avalanches will release at the ground.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_3_desc": {
-        "translation": "Lawinen lösen am Boden aus.",
-        "notes": "At the ground",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_4": {
-        "translation": "Im Altschnee",
-        "notes": "Avalanches will release in the old snow.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_4_desc": {
-        "translation": "Lawinen lösen im Altschnee aus.",
-        "notes": "In the old snow",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_6": {
-        "translation": "Die Schneedecke ist feucht",
-        "notes": "The whole snow cover is moist and unstable.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_6_desc": {
-        "translation": "Die gesamte Schneedecke ist feucht und instabil.",
-        "notes": "The snow cover is moist",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_7": {
-        "translation": "Mit Wasser gesättigt",
-        "notes": "The whole snow cover is over saturated with water and unstable.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_7_desc": {
-        "translation": "Die gesamte Schneedecke ist mit Wasser gesättigt und instabil.",
-        "notes": "Saturated with water",
-        "limit": "1024"
-    },
-    "AvalReleaseHeightKD_8": {
-        "translation": "Nur Altschnee",
-        "notes": "Avalanches will release in the old snow.",
-        "limit": "30"
-    },
-    "AvalReleaseHeightKD_8_desc": {
-        "translation": "Lawinen lösen im Altschnee aus.",
-        "notes": "Only old snow",
-        "limit": "1024"
-    },
-    "AvalTriggerSimpleKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalTriggerSimpleKD_22": {
-        "translation": "Spontanauszulösungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalTriggerSimpleKD_30": {
-        "translation": "Sehr schwer auszulösen",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalTriggerSimpleKD_40": {
-        "translation": "Schwer auszulösen",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalTriggerSimpleKD_50": {
-        "translation": "Leicht auszulösen",
-        "notes": "",
-        "limit": "30"
-    },
-    "AvalTriggerSimpleKD_60": {
-        "translation": "Sehr leicht auszulösen",
-        "notes": "",
-        "limit": "30"
-    },
-    "CloudCoverKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "100"
-    },
-    "CloudCoverKD_10": {
-        "translation": "Wolkenlos",
-        "notes": "",
-        "limit": "100"
-    },
-    "CloudCoverKD_20": {
-        "translation": "Teilweise bewölkt",
-        "notes": "",
-        "limit": "100"
-    },
-    "CloudCoverKD_30": {
-        "translation": "Bewölkt",
-        "notes": "",
-        "limit": "100"
-    },
-    "CompetenceLevelKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown competance.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_0_desc": {
-        "translation": "Unbekannte Kompetenz.",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_100": {
-        "translation": "-",
-        "notes": "Unknown for snow.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_100_desc": {
-        "translation": "Unbekannt für Schnee.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_105": {
-        "translation": "A",
-        "notes": "Automatic service",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_105_desc": {
-        "translation": "Automatischer Service",
-        "notes": "A",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_110": {
-        "translation": "*",
-        "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_110_desc": {
-        "translation": "Der Beobachter verfügt über grundlegende Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter ist nicht darin geschult, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_115": {
-        "translation": "**",
-        "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_115_desc": {
-        "translation": "Erfahrener Beobachter, aber nicht geschult, wie regObs und Varsom die Lawinengefahr kommunizieren.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_120": {
-        "translation": "***",
-        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_120_desc": {
-        "translation": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen Grundkurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_130": {
-        "translation": "****",
-        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_130_desc": {
-        "translation": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen erweiterten Kurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_150": {
-        "translation": "*****",
-        "notes": "Observer is an avalanche forecaster.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_150_desc": {
-        "translation": "Beobachter ist Lawinenprognostiker.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_200": {
-        "translation": "-",
-        "notes": "Unknown competance.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_200_desc": {
-        "translation": "Unbekannte Kompetenz.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_210": {
-        "translation": "*",
-        "notes": "Observer has submitted relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_210_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen übermittelt.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_220": {
-        "translation": "**",
-        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_220_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_230": {
-        "translation": "***",
-        "notes": "Professional with several relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_230_desc": {
-        "translation": "Fachmann mit mehreren relevanten Beobachtungen.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_240": {
-        "translation": "****",
-        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_240_desc": {
-        "translation": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_250": {
-        "translation": "*****",
-        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_250_desc": {
-        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_300": {
-        "translation": "-",
-        "notes": "Unknown competance.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_300_desc": {
-        "translation": "Unbekannte Kompetenz.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_310": {
-        "translation": "*",
-        "notes": "Observer has submitted relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_310_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen übermittelt.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_320": {
-        "translation": "**",
-        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_320_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_330": {
-        "translation": "***",
-        "notes": "Professional with several relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_330_desc": {
-        "translation": "Fachmann mit mehreren relevanten Beobachtungen.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_340": {
-        "translation": "****",
-        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_340_desc": {
-        "translation": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_350": {
-        "translation": "*****",
-        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_350_desc": {
-        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_400": {
-        "translation": "-",
-        "notes": "Unknown competance.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_400_desc": {
-        "translation": "Unbekannte Kompetenz.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_410": {
-        "translation": "*",
-        "notes": "Observer has submitted relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_410_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen übermittelt.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_420": {
-        "translation": "**",
-        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_420_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_430": {
-        "translation": "***",
-        "notes": "Professional with several relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_430_desc": {
-        "translation": "Fachmann mit mehreren relevanten Beobachtungen.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_440": {
-        "translation": "****",
-        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_440_desc": {
-        "translation": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_450": {
-        "translation": "*****",
-        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_450_desc": {
-        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_600": {
-        "translation": "-",
-        "notes": "Unknown competance.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_600_desc": {
-        "translation": "Unbekannte Kompetenz.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_610": {
-        "translation": "*",
-        "notes": "Observer has submitted relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_610_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen übermittelt.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_620": {
-        "translation": "**",
-        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_620_desc": {
-        "translation": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_630": {
-        "translation": "***",
-        "notes": "Professional with several relevant observations.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_630_desc": {
-        "translation": "Fachmann mit mehreren relevanten Beobachtungen.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_640": {
-        "translation": "****",
-        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_640_desc": {
-        "translation": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_650": {
-        "translation": "*****",
-        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_650_desc": {
-        "translation": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_700": {
-        "translation": "-",
-        "notes": "Unkown for ice.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_700_desc": {
-        "translation": "Unbekannt für Eis.",
-        "notes": "-",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_710": {
-        "translation": "*",
-        "notes": "Beginner.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_710_desc": {
-        "translation": "Anfänger.",
-        "notes": "*",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_720": {
-        "translation": "**",
-        "notes": "Experienced observer.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_720_desc": {
-        "translation": "Erfahrener Beobachter.",
-        "notes": "**",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_730": {
-        "translation": "***",
-        "notes": "Educated observer with field experience.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_730_desc": {
-        "translation": "Geschulter Beobachter mit Praxiserfahrung.",
-        "notes": "***",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_740": {
-        "translation": "****",
-        "notes": "Educated personel.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_740_desc": {
-        "translation": "Ausgebildete Person.",
-        "notes": "****",
-        "limit": "1024"
-    },
-    "CompetenceLevelKD_750": {
-        "translation": "*****",
-        "notes": "Educated personel in NVE or eqivalent.",
-        "limit": "30"
-    },
-    "CompetenceLevelKD_750_desc": {
-        "translation": "Ausgebildetes Person in NVE oder gleichwertig.",
-        "notes": "*****",
-        "limit": "1024"
-    },
-    "CompressionTestKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "CompressionTestKD_1": {
-        "translation": "CT ",
-        "notes": "Coloumn test",
-        "limit": "30"
-    },
-    "CompressionTestKD_1_desc": {
-        "translation": "Säulentest",
-        "notes": "CT",
-        "limit": "1024"
-    },
-    "CompressionTestKD_2": {
-        "translation": "ECT ",
-        "notes": "Extended coloumn test",
-        "limit": "30"
-    },
-    "CompressionTestKD_2_desc": {
-        "translation": "Erweiterter Säulentest",
-        "notes": "ECT",
-        "limit": "1024"
-    },
-    "ComprTestFractureKD_0": {
-        "translation": "Nicht spezifiziert",
-        "notes": "",
-        "limit": "30"
-    },
-    "ComprTestFractureKD_1": {
-        "translation": "Q1",
-        "notes": "",
-        "limit": "30"
-    },
-    "ComprTestFractureKD_2": {
-        "translation": "Q2",
-        "notes": "",
-        "limit": "30"
-    },
-    "ComprTestFractureKD_3": {
-        "translation": "Q3",
-        "notes": "",
-        "limit": "30"
-    },
-    "CountryKD_0": {
-        "translation": "Not given",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_10": {
-        "translation": "Antarctica",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_100": {
-        "translation": "Bulgaria",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_104": {
-        "translation": "Burma",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_108": {
-        "translation": "Burundi",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_112": {
-        "translation": "Belarus",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_116": {
-        "translation": "Cambodia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_12": {
-        "translation": "Algeria",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_120": {
-        "translation": "Cameroon",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_124": {
-        "translation": "Canada",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_132": {
-        "translation": "Cape Verde",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_136": {
-        "translation": "Cayman Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_140": {
-        "translation": "Central African Republic",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_144": {
-        "translation": "Sri Lanka",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_148": {
-        "translation": "Chad",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_152": {
-        "translation": "Chile",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_156": {
-        "translation": "China",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_158": {
-        "translation": "Taiwan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_16": {
-        "translation": "American Samoa",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_162": {
-        "translation": "Christmas Island",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_166": {
-        "translation": "Cocos (Keeling) Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_170": {
-        "translation": "Colombia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_174": {
-        "translation": "Comoros",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_175": {
-        "translation": "Mayotte",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_178": {
-        "translation": "Congo",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_180": {
-        "translation": "Democratic Republic of the Congo",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_184": {
-        "translation": "Cook Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_188": {
-        "translation": "Costa Rica",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_191": {
-        "translation": "Croatia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_192": {
-        "translation": "Cuba",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_196": {
-        "translation": "Cyprus",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_20": {
-        "translation": "Andorra",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_203": {
-        "translation": "Czech Republic",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_204": {
-        "translation": "Benin",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_208": {
-        "translation": "Denmark",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_212": {
-        "translation": "Dominica",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_214": {
-        "translation": "Dominican Republic",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_218": {
-        "translation": "Ecuador",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_222": {
-        "translation": "El Salvador",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_226": {
-        "translation": "Equatorial Guinea",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_231": {
-        "translation": "Ethiopia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_232": {
-        "translation": "Eritrea",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_233": {
-        "translation": "Estonia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_234": {
-        "translation": "Faroe Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_238": {
-        "translation": "Falkland Islands (Malvinas)",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_239": {
-        "translation": "South Georgia South Sandwich Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_24": {
-        "translation": "Angola",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_242": {
-        "translation": "Fiji",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_246": {
-        "translation": "Finland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_248": {
-        "translation": "Åland Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_250": {
-        "translation": "France",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_254": {
-        "translation": "French Guiana",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_258": {
-        "translation": "French Polynesia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_260": {
-        "translation": "French Southern and Antarctic Lands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_262": {
-        "translation": "Djibouti",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_266": {
-        "translation": "Gabon",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_268": {
-        "translation": "Georgia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_270": {
-        "translation": "Gambia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_275": {
-        "translation": "Palestine",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_276": {
-        "translation": "Germany",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_28": {
-        "translation": "Antigua and Barbuda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_288": {
-        "translation": "Ghana",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_292": {
-        "translation": "Gibraltar",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_296": {
-        "translation": "Kiribati",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_300": {
-        "translation": "Greece",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_304": {
-        "translation": "Greenland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_308": {
-        "translation": "Grenada",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_31": {
-        "translation": "Azerbaijan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_312": {
-        "translation": "Guadeloupe",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_316": {
-        "translation": "Guam",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_32": {
-        "translation": "Argentina",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_320": {
-        "translation": "Guatemala",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_324": {
-        "translation": "Guinea",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_328": {
-        "translation": "Guyana",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_332": {
-        "translation": "Haiti",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_334": {
-        "translation": "Heard Island and McDonald Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_336": {
-        "translation": "Holy See (Vatican City)",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_340": {
-        "translation": "Honduras",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_344": {
-        "translation": "Hong Kong",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_348": {
-        "translation": "Hungary",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_352": {
-        "translation": "Iceland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_356": {
-        "translation": "India",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_36": {
-        "translation": "Australia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_360": {
-        "translation": "Indonesia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_364": {
-        "translation": "Iran (Islamic Republic of)",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_368": {
-        "translation": "Iraq",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_372": {
-        "translation": "Ireland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_376": {
-        "translation": "Israel",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_380": {
-        "translation": "Italy",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_384": {
-        "translation": "Cote d'Ivoire",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_388": {
-        "translation": "Jamaica",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_392": {
-        "translation": "Japan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_398": {
-        "translation": "Kazakhstan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_4": {
-        "translation": "Afghanistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_40": {
-        "translation": "Austria",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_400": {
-        "translation": "Jordan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_404": {
-        "translation": "Kenya",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_408": {
-        "translation": "Korea, Democratic People's Republic of",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_410": {
-        "translation": "Korea, Republic of",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_414": {
-        "translation": "Kuwait",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_417": {
-        "translation": "Kyrgyzstan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_418": {
-        "translation": "Lao People's Democratic Republic",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_422": {
-        "translation": "Lebanon",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_426": {
-        "translation": "Lesotho",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_428": {
-        "translation": "Latvia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_430": {
-        "translation": "Liberia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_434": {
-        "translation": "Libyan Arab Jamahiriya",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_438": {
-        "translation": "Liechtenstein",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_44": {
-        "translation": "Bahamas",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_440": {
-        "translation": "Lithuania",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_442": {
-        "translation": "Luxembourg",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_446": {
-        "translation": "Macau",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_450": {
-        "translation": "Madagascar",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_454": {
-        "translation": "Malawi",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_458": {
-        "translation": "Malaysia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_462": {
-        "translation": "Maldives",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_466": {
-        "translation": "Mali",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_470": {
-        "translation": "Malta",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_474": {
-        "translation": "Martinique",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_478": {
-        "translation": "Mauritania",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_48": {
-        "translation": "Bahrain",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_480": {
-        "translation": "Mauritius",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_484": {
-        "translation": "Mexico",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_492": {
-        "translation": "Monaco",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_496": {
-        "translation": "Mongolia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_498": {
-        "translation": "Republic of Moldova",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_499": {
-        "translation": "Montenegro",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_50": {
-        "translation": "Bangladesh",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_500": {
-        "translation": "Montserrat",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_504": {
-        "translation": "Morocco",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_508": {
-        "translation": "Mozambique",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_51": {
-        "translation": "Armenia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_512": {
-        "translation": "Oman",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_516": {
-        "translation": "Namibia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_52": {
-        "translation": "Barbados",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_520": {
-        "translation": "Nauru",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_524": {
-        "translation": "Nepal",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_528": {
-        "translation": "Netherlands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_530": {
-        "translation": "Netherlands Antilles",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_533": {
-        "translation": "Aruba",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_540": {
-        "translation": "New Caledonia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_548": {
-        "translation": "Vanuatu",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_554": {
-        "translation": "New Zealand",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_558": {
-        "translation": "Nicaragua",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_56": {
-        "translation": "Belgium",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_562": {
-        "translation": "Niger",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_566": {
-        "translation": "Nigeria",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_570": {
-        "translation": "Niue",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_574": {
-        "translation": "Norfolk Island",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_578": {
-        "translation": "Norway",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_580": {
-        "translation": "Northern Mariana Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_581": {
-        "translation": "United States Minor Outlying Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_583": {
-        "translation": "Micronesia, Federated States of",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_584": {
-        "translation": "Marshall Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_585": {
-        "translation": "Palau",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_586": {
-        "translation": "Pakistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_591": {
-        "translation": "Panama",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_598": {
-        "translation": "Papua New Guinea",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_60": {
-        "translation": "Bermuda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_600": {
-        "translation": "Paraguay",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_604": {
-        "translation": "Peru",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_608": {
-        "translation": "Philippines",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_612": {
-        "translation": "Pitcairn Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_616": {
-        "translation": "Poland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_620": {
-        "translation": "Portugal",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_624": {
-        "translation": "Guinea-Bissau",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_626": {
-        "translation": "Timor-Leste",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_630": {
-        "translation": "Puerto Rico",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_634": {
-        "translation": "Qatar",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_638": {
-        "translation": "Reunion",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_64": {
-        "translation": "Bhutan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_642": {
-        "translation": "Romania",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_643": {
-        "translation": "Russia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_646": {
-        "translation": "Rwanda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_652": {
-        "translation": "Saint Barthelemy",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_654": {
-        "translation": "Saint Helena",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_659": {
-        "translation": "Saint Kitts and Nevis",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_660": {
-        "translation": "Anguilla",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_662": {
-        "translation": "Saint Lucia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_663": {
-        "translation": "Saint Martin",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_666": {
-        "translation": "Saint Pierre and Miquelon",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_670": {
-        "translation": "Saint Vincent and the Grenadines",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_674": {
-        "translation": "San Marino",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_678": {
-        "translation": "Sao Tome and Principe",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_68": {
-        "translation": "Bolivia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_682": {
-        "translation": "Saudi Arabia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_686": {
-        "translation": "Senegal",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_688": {
-        "translation": "Serbia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_690": {
-        "translation": "Seychelles",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_694": {
-        "translation": "Sierra Leone",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_70": {
-        "translation": "Bosnia and Herzegovina",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_702": {
-        "translation": "Singapore",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_703": {
-        "translation": "Slovakia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_704": {
-        "translation": "Viet Nam",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_705": {
-        "translation": "Slovenia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_706": {
-        "translation": "Somalia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_710": {
-        "translation": "South Africa",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_716": {
-        "translation": "Zimbabwe",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_72": {
-        "translation": "Botswana",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_724": {
-        "translation": "Spain",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_732": {
-        "translation": "Western Sahara",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_736": {
-        "translation": "Sudan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_74": {
-        "translation": "Bouvet Island",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_740": {
-        "translation": "Suriname",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_744": {
-        "translation": "Svalbard",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_748": {
-        "translation": "Swaziland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_752": {
-        "translation": "Sweden",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_756": {
-        "translation": "Switzerland",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_76": {
-        "translation": "Brazil",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_760": {
-        "translation": "Syrian Arab Republic",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_762": {
-        "translation": "Tajikistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_764": {
-        "translation": "Thailand",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_768": {
-        "translation": "Togo",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_772": {
-        "translation": "Tokelau",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_776": {
-        "translation": "Tonga",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_780": {
-        "translation": "Trinidad and Tobago",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_784": {
-        "translation": "United Arab Emirates",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_788": {
-        "translation": "Tunisia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_792": {
-        "translation": "Turkey",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_795": {
-        "translation": "Turkmenistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_796": {
-        "translation": "Turks and Caicos Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_798": {
-        "translation": "Tuvalu",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_8": {
-        "translation": "Albania",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_800": {
-        "translation": "Uganda",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_804": {
-        "translation": "Ukraine",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_807": {
-        "translation": "The former Yugoslav Republic of Macedonia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_818": {
-        "translation": "Egypt",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_826": {
-        "translation": "United Kingdom",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_831": {
-        "translation": "Guernsey",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_832": {
-        "translation": "Jersey",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_833": {
-        "translation": "Isle of Man",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_834": {
-        "translation": "United Republic of Tanzania",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_84": {
-        "translation": "Belize",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_840": {
-        "translation": "United States",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_850": {
-        "translation": "United States Virgin Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_854": {
-        "translation": "Burkina Faso",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_858": {
-        "translation": "Uruguay",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_86": {
-        "translation": "British Indian Ocean Territory",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_860": {
-        "translation": "Uzbekistan",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_862": {
-        "translation": "Venezuela",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_876": {
-        "translation": "Wallis and Futuna Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_882": {
-        "translation": "Samoa",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_887": {
-        "translation": "Yemen",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_894": {
-        "translation": "Zambia",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_90": {
-        "translation": "Solomon Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_92": {
-        "translation": "British Virgin Islands",
-        "notes": "",
-        "limit": "100"
-    },
-    "CountryKD_96": {
-        "translation": "Brunei Darussalam",
-        "notes": "",
-        "limit": "100"
-    },
-    "CriticalLayerKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "CriticalLayerKD_11": {
-        "translation": "Oberer Teil",
-        "notes": "",
-        "limit": "30"
-    },
-    "CriticalLayerKD_12": {
-        "translation": "Unterer Teil",
-        "notes": "",
-        "limit": "30"
-    },
-    "CriticalLayerKD_13": {
-        "translation": "Ganze Schicht",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_0": {
-        "translation": "Nicht spezifiziert",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_10": {
-        "translation": "Hat nichts beeinflusst",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_13": {
-        "translation": "Eingeleitete Suche und Rettung",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_15": {
-        "translation": "Der Verkehr stoppte",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_20": {
-        "translation": "Nur Materialschäden",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_25": {
-        "translation": "Evakuierung",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_27": {
-        "translation": "Nicht verschüttet,rausgefahren",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_28": {
-        "translation": "Person verschüttet, unverletzt",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_30": {
-        "translation": "Personen verletzt",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_40": {
-        "translation": "Personen getötet",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageExtentKD_99": {
-        "translation": "Ander",
-        "notes": "",
-        "limit": "30"
-    },
-    "DamageTypeKD_0": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_1": {
-        "translation": "Gebäude und Vermögenswerte",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_2": {
-        "translation": "Infrastruktur",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_3": {
-        "translation": "Kulturland",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_4": {
-        "translation": "Abgelegenes Land",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_5": {
-        "translation": "Person / Leute",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_6": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DamageTypeKD_7": {
-        "translation": "Keine Schäden festgestellt",
-        "notes": "",
-        "limit": "1024"
-    },
-    "DangerSignKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_1": {
-        "translation": "Keine Gefahrenzeichen erkannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_2": {
-        "translation": "Aktuelle Lawinen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_200": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_201": {
-        "translation": "Keine Gefahrenzeichen gesehen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_202": {
-        "translation": "Starker Niederschlag",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_203": {
-        "translation": "Intensive Schneeschmelze",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_204": {
-        "translation": "Oberflächenabfluss",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_205": {
-        "translation": "Unzureichende Drainage",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_206": {
-        "translation": "Hoher Durchfluss in Flüssen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_207": {
-        "translation": "Braun gefärbte Flüssen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_208": {
-        "translation": "Risse/Kriechen im Gelände",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_209": {
-        "translation": "Erdrutsch beobachtet",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_212": {
-        "translation": "Schneedecke mit viel Wasser",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_214": {
-        "translation": "Bäche finden neue Wege",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_222": {
-        "translation": "Bewegung am Erdrutschrand",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_223": {
-        "translation": "Lehnende Bäume",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_230": {
-        "translation": "Erosion entlang von Flüssen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_299": {
-        "translation": "Sonstige Gefahrenzeichen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_3": {
-        "translation": "Wummgeräusch",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_4": {
-        "translation": "Aktuelle Risse",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_5": {
-        "translation": "Starker Schneefall",
-        "notes": "Brukes i elrapp",
-        "limit": "30"
-    },
-    "DangerSignKD_5_desc": {
-        "translation": "Brukes i elrapp",
-        "notes": "Large snowfall",
-        "limit": "1024",
-        "context": "elrapp is a norwegian app for the public road administration that has an integration against regobs."
-    },
-    "DangerSignKD_600": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_601": {
-        "translation": "Keine Gefahrenzeichen erkannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_611": {
-        "translation": "Wegen Eis blockierte Drainage",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_612": {
-        "translation": "Reisig blockierte Drainage",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_621": {
-        "translation": "Mäßig erhöhter Wasserstand",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_622": {
-        "translation": "Plötzlich erhöhter Wasserstand",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_623": {
-        "translation": "Überschwemmung",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_699": {
-        "translation": "Weitere Kommentare",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_7": {
-        "translation": "Schneller Temperaturanstieg",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_700": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_701": {
-        "translation": "Kein Gefahrenzeichen gesehen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_705": {
-        "translation": "Dünne Eisdecke",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_711": {
-        "translation": "Eis hat sich vom Ufer gelöst",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_712": {
-        "translation": "Zulauf eisfrei",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_713": {
-        "translation": "Abfluss eisfrei",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_714": {
-        "translation": "Große Risse oder offene Rinnen",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_720": {
-        "translation": "Stark überflutetes Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_730": {
-        "translation": "Erhöhter Durchfluss",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_799": {
-        "translation": "Andere (weiterer Kommentar)",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_8": {
-        "translation": "Viel Wasser im Schnee",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_9": {
-        "translation": "Aktuelle Schneeverwehung",
-        "notes": "",
-        "limit": "30"
-    },
-    "DangerSignKD_99": {
-        "translation": "Andere Gefahren (spezifiziere)",
-        "notes": "",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_0": {
-        "translation": "Not given",
-        "notes": "",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_1": {
-        "translation": "1 - Klein",
-        "notes": "Minimal danger of burying (danger of falling)",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_1_desc": {
-        "translation": "Minimale Verschüttungsgefahr (Absturzgefahr)",
-        "notes": "1 - Small",
-        "limit": "1024"
-    },
-    "DestructiveSizeKD_2": {
-        "translation": "2 - Mittel",
-        "notes": "Could bury, injure or kill a person",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_2_desc": {
-        "translation": "Kann Personen verschütten, verletzen oder töten",
-        "notes": "2 - Medium",
-        "limit": "1024"
-    },
-    "DestructiveSizeKD_3": {
-        "translation": "3 - Groß",
-        "notes": "Could bury and destroy a car, damage a truck; destroy a small building or break a few trees",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_3_desc": {
-        "translation": "Kann PKWs verschütten und zerstören, schwere LKWs beschädigen; kann kleine Gebäude zerstören und einzelne Bäume Brechen",
-        "notes": "3 - Large",
-        "limit": "1024"
-    },
-    "DestructiveSizeKD_4": {
-        "translation": "4 - Sehr groß",
-        "notes": "Could bury and destroy a railway car, large truck, several buildings or a piece of forest",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_4_desc": {
-        "translation": "Kann schwere LKWs und Schienenfahrzeuge verschütten und zerstören; kann größere Gebäude und kleine Waldflächen zerstören",
-        "notes": "4 - Very large",
-        "limit": "1024"
-    },
-    "DestructiveSizeKD_5": {
-        "translation": "5 - Extrem groß",
-        "notes": "Could gouge the landscape; disastrous damage potential",
-        "limit": "30"
-    },
-    "DestructiveSizeKD_5_desc": {
-        "translation": "Kann die Landschaft verwüsten; katastrophales Zerstörungspotential möglich",
-        "notes": "5 - Extremely large",
-        "limit": "1024"
-    },
-    "DestructiveSizeKD_9": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_1": {
-        "translation": "Keine Lawinenaktivität",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_2": {
-        "translation": "Eine (1)",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_3": {
-        "translation": "Wenige (2-5)",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_4": {
-        "translation": "Mehrere (6-10)",
-        "notes": "",
-        "limit": "30"
-    },
-    "EstimatedNumKD_5": {
-        "translation": "Zahlreiche (10 or more)",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedClimateKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedClimateKD_1": {
-        "translation": "Landeinwärts",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedClimateKD_2": {
-        "translation": "Küstenbereich",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedHeightComboKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedHeightComboKD_1": {
-        "translation": "Unten weiß",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedHeightComboKD_2": {
-        "translation": "Unten schwarz",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedHeightComboKD_3": {
-        "translation": "In der Mitte weiß",
-        "notes": "",
-        "limit": "30"
-    },
-    "ExposedHeightComboKD_4": {
-        "translation": "In der Mitte schwarz",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_0": {
-        "translation": "Nicht spezifiziert",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_1": {
-        "translation": " Warnung wurde nicht gegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_2": {
-        "translation": "Warnung zu niedrig",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_3": {
-        "translation": "Warnung richtig",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_4": {
-        "translation": "Warnung zu hoch",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastAccurateKD_9": {
-        "translation": "Keine Kenntnis über Warnung",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastCorrectKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastCorrectKD_1": {
-        "translation": "Prognose richtig",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastCorrectKD_2": {
-        "translation": "Prognose zu niedrig",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastCorrectKD_3": {
-        "translation": "Prognose zu hoch",
-        "notes": "",
-        "limit": "30"
-    },
-    "ForecastRegionTypeKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "100"
-    },
-    "ForecastRegionTypeKD_10": {
-        "translation": "A",
-        "notes": "A region",
-        "limit": "100"
-    },
-    "ForecastRegionTypeKD_10_desc": {
-        "translation": "A Region",
-        "notes": "A",
-        "limit": "1024"
-    },
-    "ForecastRegionTypeKD_20": {
-        "translation": "B",
-        "notes": "B region",
-        "limit": "100"
-    },
-    "ForecastRegionTypeKD_20_desc": {
-        "translation": "B Region",
-        "notes": "B",
-        "limit": "1024"
-    },
-    "ForecastRegionTypeKD_30": {
-        "translation": "C",
-        "notes": "County region",
-        "limit": "100"
-    },
-    "ForecastRegionTypeKD_30_desc": {
-        "translation": "Bezirk",
-        "notes": "C",
-        "limit": "1024"
-    },
-    "ForecastRegionTypeKD_90": {
-        "translation": "H",
-        "notes": "H region",
-        "limit": "100"
-    },
-    "ForecastRegionTypeKD_90_desc": {
-        "translation": "H Region",
-        "notes": "H",
-        "limit": "1024"
-    },
-    "GeoHazardKD_0": {
-        "translation": "Nicht spezifiziert",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_10": {
-        "translation": "Schnee",
-        "notes": "Avalanche",
-        "limit": "30"
-    },
-    "GeoHazardKD_10_desc": {
-        "translation": "Lawine",
-        "notes": "Snow",
-        "limit": "1024"
-    },
-    "GeoHazardKD_100": {
-        "translation": "Ereignis am Gletscher",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_110": {
-        "translation": "Gletscherlauf",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_20": {
-        "translation": "Erde",
-        "notes": "Earth slide",
-        "limit": "30"
-    },
-    "GeoHazardKD_20_desc": {
-        "translation": "Erdrutsch",
-        "notes": "Soil",
-        "limit": "1024"
-    },
-    "GeoHazardKD_200": {
-        "translation": "Trockenheit",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_30": {
-        "translation": "Nasse Erde",
-        "notes": "Flood slide",
-        "limit": "30"
-    },
-    "GeoHazardKD_30_desc": {
-        "translation": "Mure",
-        "notes": "Wet soil",
-        "limit": "1024"
-    },
-    "GeoHazardKD_33": {
-        "translation": "Sediment",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_36": {
-        "translation": "Matsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_40": {
-        "translation": "Fels",
-        "notes": "Rock fall",
-        "limit": "30"
-    },
-    "GeoHazardKD_40_desc": {
-        "translation": "Steinschlag",
-        "notes": "Rock",
-        "limit": "1024"
-    },
-    "GeoHazardKD_50": {
-        "translation": "Eisfall",
-        "notes": "",
-        "limit": "30"
-    },
-    "GeoHazardKD_60": {
-        "translation": "Wasser",
-        "notes": "Flooding",
-        "limit": "30"
-    },
-    "GeoHazardKD_60_desc": {
-        "translation": "Überschwemmung",
-        "notes": "Water",
-        "limit": "1024"
-    },
-    "GeoHazardKD_70": {
-        "translation": "Eis",
-        "notes": "Weak ice",
-        "limit": "30"
-    },
-    "GeoHazardKD_70_desc": {
-        "translation": "Schwaches Eis",
-        "notes": "Ice",
-        "limit": "1024"
-    },
-    "GeoHazardKD_999": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_0": {
-        "translation": " - ",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_1": {
-        "translation": "PP",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_10": {
-        "translation": "PPrm",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_11": {
-        "translation": "MM",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_12": {
-        "translation": "MMrp",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_13": {
-        "translation": "MMci",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_14": {
-        "translation": "DF",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_15": {
-        "translation": "DFdc",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_16": {
-        "translation": "DFbk",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_17": {
-        "translation": "RG",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_18": {
-        "translation": "RGsr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_19": {
-        "translation": "RGlr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_2": {
-        "translation": "PPco",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_20": {
-        "translation": "RGwp",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_21": {
-        "translation": "RGxf",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_22": {
-        "translation": "FC",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_23": {
-        "translation": "FCso",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_24": {
-        "translation": "FCsf",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_25": {
-        "translation": "FCxr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_26": {
-        "translation": "DH",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_27": {
-        "translation": "DHcp",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_28": {
-        "translation": "DHpr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_29": {
-        "translation": "DHch",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_3": {
-        "translation": "PPnd",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_30": {
-        "translation": "DHla",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_31": {
-        "translation": "DHxr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_32": {
-        "translation": "SH",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_33": {
-        "translation": "SHsu",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_34": {
-        "translation": "SHcv",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_35": {
-        "translation": "SHxr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_36": {
-        "translation": "MF",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_37": {
-        "translation": "MFcl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_38": {
-        "translation": "MFpc",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_39": {
-        "translation": "MFsl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_4": {
-        "translation": "PPpl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_40": {
-        "translation": "MFcr",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_41": {
-        "translation": "IF",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_42": {
-        "translation": "IFil",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_43": {
-        "translation": "IFic",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_44": {
-        "translation": "IFbi",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_45": {
-        "translation": "IFrc",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_46": {
-        "translation": "IFsc",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_5": {
-        "translation": "PPsd",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_6": {
-        "translation": "PPir",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_7": {
-        "translation": "PPgp",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_8": {
-        "translation": "PPhl",
-        "notes": "",
-        "limit": "30"
-    },
-    "GrainFormKD_9": {
-        "translation": "PPip",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_0": {
-        "translation": " - ",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_1": {
-        "translation": "F-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_10": {
-        "translation": "1F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_11": {
-        "translation": "1F+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_12": {
-        "translation": "1F-B",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_13": {
-        "translation": "B-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_14": {
-        "translation": "B",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_15": {
-        "translation": "B+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_16": {
-        "translation": "B-M",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_17": {
-        "translation": "M-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_18": {
-        "translation": "M",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_19": {
-        "translation": "M+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_2": {
-        "translation": "F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_20": {
-        "translation": "M-E",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_21": {
-        "translation": "E",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_3": {
-        "translation": "F+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_4": {
-        "translation": " F-4F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_5": {
-        "translation": "4F-",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_6": {
-        "translation": "4F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_7": {
-        "translation": "4F+",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_8": {
-        "translation": "4F-1F",
-        "notes": "",
-        "limit": "30"
-    },
-    "HardnessKD_9": {
-        "translation": "1F-",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCapacityKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCapacityKD_10": {
-        "translation": "Geringe Einbruchsgefahr",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCapacityKD_20": {
-        "translation": "Normale Einbruchsgefahr",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCapacityKD_30": {
-        "translation": "Große Einbruchsgefahr",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCapacityKD_40": {
-        "translation": "Eis trägt eine Person nicht",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_10": {
-        "translation": "Kein Eis nach diesem Datum",
-        "notes": "Used to tell that this season has a confirmed end.",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_10_desc": {
-        "translation": "Wird verwendet, um zu sagen, dass diese Saison ein bestätigtes Ende hat.",
-        "notes": "No ice after this date",
-        "limit": "1024"
-    },
-    "IceCoverAfterKD_4": {
-        "translation": "Allmählich komplette Eisdecke",
-        "notes": "Used at stations giving \"Ice build up\", but not \"Completely ice covered\"",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_4_desc": {
-        "translation": "Wird an Stationen verwendet, die \"Eisaufbau\" verwenden, aber nicht \"Vollständig eisbedeckt\"",
-        "notes": "Gradually complete ice cover",
-        "limit": "1024"
-    },
-    "IceCoverAfterKD_5": {
-        "translation": "Schrittweiser Eisbruch",
-        "notes": "Used at stations giving \"Ice break-up\", but not \"Free of ice\"",
-        "limit": "30"
-    },
-    "IceCoverAfterKD_5_desc": {
-        "translation": "Wird an Stationen verwendet, die 'Eisabbau' verwenden, aber nicht 'Eisfrei'",
-        "notes": "Gradually ice break-up",
-        "limit": "1024"
-    },
-    "IceCoverAfterKD_99": {
-        "translation": "Unbekannte Bedingungen danach",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_1": {
-        "translation": "Jetzt erstmal Eis vor Ort",
-        "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_1_desc": {
-        "translation": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt.",
-        "notes": "No ice, now first ice at site",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_10": {
-        "translation": "Beobachtung gilt bis gestern",
-        "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_10_desc": {
-        "translation": "Kontinuierliche Beobachtungen. Wir können davon ausgehen, dass die Eisbedeckung der vorherigen Beobachtung bis zum heutigen Tag gültig ist. Heute ist ein neuer Wert (oder die gleiche Eisdecke)",
-        "notes": "Last obs valid until yesterday",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_2": {
-        "translation": "Jetzt erstes Eis am Ufer",
-        "notes": "No ice along the shore before today.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_2_desc": {
-        "translation": "Kein Eis am Ufer gestern.",
-        "notes": "No ice, now first ice at shore",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_3": {
-        "translation": "Bis heute kein Eis",
-        "notes": "No ice this winter season, not even today.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_3_desc": {
-        "translation": "Kein Eis in dieser Wintersaison, auch heute nicht.",
-        "notes": "No ice so far, including today",
-        "limit": "1024"
-    },
-    "IceCoverBeforeKD_99": {
-        "translation": "Lücke - bis heute unbekannt",
-        "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
-        "limit": "30"
-    },
-    "IceCoverBeforeKD_99_desc": {
-        "translation": "Messungen unterbrochen. Die Eisbedeckung aus früheren Beobachtungen ist wahrscheinlich nicht bis gestern gültig.",
-        "notes": "Break - Unknown until today",
-        "limit": "1024"
-    },
-    "IceCoverKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_1": {
-        "translation": "Kein Eis am Messpunkt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_10": {
-        "translation": "Eis bricht entlang des Ufers",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_11": {
-        "translation": "Eisbildung entlang des Ufers",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_2": {
-        "translation": "Teilweise vereist vor Ort",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_20": {
-        "translation": "Kein Seeeis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_21": {
-        "translation": "See eisbedeckt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_3": {
-        "translation": "Eisbedeckt am Messpunkt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_40": {
-        "translation": "Flusseislauf",
-        "notes": "",
-        "limit": "30",
-        "context": "When large pieces of ice breaks up and follows the currents. This can create ice dams."
-    },
-    "IceCoverKD_41": {
-        "translation": "Treibendes Frazil-Eis am Fluss",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceCoverKD_99": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_1": {
-        "translation": "Glatteis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_11": {
-        "translation": "Glatteis zerfällt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_13": {
-        "translation": "Schneeeis zerfällt",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_14": {
-        "translation": "Säuleneis (Frühling)",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_3": {
-        "translation": "Schneeeis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_5": {
-        "translation": "Wasser / Matsch (mittelschwer)",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_7": {
-        "translation": "Wahrscheinlich Schnee-Glatteis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_9": {
-        "translation": "Frazil-Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceLayerKD_99": {
-        "translation": "Andere (spezifiziere)",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_10": {
-        "translation": "Eislauf / Eisstau",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_20": {
-        "translation": "Der Großteil ist Eis",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_30": {
-        "translation": "Eisdammanker",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_40": {
-        "translation": "Frazil-Eis am Zulaufgitter",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_50": {
-        "translation": "Frazil-Eisklotz im Eiskanal",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceProblemKD_99": {
-        "translation": "Andere (im Kommentar)",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_10": {
-        "translation": "Nicht begehbar",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_20": {
-        "translation": "Im Zweifel begehbar",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_30": {
-        "translation": "Normal begehbar",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_40": {
-        "translation": "Sehr gut begehbar",
-        "notes": "",
-        "limit": "30"
-    },
-    "IceSkateabilityKD_50": {
-        "translation": "Wie ein Traum",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_1": {
-        "translation": "Flachbodenrutsche",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_10": {
-        "translation": "Quicktonrutsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_11": {
-        "translation": "Kleine Steinlawine",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_2": {
-        "translation": "Erdrutsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_4": {
-        "translation": "Mure",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_6": {
-        "translation": "Steinschlag",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_7": {
-        "translation": "Matschmure",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideKD_8": {
-        "translation": "Sedimentrutsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideSizeKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideSizeKD_1": {
-        "translation": "< 100 m3",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideSizeKD_2": {
-        "translation": "100 - 10000 m3",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideSizeKD_3": {
-        "translation": "> 10000 m3",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideSizeKD_9": {
-        "translation": "Andere (Bitte spezifizieren)",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideTriggerKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideTriggerKD_1": {
-        "translation": "Natürlich ausgelöst",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideTriggerKD_2": {
-        "translation": "Ausgrabung in der Umgebung",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideTriggerKD_3": {
-        "translation": "Probleme in der Entwässerung",
-        "notes": "",
-        "limit": "30"
-    },
-    "LandSlideTriggerKD_9": {
-        "translation": "Andere (weiterer Kommentar)",
-        "notes": "",
-        "limit": "30"
-    },
-    "LayerOfConcernKD_0": {
-        "translation": " - ",
-        "notes": "",
-        "limit": "30"
-    },
-    "LayerOfConcernKD_1": {
-        "translation": "Oberer Teil",
-        "notes": "",
-        "limit": "30"
-    },
-    "LayerOfConcernKD_2": {
-        "translation": "Unterer Teil",
-        "notes": "",
-        "limit": "30"
-    },
-    "LayerOfConcernKD_3": {
-        "translation": "Ganze Schicht",
-        "notes": "",
-        "limit": "30"
-    },
-    "MarkingReferenceKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_1": {
-        "translation": "im Gelände",
-        "notes": "Terrain",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_1_desc": {
-        "translation": "Gelände",
-        "notes": "in terrain",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_2": {
-        "translation": "auf der Brücke",
-        "notes": "Bridge",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_2_desc": {
-        "translation": "Brücke",
-        "notes": "on bridge",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_3": {
-        "translation": "am Hochwasserschutz",
-        "notes": "Flood support",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_3_desc": {
-        "translation": "Hochwasserschutz",
-        "notes": "on flood support",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_4": {
-        "translation": "am Gebäude",
-        "notes": "Building",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_4_desc": {
-        "translation": "Gebäude",
-        "notes": "on building",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_5": {
-        "translation": "Stange",
-        "notes": "Pole",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_5_desc": {
-        "translation": "Stange",
-        "notes": "Pole",
-        "limit": "1024"
-    },
-    "MarkingReferenceKD_6": {
-        "translation": "Andere",
-        "notes": "other",
-        "limit": "100"
-    },
-    "MarkingReferenceKD_6_desc": {
-        "translation": "Andere",
-        "notes": "other",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "MarkingTypeKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_1": {
-        "translation": "Spray",
-        "notes": "",
-        "limit": "100"
-    },
-    "MarkingTypeKD_1_desc": {
-        "translation": "Spray",
-        "notes": "",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_2": {
-        "translation": "Marker",
-        "notes": "Marker",
-        "limit": "100"
-    },
-    "MarkingTypeKD_2_desc": {
-        "translation": "Marker",
-        "notes": "Marker",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_3": {
-        "translation": "Nagel",
-        "notes": "Nail",
-        "limit": "100"
-    },
-    "MarkingTypeKD_3_desc": {
-        "translation": "Nagel",
-        "notes": "Nail",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_4": {
-        "translation": "Schnitzerei",
-        "notes": "Carving",
-        "limit": "100"
-    },
-    "MarkingTypeKD_4_desc": {
-        "translation": "Schnitzerei",
-        "notes": "Carving",
-        "limit": "1024"
-    },
-    "MarkingTypeKD_5": {
-        "translation": "Andere",
-        "notes": "Other",
-        "limit": "100"
-    },
-    "MarkingTypeKD_5_desc": {
-        "translation": "Andere",
-        "notes": "Other",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_1": {
-        "translation": "Grund",
-        "notes": "Ground",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_1_desc": {
-        "translation": "Grund",
-        "notes": "Ground",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_2": {
-        "translation": "Hochwasserdamm",
-        "notes": "Flood embankment",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_2_desc": {
-        "translation": "Hochwasserdamm",
-        "notes": "Flood embankment",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_3": {
-        "translation": "Boden",
-        "notes": "Floor",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_3_desc": {
-        "translation": "Boden",
-        "notes": "Floor",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_4": {
-        "translation": "Brücke",
-        "notes": "Bridge",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_4_desc": {
-        "translation": "Brücke",
-        "notes": "Bridge",
-        "limit": "1024"
-    },
-    "MeasurementReferenceKD_5": {
-        "translation": "Andere",
-        "notes": "Other",
-        "limit": "100"
-    },
-    "MeasurementReferenceKD_5_desc": {
-        "translation": "Andere",
-        "notes": "Other",
-        "limit": "1024"
-    },
-    "MeasurementTypeKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "MeasurementTypeKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "MeasurementTypeKD_1": {
-        "translation": "Bezogen auf die Kennzeichnung",
-        "notes": "Relative to marking",
-        "limit": "100"
-    },
-    "MeasurementTypeKD_1_desc": {
-        "translation": "Bezogen auf die Kennzeichnung",
-        "notes": "Relative to marking",
-        "limit": "1024"
-    },
-    "MeasurementTypeKD_2": {
-        "translation": "Maßstab",
-        "notes": "measuring stick",
-        "limit": "100"
-    },
-    "MeasurementTypeKD_2_desc": {
-        "translation": "Meßstab",
-        "notes": "Measuring stick",
-        "limit": "1024"
-    },
-    "MeasurementTypeKD_3": {
-        "translation": "Messgerät",
-        "notes": "measuring tool",
-        "limit": "100"
-    },
-    "MeasurementTypeKD_3_desc": {
-        "translation": "Messgerät",
-        "notes": "Measuring tool",
-        "limit": "1024"
-    },
-    "ObservationTimingKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "ObservationTimingKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "ObservationTimingKD_1": {
-        "translation": "Spur von früherem Wasserstand",
-        "notes": "Earlier water trace",
-        "limit": "100"
-    },
-    "ObservationTimingKD_1_desc": {
-        "translation": "Spur von früherem Wasserstand",
-        "notes": "Trace of earlier water level",
-        "limit": "1024"
-    },
-    "ObservationTimingKD_2": {
-        "translation": "Aktueller Wasserstand",
-        "notes": "Current water level",
-        "limit": "100"
-    },
-    "ObservationTimingKD_2_desc": {
-        "translation": "Aktueller Wasserstand",
-        "notes": "Current water level",
-        "limit": "1024"
-    },
-    "PrecipitationKD_0": {
-        "translation": "Nicht beobachtet",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_1": {
-        "translation": "Kein Niederschlag",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_2": {
-        "translation": "Niesel",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_3": {
-        "translation": "Regen",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_4": {
-        "translation": "Schneeregen",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_5": {
-        "translation": "Schnee",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_6": {
-        "translation": "Hagel",
-        "notes": "",
-        "limit": "30"
-    },
-    "PrecipitationKD_8": {
-        "translation": "Gefrierender Regen",
-        "notes": "",
-        "limit": "30"
-    },
-    "PropagationKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_11": {
-        "translation": "CTV",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_12": {
-        "translation": "CTE",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_13": {
-        "translation": "CTM",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_14": {
-        "translation": "CTH",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_15": {
-        "translation": "CTN",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_21": {
-        "translation": "ECTPV",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_22": {
-        "translation": "ECTP",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_23": {
-        "translation": "ECTN",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_24": {
-        "translation": "ECTX",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "PropagationKD_5": {
-        "translation": "KBT",
-        "notes": "",
-        "limit": "30",
-        "context": "One of the snow stability tests one can choose to submit."
-    },
-    "RegistrationKD_10": {
-        "translation": "Anmerkungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_11": {
-        "translation": "Ereignis",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_13": {
-        "translation": "Gefahrenzeichen",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_14": {
-        "translation": "Schaden",
-        "notes": "Gjelder alle geohazard. Brukes kun av vann foreløpig.",
-        "limit": "30"
-    },
-    "RegistrationKD_14_desc": {
-        "translation": "Gilt für alle Georisiken. Wird vorerst nur von Wasser verwendet.",
-        "notes": "Damages",
-        "limit": "1024"
-    },
-    "RegistrationKD_21": {
-        "translation": "Wetter",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_22": {
-        "translation": "Schneedecke",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_25": {
-        "translation": "Test",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_26": {
-        "translation": "Lawinenbeobachtung",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_31": {
-        "translation": "Beurteilung der Lawinengefahr",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_32": {
-        "translation": "Lawinenprobleme",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_33": {
-        "translation": "Lawinenaktivität",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_36": {
-        "translation": "Schneeprofil",
-        "notes": "SnowProfile top-node",
-        "limit": "30"
-    },
-    "RegistrationKD_50": {
-        "translation": "Eisdicke",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_51": {
-        "translation": "Eisdecke",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_62": {
-        "translation": "Wasserpegel",
-        "notes": "new waterleve observajon for flom database project.",
-        "limit": "30"
-    },
-    "RegistrationKD_62_desc": {
-        "translation": "neue Beobachtung des Wasserstandes für das Hochwasserdatenbankprojekt",
-        "notes": "Water Level",
-        "limit": "1024"
-    },
-    "RegistrationKD_71": {
-        "translation": "Erdrutsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "RegistrationKD_80": {
-        "translation": "Ereignisse",
-        "notes": "Grupperings type - Hendelser",
-        "limit": "30"
-    },
-    "RegistrationKD_81": {
-        "translation": "Lawinen und Gefahrenzeichen",
-        "notes": "Grupperings type - Skred og faretegn",
-        "limit": "30"
-    },
-    "RegistrationKD_82": {
-        "translation": "Schneedecke und Wetter",
-        "notes": "Grupperings type - Snødekke og vær",
-        "limit": "30"
-    },
-    "RegistrationKD_83": {
-        "translation": "Bewertungen und Probleme",
-        "notes": "Grupperings type - Vurderinger og problemer",
-        "limit": "30"
-    },
-    "SnowDriftKD_0": {
-        "translation": "Nicht beobachtet",
-        "notes": "",
-        "limit": "30"
-    },
-    "SnowDriftKD_1": {
-        "translation": "Keine Schneeverwehung",
-        "notes": "",
-        "limit": "30"
-    },
-    "SnowDriftKD_2": {
-        "translation": "Leichte Schneeverwehungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "SnowDriftKD_3": {
-        "translation": "Erhebliche Schneeverwehungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "SnowDriftKD_4": {
-        "translation": "Starke Schneeverwehungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "SnowSurfaceKD_0": {
-        "translation": "Nicht beobachtet",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_101": {
-        "translation": "Sehr viel lockerer Schnee (>30cm)",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_102": {
-        "translation": "Viel lockerer Schnee (10-30cm)",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_103": {
-        "translation": "Etwas lockerer Schnee (1-10cm)",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_104": {
-        "translation": "Nasser lockerer Schnee",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_105": {
-        "translation": "Windharsch (harter Harsch)",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_106": {
-        "translation": "Sturmharsch (weicher Harsch)",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_107": {
-        "translation": "Kruste",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_108": {
-        "translation": "Andere",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_50": {
-        "translation": "Oberflächennahe kantige Kristalle",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_61": {
-        "translation": "Raureif auf einer harten Oberfläche",
-        "notes": "",
-        "limit": "100"
-    },
-    "SnowSurfaceKD_62": {
-        "translation": "Oberflächenreif auf einer weichen Oberfläche",
-        "notes": "",
-        "limit": "100"
-    },
-    "SourceKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "50"
-    },
-    "SourceKD_10": {
-        "translation": "Ich habe das gesehen",
-        "notes": "",
-        "limit": "50"
-    },
-    "SourceKD_20": {
-        "translation": "Mir wurde das gesagt",
-        "notes": "",
-        "limit": "50"
-    },
-    "SourceKD_21": {
-        "translation": "In den Nachrichten / in einem Bericht gelesen",
-        "notes": "",
-        "limit": "50"
-    },
-    "SourceKD_22": {
-        "translation": "Ich habe ein Bild/Webkamera gesehen",
-        "notes": "",
-        "limit": "50"
-    },
-    "StabilityEvalKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "StabilityEvalKD_1": {
-        "translation": "Gut",
-        "notes": "",
-        "limit": "30"
-    },
-    "StabilityEvalKD_2": {
-        "translation": "Mittel",
-        "notes": "",
-        "limit": "30"
-    },
-    "StabilityEvalKD_3": {
-        "translation": "Schwach",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_0": {
-        "translation": "Nicht beobachtet",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_1": {
-        "translation": "Kein Schnee",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_2": {
-        "translation": "Glatt",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_3": {
-        "translation": "Wellenförmig",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_4": {
-        "translation": "Erodiert",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_5": {
-        "translation": "Sonnenbeeinflusst",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceRoughnessKD_6": {
-        "translation": "Entwässerungsrillen",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_0": {
-        "translation": "Nicht beobachtet",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_1": {
-        "translation": "Kein Schnee",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_2": {
-        "translation": "Trocken",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_3": {
-        "translation": "Feucht",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_4": {
-        "translation": "Nass",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_5": {
-        "translation": "Sehr nass",
-        "notes": "",
-        "limit": "30"
-    },
-    "SurfaceWaterContentKD_6": {
-        "translation": "Matsch",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_0": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_10": {
-        "translation": "Steilhang",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_20": {
-        "translation": "Leeseite",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_30": {
-        "translation": "Gratnähe",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_40": {
-        "translation": "Im Graben oder in einer Rinne",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_50": {
-        "translation": "Platte",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_60": {
-        "translation": "Mulde",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_70": {
-        "translation": "Wald",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_75": {
-        "translation": "Kahlschlag",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_95": {
-        "translation": "Überall",
-        "notes": "",
-        "limit": "30"
-    },
-    "TerrainStartZoneKD_99": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "30"
-    },
-    "TripTypeKD_0": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_50": {
-        "translation": "Angestellt",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_55": {
-        "translation": "Ausbildungstour",
-        "notes": "",
-        "limit": "50"
-    },
-    "TripTypeKD_60": {
-        "translation": "Privat",
-        "notes": "",
-        "limit": "50"
-    },
-    "UsageFlagKD_0": {
-        "translation": "Keine Flagge gesetzt",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_1": {
-        "translation": "Bereit für die historische db",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_10": {
-        "translation": "Genehmigt vom Administrator",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_101": {
-        "translation": "Zu administrativen Zwecken",
-        "notes": "The observation og group has a administrative purpose. It is elswize hidden as though it has been deleted.",
-        "limit": "30"
-    },
-    "UsageFlagKD_101_desc": {
-        "translation": "Die Beobachtung einer zu einem Ausbildungszweck. Es wird so versteckt, als ob es gelöscht worden wäre.",
-        "notes": "For administarive purpose",
-        "limit": "1024"
-    },
-    "UsageFlagKD_2": {
-        "translation": "Weitergeleitet an die hist db",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_51": {
-        "translation": "Vom Benutzer gelöscht",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_52": {
-        "translation": "Gelöscht von Admin",
-        "notes": "",
-        "limit": "30"
-    },
-    "UsageFlagKD_61": {
-        "translation": "Vom Administrator abgelehnt",
-        "notes": "",
-        "limit": "30"
-    },
-    "UTMSourceKD_0": {
-        "translation": "Unbekannt",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_10": {
-        "translation": "Vom GPS lesen",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_20": {
-        "translation": "Von der Karte gelesen",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_30": {
-        "translation": "In der Karte (in RegObs) klicken",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_35": {
-        "translation": "In der Karte (im RegObs-App) klicken",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_40": {
-        "translation": "GPS im Smartphone",
-        "notes": "",
-        "limit": "50"
-    },
-    "UTMSourceKD_45": {
-        "translation": "Alte Position im Smartphone",
-        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
-        "limit": "50"
-    },
-    "UTMSourceKD_45_desc": {
-        "translation": "Position aus dem Speicher des Smartphones. Wird verwendet, wenn die aktuelle Position nicht verfügbar ist.",
-        "notes": "Old position in smartPhone",
-        "limit": "150"
-    },
-    "UTMSourceKD_50": {
-        "translation": "NVDB",
-        "notes": "Nasjonal roads databank",
-        "limit": "50"
-    },
-    "UTMSourceKD_50_desc": {
-        "translation": "Nationalstraßen-Datenbank",
-        "notes": "NVDB",
-        "limit": "150"
-    },
-    "UTMSourceKD_60": {
-        "translation": "HydraII",
-        "notes": "",
-        "limit": "50"
-    },
-    "WaterAstrayKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "WaterAstrayKD_0_desc": {
-        "translation": "Unknown",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "WaterAstrayKD_1": {
-        "translation": "Ja",
-        "notes": "Yes",
-        "limit": "100"
-    },
-    "WaterAstrayKD_1_desc": {
-        "translation": "Ja",
-        "notes": "Yes",
-        "limit": "1024"
-    },
-    "WaterAstrayKD_2": {
-        "translation": "Nein",
-        "notes": "No",
-        "limit": "100"
-    },
-    "WaterAstrayKD_2_desc": {
-        "translation": "Nein",
-        "notes": "No",
-        "limit": "1024"
-    },
-    "WaterLevelMethodKD_0": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "100"
-    },
-    "WaterLevelMethodKD_0_desc": {
-        "translation": "Unbekannt",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "WaterLevelMethodKD_1": {
-        "translation": "Wasserstandsmarkierung",
-        "notes": "Water level marking",
-        "limit": "100"
-    },
-    "WaterLevelMethodKD_1_desc": {
-        "translation": "Wasserstandsmarkierung",
-        "notes": "Water level marking",
-        "limit": "1024"
-    },
-    "WaterLevelMethodKD_2": {
-        "translation": "Wasserstandsmessung",
-        "notes": "water level measurement",
-        "limit": "100"
-    },
-    "WaterLevelMethodKD_2_desc": {
-        "translation": "Wasserstandsmessung",
-        "notes": "Water level measurement",
-        "limit": "1024"
-    },
-    "WaterLevelRefKD_100": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_110": {
-        "translation": "Skala am Wasserstandsmesser",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_120": {
-        "translation": "Bekannter Orientierungspunkt",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_130": {
-        "translation": "Denkmal für Überschwemmungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_140": {
-        "translation": "Das beigefügte Foto zeigt",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_200": {
-        "translation": "Nicht angegeben",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_210": {
-        "translation": "Skala am Wasserstandsmesser",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_211": {
-        "translation": "Maßstab",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_212": {
-        "translation": "Max/min zur Regulierung",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_220": {
-        "translation": "Bekannter Orientierungspunkt",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_221": {
-        "translation": "Denkmal für Überschwemmungen",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelRefKD_240": {
-        "translation": "Das beigefügte Foto zeigt",
-        "notes": "",
-        "limit": "30"
-    },
-    "WaterLevelStateKD_0": {
-        "translation": "Unbekannt",
-        "notes": "unknown water level",
-        "limit": "100"
-    },
-    "WaterLevelStateKD_0_desc": {
-        "translation": "Unbekannter Wasserstand",
-        "notes": "Unknown",
-        "limit": "1024"
-    },
-    "WaterLevelStateKD_1": {
-        "translation": "Der Wasserstand sinkt",
-        "notes": "Water level is decreasing",
-        "limit": "100"
-    },
-    "WaterLevelStateKD_1_desc": {
-        "translation": "Der Wasserstand sinkt",
-        "notes": "Water level is decreasing",
-        "limit": "1024"
-    },
-    "WaterLevelStateKD_2": {
-        "translation": "Der Wasserstand steigt",
-        "notes": "Water level is increasing",
-        "limit": "100"
-    },
-    "WaterLevelStateKD_2_desc": {
-        "translation": "Der Wasserstand steigt",
-        "notes": "Water level is increasing",
-        "limit": "1024"
-    },
-    "WaterLevelStateKD_3": {
-        "translation": "Der Wasserstand ist unverändert",
-        "notes": "Water level is stable",
-        "limit": "100"
-    },
-    "WaterLevelStateKD_3_desc": {
-        "translation": "Der Wasserstand ist unverändert",
-        "notes": "Water level is stable",
-        "limit": "1024"
-    },
-    "WaterLevelStateKD_4": {
-        "translation": "Der Wasserstand kann nicht bestimmt werden",
-        "notes": "Can not determine that now",
-        "limit": "100"
-    },
-    "WaterLevelStateKD_4_desc": {
-        "translation": "Der Wasserstand kann nicht bestimmt werden",
-        "notes": "Cannot determine water level",
-        "limit": "1024"
-    },
-    "WetnessKD_0": {
-        "translation": " - ",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_1": {
-        "translation": "T",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_2": {
-        "translation": "T-F",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_3": {
-        "translation": "F",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_4": {
-        "translation": "F-N",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_5": {
-        "translation": "N",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_6": {
-        "translation": "N-SN",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_7": {
-        "translation": "SN",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_8": {
-        "translation": "SN-M",
-        "notes": "",
-        "limit": "30"
-    },
-    "WetnessKD_9": {
-        "translation": "M",
-        "notes": "",
-        "limit": "30"
-    },
-    "WindSpeedKD_0": {
-        "translation": "Keine Angabe",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_10": {
-        "translation": "Ruhige / leichte Brise",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_20": {
-        "translation": "Brise",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_30": {
-        "translation": "Frische Brise",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_40": {
-        "translation": "Starke Brise",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_50": {
-        "translation": "Mäßiger Sturm",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_60": {
-        "translation": "Sturm",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_70": {
-        "translation": "Starker Sturm",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_80": {
-        "translation": "Sturm",
-        "notes": "",
-        "limit": "100"
-    },
-    "WindSpeedKD_90": {
-        "translation": "Orkanstärke",
-        "notes": "",
-        "limit": "100"
-    }
+  "ActivityInfluencedKD_0": "Unbekannt",
+  "ActivityInfluencedKD_100": "Nicht angegeben",
+  "ActivityInfluencedKD_111": "Skitour",
+  "ActivityInfluencedKD_112": "Skigebiet",
+  "ActivityInfluencedKD_113": "Skigebiet, abseits der Piste",
+  "ActivityInfluencedKD_114": "Langlauf",
+  "ActivityInfluencedKD_115": "Skilanglauf",
+  "ActivityInfluencedKD_116": "Klettern",
+  "ActivityInfluencedKD_117": "Zu Fuß",
+  "ActivityInfluencedKD_120": "Straße",
+  "ActivityInfluencedKD_130": "Schneemobil",
+  "ActivityInfluencedKD_140": "Eisenbahn",
+  "ActivityInfluencedKD_160": "Gebäude",
+  "ActivityInfluencedKD_190": "Andere",
+  "ActivityInfluencedKD_200": "Nicht angegeben",
+  "ActivityInfluencedKD_211": "Personen",
+  "ActivityInfluencedKD_220": "Straßen",
+  "ActivityInfluencedKD_240": "Eisenbahnlinien",
+  "ActivityInfluencedKD_251": "Landwirtschaftliche Flächen",
+  "ActivityInfluencedKD_260": "Gebäude",
+  "ActivityInfluencedKD_290": "Andere",
+  "ActivityInfluencedKD_300": "Keine Angabe",
+  "ActivityInfluencedKD_311": "Menschen",
+  "ActivityInfluencedKD_320": "Straßen",
+  "ActivityInfluencedKD_340": "Eisenbahnen",
+  "ActivityInfluencedKD_351": "Landwirtschaftliche Flächen",
+  "ActivityInfluencedKD_360": "Gebäude",
+  "ActivityInfluencedKD_390": "Andere",
+  "ActivityInfluencedKD_400": "Keine Angabe",
+  "ActivityInfluencedKD_411": "Menschen",
+  "ActivityInfluencedKD_420": "Straßen",
+  "ActivityInfluencedKD_440": "Eisenbahnen",
+  "ActivityInfluencedKD_451": "Landwirtschaftliche Flächen",
+  "ActivityInfluencedKD_460": "Gebäude",
+  "ActivityInfluencedKD_490": "Andere",
+  "ActivityInfluencedKD_500": "Keine Angabe",
+  "ActivityInfluencedKD_600": "Nicht angegeben",
+  "ActivityInfluencedKD_610": "Freizeitgestaltung",
+  "ActivityInfluencedKD_615": "Instrumentierung",
+  "ActivityInfluencedKD_620": "Straßen",
+  "ActivityInfluencedKD_640": "Eisenbahnlinien",
+  "ActivityInfluencedKD_660": "Gebäude",
+  "ActivityInfluencedKD_690": "Andere",
+  "ActivityInfluencedKD_700": "Nicht angegeben",
+  "ActivityInfluencedKD_710": "Zu Fuß",
+  "ActivityInfluencedKD_711": "Schlittschuhlaufen",
+  "ActivityInfluencedKD_712": "Cross country ski",
+  "ActivityInfluencedKD_713": "Kite skiing",
+  "ActivityInfluencedKD_720": "Snowmobile auf dem Eis",
+  "ActivityInfluencedKD_721": "Auto auf dem Eis",
+  "ActivityInfluencedKD_722": "ATV",
+  "ActivityInfluencedKD_722_desc": "All Terrain Vehicle",
+  "ActivityInfluencedKD_730": "Traktor auf dem Eis",
+  "ActivityInfluencedKD_731": "Bagger oder Raupe auf dem Eis",
+  "ActivityInfluencedKD_732": "Pistenraupe",
+  "ActivityInfluencedKD_772": "Eislauf",
+  "ActivityInfluencedKD_773": "Ausgebuchtetes Eis",
+  "ActivityInfluencedKD_774": "Treibeis",
+  "ActivityInfluencedKD_790": "Andere",
+  "AnticipatedObservationTimeKD_0_desc": "Nicht spezifiziert",
+  "AnticipatedObservationTimeKD_10_desc": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": "18:00",
+  "AnticipatedObservationTimeKD_110_desc": "20:00",
+  "AnticipatedObservationTimeKD_120_desc": "22:00",
+  "AnticipatedObservationTimeKD_20_desc": "09:00",
+  "AnticipatedObservationTimeKD_30_desc": "10:00",
+  "AnticipatedObservationTimeKD_40_desc": "11:00",
+  "AnticipatedObservationTimeKD_50_desc": "12:00",
+  "AnticipatedObservationTimeKD_60_desc": "13:00",
+  "AnticipatedObservationTimeKD_70_desc": "14:00",
+  "AnticipatedObservationTimeKD_80_desc": "15:00",
+  "AnticipatedObservationTimeKD_90_desc": "16:00",
+  "AreaUsageKD_0": "Keine Angabe",
+  "AreaUsageKD_10": "Erholungsgebiet",
+  "AreaUsageKD_20": "Straße",
+  "AreaUsageKD_30": "Weg für andere Fahrzeuge",
+  "AreaUsageKD_40": "Eisenbahn",
+  "AreaUsageKD_50": "Ablagerungsgebiet",
+  "AreaUsageKD_90": "Andere",
+  "AreaUsageKD_99": "Unbekannt",
+  "AvalancheDangerKD_0": "0 Nicht angegeben",
+  "AvalancheDangerKD_1": "1 Gering",
+  "AvalancheDangerKD_2": "2 Mässig",
+  "AvalancheDangerKD_3": "3 Erheblich",
+  "AvalancheDangerKD_4": "4 Gross",
+  "AvalancheDangerKD_5": "5 Sehr gross",
+  "AvalancheExtKD_0": "Nicht angegeben",
+  "AvalancheExtKD_10": "Trockene Lockerschneelawine",
+  "AvalancheExtKD_15": "Nasse Lockerschneelawine",
+  "AvalancheExtKD_20": "Trockene Schneebrettlawine",
+  "AvalancheExtKD_25": "Nasse Schneebrettlawine",
+  "AvalancheExtKD_27": "Gleitschneelawine",
+  "AvalancheExtKD_30": "Nassschneelawine",
+  "AvalancheExtKD_40": "Wächte",
+  "AvalancheKD_0": "Nicht angegeben",
+  "AvalancheKD_11": "Nasse Lockerschneelawine",
+  "AvalancheKD_12": "Trockene Lockerschneelawine",
+  "AvalancheKD_21": "Nasse Schneebrettlawine",
+  "AvalancheKD_22": "Trockene Schneebrettlawine",
+  "AvalancheKD_27": "Gleitschneelawine",
+  "AvalancheKD_30": "Nassschneelawine",
+  "AvalancheKD_40": "Wächtenbruch",
+  "AvalancheKD_99": "Unbekannt",
+  "AvalancheTriggerKD_0": "Nicht angegeben",
+  "AvalancheTriggerKD_10": "Natürliche Auslösung",
+  "AvalancheTriggerKD_22": "Fernauslösung",
+  "AvalancheTriggerKD_23": "Künstliche Auslösung: Testhang",
+  "AvalancheTriggerKD_25": "Sprengauslösung",
+  "AvalancheTriggerKD_26": "Auslösung durch Person(en)",
+  "AvalancheTriggerKD_27": "Ausgelöst durch ein Snowmobile",
+  "AvalancheTriggerKD_99": "Unbekannt",
+  "AvalancheTypeKD_0": "Keine Angabe",
+  "AvalancheTypeKD_10": "Schneebrettlawine",
+  "AvalancheTypeKD_20": "Lockerschneelawine",
+  "AvalCauseAttributFlags_1": "Die Schwachschicht bricht leicht und glatt (gute Bruchausbreitung).",
+  "AvalCauseAttributFlags_2": "Die kollabierende Schwachschicht ist dünn < 3 cm.",
+  "AvalCauseAttributFlags_4": "Das darüberliegende Schneebrett ist weich.",
+  "AvalCauseAttributFlags_8": "Erkennbare, große Kristalle in der Schwachschicht.",
+  "AvalCauseDepthKD_0": "Nicht angegeben",
+  "AvalCauseDepthKD_1": "Innerhalb eines halben Meters",
+  "AvalCauseDepthKD_2": "Innerhalb eines Meters",
+  "AvalCauseDepthKD_3": "Über ein Meter",
+  "AvalCauseKD_0": "Nicht angegeben",
+  "AvalCauseKD_0_desc": "Nicht angegeben",
+  "AvalCauseKD_10": "Schwachschicht aus Neuschnee",
+  "AvalCauseKD_10_desc": "Schwachschicht aus Neuschnee",
+  "AvalCauseKD_11": "Schwachschicht aus eingeschneitem Oberflächenreif",
+  "AvalCauseKD_11_desc": "Schwachschicht aus Oberflächenreif",
+  "AvalCauseKD_13": "Oberflächennahe aufbauend umgewandelte Schwachschicht",
+  "AvalCauseKD_13_desc": "Aufbauend umgewandelte Schwachschicht",
+  "AvalCauseKD_14": "Schlechte Bindung zur Kruste",
+  "AvalCauseKD_14_desc": "Schlechte Bindung zur Kruste",
+  "AvalCauseKD_15": "Schlechte Bindung innerhalb des Triebschnees",
+  "AvalCauseKD_15_desc": "Schlechte Bindung innerhalb des Windharsches",
+  "AvalCauseKD_16": "Kantige Kristalle in Bodennähe",
+  "AvalCauseKD_16_desc": "Aufbauend umgewandelte Kristalle in Bodennähe",
+  "AvalCauseKD_18": "Kantige Kristalle über einer Kruste",
+  "AvalCauseKD_18_desc": "Aufbauend umgewandelte Kristalle über einer Kruste",
+  "AvalCauseKD_19": "Kantige Kristalle unter einer Kruste",
+  "AvalCauseKD_19_desc": "Aufbauend umgewandelte Kristalle unter einer Kruste",
+  "AvalCauseKD_20": "Schmelzen in Bodennähe",
+  "AvalCauseKD_20_desc": "Schmelzen in Bodennähe",
+  "AvalCauseKD_22": "Wasseransammlung über Schneeschichten",
+  "AvalCauseKD_22_desc": "Wasseransammlung über Schneeschichten",
+  "AvalCauseKD_24": "Lockerschnee",
+  "AvalCauseKD_24_desc": "Lockerschnee",
+  "AvalProbabilityKD_0": "Nicht angegeben",
+  "AvalProbabilityKD_2": "Unwahrscheinlich",
+  "AvalProbabilityKD_3": "Möglich",
+  "AvalProbabilityKD_5": "Wahrscheinlich",
+  "AvalProbabilityKD_7": "Sehr wahrscheinlich",
+  "AvalPropagationKD_0": "Nicht angegeben",
+  "AvalPropagationKD_1": "Einzelne Steilhänge",
+  "AvalPropagationKD_2": "Bestimmte Steilhänge",
+  "AvalPropagationKD_3": "Viele Steilhänge",
+  "AvalReleaseHeightKD_0": "Nicht angegeben",
+  "AvalReleaseHeightKD_1": "Im Neuschnee",
+  "AvalReleaseHeightKD_1_desc": "Lawinen lösen im Neuschnee aus.",
+  "AvalReleaseHeightKD_2": "Zwischen Alt- und Neuschnee",
+  "AvalReleaseHeightKD_2_desc": "Lawinen lösen zwischen Alt- und Neuschnee aus.",
+  "AvalReleaseHeightKD_3": "Am Boden",
+  "AvalReleaseHeightKD_3_desc": "Lawinen lösen am Boden aus.",
+  "AvalReleaseHeightKD_4": "Im Altschnee",
+  "AvalReleaseHeightKD_4_desc": "Lawinen lösen im Altschnee aus.",
+  "AvalReleaseHeightKD_6": "Die Schneedecke ist feucht",
+  "AvalReleaseHeightKD_6_desc": "Die gesamte Schneedecke ist feucht und instabil.",
+  "AvalReleaseHeightKD_7": "Mit Wasser gesättigt",
+  "AvalReleaseHeightKD_7_desc": "Die gesamte Schneedecke ist mit Wasser gesättigt und instabil.",
+  "AvalReleaseHeightKD_8": "Nur Altschnee",
+  "AvalReleaseHeightKD_8_desc": "Lawinen lösen im Altschnee aus.",
+  "AvalTriggerSimpleKD_0": "Nicht angegeben",
+  "AvalTriggerSimpleKD_22": "Spontanauszulösungen",
+  "AvalTriggerSimpleKD_30": "Sehr schwer auszulösen",
+  "AvalTriggerSimpleKD_40": "Schwer auszulösen",
+  "AvalTriggerSimpleKD_50": "Leicht auszulösen",
+  "AvalTriggerSimpleKD_60": "Sehr leicht auszulösen",
+  "CloudCoverKD_0": "Keine Angabe",
+  "CloudCoverKD_10": "Wolkenlos",
+  "CloudCoverKD_20": "Teilweise bewölkt",
+  "CloudCoverKD_30": "Bewölkt",
+  "CompetenceLevelKD_0": "Unbekannt",
+  "CompetenceLevelKD_0_desc": "Unbekannte Kompetenz.",
+  "CompetenceLevelKD_100": "-",
+  "CompetenceLevelKD_100_desc": "Unbekannt für Schnee.",
+  "CompetenceLevelKD_105": "A",
+  "CompetenceLevelKD_105_desc": "Automatischer Service",
+  "CompetenceLevelKD_110": "*",
+  "CompetenceLevelKD_110_desc": "Der Beobachter verfügt über grundlegende Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter ist nicht darin geschult, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
+  "CompetenceLevelKD_115": "**",
+  "CompetenceLevelKD_115_desc": "Erfahrener Beobachter, aber nicht geschult, wie regObs und Varsom die Lawinengefahr kommunizieren.",
+  "CompetenceLevelKD_120": "***",
+  "CompetenceLevelKD_120_desc": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen Grundkurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
+  "CompetenceLevelKD_130": "****",
+  "CompetenceLevelKD_130_desc": "Der Beobachter ist geschult und verfügt über fortgeschrittene Fähigkeiten zur Beurteilung der Lawinengefahr. Der Beobachter hat einen erweiterten Kurs, wie regObs und [Varsom?] die Lawinengefahr kommunizieren.",
+  "CompetenceLevelKD_150": "*****",
+  "CompetenceLevelKD_150_desc": "Beobachter ist Lawinenprognostiker.",
+  "CompetenceLevelKD_200": "-",
+  "CompetenceLevelKD_200_desc": "Unbekannte Kompetenz.",
+  "CompetenceLevelKD_210": "*",
+  "CompetenceLevelKD_210_desc": "Der Beobachter hat relevante Beobachtungen übermittelt.",
+  "CompetenceLevelKD_220": "**",
+  "CompetenceLevelKD_220_desc": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
+  "CompetenceLevelKD_230": "***",
+  "CompetenceLevelKD_230_desc": "Fachmann mit mehreren relevanten Beobachtungen.",
+  "CompetenceLevelKD_240": "****",
+  "CompetenceLevelKD_240_desc": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_250": "*****",
+  "CompetenceLevelKD_250_desc": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_300": "-",
+  "CompetenceLevelKD_300_desc": "Unbekannte Kompetenz.",
+  "CompetenceLevelKD_310": "*",
+  "CompetenceLevelKD_310_desc": "Der Beobachter hat relevante Beobachtungen übermittelt.",
+  "CompetenceLevelKD_320": "**",
+  "CompetenceLevelKD_320_desc": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
+  "CompetenceLevelKD_330": "***",
+  "CompetenceLevelKD_330_desc": "Fachmann mit mehreren relevanten Beobachtungen.",
+  "CompetenceLevelKD_340": "****",
+  "CompetenceLevelKD_340_desc": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_350": "*****",
+  "CompetenceLevelKD_350_desc": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_400": "-",
+  "CompetenceLevelKD_400_desc": "Unbekannte Kompetenz.",
+  "CompetenceLevelKD_410": "*",
+  "CompetenceLevelKD_410_desc": "Der Beobachter hat relevante Beobachtungen übermittelt.",
+  "CompetenceLevelKD_420": "**",
+  "CompetenceLevelKD_420_desc": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
+  "CompetenceLevelKD_430": "***",
+  "CompetenceLevelKD_430_desc": "Fachmann mit mehreren relevanten Beobachtungen.",
+  "CompetenceLevelKD_440": "****",
+  "CompetenceLevelKD_440_desc": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_450": "*****",
+  "CompetenceLevelKD_450_desc": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_600": "-",
+  "CompetenceLevelKD_600_desc": "Unbekannte Kompetenz.",
+  "CompetenceLevelKD_610": "*",
+  "CompetenceLevelKD_610_desc": "Der Beobachter hat relevante Beobachtungen übermittelt.",
+  "CompetenceLevelKD_620": "**",
+  "CompetenceLevelKD_620_desc": "Der Beobachter hat relevante Beobachtungen unter korrekter Verwendung der Regobs-Formulare eingereicht.",
+  "CompetenceLevelKD_630": "***",
+  "CompetenceLevelKD_630_desc": "Fachmann mit mehreren relevanten Beobachtungen.",
+  "CompetenceLevelKD_640": "****",
+  "CompetenceLevelKD_640_desc": "Erfahrener Fachmann mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_650": "*****",
+  "CompetenceLevelKD_650_desc": "Professional von NVE oder vergleichbar mit mehreren relevanten Beobachtungen bei korrekter Verwendung der Regobs-Formulare.",
+  "CompetenceLevelKD_700": "-",
+  "CompetenceLevelKD_700_desc": "Unbekannt für Eis.",
+  "CompetenceLevelKD_710": "*",
+  "CompetenceLevelKD_710_desc": "Anfänger.",
+  "CompetenceLevelKD_720": "**",
+  "CompetenceLevelKD_720_desc": "Erfahrener Beobachter.",
+  "CompetenceLevelKD_730": "***",
+  "CompetenceLevelKD_730_desc": "Geschulter Beobachter mit Praxiserfahrung.",
+  "CompetenceLevelKD_740": "****",
+  "CompetenceLevelKD_740_desc": "Ausgebildete Person.",
+  "CompetenceLevelKD_750": "*****",
+  "CompetenceLevelKD_750_desc": "Ausgebildetes Person in NVE oder gleichwertig.",
+  "CompressionTestKD_0": "Keine Angabe",
+  "CompressionTestKD_1": "CT ",
+  "CompressionTestKD_1_desc": "Säulentest",
+  "CompressionTestKD_2": "ECT ",
+  "CompressionTestKD_2_desc": "Erweiterter Säulentest",
+  "ComprTestFractureKD_0": "Nicht spezifiziert",
+  "ComprTestFractureKD_1": "Q1",
+  "ComprTestFractureKD_2": "Q2",
+  "ComprTestFractureKD_3": "Q3",
+  "CountryKD_0": "Not given",
+  "CountryKD_10": "Antarctica",
+  "CountryKD_100": "Bulgaria",
+  "CountryKD_104": "Burma",
+  "CountryKD_108": "Burundi",
+  "CountryKD_112": "Belarus",
+  "CountryKD_116": "Cambodia",
+  "CountryKD_12": "Algeria",
+  "CountryKD_120": "Cameroon",
+  "CountryKD_124": "Canada",
+  "CountryKD_132": "Cape Verde",
+  "CountryKD_136": "Cayman Islands",
+  "CountryKD_140": "Central African Republic",
+  "CountryKD_144": "Sri Lanka",
+  "CountryKD_148": "Chad",
+  "CountryKD_152": "Chile",
+  "CountryKD_156": "China",
+  "CountryKD_158": "Taiwan",
+  "CountryKD_16": "American Samoa",
+  "CountryKD_162": "Christmas Island",
+  "CountryKD_166": "Cocos (Keeling) Islands",
+  "CountryKD_170": "Colombia",
+  "CountryKD_174": "Comoros",
+  "CountryKD_175": "Mayotte",
+  "CountryKD_178": "Congo",
+  "CountryKD_180": "Democratic Republic of the Congo",
+  "CountryKD_184": "Cook Islands",
+  "CountryKD_188": "Costa Rica",
+  "CountryKD_191": "Croatia",
+  "CountryKD_192": "Cuba",
+  "CountryKD_196": "Cyprus",
+  "CountryKD_20": "Andorra",
+  "CountryKD_203": "Czech Republic",
+  "CountryKD_204": "Benin",
+  "CountryKD_208": "Denmark",
+  "CountryKD_212": "Dominica",
+  "CountryKD_214": "Dominican Republic",
+  "CountryKD_218": "Ecuador",
+  "CountryKD_222": "El Salvador",
+  "CountryKD_226": "Equatorial Guinea",
+  "CountryKD_231": "Ethiopia",
+  "CountryKD_232": "Eritrea",
+  "CountryKD_233": "Estonia",
+  "CountryKD_234": "Faroe Islands",
+  "CountryKD_238": "Falkland Islands (Malvinas)",
+  "CountryKD_239": "South Georgia South Sandwich Islands",
+  "CountryKD_24": "Angola",
+  "CountryKD_242": "Fiji",
+  "CountryKD_246": "Finland",
+  "CountryKD_248": "Åland Islands",
+  "CountryKD_250": "France",
+  "CountryKD_254": "French Guiana",
+  "CountryKD_258": "French Polynesia",
+  "CountryKD_260": "French Southern and Antarctic Lands",
+  "CountryKD_262": "Djibouti",
+  "CountryKD_266": "Gabon",
+  "CountryKD_268": "Georgia",
+  "CountryKD_270": "Gambia",
+  "CountryKD_275": "Palestine",
+  "CountryKD_276": "Germany",
+  "CountryKD_28": "Antigua and Barbuda",
+  "CountryKD_288": "Ghana",
+  "CountryKD_292": "Gibraltar",
+  "CountryKD_296": "Kiribati",
+  "CountryKD_300": "Greece",
+  "CountryKD_304": "Greenland",
+  "CountryKD_308": "Grenada",
+  "CountryKD_31": "Azerbaijan",
+  "CountryKD_312": "Guadeloupe",
+  "CountryKD_316": "Guam",
+  "CountryKD_32": "Argentina",
+  "CountryKD_320": "Guatemala",
+  "CountryKD_324": "Guinea",
+  "CountryKD_328": "Guyana",
+  "CountryKD_332": "Haiti",
+  "CountryKD_334": "Heard Island and McDonald Islands",
+  "CountryKD_336": "Holy See (Vatican City)",
+  "CountryKD_340": "Honduras",
+  "CountryKD_344": "Hong Kong",
+  "CountryKD_348": "Hungary",
+  "CountryKD_352": "Iceland",
+  "CountryKD_356": "India",
+  "CountryKD_36": "Australia",
+  "CountryKD_360": "Indonesia",
+  "CountryKD_364": "Iran (Islamic Republic of)",
+  "CountryKD_368": "Iraq",
+  "CountryKD_372": "Ireland",
+  "CountryKD_376": "Israel",
+  "CountryKD_380": "Italy",
+  "CountryKD_384": "Cote d'Ivoire",
+  "CountryKD_388": "Jamaica",
+  "CountryKD_392": "Japan",
+  "CountryKD_398": "Kazakhstan",
+  "CountryKD_4": "Afghanistan",
+  "CountryKD_40": "Austria",
+  "CountryKD_400": "Jordan",
+  "CountryKD_404": "Kenya",
+  "CountryKD_408": "Korea, Democratic People's Republic of",
+  "CountryKD_410": "Korea, Republic of",
+  "CountryKD_414": "Kuwait",
+  "CountryKD_417": "Kyrgyzstan",
+  "CountryKD_418": "Lao People's Democratic Republic",
+  "CountryKD_422": "Lebanon",
+  "CountryKD_426": "Lesotho",
+  "CountryKD_428": "Latvia",
+  "CountryKD_430": "Liberia",
+  "CountryKD_434": "Libyan Arab Jamahiriya",
+  "CountryKD_438": "Liechtenstein",
+  "CountryKD_44": "Bahamas",
+  "CountryKD_440": "Lithuania",
+  "CountryKD_442": "Luxembourg",
+  "CountryKD_446": "Macau",
+  "CountryKD_450": "Madagascar",
+  "CountryKD_454": "Malawi",
+  "CountryKD_458": "Malaysia",
+  "CountryKD_462": "Maldives",
+  "CountryKD_466": "Mali",
+  "CountryKD_470": "Malta",
+  "CountryKD_474": "Martinique",
+  "CountryKD_478": "Mauritania",
+  "CountryKD_48": "Bahrain",
+  "CountryKD_480": "Mauritius",
+  "CountryKD_484": "Mexico",
+  "CountryKD_492": "Monaco",
+  "CountryKD_496": "Mongolia",
+  "CountryKD_498": "Republic of Moldova",
+  "CountryKD_499": "Montenegro",
+  "CountryKD_50": "Bangladesh",
+  "CountryKD_500": "Montserrat",
+  "CountryKD_504": "Morocco",
+  "CountryKD_508": "Mozambique",
+  "CountryKD_51": "Armenia",
+  "CountryKD_512": "Oman",
+  "CountryKD_516": "Namibia",
+  "CountryKD_52": "Barbados",
+  "CountryKD_520": "Nauru",
+  "CountryKD_524": "Nepal",
+  "CountryKD_528": "Netherlands",
+  "CountryKD_530": "Netherlands Antilles",
+  "CountryKD_533": "Aruba",
+  "CountryKD_540": "New Caledonia",
+  "CountryKD_548": "Vanuatu",
+  "CountryKD_554": "New Zealand",
+  "CountryKD_558": "Nicaragua",
+  "CountryKD_56": "Belgium",
+  "CountryKD_562": "Niger",
+  "CountryKD_566": "Nigeria",
+  "CountryKD_570": "Niue",
+  "CountryKD_574": "Norfolk Island",
+  "CountryKD_578": "Norway",
+  "CountryKD_580": "Northern Mariana Islands",
+  "CountryKD_581": "United States Minor Outlying Islands",
+  "CountryKD_583": "Micronesia, Federated States of",
+  "CountryKD_584": "Marshall Islands",
+  "CountryKD_585": "Palau",
+  "CountryKD_586": "Pakistan",
+  "CountryKD_591": "Panama",
+  "CountryKD_598": "Papua New Guinea",
+  "CountryKD_60": "Bermuda",
+  "CountryKD_600": "Paraguay",
+  "CountryKD_604": "Peru",
+  "CountryKD_608": "Philippines",
+  "CountryKD_612": "Pitcairn Islands",
+  "CountryKD_616": "Poland",
+  "CountryKD_620": "Portugal",
+  "CountryKD_624": "Guinea-Bissau",
+  "CountryKD_626": "Timor-Leste",
+  "CountryKD_630": "Puerto Rico",
+  "CountryKD_634": "Qatar",
+  "CountryKD_638": "Reunion",
+  "CountryKD_64": "Bhutan",
+  "CountryKD_642": "Romania",
+  "CountryKD_643": "Russia",
+  "CountryKD_646": "Rwanda",
+  "CountryKD_652": "Saint Barthelemy",
+  "CountryKD_654": "Saint Helena",
+  "CountryKD_659": "Saint Kitts and Nevis",
+  "CountryKD_660": "Anguilla",
+  "CountryKD_662": "Saint Lucia",
+  "CountryKD_663": "Saint Martin",
+  "CountryKD_666": "Saint Pierre and Miquelon",
+  "CountryKD_670": "Saint Vincent and the Grenadines",
+  "CountryKD_674": "San Marino",
+  "CountryKD_678": "Sao Tome and Principe",
+  "CountryKD_68": "Bolivia",
+  "CountryKD_682": "Saudi Arabia",
+  "CountryKD_686": "Senegal",
+  "CountryKD_688": "Serbia",
+  "CountryKD_690": "Seychelles",
+  "CountryKD_694": "Sierra Leone",
+  "CountryKD_70": "Bosnia and Herzegovina",
+  "CountryKD_702": "Singapore",
+  "CountryKD_703": "Slovakia",
+  "CountryKD_704": "Viet Nam",
+  "CountryKD_705": "Slovenia",
+  "CountryKD_706": "Somalia",
+  "CountryKD_710": "South Africa",
+  "CountryKD_716": "Zimbabwe",
+  "CountryKD_72": "Botswana",
+  "CountryKD_724": "Spain",
+  "CountryKD_732": "Western Sahara",
+  "CountryKD_736": "Sudan",
+  "CountryKD_74": "Bouvet Island",
+  "CountryKD_740": "Suriname",
+  "CountryKD_744": "Svalbard",
+  "CountryKD_748": "Swaziland",
+  "CountryKD_752": "Sweden",
+  "CountryKD_756": "Switzerland",
+  "CountryKD_76": "Brazil",
+  "CountryKD_760": "Syrian Arab Republic",
+  "CountryKD_762": "Tajikistan",
+  "CountryKD_764": "Thailand",
+  "CountryKD_768": "Togo",
+  "CountryKD_772": "Tokelau",
+  "CountryKD_776": "Tonga",
+  "CountryKD_780": "Trinidad and Tobago",
+  "CountryKD_784": "United Arab Emirates",
+  "CountryKD_788": "Tunisia",
+  "CountryKD_792": "Turkey",
+  "CountryKD_795": "Turkmenistan",
+  "CountryKD_796": "Turks and Caicos Islands",
+  "CountryKD_798": "Tuvalu",
+  "CountryKD_8": "Albania",
+  "CountryKD_800": "Uganda",
+  "CountryKD_804": "Ukraine",
+  "CountryKD_807": "The former Yugoslav Republic of Macedonia",
+  "CountryKD_818": "Egypt",
+  "CountryKD_826": "United Kingdom",
+  "CountryKD_831": "Guernsey",
+  "CountryKD_832": "Jersey",
+  "CountryKD_833": "Isle of Man",
+  "CountryKD_834": "United Republic of Tanzania",
+  "CountryKD_84": "Belize",
+  "CountryKD_840": "United States",
+  "CountryKD_850": "United States Virgin Islands",
+  "CountryKD_854": "Burkina Faso",
+  "CountryKD_858": "Uruguay",
+  "CountryKD_86": "British Indian Ocean Territory",
+  "CountryKD_860": "Uzbekistan",
+  "CountryKD_862": "Venezuela",
+  "CountryKD_876": "Wallis and Futuna Islands",
+  "CountryKD_882": "Samoa",
+  "CountryKD_887": "Yemen",
+  "CountryKD_894": "Zambia",
+  "CountryKD_90": "Solomon Islands",
+  "CountryKD_92": "British Virgin Islands",
+  "CountryKD_96": "Brunei Darussalam",
+  "CriticalLayerKD_0": "Nicht angegeben",
+  "CriticalLayerKD_11": "Oberer Teil",
+  "CriticalLayerKD_12": "Unterer Teil",
+  "CriticalLayerKD_13": "Ganze Schicht",
+  "DamageExtentKD_0": "Nicht spezifiziert",
+  "DamageExtentKD_10": "Hat nichts beeinflusst",
+  "DamageExtentKD_13": "Eingeleitete Suche und Rettung",
+  "DamageExtentKD_15": "Der Verkehr stoppte",
+  "DamageExtentKD_20": "Nur Materialschäden",
+  "DamageExtentKD_25": "Evakuierung",
+  "DamageExtentKD_27": "Nicht verschüttet,rausgefahren",
+  "DamageExtentKD_28": "Person verschüttet, unverletzt",
+  "DamageExtentKD_30": "Personen verletzt",
+  "DamageExtentKD_40": "Personen getötet",
+  "DamageExtentKD_99": "Ander",
+  "DamageTypeKD_0": "Unbekannt",
+  "DamageTypeKD_1": "Gebäude und Vermögenswerte",
+  "DamageTypeKD_2": "Infrastruktur",
+  "DamageTypeKD_3": "Kulturland",
+  "DamageTypeKD_4": "Abgelegenes Land",
+  "DamageTypeKD_5": "Person / Leute",
+  "DamageTypeKD_6": "Andere",
+  "DamageTypeKD_7": "Keine Schäden festgestellt",
+  "DangerSignKD_0": "Nicht angegeben",
+  "DangerSignKD_1": "Keine Gefahrenzeichen erkannt",
+  "DangerSignKD_2": "Aktuelle Lawinen",
+  "DangerSignKD_200": "Nicht angegeben",
+  "DangerSignKD_201": "Keine Gefahrenzeichen gesehen",
+  "DangerSignKD_202": "Starker Niederschlag",
+  "DangerSignKD_203": "Intensive Schneeschmelze",
+  "DangerSignKD_204": "Oberflächenabfluss",
+  "DangerSignKD_205": "Unzureichende Drainage",
+  "DangerSignKD_206": "Hoher Durchfluss in Flüssen",
+  "DangerSignKD_207": "Braun gefärbte Flüssen",
+  "DangerSignKD_208": "Risse/Kriechen im Gelände",
+  "DangerSignKD_209": "Erdrutsch beobachtet",
+  "DangerSignKD_212": "Schneedecke mit viel Wasser",
+  "DangerSignKD_214": "Bäche finden neue Wege",
+  "DangerSignKD_222": "Bewegung am Erdrutschrand",
+  "DangerSignKD_223": "Lehnende Bäume",
+  "DangerSignKD_230": "Erosion entlang von Flüssen",
+  "DangerSignKD_299": "Sonstige Gefahrenzeichen",
+  "DangerSignKD_3": "Wummgeräusch",
+  "DangerSignKD_4": "Aktuelle Risse",
+  "DangerSignKD_5": "Starker Schneefall",
+  "DangerSignKD_5_desc": "Brukes i elrapp",
+  "DangerSignKD_600": "Nicht angegeben",
+  "DangerSignKD_601": "Keine Gefahrenzeichen erkannt",
+  "DangerSignKD_611": "Wegen Eis blockierte Drainage",
+  "DangerSignKD_612": "Reisig blockierte Drainage",
+  "DangerSignKD_621": "Mäßig erhöhter Wasserstand",
+  "DangerSignKD_622": "Plötzlich erhöhter Wasserstand",
+  "DangerSignKD_623": "Überschwemmung",
+  "DangerSignKD_699": "Weitere Kommentare",
+  "DangerSignKD_7": "Schneller Temperaturanstieg",
+  "DangerSignKD_700": "Nicht angegeben",
+  "DangerSignKD_701": "Kein Gefahrenzeichen gesehen",
+  "DangerSignKD_705": "Dünne Eisdecke",
+  "DangerSignKD_711": "Eis hat sich vom Ufer gelöst",
+  "DangerSignKD_712": "Zulauf eisfrei",
+  "DangerSignKD_713": "Abfluss eisfrei",
+  "DangerSignKD_714": "Große Risse oder offene Rinnen",
+  "DangerSignKD_720": "Stark überflutetes Eis",
+  "DangerSignKD_730": "Erhöhter Durchfluss",
+  "DangerSignKD_799": "Andere (weiterer Kommentar)",
+  "DangerSignKD_8": "Viel Wasser im Schnee",
+  "DangerSignKD_9": "Aktuelle Schneeverwehung",
+  "DangerSignKD_99": "Andere Gefahren (spezifiziere)",
+  "DestructiveSizeKD_0": "Not given",
+  "DestructiveSizeKD_1": "1 - Klein",
+  "DestructiveSizeKD_1_desc": "Minimale Verschüttungsgefahr (Absturzgefahr)",
+  "DestructiveSizeKD_2": "2 - Mittel",
+  "DestructiveSizeKD_2_desc": "Kann Personen verschütten, verletzen oder töten",
+  "DestructiveSizeKD_3": "3 - Groß",
+  "DestructiveSizeKD_3_desc": "Kann PKWs verschütten und zerstören, schwere LKWs beschädigen; kann kleine Gebäude zerstören und einzelne Bäume Brechen",
+  "DestructiveSizeKD_4": "4 - Sehr groß",
+  "DestructiveSizeKD_4_desc": "Kann schwere LKWs und Schienenfahrzeuge verschütten und zerstören; kann größere Gebäude und kleine Waldflächen zerstören",
+  "DestructiveSizeKD_5": "5 - Extrem groß",
+  "DestructiveSizeKD_5_desc": "Kann die Landschaft verwüsten; katastrophales Zerstörungspotential möglich",
+  "DestructiveSizeKD_9": "Unbekannt",
+  "EstimatedNumKD_0": "Nicht angegeben",
+  "EstimatedNumKD_1": "Keine Lawinenaktivität",
+  "EstimatedNumKD_2": "Eine (1)",
+  "EstimatedNumKD_3": "Wenige (2-5)",
+  "EstimatedNumKD_4": "Mehrere (6-10)",
+  "EstimatedNumKD_5": "Zahlreiche (10 or more)",
+  "ExposedClimateKD_0": "Keine Angabe",
+  "ExposedClimateKD_1": "Landeinwärts",
+  "ExposedClimateKD_2": "Küstenbereich",
+  "ExposedHeightComboKD_0": "Nicht angegeben",
+  "ExposedHeightComboKD_1": "Unten weiß",
+  "ExposedHeightComboKD_2": "Unten schwarz",
+  "ExposedHeightComboKD_3": "In der Mitte weiß",
+  "ExposedHeightComboKD_4": "In der Mitte schwarz",
+  "ForecastAccurateKD_0": "Nicht spezifiziert",
+  "ForecastAccurateKD_1": " Warnung wurde nicht gegeben",
+  "ForecastAccurateKD_2": "Warnung zu niedrig",
+  "ForecastAccurateKD_3": "Warnung richtig",
+  "ForecastAccurateKD_4": "Warnung zu hoch",
+  "ForecastAccurateKD_9": "Keine Kenntnis über Warnung",
+  "ForecastCorrectKD_0": "Nicht angegeben",
+  "ForecastCorrectKD_1": "Prognose richtig",
+  "ForecastCorrectKD_2": "Prognose zu niedrig",
+  "ForecastCorrectKD_3": "Prognose zu hoch",
+  "ForecastRegionTypeKD_0": "Keine Angabe",
+  "ForecastRegionTypeKD_10": "A",
+  "ForecastRegionTypeKD_10_desc": "A Region",
+  "ForecastRegionTypeKD_20": "B",
+  "ForecastRegionTypeKD_20_desc": "B Region",
+  "ForecastRegionTypeKD_30": "C",
+  "ForecastRegionTypeKD_30_desc": "Bezirk",
+  "ForecastRegionTypeKD_90": "H",
+  "ForecastRegionTypeKD_90_desc": "H Region",
+  "GeoHazardKD_0": "Nicht spezifiziert",
+  "GeoHazardKD_10": "Schnee",
+  "GeoHazardKD_10_desc": "Lawine",
+  "GeoHazardKD_100": "Ereignis am Gletscher",
+  "GeoHazardKD_110": "Gletscherlauf",
+  "GeoHazardKD_20": "Erde",
+  "GeoHazardKD_20_desc": "Erdrutsch",
+  "GeoHazardKD_200": "Trockenheit",
+  "GeoHazardKD_30": "Nasse Erde",
+  "GeoHazardKD_30_desc": "Mure",
+  "GeoHazardKD_33": "Sediment",
+  "GeoHazardKD_36": "Matsch",
+  "GeoHazardKD_40": "Fels",
+  "GeoHazardKD_40_desc": "Steinschlag",
+  "GeoHazardKD_50": "Eisfall",
+  "GeoHazardKD_60": "Wasser",
+  "GeoHazardKD_60_desc": "Überschwemmung",
+  "GeoHazardKD_70": "Eis",
+  "GeoHazardKD_70_desc": "Schwaches Eis",
+  "GeoHazardKD_999": "Unbekannt",
+  "GrainFormKD_0": " - ",
+  "GrainFormKD_1": "PP",
+  "GrainFormKD_10": "PPrm",
+  "GrainFormKD_11": "MM",
+  "GrainFormKD_12": "MMrp",
+  "GrainFormKD_13": "MMci",
+  "GrainFormKD_14": "DF",
+  "GrainFormKD_15": "DFdc",
+  "GrainFormKD_16": "DFbk",
+  "GrainFormKD_17": "RG",
+  "GrainFormKD_18": "RGsr",
+  "GrainFormKD_19": "RGlr",
+  "GrainFormKD_2": "PPco",
+  "GrainFormKD_20": "RGwp",
+  "GrainFormKD_21": "RGxf",
+  "GrainFormKD_22": "FC",
+  "GrainFormKD_23": "FCso",
+  "GrainFormKD_24": "FCsf",
+  "GrainFormKD_25": "FCxr",
+  "GrainFormKD_26": "DH",
+  "GrainFormKD_27": "DHcp",
+  "GrainFormKD_28": "DHpr",
+  "GrainFormKD_29": "DHch",
+  "GrainFormKD_3": "PPnd",
+  "GrainFormKD_30": "DHla",
+  "GrainFormKD_31": "DHxr",
+  "GrainFormKD_32": "SH",
+  "GrainFormKD_33": "SHsu",
+  "GrainFormKD_34": "SHcv",
+  "GrainFormKD_35": "SHxr",
+  "GrainFormKD_36": "MF",
+  "GrainFormKD_37": "MFcl",
+  "GrainFormKD_38": "MFpc",
+  "GrainFormKD_39": "MFsl",
+  "GrainFormKD_4": "PPpl",
+  "GrainFormKD_40": "MFcr",
+  "GrainFormKD_41": "IF",
+  "GrainFormKD_42": "IFil",
+  "GrainFormKD_43": "IFic",
+  "GrainFormKD_44": "IFbi",
+  "GrainFormKD_45": "IFrc",
+  "GrainFormKD_46": "IFsc",
+  "GrainFormKD_5": "PPsd",
+  "GrainFormKD_6": "PPir",
+  "GrainFormKD_7": "PPgp",
+  "GrainFormKD_8": "PPhl",
+  "GrainFormKD_9": "PPip",
+  "HardnessKD_0": " - ",
+  "HardnessKD_1": "F-",
+  "HardnessKD_10": "1F",
+  "HardnessKD_11": "1F+",
+  "HardnessKD_12": "1F-B",
+  "HardnessKD_13": "B-",
+  "HardnessKD_14": "B",
+  "HardnessKD_15": "B+",
+  "HardnessKD_16": "B-M",
+  "HardnessKD_17": "M-",
+  "HardnessKD_18": "M",
+  "HardnessKD_19": "M+",
+  "HardnessKD_2": "F",
+  "HardnessKD_20": "M-E",
+  "HardnessKD_21": "E",
+  "HardnessKD_3": "F+",
+  "HardnessKD_4": " F-4F",
+  "HardnessKD_5": "4F-",
+  "HardnessKD_6": "4F",
+  "HardnessKD_7": "4F+",
+  "HardnessKD_8": "4F-1F",
+  "HardnessKD_9": "1F-",
+  "IceCapacityKD_0": "Nicht angegeben",
+  "IceCapacityKD_10": "Geringe Einbruchsgefahr",
+  "IceCapacityKD_20": "Normale Einbruchsgefahr",
+  "IceCapacityKD_30": "Große Einbruchsgefahr",
+  "IceCapacityKD_40": "Eis trägt eine Person nicht",
+  "IceCoverAfterKD_0": "Keine Angabe",
+  "IceCoverAfterKD_10": "Kein Eis nach diesem Datum",
+  "IceCoverAfterKD_10_desc": "Wird verwendet, um zu sagen, dass diese Saison ein bestätigtes Ende hat.",
+  "IceCoverAfterKD_4": "Allmählich komplette Eisdecke",
+  "IceCoverAfterKD_4_desc": "Wird an Stationen verwendet, die \"Eisaufbau\" verwenden, aber nicht \"Vollständig eisbedeckt\"",
+  "IceCoverAfterKD_5": "Schrittweiser Eisbruch",
+  "IceCoverAfterKD_5_desc": "Wird an Stationen verwendet, die 'Eisabbau' verwenden, aber nicht 'Eisfrei'",
+  "IceCoverAfterKD_99": "Unbekannte Bedingungen danach",
+  "IceCoverBeforeKD_0": "Nicht angegeben",
+  "IceCoverBeforeKD_1": "Jetzt erstmal Eis vor Ort",
+  "IceCoverBeforeKD_1_desc": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt.",
+  "IceCoverBeforeKD_10": "Beobachtung gilt bis gestern",
+  "IceCoverBeforeKD_10_desc": "Kontinuierliche Beobachtungen. Wir können davon ausgehen, dass die Eisbedeckung der vorherigen Beobachtung bis zum heutigen Tag gültig ist. Heute ist ein neuer Wert (oder die gleiche Eisdecke)",
+  "IceCoverBeforeKD_2": "Jetzt erstes Eis am Ufer",
+  "IceCoverBeforeKD_2_desc": "Kein Eis am Ufer gestern.",
+  "IceCoverBeforeKD_3": "Bis heute kein Eis",
+  "IceCoverBeforeKD_3_desc": "Kein Eis in dieser Wintersaison, auch heute nicht.",
+  "IceCoverBeforeKD_99": "Lücke - bis heute unbekannt",
+  "IceCoverBeforeKD_99_desc": "Messungen unterbrochen. Die Eisbedeckung aus früheren Beobachtungen ist wahrscheinlich nicht bis gestern gültig.",
+  "IceCoverKD_0": "Nicht angegeben",
+  "IceCoverKD_1": "Kein Eis am Messpunkt",
+  "IceCoverKD_10": "Eis bricht entlang des Ufers",
+  "IceCoverKD_11": "Eisbildung entlang des Ufers",
+  "IceCoverKD_2": "Teilweise vereist vor Ort",
+  "IceCoverKD_20": "Kein Seeeis",
+  "IceCoverKD_21": "See eisbedeckt",
+  "IceCoverKD_3": "Eisbedeckt am Messpunkt",
+  "IceCoverKD_40": "Flusseislauf",
+  "IceCoverKD_41": "Treibendes Frazil-Eis am Fluss",
+  "IceCoverKD_99": "Unbekannt",
+  "IceLayerKD_0": "Nicht angegeben",
+  "IceLayerKD_1": "Glatteis",
+  "IceLayerKD_11": "Glatteis zerfällt",
+  "IceLayerKD_13": "Schneeeis zerfällt",
+  "IceLayerKD_14": "Säuleneis (Frühling)",
+  "IceLayerKD_3": "Schneeeis",
+  "IceLayerKD_5": "Wasser / Matsch (mittelschwer)",
+  "IceLayerKD_7": "Wahrscheinlich Schnee-Glatteis",
+  "IceLayerKD_9": "Frazil-Eis",
+  "IceLayerKD_99": "Andere (spezifiziere)",
+  "IceProblemKD_0": "Nicht angegeben",
+  "IceProblemKD_10": "Eislauf / Eisstau",
+  "IceProblemKD_20": "Der Großteil ist Eis",
+  "IceProblemKD_30": "Eisdammanker",
+  "IceProblemKD_40": "Frazil-Eis am Zulaufgitter",
+  "IceProblemKD_50": "Frazil-Eisklotz im Eiskanal",
+  "IceProblemKD_99": "Andere (im Kommentar)",
+  "IceSkateabilityKD_0": "Nicht angegeben",
+  "IceSkateabilityKD_10": "Nicht begehbar",
+  "IceSkateabilityKD_20": "Im Zweifel begehbar",
+  "IceSkateabilityKD_30": "Normal begehbar",
+  "IceSkateabilityKD_40": "Sehr gut begehbar",
+  "IceSkateabilityKD_50": "Wie ein Traum",
+  "LandSlideKD_0": "Nicht angegeben",
+  "LandSlideKD_1": "Flachbodenrutsche",
+  "LandSlideKD_10": "Quicktonrutsch",
+  "LandSlideKD_11": "Kleine Steinlawine",
+  "LandSlideKD_2": "Erdrutsch",
+  "LandSlideKD_4": "Mure",
+  "LandSlideKD_6": "Steinschlag",
+  "LandSlideKD_7": "Matschmure",
+  "LandSlideKD_8": "Sedimentrutsch",
+  "LandSlideSizeKD_0": "Nicht angegeben",
+  "LandSlideSizeKD_1": "< 100 m3",
+  "LandSlideSizeKD_2": "100 - 10000 m3",
+  "LandSlideSizeKD_3": "> 10000 m3",
+  "LandSlideSizeKD_9": "Andere (Bitte spezifizieren)",
+  "LandSlideTriggerKD_0": "Nicht angegeben",
+  "LandSlideTriggerKD_1": "Natürlich ausgelöst",
+  "LandSlideTriggerKD_2": "Ausgrabung in der Umgebung",
+  "LandSlideTriggerKD_3": "Probleme in der Entwässerung",
+  "LandSlideTriggerKD_9": "Andere (weiterer Kommentar)",
+  "LayerOfConcernKD_0": " - ",
+  "LayerOfConcernKD_1": "Oberer Teil",
+  "LayerOfConcernKD_2": "Unterer Teil",
+  "LayerOfConcernKD_3": "Ganze Schicht",
+  "MarkingReferenceKD_0": "Unbekannt",
+  "MarkingReferenceKD_0_desc": "Unbekannt",
+  "MarkingReferenceKD_1": "im Gelände",
+  "MarkingReferenceKD_1_desc": "Gelände",
+  "MarkingReferenceKD_2": "auf der Brücke",
+  "MarkingReferenceKD_2_desc": "Brücke",
+  "MarkingReferenceKD_3": "am Hochwasserschutz",
+  "MarkingReferenceKD_3_desc": "Hochwasserschutz",
+  "MarkingReferenceKD_4": "am Gebäude",
+  "MarkingReferenceKD_4_desc": "Gebäude",
+  "MarkingReferenceKD_5": "Stange",
+  "MarkingReferenceKD_5_desc": "Stange",
+  "MarkingReferenceKD_6": "Andere",
+  "MarkingReferenceKD_6_desc": "Andere",
+  "MarkingTypeKD_0": "Unbekannt",
+  "MarkingTypeKD_0_desc": "Unbekannt",
+  "MarkingTypeKD_1": "Spray",
+  "MarkingTypeKD_1_desc": "Spray",
+  "MarkingTypeKD_2": "Marker",
+  "MarkingTypeKD_2_desc": "Marker",
+  "MarkingTypeKD_3": "Nagel",
+  "MarkingTypeKD_3_desc": "Nagel",
+  "MarkingTypeKD_4": "Schnitzerei",
+  "MarkingTypeKD_4_desc": "Schnitzerei",
+  "MarkingTypeKD_5": "Andere",
+  "MarkingTypeKD_5_desc": "Andere",
+  "MeasurementReferenceKD_0": "Unbekannt",
+  "MeasurementReferenceKD_0_desc": "Unbekannt",
+  "MeasurementReferenceKD_1": "Grund",
+  "MeasurementReferenceKD_1_desc": "Grund",
+  "MeasurementReferenceKD_2": "Hochwasserdamm",
+  "MeasurementReferenceKD_2_desc": "Hochwasserdamm",
+  "MeasurementReferenceKD_3": "Boden",
+  "MeasurementReferenceKD_3_desc": "Boden",
+  "MeasurementReferenceKD_4": "Brücke",
+  "MeasurementReferenceKD_4_desc": "Brücke",
+  "MeasurementReferenceKD_5": "Andere",
+  "MeasurementReferenceKD_5_desc": "Andere",
+  "MeasurementTypeKD_0": "Unbekannt",
+  "MeasurementTypeKD_0_desc": "Unbekannt",
+  "MeasurementTypeKD_1": "Bezogen auf die Kennzeichnung",
+  "MeasurementTypeKD_1_desc": "Bezogen auf die Kennzeichnung",
+  "MeasurementTypeKD_2": "Maßstab",
+  "MeasurementTypeKD_2_desc": "Meßstab",
+  "MeasurementTypeKD_3": "Messgerät",
+  "MeasurementTypeKD_3_desc": "Messgerät",
+  "ObservationTimingKD_0": "Unbekannt",
+  "ObservationTimingKD_0_desc": "Unbekannt",
+  "ObservationTimingKD_1": "Spur von früherem Wasserstand",
+  "ObservationTimingKD_1_desc": "Spur von früherem Wasserstand",
+  "ObservationTimingKD_2": "Aktueller Wasserstand",
+  "ObservationTimingKD_2_desc": "Aktueller Wasserstand",
+  "PrecipitationKD_0": "Nicht beobachtet",
+  "PrecipitationKD_1": "Kein Niederschlag",
+  "PrecipitationKD_2": "Niesel",
+  "PrecipitationKD_3": "Regen",
+  "PrecipitationKD_4": "Schneeregen",
+  "PrecipitationKD_5": "Schnee",
+  "PrecipitationKD_6": "Hagel",
+  "PrecipitationKD_8": "Gefrierender Regen",
+  "PropagationKD_0": "Nicht angegeben",
+  "PropagationKD_11": "CTV",
+  "PropagationKD_12": "CTE",
+  "PropagationKD_13": "CTM",
+  "PropagationKD_14": "CTH",
+  "PropagationKD_15": "CTN",
+  "PropagationKD_21": "ECTPV",
+  "PropagationKD_22": "ECTP",
+  "PropagationKD_23": "ECTN",
+  "PropagationKD_24": "ECTX",
+  "PropagationKD_5": "KBT",
+  "RegistrationKD_10": "Anmerkungen",
+  "RegistrationKD_11": "Ereignis",
+  "RegistrationKD_13": "Gefahrenzeichen",
+  "RegistrationKD_14": "Schaden",
+  "RegistrationKD_14_desc": "Gilt für alle Georisiken. Wird vorerst nur von Wasser verwendet.",
+  "RegistrationKD_21": "Wetter",
+  "RegistrationKD_22": "Schneedecke",
+  "RegistrationKD_25": "Test",
+  "RegistrationKD_26": "Lawinenbeobachtung",
+  "RegistrationKD_31": "Beurteilung der Lawinengefahr",
+  "RegistrationKD_32": "Lawinenprobleme",
+  "RegistrationKD_33": "Lawinenaktivität",
+  "RegistrationKD_36": "Schneeprofil",
+  "RegistrationKD_50": "Eisdicke",
+  "RegistrationKD_51": "Eisdecke",
+  "RegistrationKD_62": "Wasserpegel",
+  "RegistrationKD_62_desc": "neue Beobachtung des Wasserstandes für das Hochwasserdatenbankprojekt",
+  "RegistrationKD_71": "Erdrutsch",
+  "RegistrationKD_80": "Ereignisse",
+  "RegistrationKD_81": "Lawinen und Gefahrenzeichen",
+  "RegistrationKD_82": "Schneedecke und Wetter",
+  "RegistrationKD_83": "Bewertungen und Probleme",
+  "SnowDriftKD_0": "Nicht beobachtet",
+  "SnowDriftKD_1": "Keine Schneeverwehung",
+  "SnowDriftKD_2": "Leichte Schneeverwehungen",
+  "SnowDriftKD_3": "Erhebliche Schneeverwehungen",
+  "SnowDriftKD_4": "Starke Schneeverwehungen",
+  "SnowSurfaceKD_0": "Nicht beobachtet",
+  "SnowSurfaceKD_101": "Sehr viel lockerer Schnee (>30cm)",
+  "SnowSurfaceKD_102": "Viel lockerer Schnee (10-30cm)",
+  "SnowSurfaceKD_103": "Etwas lockerer Schnee (1-10cm)",
+  "SnowSurfaceKD_104": "Nasser lockerer Schnee",
+  "SnowSurfaceKD_105": "Windharsch (harter Harsch)",
+  "SnowSurfaceKD_106": "Sturmharsch (weicher Harsch)",
+  "SnowSurfaceKD_107": "Kruste",
+  "SnowSurfaceKD_108": "Andere",
+  "SnowSurfaceKD_50": "Oberflächennahe kantige Kristalle",
+  "SnowSurfaceKD_61": "Raureif auf einer harten Oberfläche",
+  "SnowSurfaceKD_62": "Oberflächenreif auf einer weichen Oberfläche",
+  "SourceKD_0": "Keine Angabe",
+  "SourceKD_10": "Ich habe das gesehen",
+  "SourceKD_20": "Mir wurde das gesagt",
+  "SourceKD_21": "In den Nachrichten / in einem Bericht gelesen",
+  "SourceKD_22": "Ich habe ein Bild/Webkamera gesehen",
+  "StabilityEvalKD_0": "Nicht angegeben",
+  "StabilityEvalKD_1": "Gut",
+  "StabilityEvalKD_2": "Mittel",
+  "StabilityEvalKD_3": "Schwach",
+  "SurfaceRoughnessKD_0": "Nicht beobachtet",
+  "SurfaceRoughnessKD_1": "Kein Schnee",
+  "SurfaceRoughnessKD_2": "Glatt",
+  "SurfaceRoughnessKD_3": "Wellenförmig",
+  "SurfaceRoughnessKD_4": "Erodiert",
+  "SurfaceRoughnessKD_5": "Sonnenbeeinflusst",
+  "SurfaceRoughnessKD_6": "Entwässerungsrillen",
+  "SurfaceWaterContentKD_0": "Nicht beobachtet",
+  "SurfaceWaterContentKD_1": "Kein Schnee",
+  "SurfaceWaterContentKD_2": "Trocken",
+  "SurfaceWaterContentKD_3": "Feucht",
+  "SurfaceWaterContentKD_4": "Nass",
+  "SurfaceWaterContentKD_5": "Sehr nass",
+  "SurfaceWaterContentKD_6": "Matsch",
+  "TerrainStartZoneKD_0": "Nicht angegeben",
+  "TerrainStartZoneKD_10": "Steilhang",
+  "TerrainStartZoneKD_20": "Leeseite",
+  "TerrainStartZoneKD_30": "Gratnähe",
+  "TerrainStartZoneKD_40": "Im Graben oder in einer Rinne",
+  "TerrainStartZoneKD_50": "Platte",
+  "TerrainStartZoneKD_60": "Mulde",
+  "TerrainStartZoneKD_70": "Wald",
+  "TerrainStartZoneKD_75": "Kahlschlag",
+  "TerrainStartZoneKD_95": "Überall",
+  "TerrainStartZoneKD_99": "Unbekannt",
+  "TripTypeKD_0": "Unbekannt",
+  "TripTypeKD_50": "Angestellt",
+  "TripTypeKD_55": "Ausbildungstour",
+  "TripTypeKD_60": "Privat",
+  "UsageFlagKD_0": "Keine Flagge gesetzt",
+  "UsageFlagKD_1": "Bereit für die historische db",
+  "UsageFlagKD_10": "Genehmigt vom Administrator",
+  "UsageFlagKD_101": "Zu administrativen Zwecken",
+  "UsageFlagKD_101_desc": "Die Beobachtung einer zu einem Ausbildungszweck. Es wird so versteckt, als ob es gelöscht worden wäre.",
+  "UsageFlagKD_2": "Weitergeleitet an die hist db",
+  "UsageFlagKD_51": "Vom Benutzer gelöscht",
+  "UsageFlagKD_52": "Gelöscht von Admin",
+  "UsageFlagKD_61": "Vom Administrator abgelehnt",
+  "UTMSourceKD_0": "Unbekannt",
+  "UTMSourceKD_10": "Vom GPS lesen",
+  "UTMSourceKD_20": "Von der Karte gelesen",
+  "UTMSourceKD_30": "In der Karte (in RegObs) klicken",
+  "UTMSourceKD_35": "In der Karte (im RegObs-App) klicken",
+  "UTMSourceKD_40": "GPS im Smartphone",
+  "UTMSourceKD_45": "Alte Position im Smartphone",
+  "UTMSourceKD_45_desc": "Position aus dem Speicher des Smartphones. Wird verwendet, wenn die aktuelle Position nicht verfügbar ist.",
+  "UTMSourceKD_50": "NVDB",
+  "UTMSourceKD_50_desc": "Nationalstraßen-Datenbank",
+  "UTMSourceKD_60": "HydraII",
+  "WaterAstrayKD_0": "Unbekannt",
+  "WaterAstrayKD_0_desc": "Unknown",
+  "WaterAstrayKD_1": "Ja",
+  "WaterAstrayKD_1_desc": "Ja",
+  "WaterAstrayKD_2": "Nein",
+  "WaterAstrayKD_2_desc": "Nein",
+  "WaterLevelMethodKD_0": "Unbekannt",
+  "WaterLevelMethodKD_0_desc": "Unbekannt",
+  "WaterLevelMethodKD_1": "Wasserstandsmarkierung",
+  "WaterLevelMethodKD_1_desc": "Wasserstandsmarkierung",
+  "WaterLevelMethodKD_2": "Wasserstandsmessung",
+  "WaterLevelMethodKD_2_desc": "Wasserstandsmessung",
+  "WaterLevelRefKD_100": "Nicht angegeben",
+  "WaterLevelRefKD_110": "Skala am Wasserstandsmesser",
+  "WaterLevelRefKD_120": "Bekannter Orientierungspunkt",
+  "WaterLevelRefKD_130": "Denkmal für Überschwemmungen",
+  "WaterLevelRefKD_140": "Das beigefügte Foto zeigt",
+  "WaterLevelRefKD_200": "Nicht angegeben",
+  "WaterLevelRefKD_210": "Skala am Wasserstandsmesser",
+  "WaterLevelRefKD_211": "Maßstab",
+  "WaterLevelRefKD_212": "Max/min zur Regulierung",
+  "WaterLevelRefKD_220": "Bekannter Orientierungspunkt",
+  "WaterLevelRefKD_221": "Denkmal für Überschwemmungen",
+  "WaterLevelRefKD_240": "Das beigefügte Foto zeigt",
+  "WaterLevelStateKD_0": "Unbekannt",
+  "WaterLevelStateKD_0_desc": "Unbekannter Wasserstand",
+  "WaterLevelStateKD_1": "Der Wasserstand sinkt",
+  "WaterLevelStateKD_1_desc": "Der Wasserstand sinkt",
+  "WaterLevelStateKD_2": "Der Wasserstand steigt",
+  "WaterLevelStateKD_2_desc": "Der Wasserstand steigt",
+  "WaterLevelStateKD_3": "Der Wasserstand ist unverändert",
+  "WaterLevelStateKD_3_desc": "Der Wasserstand ist unverändert",
+  "WaterLevelStateKD_4": "Der Wasserstand kann nicht bestimmt werden",
+  "WaterLevelStateKD_4_desc": "Der Wasserstand kann nicht bestimmt werden",
+  "WetnessKD_0": " - ",
+  "WetnessKD_1": "T",
+  "WetnessKD_2": "T-F",
+  "WetnessKD_3": "F",
+  "WetnessKD_4": "F-N",
+  "WetnessKD_5": "N",
+  "WetnessKD_6": "N-SN",
+  "WetnessKD_7": "SN",
+  "WetnessKD_8": "SN-M",
+  "WetnessKD_9": "M",
+  "WindSpeedKD_0": "Keine Angabe",
+  "WindSpeedKD_10": "Ruhige / leichte Brise",
+  "WindSpeedKD_20": "Brise",
+  "WindSpeedKD_30": "Frische Brise",
+  "WindSpeedKD_40": "Starke Brise",
+  "WindSpeedKD_50": "Mäßiger Sturm",
+  "WindSpeedKD_60": "Sturm",
+  "WindSpeedKD_70": "Starker Sturm",
+  "WindSpeedKD_80": "Sturm",
+  "WindSpeedKD_90": "Orkanstärke"
 }

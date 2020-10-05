@@ -1,0 +1,104 @@
+{
+  "Cookies": {
+    "Title": "Utilizzo dei cookie"
+  },
+  "CopiedToClipboard": "Ipercollegamento all'osservazione copiata negli appunti.",
+  "CountOf": "Numero di",
+  "Footer": {
+    "BeAwareThat": "Tieni presente che le questioni urgenti devono essere indirizzate al meglio direttamente al centro di previsione o al gruppo Facebook"
+  },
+  "Login": {
+    "NoUser": "Nessun utente?"
+  },
+  "MapSelection": {
+    "SupportClayZonesName": "Zone di argilla",
+    "SupportSteepnessName": "Inclinazione",
+    "Water": {
+      "UnderPlanning": "In progettazione"
+    }
+  },
+  "Navbar": {
+    "Snow": {
+      "SearchInObservation": "Rapporto neve"
+    }
+  },
+  "Observations": {
+    "AvalancheActivityObs": {
+      "NoAvalancheActivity": "Nessuna Attività valanghiva osservata"
+    },
+    "AvalancheEvalProblem2": {
+      "AvalCauseAttributeLightTID": "Propertà del strato debole non favoribili",
+      "AvalTriggerSimpleTID": "Sovraccarico aspettato per distacco",
+      "ObsName": "Evaluazione del problema tipico",
+      "PrevalenceArea": "Distribuzione spaziale della situazione tipica"
+    },
+    "AvalancheEvaluation": {
+      "AvalancheEvaluation1": "Evaluazione",
+      "Comment": "Sviluppo"
+    },
+    "AvalancheEvaluation2": {
+      "AvalancheEvaluation": "Evaluazione"
+    },
+    "AvalancheEvaluation3": {
+      "AvalancheEvaluation": "Evaluazione"
+    },
+    "AvalancheObs": {
+      "AvalancheTriggerTID": "Causa di distacco",
+      "DtAvalancheTime": "Tempo",
+      "FractureWidth": "Lunghezza della fronte di rottura",
+      "SetStartPosition": "Imposta la posizione iniziale",
+      "TerrainStartZoneTID": "Terreno nella zona di distacco"
+    },
+    "Incident": {
+      "Comment": "Commento",
+      "DamageExtentTID": "Estensioni"
+    },
+    "InMeter": "in metri",
+    "LandslideObs": {
+      "SetStartPosition": "Imposta la posizione iniziale",
+      "Time": "Ora"
+    },
+    "SnowCover": {
+      "SnowPilotRefTID": "Profilo"
+    },
+    "SnowProfile": {
+      "Stratification": {
+        "GrainFormSecondary": "Tipo di grano secondario",
+        "GrainSizeAvgMax": "Dimensione di cristallo massimo (mm)"
+      }
+    },
+    "SnowSurfaceObservation": {
+      "HeightLimitLayeredSnow": "Limite di altezza per lo strato di neve",
+      "NewSnowLine": "Limite neve fresca",
+      "SnowDepth": "Altezza manto nevoso",
+      "SnowSurfaceTName": "Durezza della superficie",
+      "SurfaceWaterContentTName": "Contenuto in acqua liquida"
+    },
+    "WaterLevel": {
+      "WaterLevelRefTName": "livello dell'acqua di riferenza"
+    },
+    "WeatherObservation": {
+      "Clouds": "Nuvole",
+      "CommentPlaceholder": "Come è stato il tempo le ultime 24 ore? Per esempio: Ha nevicato? Ci sono state variazioni in temperatura? Dove è stato il limito di congielamento?",
+      "OnlyFullPercentage": "Percenti senza decimali",
+      "WindDirection": "da"
+    }
+  },
+  "RegistrationEdit": {
+    "Discard": "Scartare"
+  },
+  "Reset": "Resetta",
+  "Search": {
+    "Criterias": {
+      "Regions": {
+        "BRegionInfo": "Bollettino solo su livello pericolo 4 o 5"
+      },
+      "TimePeriod": {
+        "InvalidInteger": "Numero valido"
+      }
+    }
+  },
+  "SearchButtonName": "Cerca",
+  "ShowSearchButtonName": "Mostra barra di ricerca",
+  "SignIn": "Accedi "
+}
