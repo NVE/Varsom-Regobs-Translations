@@ -107,10 +107,10 @@
         }
     },
     "SaveSearch": {
-      "Title": "Lagre søk",
-      "Description": "Søkekriteriene vil lagres i din nettleser, og ikke synkroniseres til andre enheter. Du kan lagre maksimalt 5 søk per naturfare.",
-      "InputLabel": "Navn på søk",
-      "FailedSave": "Kunne ikke lagre søk"
+      "Title": "Save search",
+      "Description": "Search will be saved in your browser, and will not be synced across devices. You can save max 5 searches per geohazard.",
+      "InputLabel": "Search name",
+      "FailedSave": "Could not save search"
     }
   },
   "Direction": {
