@@ -60,6 +60,7 @@
   },
   "CopiedToClipboard": "Hyperlink to the observation copied to the clipboard.",
   "CountOf": "Count",
+  "CreateAccount": "Create NVE-account",
   "CreateObservation": "Create observation",
   "Date": "Date",
   "Delete": "Delete",
@@ -80,6 +81,21 @@
       "EditNameLabel": "Location name",
       "Title": "Where was the observation made?"
     },
+    "NickName": {
+      "Create": {
+        "HelpText": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations.",
+        "Title": "Add nickname"
+      },
+      "Edit": {
+        "HelpText": "The nickname is shown on your observations.",
+        "Title": "Edit nickname"
+      },
+      "Error": {
+        "Error": "Couldn't save nickname. Please try later.",
+        "Invalid": "Please provide a nickname"
+      },
+      "InputText": "Please type nickname"
+    },
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
@@ -90,21 +106,6 @@
       "Source": "Source",
       "Title": "When was the observation made?",
       "Uncertainty": "Uncertainty in position"
-    },
-    "NickName": {
-        "Create": {
-            "Title": "Add nickname",
-            "HelpText": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations."
-            },
-        "Edit": {
-            "Title": "Edit nickname",
-            "HelpText": "The nickname is shown on your observations."
-            },
-        "InputText": "Please type nickname",
-        "Error": {
-            "Invalid": "Please provide a nickname",
-            "Error": "Couldn't save nickname. Please try later."
-        }
     }
   },
   "Direction": {
@@ -148,6 +149,13 @@
     "XGeoAlt": "Logo for Xgeo.no"
   },
   "Forgotten": "Forgotten password?",
+  "GeoLocation": {
+    "PositionError": {
+      "PERMISSION_DENIED": "To fetch your position you need to alter your browser settings",
+      "POSITION_UNAVAILABLE": "Not able fetch your position",
+      "TIMEOUT": "It took to long time to fetch your position"
+    }
+  },
   "Geohazards": {
     "All": "All",
     "Ice": "Ice",
@@ -155,13 +163,6 @@
     "Soil": "Soil",
     "Water": "Water",
     "WaterSoil": "Water & Soil"
-  },
-  "GeoLocation": {
-    "PositionError": {
-      "PERMISSION_DENIED": "To fetch your position you need to alter your browser settings",
-      "POSITION_UNAVAILABLE": "Not able fetch your position",
-      "TIMEOUT": "It took to long time to fetch your position"
-    }
   },
   "GoBack": "Go back",
   "GoToObservation": "Go to observation",
@@ -260,25 +261,27 @@
   "Menu": "Menu",
   "MultipleRegistrations": "registrations",
   "MyPage": {
+    "MyCompetence": "My competence",
     "MyGroups": "My groups",
     "MyObservations": {
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
+      "HighestCompetence": "HIGHEST COMPETENCE",
       "MyCompetences": "My competences",
+      "MyNveAccount": "MY NVE-ACCOUNT",
       "NoCompetence": "You have no competence added to your Regobs user.",
       "NoObservations": {
-        "Title": "Share what you see!",
-        "Message": "You haven't logged any observations yet. As soon as you share what you see outdoors by logging an observation, it will be visible here."
+        "Message": "You haven't logged any observations yet. As soon as you share what you see outdoors by logging an observation, it will be visible here.",
+        "Title": "Share what you see!"
       },
       "Title": "My observations"
     },
     "MyPage": "My page",
     "MyPlaces": "My places",
-    "MyCompetence": "My competence",
-    "VarsomUser": "Varsom User",
     "UserInfo": {
       "EditNickname": "Edit nickname"
-    }
+    },
+    "VarsomUser": "Varsom User"
   },
   "Navbar": {
     "All": {
@@ -310,6 +313,7 @@
   },
   "No": "No",
   "Now": "now",
+  "NveAccountSignIn": "Sign in with NVE account",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
@@ -566,8 +570,8 @@
       "UnsentDescription": "Form not saved to Regobs.",
       "UnsentSummaryTitle": "Unsent form",
       "ValidExposition": {
-        "Title": "Aspect",
-        "All": "All"
+        "All": "All",
+        "Title": "Aspect"
       }
     },
     "SnowCover": {
