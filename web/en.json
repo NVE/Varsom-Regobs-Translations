@@ -105,6 +105,12 @@
             "Invalid": "Please provide a nickname",
             "Error": "Couldn't save nickname. Please try later."
         }
+    },
+    "SaveSearch": {
+      "Title": "Lagre søk",
+      "Description": "Søkekriteriene vil lagres i din nettleser, og ikke synkroniseres til andre enheter. Du kan lagre maksimalt 5 søk per naturfare.",
+      "InputLabel": "Navn på søk",
+      "FailedSave": "Kunne ikke lagre søk"
     }
   },
   "Direction": {
