@@ -106,6 +106,12 @@
       "Source": "Kildeangivelse",
       "Title": "Når ble observasjonen gjort?",
       "Uncertainty": "Usikkerhet i posisjon"
+    },
+    "SaveSearch": {
+      "Title": "Lagre søk",
+      "Description": "Søkekriteriene vil lagres i din nettleser, og ikke synkroniseres til andre enheter. Du kan lagre maksimalt 5 søk per naturfare.",
+      "InputLabel": "Navn på søk",
+      "FailedSave": "Kunne ikke lagre søk"
     }
   },
   "Direction": {

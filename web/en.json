@@ -106,6 +106,12 @@
       "Source": "Source",
       "Title": "When was the observation made?",
       "Uncertainty": "Uncertainty in position"
+    },
+    "SaveSearch": {
+      "Title": "Save search",
+      "Description": "Search will be saved in your browser, and will not be synced across devices. You can save max 5 searches per geohazard.",
+      "InputLabel": "Search name",
+      "FailedSave": "Could not save search"
     }
   },
   "Direction": {
