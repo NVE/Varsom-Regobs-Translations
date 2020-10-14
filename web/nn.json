@@ -7,15 +7,9 @@
   "Attachment": {
     "Attachment": "Vedlegg",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velgje",
-    "NoDescription": "Ingen skildring",
     "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtyper er:",
+    "NoDescription": "Ingen skildring",
     "Uploading": "Laster opp"
-  },
-  "Cancel": "Avbryt",
-  "ChangePassword": "Bytt passord",
-  "Chip": {
-    "GoToObservation": "Gå til observasjon",
-    "ShowAllObservations": "Vis alle"
   },
   "COMPASS_DIRECTION": {
     "EAST": "Aust",
@@ -34,6 +28,12 @@
     "SOUTH_WEST_SHORT": "SV",
     "WEST": "Vest",
     "WEST_SHORT": "V"
+  },
+  "Cancel": "Avbryt",
+  "ChangePassword": "Bytt passord",
+  "Chip": {
+    "GoToObservation": "Gå til observasjon",
+    "ShowAllObservations": "Vis alle"
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
@@ -61,8 +61,13 @@
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Tal",
   "CreateObservation": "Opprett observasjon",
+  "Date": "Dato",
   "Delete": "Slett",
   "Dialogs": {
+    "Account": {
+      "LoggedOutDescription": "Du har blitt automatisk logget ut. Vil du logge inn på nytt?",
+      "LoggedOutTitle": "Logget ut"
+    },
     "Buttons": {
       "AddForm": "Legg til skjema",
       "Back": "Tilbake",
@@ -75,6 +80,21 @@
       "EditNameLabel": "Stadsnavn",
       "Title": "Kvar blei observasjonen gjort?"
     },
+    "NickName": {
+      "Create": {
+        "HelpText": "Du må legge til et kallenavn for å bruke Varsom Regobs. Kallenavnet vises når du gjør observasjoner.",
+        "Title": "Legg til kallenavn"
+      },
+      "Edit": {
+        "HelpText": "Kallenavnet vises når du gjør observasjoner.",
+        "Title": "Rediger kallenavn"
+      },
+      "Error": {
+        "Error": "Fikk ikke til å lagre kallenavn. Vennligst prøv igjen senere.",
+        "Invalid": "Vennligst angi kallenavn"
+      },
+      "InputText": "Skriv inn kallenavn"
+    },
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunktet observasjonen blei gjort. Bruk lokaltid på observasjonsstaden.",
@@ -85,25 +105,6 @@
       "Source": "Kjelde",
       "Title": "Når blei observasjonen gjort?",
       "Uncertainty": "Usikkerheit i posisjon"
-    },
-    "Account": {
-      "LoggedOutDescription": "Du har blitt automatisk logget ut. Vil du logge inn på nytt?",
-      "LoggedOutTitle": "Logget ut"
-    },
-    "NickName": {
-      "Create": {
-        "Title": "Legg til kallenavn",
-        "HelpText": "Du må legge til et kallenavn for å bruke Varsom Regobs. Kallenavnet vises når du gjør observasjoner."
-      },
-      "Edit": {
-        "Title": "Rediger kallenavn",
-        "HelpText": "Kallenavnet vises når du gjør observasjoner."
-      },
-      "InputText": "Skriv inn kallenavn",
-      "Error": {
-        "Invalid": "Vennligst angi kallenavn",
-        "Error": "Fikk ikke til å lagre kallenavn. Vennligst prøv igjen senere."
-      }
     },
     "SaveSearch": {
       "Title": "Lagre søk",
@@ -153,7 +154,13 @@
     "XGeoAlt": "Logo for Xgeo.no"
   },
   "Forgotten": "Gløymt passord?",
-  "from": "frå",
+  "GeoLocation": {
+    "PositionError": {
+      "PermissionDenied": "For å hente posisjonen din må du endre innstillinger i nettleseren",
+      "PositionUnavailable": "Får ikke tak i posisjonen din",
+      "Timeout": "Det tok for lang tid å få tak i posisjonen din"
+    }
+  },
   "Geohazards": {
     "All": "Alle",
     "Ice": "Is",
@@ -177,8 +184,6 @@
   },
   "Information": "Informasjon",
   "InvalidDate": "Ugyldig dato",
-  "is": "is",
-  "jord": "jord",
   "LanguageLabel": "Språk:",
   "Login": {
     "CreateNewRegObsUser": "Opprett regObs bruker her.",
@@ -246,6 +251,7 @@
     }
   },
   "MapSideNav": {
+    "ChosenObservation": "Valgt obervasjon",
     "Hide": "Skjul",
     "MapSelection": "Kartval",
     "MoveMap": "Zoom ut eller forleng tidsrommet for å sjå fleire observasjonar",
@@ -255,32 +261,30 @@
     "Options": "Kartval",
     "ShowInList": "Vis i liste",
     "ShowMapSelection": "Vis kartval",
-    "ShowObservationsInMapView": "Vis observasjonar i kartutsnittet",
-    "ChosenObservation": "Valgt obervasjon"
+    "ShowObservationsInMapView": "Vis observasjonar i kartutsnittet"
   },
   "Menu": "Meny",
-  "metersOverSeaLevel": "moh",
   "MultipleRegistrations": "registreringar",
   "MyPage": {
+    "MyCompetence": "Min kompetanse",
     "MyGroups": "Mine grupper",
     "MyObservations": {
       "Competence": "Kompetanse",
       "ContactQuestion": "Ta gjerne kontakt om du har spørsmål om kompetanse. ",
       "MyCompetences": "Min kompetanse",
       "NoCompetence": "Du har ikkje kompetanse knytt til Regobs-brukaren din.",
-      "Title": "Mine observasjonar",
       "NoObservations": {
-        "Title": "Del det du ser!",
-        "Message": "Du har ikke registrert noen observasjoner enda. Så fort du deler det du ser ute i naturen ved å gjøre en observasjon, vil den vises her."
-      }
+        "Message": "Du har ikke registrert noen observasjoner enda. Så fort du deler det du ser ute i naturen ved å gjøre en observasjon, vil den vises her.",
+        "Title": "Del det du ser!"
+      },
+      "Title": "Mine observasjonar"
     },
     "MyPage": "Mi side",
     "MyPlaces": "Mine plassar",
-    "VarsomUser": "Varsom-bruker",
-    "MyCompetence": "Min kompetanse",
     "UserInfo": {
       "EditNickname": "Rediger kallenavn"
-    }
+    },
+    "VarsomUser": "Varsom-bruker"
   },
   "Navbar": {
     "All": {
@@ -295,8 +299,8 @@
     "SearchInObservation": "Søk i observasjonane",
     "ShowObservationsInMap": "Vis observasjonar i kart",
     "Snow": {
-      "RegisteredTrips": "Sjå innmeldte turar",
       "RegisterObservation": "Ny snøobservasjon",
+      "RegisteredTrips": "Sjå innmeldte turar",
       "SearchInObservation": "Rapportvising for snø",
       "ShowObservationsInMap": "Snøobservasjon og brattleikkart"
     },
@@ -313,20 +317,18 @@
   },
   "No": "Nei",
   "Now": "no",
-  "observation": "observasjonar",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
     "Download": "Last ned",
     "ForecastRegion": "Varslingsregion",
     "Forms": "Skjema",
-    "Observed": "Observert:",
     "ObsId": "ID:",
+    "Observed": "Observert:",
     "Original": "Sjå original",
     "Registered": "Registrert:",
     "SentInBy": "Sendt inn av",
     "Updated": "Oppdatert:"
   },
-  "observations": "observasjon(ar)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Eksposisjon",
@@ -359,16 +361,16 @@
       "ObsName": "Skredfareteikn"
     },
     "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Skredtype",
+      "AvalCauseAttributeLightTID": "Ugunstige egenskaper på det svake laget",
       "AvalCauseDepthTID": "Avstanden mellom det svake laget og overflata",
       "AvalCauseTID": "Type svakt lag",
       "AvalProbabilityTID": "Sannsyn for skred",
       "AvalTriggerSimpleTID": "Sannsynleg last for å løyse ut skred",
+      "AvalancheExtTID": "Skredtype",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Storleik på venta skred",
       "ObsName": "Skredproblem",
-      "PrevalenceArea": "Utbreiing losneområde",
-      "AvalCauseAttributeLightTID": "Ugunstige egenskaper på det svake laget"
+      "PrevalenceArea": "Utbreiing losneområde"
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Faregrad",
@@ -400,14 +402,15 @@
       "ObsName": "Skredfarevurdering"
     },
     "AvalancheObs": {
+      "AvalCauseTID": "Svakt lag",
       "AvalancheTID": "Skredtype",
       "AvalancheTriggerTID": "Skredutløysar",
       "AvalancheType": "Skredtype",
-      "AvalCauseTID": "Svakt lag",
       "Comment": "Kommentar",
       "DestructiveSizeTID": "Storleik",
       "DtAvalancheTime": "Tid",
       "FractureHeight": "Brothøyde (cm)",
+      "FractureWidth": "Bruddbredde (m)",
       "HeigthStartZone": "Losneområdet",
       "HeigthStopZone": "Stoppområdet",
       "IncidentDescription": "Ulykke eller skade",
@@ -417,10 +420,9 @@
       "PositionDescription": "Sett start- og sluttpunkt for skredet, om du veit det.",
       "SetStartPosition": "Sett startpunkt",
       "SetStopPosition": "Sett sluttpunkt",
+      "TerrainStartZoneTID": "Terrengtype i løsneområdet",
       "TrajectoryName": "Skredbanenamn",
-      "ValidExposition": "Eksposisjon",
-      "FractureWidth": "Bruddbredde (m)",
-      "TerrainStartZoneTID": "Terrengtype i løsneområdet"
+      "ValidExposition": "Eksposisjon"
     },
     "AvalancheProblem": {
       "AvalancheDestructiveSize": "Storleik på venta skred",
@@ -438,19 +440,19 @@
       "DistanceFromTop": "Avstand fra toppen (cm)",
       "FractureType": "Brottype",
       "Include": "Inkluder i snøprofil",
+      "NumberOfHits": "Antall slag",
       "ObsName": "Stabilitetstest",
       "Stability": "Stabilitet",
       "StabilityEvalTID": "Stabilitet",
       "Test": "Test",
-      "Type": "Test type",
-      "NumberOfHits": "Antall slag"
+      "Type": "Test type"
     },
     "DamageObs": {
       "Comment": "Kommentar",
       "DamageTypeTID": "Skredtype",
+      "LocationDescription": "Angi skadepunktet hvis du kjenner det",
       "LocationTitle": "Kvar er skadepunktet?",
-      "ObsName": "Skadar",
-      "LocationDescription": "Angi skadepunktet hvis du kjenner det"
+      "ObsName": "Skadar"
     },
     "DangerObs": {
       "Area": "Område",
@@ -481,8 +483,8 @@
       "IceCoverBeforeObservation": "Isdekning før observasjon",
       "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
       "IceCoverTName": "Isdekning",
-      "ObsName": "Isdekningsgrad",
-      "IceSkateabilityTName": "Skøytbarhet"
+      "IceSkateabilityTName": "Skøytbarhet",
+      "ObsName": "Isdekningsgrad"
     },
     "IceThickness": {
       "AddIceLayer": "Legg til islag",
@@ -502,12 +504,14 @@
       "OverIce": "Over isen ",
       "OverWaterAfterDrilling": "Overvatn etter boring",
       "OverWaterBeforeDrilling": "Overvatn før boring",
+      "SlushSnowBeforeDrilling": "Sørpe før boring (cm)",
+      "SnowDepthBeforeDrilling": "Snø før boring (cm)",
       "Total": "totalt",
       "TwoDecimalPlaces": "(cm, med opptil to desimalar)",
-      "WaterSurfaceInHole": "Vassflata i holet",
-      "SlushSnowBeforeDrilling": "Sørpe før boring (cm)",
-      "SnowDepthBeforeDrilling": "Snø før boring (cm)"
+      "WaterSurfaceInHole": "Vassflata i holet"
     },
+    "InCm": "I centimeter",
+    "InMeter": "I meter",
     "Incident": {
       "ActivityInfluencedTID": "Aktivitet",
       "Comment": "Kommentar",
@@ -520,7 +524,6 @@
       "ObsName": "Ulykke/hending",
       "Urls": "Lenker"
     },
-    "InCm": "I centimeter",
     "LandslideObs": {
       "ActivityInfluencedTName": "Kva blei påverka?",
       "And": "og",
@@ -534,9 +537,9 @@
       "ForecastAccurateTName": "Stemte varselet på varsom.no?",
       "InMap": "i kart",
       "LandSlideSizeTName": "Storleik",
-      "LandslideTime": "Skredtidspunkt",
       "LandSlideTName": "Skredtype",
       "LandSlideTriggerTName": "Skredutløysar",
+      "LandslideTime": "Skredtidspunkt",
       "LandslideType": "Skredtype",
       "ObsName": "Skredhending",
       "Position": "Skredposisjon",
@@ -567,12 +570,12 @@
         "LowerHeight": "Nedre høgde",
         "Title": "Utsett høgde"
       },
+      "UnsentDescription": "Skjema ikke synkronisert med Regobs.",
+      "UnsentSummaryTitle": "Usendt skjema",
       "ValidExposition": {
         "All": "Alle",
         "Title": "Eksposisjon"
-      },
-      "UnsentDescription": "Skjema ikke synkronisert med Regobs.",
-      "UnsentSummaryTitle": "Usendt skjema"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
@@ -588,12 +591,13 @@
     },
     "SnowProfile": {
       "AddLayerBottom": "Legg til eit nytt lag nedst",
-      "AddLayers": "Legg til lagdeling",
       "AddLayerTop": "Legg til eit nytt lag øvst",
+      "AddLayers": "Legg til lagdeling",
       "AddTests": "Legg til testar",
       "Cm": "cm",
       "Comment": "Kommentar",
       "CompressionTest": "Stabilitetstest",
+      "CompresstionTestConnectedToProfile": "test observert knyttet til profilet",
       "Density": {
         "AddDensity": "Legg til tettleik",
         "Average": "Snitt",
@@ -620,67 +624,66 @@
       "ObsName": "Snøprofil",
       "SnowDensity": "Snøtettleik",
       "SnowTemperature": "Temperatur",
+      "StratLayers": "Lagdeling",
       "Stratification": {
         "CriticalLayer": "Kritisk lag",
+        "DeleteLayer": "Slett laget",
         "GetLayers": "Hent lagdeling frå ein annan profil",
         "GetLayersFromOtherObsInfo": "Du kan velje å kopiere laga frå andre profilar, registrert innanfor 100 km dei siste 14 dagane.",
+        "GrainFormPrimary": "Kornform",
+        "GrainFormSecondary": "Sek. kornform",
         "GrainSizeAvg": "Kornstorleik (mm)",
         "GrainSizeAvgMax": "Maks kornstorleik (mm)",
         "Hardness": "Hardheit",
+        "HardnessBottom": "Nedre hardhet",
         "Layer": "Lag",
         "MultipleObserved": "lagdelinger observert",
         "NoPreviousLayersFound": "Ingen tidligere lagdelinger funne",
         "Observed": "lagdeling observert",
+        "SelectLayers": "Velg lagdeling",
         "ShowLess": "Vis færre val",
         "ShowMore": "Vis fleire val",
         "Thickness": "Tjukkleik (cm)",
-        "Wetness": "Fuktigheit",
-        "DeleteLayer": "Slett laget",
-        "GrainFormPrimary": "Kornform",
-        "GrainFormSecondary": "Sek. kornform",
-        "HardnessBottom": "Nedre hardhet",
-        "SelectLayers": "Velg lagdeling",
-        "UseLayers": "Bruk lagdelingen"
+        "UseLayers": "Bruk lagdelingen",
+        "Wetness": "Fuktigheit"
       },
-      "StratLayers": "Lagdeling",
       "SumOfAllLayers": "Summen av alle lag:",
       "Temperature": {
+        "Add": "Legg til temperatur",
         "MultipleObserved": "temperaturpunkt observert",
         "Observed": " temperaturpunkt observert",
         "Placeholder": "Temperatur (°C)",
-        "TempProfile": "Temperaturprofil",
-        "Add": "Legg til temperatur"
+        "TempProfile": "Temperaturprofil"
       },
       "Test": {
         "Add": "Legg til",
         "AddTest": "Legg til test",
+        "AttachedToProfile": "tester knyttet til profilen",
+        "AttachedToProfileTooltip": "Testen er knyttet til snøprofilen",
         "Tests": "testar",
         "TestsWillAppearHere": "Testar du har lagd til visast her",
-        "Update": "Oppdater test",
-        "AttachedToProfile": "tester knyttet til profilen",
-        "AttachedToProfileTooltip": "Testen er knyttet til snøprofilen"
-      },
-      "CompresstionTestConnectedToProfile": "test observert knyttet til profilet"
+        "Update": "Oppdater test"
+      }
     },
     "SnowSurfaceObservation": {
       "Comment": "Kommentar",
       "CommentHeader": "Skildr snødekket",
       "CommentPlaceholder": "Korleis er snøfordelinga generelt, men tanke på høgde og eksposisjon? Er det store skilnadar i regionen?",
       "FootPenetration": "Innsynking fot",
+      "HeightLimitLayeredSnow": "Øvre grense for snø uten lagdeling (moh)",
       "HightLimitLayeredSnowPlaceholder": "For snø utan farleg lagdeling",
       "NewSnow": "nysnø",
+      "NewSnowDepth24": "Siste døgn (cm)",
+      "NewSnowLine": "Nysnøgrense (moh)",
       "ObsName": "Snødekke",
       "SnowDepth": "Snødybde",
       "SnowDriftTName": "Snøfokk",
+      "SnowLine": "Snøgrense (moh)",
       "SnowLines": "Snøgrenser",
       "SnowSurfaceTName": "Snødekkehardheit",
       "SurfaceRougnessTName": "Overflate",
       "SurfaceWaterContentTName": "Snøfuktigheit",
-      "Total": "totalt",
-      "HeightLimitLayeredSnow": "Øvre grense for snø uten lagdeling (moh)",
-      "NewSnowDepth24": "Siste døgn (cm)",
-      "NewSnowLine": "Nysnøgrense (moh)",
-      "SnowLine": "Snøgrense (moh)"
+      "Total": "totalt"
     },
     "WaterLevel": {
       "AppliesFor": "Gjeld for",
@@ -694,36 +697,38 @@
       "WaterLevelValue": "Storleik"
     },
     "WaterLevel2": {
+      "AddNewMarking": "Legg til ny vannstandsmarkering",
+      "AddNewMeasurement": "Legg til ny vannstandsmåling",
       "Comment": "Kommentar",
       "DescribeSituationQuestion": "Korleis vil di skildre situasjonen?",
+      "MarkingComment": "Beskriv markeringen",
       "MarkingReferenceQuestion": "Eg har markert vasstanden i/på",
       "MarkingTypeQuestion": "Eg har markert vasstanden med",
       "MeasuredRelativeTo": "Måling relativt til",
+      "MeasurementComment": "Beskriv målingen",
       "MeasurementReferenceComment": "Skildr høgde",
       "MeasurementReferenceQuestion": "Høgda er relativt til",
       "MeasurementReferenceTName": "Vassmarkering på/i",
       "MeasurementTypeQuestion": "Korleis les du av vasstanden?",
       "MeasurementTypeTName": "Måleinstrument",
       "MeasuringToolDescription": "Skriv inn måleinstrument her",
+      "ObsName": "Vasstand",
       "ObservationTimingQuestion": "Kva registerar du?",
       "ObservationTimingTName": "Kva registrerar du?",
-      "ObsName": "Vasstand",
+      "WaterAstrayQuestion": "Kan du se vann på avveie?",
+      "WaterAstrayTName": "Vann på avveie",
       "WaterLevelDescription": "Vasstand i meter",
       "WaterLevelMethodQuestion": "Korleis registrerar du?",
       "WaterLevelStateTName": "Situasjon",
       "WaterMarking": "Vassmerking",
       "WaterMeasurement": "Vassmåling",
       "WaterMeasurementValue": "Vassmålingsverdi",
-      "With": "med",
-      "AddNewMarking": "Legg til ny vannstandsmarkering",
-      "AddNewMeasurement": "Legg til ny vannstandsmåling",
-      "MarkingComment": "Beskriv markeringen",
-      "MeasurementComment": "Beskriv målingen",
-      "WaterAstrayQuestion": "Kan du se vann på avveie?",
-      "WaterAstrayTName": "Vann på avveie"
+      "With": "med"
     },
     "WeatherObservation": {
+      "AirTemperature": "Lufttemperatur (°C)",
       "AirTemperaturePlaceholder": "Kan skrivast med to desimalar",
+      "CloudCover": "Skydekke (%)",
       "Clouds": "skyer",
       "Comment": "Kommentar",
       "CommentHeader": "Skildr vêret",
@@ -742,16 +747,12 @@
       "PrecipitationTID": "Nedbørstype",
       "Wind": "Vind",
       "WindDirection": "frå",
-      "WindSpeed": "Vindhastigheit (m/s)",
-      "AirTemperature": "Lufttemperatur (°C)",
-      "CloudCover": "Skydekke (%)"
-    },
-    "InMeter": "I meter"
+      "WindSpeed": "Vindhastigheit (m/s)"
+    }
   },
   "Of": "av",
   "Ok": "Ok",
   "Password": "Passord",
-  "picture": "bilete",
   "PictureCarousel": {
     "Comment": "Kommentar",
     "Copyright": "Opphavsrett",
@@ -773,16 +774,6 @@
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
-    "DeleteObservation": "Slett observasjon",
-    "Discard": "Forkast",
-    "Done": "Ferdig",
-    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast.",
-    "MissingNetwork": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
-    "SaveAsDraft": "Lagre som kladd?",
-    "SaveDraft": "Lagre kladd",
-    "SaveDraftMessage": "Du har ikkje lagt til nokre skjemaa og observasjonen blir difor ikkje publisert. Vil du lagre som kladd og halde fram seinare?",
-    "SubmitFailedHeader": "Innsendinga misslykkast",
-    "SyncInProgress": "Synkronisering føregår:",
     "BadRequest": "Ugyldig skjema.",
     "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
     "ContinueOnDraft": "Fortsett på kladd",
@@ -791,11 +782,21 @@
     "ContinueOnDraftMessage": "Du har allerede en kladd liggende fra",
     "ContinueOnDraftQuestion": "Vil du fortsette på den?",
     "DeleteError": "Klarte ikke slette observasjon!",
+    "DeleteObservation": "Slett observasjon",
+    "Discard": "Forkast",
+    "Done": "Ferdig",
     "ErrorHasBeenLogged": "Feilmeldingen har blitt logget i systemet med referanse",
+    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast.",
+    "MissingNetwork": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
+    "SaveAsDraft": "Lagre som kladd?",
+    "SaveDraft": "Lagre kladd",
+    "SaveDraftMessage": "Du har ikkje lagt til nokre skjemaa og observasjonen blir difor ikkje publisert. Vil du lagre som kladd og halde fram seinare?",
+    "SubmitFailedHeader": "Innsendinga misslykkast",
     "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
     "SyncErrorFormInfo": "Et eller flere objekter på dette skjemaet kunne ikke sendes inn.",
+    "SyncInProgress": "Synkronisering føregår:",
     "YesDelete": "Ja, slett!"
   },
   "RegistrationKeyInfo": {
@@ -918,8 +919,8 @@
     }
   },
   "SearchButtonName": "Søk",
-  "Searching": "Søker",
   "SearchResultOfTotal": "av",
+  "Searching": "Søker",
   "ShowAllObservations": "Vis alle observasjonar",
   "ShowFilteredObservations": "Vis valgte observasjonar",
   "ShowLess": "Vis mindre",
@@ -928,7 +929,6 @@
   "SignIn": "Logg inn",
   "SignOut": "Logg ut",
   "SingleRegistration": "registrering",
-  "snø": "snø",
   "SortByName": "Sorter etter:",
   "TableModes": {
     "CompactKey": "Kompakt",
@@ -936,7 +936,6 @@
     "ShortKey": "Kort"
   },
   "Time": "tidspunkt",
-  "to": "to",
   "Unknown": "Ukjent",
   "Url": {
     "Add": "Legg til web-lenke",
@@ -952,14 +951,15 @@
     "Regobs": "REGOBS",
     "User": "BRUKER"
   },
-  "vann": "vatn",
   "Yes": "Ja",
-  "Date": "Dato",
-  "GeoLocation": {
-    "PositionError": {
-      "PermissionDenied": "For å hente posisjonen din må du endre innstillinger i nettleseren",
-      "PositionUnavailable": "Får ikke tak i posisjonen din",
-      "Timeout": "Det tok for lang tid å få tak i posisjonen din"
-    }
-  }
+  "from": "frå",
+  "is": "is",
+  "jord": "jord",
+  "metersOverSeaLevel": "moh",
+  "observation": "observasjonar",
+  "observations": "observasjon(ar)",
+  "picture": "bilete",
+  "snø": "snø",
+  "to": "to",
+  "vann": "vatn"
 }
