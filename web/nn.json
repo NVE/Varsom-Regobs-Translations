@@ -899,7 +899,7 @@
         "Label": "Sorter på",
         "LastUpdated": "Sist oppdaterte tid",
         "Observed": "Observert tid",
-        "Registered": "Registret tid"
+        "Registered": "Registrert tid"
       },
       "ViewMode": {
         "ListKey": "Liste",
@@ -917,7 +917,7 @@
     "SortOrder": {
       "Observert tid": "Observert",
       "Registrert tid": "Registert tid",
-      "Siste oppdatert tid": "Siste oppdaterte tidq"
+      "Siste oppdatert tid": "Siste oppdaterte tid"
     }
   },
   "SearchButtonName": "Søk",
