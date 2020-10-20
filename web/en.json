@@ -159,9 +159,9 @@
   "Forgotten": "Forgotten password?",
   "GeoLocation": {
     "PositionError": {
-      "PERMISSION_DENIED": "To fetch your position you need to alter your browser settings",
-      "POSITION_UNAVAILABLE": "Not able fetch your position",
-      "TIMEOUT": "It took to long time to fetch your position"
+      "PermissionDenied": "To fetch your position you need to alter your browser settings",
+      "PositionUnavailable": "Not able fetch your position",
+      "Timeout": "It took to long time to fetch your position"
     }
   },
   "Geohazards": {
