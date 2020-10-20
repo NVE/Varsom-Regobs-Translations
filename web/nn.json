@@ -273,7 +273,10 @@
     "MyObservations": {
       "Competence": "Kompetanse",
       "ContactQuestion": "Ta gjerne kontakt om du har spørsmål om kompetanse. ",
+      "HighestCompetence": "HØGASTE KOMPETANSE",
+      "UnknownCompetence": "UKJEND KOMPETANSE",
       "MyCompetences": "Min kompetanse",
+      "MyNveAccount": "Min NVE-konto",
       "NoCompetence": "Du har ikkje kompetanse knytt til Regobs-brukaren din.",
       "NoObservations": {
         "Message": "Du har ikke registrert noen observasjoner enda. Så fort du deler det du ser ute i naturen ved å gjøre en observasjon, vil den vises her.",
