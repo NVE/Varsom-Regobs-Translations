@@ -275,6 +275,7 @@
       "Competence": "Kompetanse",
       "ContactQuestion": "Ta gjerne kontakt hvis du har spørsmål rundt kompetanse.",
       "HighestCompetence": "HØYESTE KOMPETANSE",
+      "UnknownCompetence": "UKJENT KOMPETANSE",
       "MyCompetences": "Min kompetanse",
       "MyNveAccount": "MIN NVE-KONTO",
       "NoCompetence": "Du har ingen kompetanse knyttet til Regobs-brukeren din.",
@@ -321,7 +322,7 @@
   },
   "No": "Nei",
   "Now": "nå",
-  "NveAccountSignIn": "Logg inn med NVE-konto",
+  "NveAccountSignIn": "Logg inn",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
     "Download": "Last ned",

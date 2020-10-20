@@ -275,6 +275,7 @@
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
       "HighestCompetence": "HIGHEST COMPETENCE",
+      "UnknownCompetence": "UNKNOWN COMPETENCE",
       "MyCompetences": "My competences",
       "MyNveAccount": "MY NVE-ACCOUNT",
       "NoCompetence": "You have no competence added to your Regobs user.",
@@ -321,7 +322,7 @@
   },
   "No": "No",
   "Now": "now",
-  "NveAccountSignIn": "Sign in with NVE account",
+  "NveAccountSignIn": "Sign in",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
