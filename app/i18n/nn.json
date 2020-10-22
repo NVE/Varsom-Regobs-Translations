@@ -590,6 +590,12 @@
     "USE_IN_WORLD": "Utanfor Noreg",
     "USE_RETINA_MAP": "Bruk høg oppløysing på kart"
   },
+  "SET_NICK_ALERT": {
+    "ERROR": "Klarte ikkje lagre kallenavn. Ver vennleg og prøv igjen seinare.",
+    "HELP_TEXT": "Du må legge til eit kallenavn for å bruke Varsom Regobs. Kallenavnet blir vist når du gjer observasjonar.",
+    "INPUT_TEXT": "Skriv inn kallenavn",
+    "NICK": "Kallenavn"
+  },
   "START_WIZARD": {
     "CHOOSE_COUNTRY": {
       "HEADER": "Vel land",
