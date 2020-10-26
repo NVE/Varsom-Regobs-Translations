@@ -125,11 +125,11 @@
       "HeigthStopZone": "Height og deposit area",
       "HeigthStopZoneText": "ended at",
       "ObsName": "Avalanche Observation",
+      "StartLabel": "Avalanche start position",
+      "StopLabel": "Avalanche stop position",
       "TerrainStartZoneTID": "Terrain start zone",
       "Trajectory": "Avalanche path",
-      "ValidExposition": "Exposition",
-      "StartLabel": "Avalanche start position",
-      "StopLabel": "Avalanche stop position"
+      "ValidExposition": "Exposition"
     },
     "CompressionTest": {
       "Comment": "Comment",
