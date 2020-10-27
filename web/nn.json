@@ -273,7 +273,10 @@
     "MyObservations": {
       "Competence": "Kompetanse",
       "ContactQuestion": "Ta gjerne kontakt om du har spørsmål om kompetanse. ",
+      "HighestCompetence": "HØGASTE KOMPETANSE",
+      "UnknownCompetence": "UKJEND KOMPETANSE",
       "MyCompetences": "Min kompetanse",
+      "MyNveAccount": "Min NVE-konto",
       "NoCompetence": "Du har ikkje kompetanse knytt til Regobs-brukaren din.",
       "NoObservations": {
         "Message": "Du har ikke registrert noen observasjoner enda. Så fort du deler det du ser ute i naturen ved å gjøre en observasjon, vil den vises her.",
@@ -899,7 +902,7 @@
         "Label": "Sorter på",
         "LastUpdated": "Sist oppdaterte tid",
         "Observed": "Observert tid",
-        "Registered": "Registret tid"
+        "Registered": "Registrert tid"
       },
       "ViewMode": {
         "ListKey": "Liste",
@@ -917,7 +920,7 @@
     "SortOrder": {
       "Observert tid": "Observert",
       "Registrert tid": "Registert tid",
-      "Siste oppdatert tid": "Siste oppdaterte tidq"
+      "Siste oppdatert tid": "Siste oppdaterte tid"
     }
   },
   "SearchButtonName": "Søk",

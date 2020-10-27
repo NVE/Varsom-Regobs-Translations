@@ -159,9 +159,9 @@
   "Forgotten": "Forgotten password?",
   "GeoLocation": {
     "PositionError": {
-      "PERMISSION_DENIED": "To fetch your position you need to alter your browser settings",
-      "POSITION_UNAVAILABLE": "Not able fetch your position",
-      "TIMEOUT": "It took to long time to fetch your position"
+      "PermissionDenied": "To fetch your position you need to alter your browser settings",
+      "PositionUnavailable": "Not able fetch your position",
+      "Timeout": "It took to long time to fetch your position"
     }
   },
   "Geohazards": {
@@ -275,8 +275,9 @@
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
       "HighestCompetence": "HIGHEST COMPETENCE",
+      "UnknownCompetence": "UNKNOWN COMPETENCE",
       "MyCompetences": "My competences",
-      "MyNveAccount": "MY NVE-ACCOUNT",
+      "MyNveAccount": "My NVE-account",
       "NoCompetence": "You have no competence added to your Regobs user.",
       "NoObservations": {
         "Message": "You haven't logged any observations yet. As soon as you share what you see outdoors by logging an observation, it will be visible here.",
@@ -321,7 +322,7 @@
   },
   "No": "No",
   "Now": "now",
-  "NveAccountSignIn": "Sign in with NVE account",
+  "NveAccountSignIn": "Sign in",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",

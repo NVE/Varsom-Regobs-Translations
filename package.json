@@ -1,6 +1,6 @@
 {
   "name": "@varsom-regobs-common/translations",
-  "version": "1.0.105",
+  "version": "1.0.112",
   "description": "Varsom Regobs Translations",
   "scripts": {
     "build": "ts-node validate.ts"
