@@ -95,6 +95,14 @@
       },
       "InputText": "Skriv inn kallenavn"
     },
+    "SaveSearch": {
+      "Description": "Søkekriteriene vil lagres i din nettleser, og ikke synkroniseres til andre enheter. Du kan lagre maksimalt 5 søk per naturfare.",
+      "DialogTitle": "Lagre søk",
+      "ExpansionPanelTitle": "Lagrede søk",
+      "FailedSave": "Kunne ikke lagre søk",
+      "InputLabel": "Navn på søk",
+      "SaveButton": "Lagre dette søket"
+    },
     "Time": {
       "AdditionalInformation": "Tilleggsinformasjon",
       "Description": "Legg inn tidspunktet observasjonen blei gjort. Bruk lokaltid på observasjonsstaden.",
@@ -105,14 +113,6 @@
       "Source": "Kjelde",
       "Title": "Når blei observasjonen gjort?",
       "Uncertainty": "Usikkerheit i posisjon"
-    },
-    "SaveSearch": {
-      "ExpansionPanelTitle": "Lagrede søk",
-      "SaveButton": "Lagre dette søket",
-      "DialogTitle": "Lagre søk",
-      "Description": "Søkekriteriene vil lagres i din nettleser, og ikke synkroniseres til andre enheter. Du kan lagre maksimalt 5 søk per naturfare.",
-      "InputLabel": "Navn på søk",
-      "FailedSave": "Kunne ikke lagre søk"
     }
   },
   "Direction": {

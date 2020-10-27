@@ -96,6 +96,14 @@
       },
       "InputText": "Please type nickname"
     },
+    "SaveSearch": {
+      "Description": "Search will be saved in your browser, and will not be synced across devices. You can save max 5 searches per geohazard.",
+      "DialogTitle": "Save search",
+      "ExpansionPanelTitle": "Saved searches",
+      "FailedSave": "Could not save search",
+      "InputLabel": "Search name",
+      "SaveButton": "Save search"
+    },
     "Time": {
       "AdditionalInformation": "Additional information",
       "Description": "Enter the time the observation was made. Use local time at the observation site.",
@@ -106,14 +114,6 @@
       "Source": "Source",
       "Title": "When was the observation made?",
       "Uncertainty": "Uncertainty in position"
-    },
-    "SaveSearch": {
-      "ExpansionPanelTitle": "Saved searches",
-      "SaveButton": "Save search",
-      "DialogTitle": "Save search",
-      "Description": "Search will be saved in your browser, and will not be synced across devices. You can save max 5 searches per geohazard.",
-      "InputLabel": "Search name",
-      "FailedSave": "Could not save search"
     }
   },
   "Direction": {
@@ -828,6 +828,7 @@
       "Area": {
         "Label": "Areas",
         "List": "Regions",
+        "Norway": "Norway",
         "Search": "Close by"
       },
       "Country": {
