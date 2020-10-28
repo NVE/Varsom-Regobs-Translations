@@ -235,7 +235,7 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_713": {
-        "translation": "Skiseiling/Kiting",
+        "translation": "Skisegling/Kiting",
         "notes": "",
         "limit": "30"
     },
@@ -290,7 +290,12 @@
         "limit": "30"
     },
     "ActivityInfluencedKD_724": {
-        "translation": "\nMotorsykkel",
+        "translation": "Motorsykkel",
+        "notes": "",
+        "limit": "30"
+    },
+    "ActivityInfluencedKD_725": {
+        "translation": "Sparkstøtting",
         "notes": "",
         "limit": "30"
     },
@@ -565,7 +570,7 @@
         "limit": "1073741823"
     },
     "AvalCauseAttributFlags_8": {
-        "translation": "Stor krystall som er lett å identifisere i det svake laget. ",
+        "translation": "Stor krystall som er lett å kjenne igjen i det svake laget. ",
         "notes": "",
         "limit": "1073741823"
     },
@@ -615,7 +620,7 @@
         "limit": "100"
     },
     "AvalCauseKD_14": {
-        "translation": "Dårleg binding mellom glatt skare og overliggende snø",
+        "translation": "Dårleg binding mellom glatt skare og overliggande snø",
         "notes": "Poor bonding to crust",
         "limit": "100"
     },
@@ -625,7 +630,7 @@
         "limit": "100"
     },
     "AvalCauseKD_16": {
-        "translation": "Kantkorna snø med bakken",
+        "translation": "Kantkorna snø ved bakken",
         "notes": "Faceted snow near the ground",
         "limit": "100"
     },
@@ -640,7 +645,7 @@
         "limit": "100"
     },
     "AvalCauseKD_20": {
-        "translation": "Vatn med bakken/smelting frå bakken",
+        "translation": "Vatn ved bakken/smelting frå bakken",
         "notes": "Melting near the ground",
         "limit": "100"
     },
@@ -730,7 +735,7 @@
         "limit": "30"
     },
     "AvalReleaseHeightKD_7": {
-        "translation": "Snøen er overmettet med vatn",
+        "translation": "Snøen er overmetta med vatn",
         "notes": "The whole snow cover is over saturated with water and unstable.",
         "limit": "30"
     },
@@ -1224,6 +1229,21 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_100": {
+        "translation": "Bulgaria",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_104": {
+        "translation": "Burma",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_108": {
+        "translation": "Burundi",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_112": {
         "translation": "Kviterussland",
         "notes": "",
@@ -1286,6 +1306,11 @@
     },
     "CountryKD_158": {
         "translation": "Taiwan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_16": {
+        "translation": "American Samoa",
         "notes": "",
         "limit": "100"
     },
@@ -1384,13 +1409,163 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_222": {
+        "translation": "El Salvador",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_226": {
+        "translation": "Equatorial Guinea",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_231": {
+        "translation": "Ethiopia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_232": {
+        "translation": "Eritrea",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_233": {
+        "translation": "Estonia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_234": {
+        "translation": "Faroe Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_238": {
+        "translation": "Falkland Islands (Malvinas)",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_239": {
+        "translation": "South Georgia South Sandwich Islands",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_24": {
         "translation": "Angola",
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_242": {
+        "translation": "Fiji",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_246": {
+        "translation": "Finland",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_248": {
+        "translation": "Åland Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_250": {
+        "translation": "Frankrike",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_254": {
+        "translation": "French Guiana",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_258": {
+        "translation": "French Polynesia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_260": {
+        "translation": "French Southern and Antarctic Lands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_262": {
+        "translation": "Djibouti",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_266": {
+        "translation": "Gabon",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_268": {
+        "translation": "Georgia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_270": {
+        "translation": "Gambia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_275": {
+        "translation": "Palestine",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_276": {
+        "translation": "Germany",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_28": {
+        "translation": "Antigua and Barbuda",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_288": {
+        "translation": "Ghana",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_292": {
+        "translation": "Gibraltar",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_296": {
+        "translation": "Kiribati",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_300": {
+        "translation": "Greece",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_304": {
+        "translation": "Greenland",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_308": {
+        "translation": "Grenada",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_31": {
         "translation": "Aserbajdsjan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_312": {
+        "translation": "Guadeloupe",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_316": {
+        "translation": "Guam",
         "notes": "",
         "limit": "100"
     },
@@ -1421,6 +1596,11 @@
     },
     "CountryKD_334": {
         "translation": "Heard-øya og McDonald-øyene",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_336": {
+        "translation": "Holy See (Vatican City)",
         "notes": "",
         "limit": "100"
     },
@@ -1559,8 +1739,83 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_428": {
+        "translation": "Latvia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_430": {
+        "translation": "Liberia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_434": {
+        "translation": "Libyan Arab Jamahiriya",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_438": {
+        "translation": "Liechtenstein",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_44": {
         "translation": "Bahamas",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_440": {
+        "translation": "Lithuania",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_442": {
+        "translation": "Luxembourg",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_446": {
+        "translation": "Macau",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_450": {
+        "translation": "Madagascar",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_454": {
+        "translation": "Malawi",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_458": {
+        "translation": "Malaysia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_462": {
+        "translation": "Maldives",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_466": {
+        "translation": "Mali",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_470": {
+        "translation": "Malta",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_474": {
+        "translation": "Martinique",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_478": {
+        "translation": "Mauritania",
         "notes": "",
         "limit": "100"
     },
@@ -1569,8 +1824,53 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_480": {
+        "translation": "Mauritius",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_484": {
+        "translation": "Mexico",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_492": {
+        "translation": "Monaco",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_496": {
+        "translation": "Mongolia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_498": {
+        "translation": "Republic of Moldova",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_499": {
+        "translation": "Montenegro",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_50": {
         "translation": "Bangladesh",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_500": {
+        "translation": "Montserrat",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_504": {
+        "translation": "Morocco",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_508": {
+        "translation": "Mozambique",
         "notes": "",
         "limit": "100"
     },
@@ -1579,8 +1879,38 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_512": {
+        "translation": "Oman",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_516": {
+        "translation": "Namibia",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_52": {
         "translation": "Barbados",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_520": {
+        "translation": "Nauru",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_524": {
+        "translation": "Nepal",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_528": {
+        "translation": "Netherlands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_530": {
+        "translation": "Netherlands Antilles",
         "notes": "",
         "limit": "100"
     },
@@ -1624,8 +1954,118 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_570": {
+        "translation": "Niue",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_574": {
+        "translation": "Norfolk Island",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_578": {
+        "translation": "Norge",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_580": {
+        "translation": "Northern Mariana Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_581": {
+        "translation": "United States Minor Outlying Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_583": {
+        "translation": "Micronesia, Federated States of",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_584": {
+        "translation": "Marshall Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_585": {
+        "translation": "Palau",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_586": {
+        "translation": "Pakistan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_591": {
+        "translation": "Panama",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_598": {
+        "translation": "Papua New Guinea",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_60": {
         "translation": "Bermuda",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_600": {
+        "translation": "Paraguay",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_604": {
+        "translation": "Peru",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_608": {
+        "translation": "Philippines",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_612": {
+        "translation": "Pitcairn Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_616": {
+        "translation": "Poland",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_620": {
+        "translation": "Portugal",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_624": {
+        "translation": "Guinea-Bissau",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_626": {
+        "translation": "Timor-Leste",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_630": {
+        "translation": "Puerto Rico",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_634": {
+        "translation": "Qatar",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_638": {
+        "translation": "Reunion",
         "notes": "",
         "limit": "100"
     },
@@ -1634,8 +2074,98 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_642": {
+        "translation": "Romania",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_643": {
+        "translation": "Russia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_646": {
+        "translation": "Rwanda",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_652": {
+        "translation": "Saint Barthelemy",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_654": {
+        "translation": "Saint Helena",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_659": {
+        "translation": "Saint Kitts and Nevis",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_660": {
+        "translation": "Anguilla",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_662": {
+        "translation": "Saint Lucia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_663": {
+        "translation": "Saint Martin",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_666": {
+        "translation": "Saint Pierre and Miquelon",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_670": {
+        "translation": "Saint Vincent and the Grenadines",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_674": {
+        "translation": "San Marino",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_678": {
+        "translation": "Sao Tome and Principe",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_68": {
         "translation": "Bolivia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_682": {
+        "translation": "Saudi Arabia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_686": {
+        "translation": "Senegal",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_688": {
+        "translation": "Serbia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_690": {
+        "translation": "Seychelles",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_694": {
+        "translation": "Sierra Leone",
         "notes": "",
         "limit": "100"
     },
@@ -1644,8 +2174,118 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_702": {
+        "translation": "Singapore",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_703": {
+        "translation": "Slovakia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_704": {
+        "translation": "Viet Nam",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_705": {
+        "translation": "Slovenia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_706": {
+        "translation": "Somalia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_710": {
+        "translation": "South Africa",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_716": {
+        "translation": "Zimbabwe",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_72": {
         "translation": "Botswana",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_724": {
+        "translation": "Spain",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_732": {
+        "translation": "Western Sahara",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_736": {
+        "translation": "Sudan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_74": {
+        "translation": "Bouvet Island",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_740": {
+        "translation": "Suriname",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_744": {
+        "translation": "Svalbard",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_748": {
+        "translation": "Swaziland",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_752": {
+        "translation": "Sverige",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_756": {
+        "translation": "Sveits",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_76": {
+        "translation": "Brazil",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_760": {
+        "translation": "Syrian Arab Republic",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_762": {
+        "translation": "Tajikistan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_764": {
+        "translation": "Thailand",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_768": {
+        "translation": "Togo",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_772": {
+        "translation": "Tokelau",
         "notes": "",
         "limit": "100"
     },
@@ -1654,13 +2294,33 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_780": {
+        "translation": "Trinidad and Tobago",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_784": {
+        "translation": "United Arab Emirates",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_788": {
         "translation": "Tunisia",
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_792": {
+        "translation": "Turkey",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_795": {
         "translation": "Turkmenistan",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_796": {
+        "translation": "Turks and Caicos Islands",
         "notes": "",
         "limit": "100"
     },
@@ -1676,6 +2336,16 @@
     },
     "CountryKD_800": {
         "translation": "Uganda",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_804": {
+        "translation": "Ukraine",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_807": {
+        "translation": "The former Yugoslav Republic of Macedonia",
         "notes": "",
         "limit": "100"
     },
@@ -1704,6 +2374,26 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_834": {
+        "translation": "United Republic of Tanzania",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_84": {
+        "translation": "Belize",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_840": {
+        "translation": "United States",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_850": {
+        "translation": "United States Virgin Islands",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_854": {
         "translation": "Burkina Faso",
         "notes": "",
@@ -1714,8 +2404,23 @@
         "notes": "",
         "limit": "100"
     },
+    "CountryKD_86": {
+        "translation": "British Indian Ocean Territory",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_860": {
+        "translation": "Uzbekistan",
+        "notes": "",
+        "limit": "100"
+    },
     "CountryKD_862": {
         "translation": "Venezuela",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_876": {
+        "translation": "Wallis and Futuna Islands",
         "notes": "",
         "limit": "100"
     },
@@ -1731,6 +2436,21 @@
     },
     "CountryKD_894": {
         "translation": "Zambia",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_90": {
+        "translation": "Solomon Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_92": {
+        "translation": "British Virgin Islands",
+        "notes": "",
+        "limit": "100"
+    },
+    "CountryKD_96": {
+        "translation": "Brunei Darussalam",
         "notes": "",
         "limit": "100"
     },
@@ -1760,7 +2480,7 @@
         "limit": "30"
     },
     "DamageExtentKD_10": {
-        "translation": "Påvirka ikkje noko",
+        "translation": "Påverka ikkje noko",
         "notes": "",
         "limit": "30"
     },
@@ -2221,7 +2941,7 @@
         "limit": "30"
     },
     "ForecastAccurateKD_3": {
-        "translation": "Varselet stemte",
+        "translation": "Varsel stemte",
         "notes": "",
         "limit": "30"
     },
@@ -2816,7 +3536,7 @@
         "limit": "30"
     },
     "IceCoverBeforeKD_1": {
-        "translation": "Isfritt, no første is målestad",
+        "translation": "Isfritt, no fyrste is målestad",
         "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
         "limit": "30"
     },
@@ -2836,7 +3556,7 @@
         "limit": "1024"
     },
     "IceCoverBeforeKD_2": {
-        "translation": "Isfritt, no første is ved land",
+        "translation": "Isfritt, no fyrste is ved land",
         "notes": "No ice along the shore before today.",
         "limit": "30"
     },
