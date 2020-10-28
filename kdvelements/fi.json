@@ -1,0 +1,242 @@
+{
+    "AnticipatedObservationTimeKD_10_desc": {
+        "translation": "08:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_100_desc": {
+        "translation": "18:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_110_desc": {
+        "translation": "20:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_120_desc": {
+        "translation": "22:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_20_desc": {
+        "translation": "09:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_30_desc": {
+        "translation": "10:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_40_desc": {
+        "translation": "11:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_50_desc": {
+        "translation": "12:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_60_desc": {
+        "translation": "13:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_70_desc": {
+        "translation": "14:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_80_desc": {
+        "translation": "15:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_90_desc": {
+        "translation": "16:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "CompetenceLevelKD_100": {
+        "translation": "-",
+        "notes": "Unknown for snow.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_110": {
+        "translation": "*",
+        "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_115": {
+        "translation": "**",
+        "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_120": {
+        "translation": "***",
+        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_130": {
+        "translation": "****",
+        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_150": {
+        "translation": "*****",
+        "notes": "Observer is an avalanche forecaster.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_200": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_210": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_220": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_230": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_240": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_250": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_300": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_310": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_320": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_330": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_340": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_350": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_400": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_410": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_420": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_430": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_440": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_450": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_600": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_610": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_620": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_630": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_640": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_650": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_700": {
+        "translation": "-",
+        "notes": "Unkown for ice.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_710": {
+        "translation": "*",
+        "notes": "Beginner.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_720": {
+        "translation": "**",
+        "notes": "Experienced observer.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_730": {
+        "translation": "***",
+        "notes": "Educated observer with field experience.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_740": {
+        "translation": "****",
+        "notes": "Educated personel.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_750": {
+        "translation": "*****",
+        "notes": "Educated personel in NVE or eqivalent.",
+        "limit": "30"
+    }
+}
