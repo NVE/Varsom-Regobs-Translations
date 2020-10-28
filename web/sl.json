@@ -375,8 +375,11 @@
       "ValidExposition": "Izpostavljenost"
     },
     "AvalancheProblem": {
+      "AvalancheDestructiveSize": "Pričakovana velikost plazu",
+      "AvalancheProbability": "Možnost proženja snežnih plazov",
       "AvalancheTriggerProbability": "Stabilnost snežne odeje",
       "AvalancheType": "Tip plazu",
+      "Comment": "Komentar",
       "NoWeakLayers": "Ni šibkih plasti",
       "Propagation": "Prostorska porazdelitev",
       "WeakLayer": "Šibka plast",
@@ -434,6 +437,8 @@
       "AddIceLayer": "Dodaj plast ledu",
       "AddIceThicknessLayer": "Dodaj plast ledu",
       "Comment": "Komentar",
+      "IceHeightAfterInput": "Debelina površinske vode",
+      "IceHeightBeforeInput": "Debelina površinske vode",
       "IceLayer": "Plast ledu",
       "IceLayerThickness": "Debelina plasti ledu",
       "IceThicknessLayers": "Plasti (od vrha navzdol)",
@@ -510,6 +515,7 @@
         "Title": "Izpostavljena višina"
       },
       "ValidExposition": {
+        "All": "Vse",
         "Title": "Usmerjenost pobočja"
       }
     },
@@ -558,6 +564,9 @@
       "ObsName": "Snežni profil",
       "SnowDensity": "Gostota snega",
       "SnowTemperature": "Temperatura",
+      "Stratification": {
+        "GetLayersFromOtherObsInfo": "Lahko kopirate plast iz katerega izmed prejšnjih profilov, ki je bil vnešen v preteklih 14 dneh v radiju 100 km."
+      },
       "StratLayers": "Plasti",
       "SumOfAllLayers": "Vsota vseh plasti:",
       "Temperature": {
@@ -603,12 +612,22 @@
     },
     "WaterLevel2": {
       "Comment": "Komentar",
+      "DescribeSituationQuestion": "Kako bi opisali situacijo?",
+      "MarkingReferenceQuestion": "Vodostaj sem označil na",
       "MeasuredRelativeTo": "Meritev glede na",
+      "MeasurementReferenceComment": "Opišite vodostaj",
+      "MeasurementReferenceQuestion": "Vodostaj je relativen glede na",
       "MeasurementReferenceTName": "Vodna oznaka na/z",
+      "MeasurementTypeQuestion": "Na kakšen način določate vodostaj?",
       "MeasurementTypeTName": "Merilni inštrument",
+      "MeasuringToolDescription": "Vnesite merilni inštrument / pripomoček",
+      "ObservationTimingQuestion": "Kaj opazujete?",
       "ObservationTimingTName": "Kaj vnašate?",
       "ObsName": "Nivo vode",
+      "WaterAstrayQuestion": "Je kaj vode izven struge?",
       "WaterAstrayTName": "Je kaj vode izven struge?",
+      "WaterLevelDescription": "Vodostaj v metrih",
+      "WaterLevelMethodQuestion": "Kako opazujete?",
       "WaterLevelStateTName": "Stanje",
       "WaterMarking": "Vodna oznaka",
       "WaterMeasurement": "Meritev vode",
