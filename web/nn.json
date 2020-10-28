@@ -800,7 +800,7 @@
     "SaveDraftMessage": "Du har ikkje lagt til nokre skjemaa og observasjonen blir difor ikkje publisert. Vil du lagre som kladd og halde fram seinare?",
     "SubmitFailedHeader": "Innsendinga misslykkast",
     "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
-    "SyncErrorFormInfo": "Et eller flere objekter på dette skjemaet kunne ikke sendes inn.",
+    "SyncErrorFormInfo": "Eitt eller flere objekter på dette skjemaet kunne ikke sendes inn.",
     "SyncInProgress": "Synkronisering føregår:",
     "YesDelete": "Ja, slett!"
   },
