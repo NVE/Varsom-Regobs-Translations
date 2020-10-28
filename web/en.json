@@ -11,6 +11,12 @@
     "NoDescription": "No description",
     "Uploading": "Uploading"
   },
+  "Cancel": "Cancel",
+  "ChangePassword": "Change Password",
+  "Chip": {
+    "GoToObservation": "Go to observation",
+    "ShowAllObservations": "Show all"
+  },
   "COMPASS_DIRECTION": {
     "EAST": "East",
     "EAST_SHORT": "E",
@@ -28,12 +34,6 @@
     "SOUTH_WEST_SHORT": "SW",
     "WEST": "West",
     "WEST_SHORT": "W"
-  },
-  "Cancel": "Cancel",
-  "ChangePassword": "Change Password",
-  "Chip": {
-    "GoToObservation": "Go to observation",
-    "ShowAllObservations": "Show all"
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs uses cookies to improve your user experience when you visit the website. A cookie is a text file that, when visiting or interacting with a website, is placed in your browser's internal memory.",
@@ -157,13 +157,7 @@
     "XGeoAlt": "Logo for Xgeo.no"
   },
   "Forgotten": "Forgotten password?",
-  "GeoLocation": {
-    "PositionError": {
-      "PermissionDenied": "To fetch your position you need to alter your browser settings",
-      "PositionUnavailable": "Not able fetch your position",
-      "Timeout": "It took to long time to fetch your position"
-    }
-  },
+  "from": "fra",
   "Geohazards": {
     "All": "All",
     "Ice": "Ice",
@@ -171,6 +165,13 @@
     "Soil": "Soil",
     "Water": "Water",
     "WaterSoil": "Water & Soil"
+  },
+  "GeoLocation": {
+    "PositionError": {
+      "PermissionDenied": "To fetch your position you need to alter your browser settings",
+      "PositionUnavailable": "Not able fetch your position",
+      "Timeout": "It took to long time to fetch your position"
+    }
   },
   "GoBack": "Go back",
   "GoToObservation": "Go to observation",
@@ -187,6 +188,8 @@
   },
   "Information": "Information",
   "InvalidDate": "Invalid date",
+  "is": "ice",
+  "jord": "landslide",
   "LanguageLabel": "Language:",
   "Login": {
     "CreateNewRegObsUser": "Create regObs user here",
@@ -237,14 +240,14 @@
     "SupportWeakenedIceDescription": "Støttekartet viser deler av vassdrag som oppfører seg uforutsigbart gjennom vinteren grunnet reguleringer for kraftproduksjon",
     "SupportWeakenedIceName": "Weakened ice",
     "Water": {
-      "1000YearFlood": "1000-year flood",
-      "100YearFlood": "100-year flood",
       "10YearFlood": "10-year flood",
+      "20YearFlood": "20-year flood",
+      "50YearFlood": "50-year flood",
+      "100YearFlood": "100-year flood",
       "200YearFlood": "200-year flood",
       "200YearFloodClimate": "200-year-flood (climate)",
-      "20YearFlood": "20-year flood",
       "500YearFlood": "500-year flood",
-      "50YearFlood": "50-year flood",
+      "1000YearFlood": "1000-year flood",
       "AjourRecognized": "Ajour recognized",
       "Current": "Current",
       "ForReview": "For review",
@@ -267,6 +270,7 @@
     "ShowObservationsInMapView": "Show observations in the map view"
   },
   "Menu": "Menu",
+  "metersOverSeaLevel": "meters above sealevel",
   "MultipleRegistrations": "registrations",
   "MyPage": {
     "MyCompetence": "My competence",
@@ -275,7 +279,6 @@
       "Competence": "Competence",
       "ContactQuestion": "Feel free to contact us if you have any questions about competence.",
       "HighestCompetence": "HIGHEST COMPETENCE",
-      "UnknownCompetence": "UNKNOWN COMPETENCE",
       "MyCompetences": "My competences",
       "MyNveAccount": "My NVE-account",
       "NoCompetence": "You have no competence added to your Regobs user.",
@@ -283,7 +286,8 @@
         "Message": "You haven't logged any observations yet. As soon as you share what you see outdoors by logging an observation, it will be visible here.",
         "Title": "Share what you see!"
       },
-      "Title": "My observations"
+      "Title": "My observations",
+      "UnknownCompetence": "UNKNOWN COMPETENCE"
     },
     "MyPage": "My page",
     "MyPlaces": "My places",
@@ -323,18 +327,20 @@
   "No": "No",
   "Now": "now",
   "NveAccountSignIn": "Sign in",
+  "observation": " observations",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
     "ForecastRegion": "Forecast region",
     "Forms": "Forms",
-    "ObsId": "ID:",
     "Observed": "Observed:",
+    "ObsId": "ID:",
     "Original": "See original",
     "Registered": "Registered:",
     "SentInBy": "Sent in by",
     "Updated": "Updated:"
   },
+  "observations": "observation(s)",
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Exposition",
@@ -367,12 +373,12 @@
       "ObsName": "Avalanche danger observation"
     },
     "AvalancheEvalProblem2": {
+      "AvalancheExtTID": "Type",
       "AvalCauseAttributeLightTID": "Unfavorable characteristics of the weak layer",
       "AvalCauseDepthTID": "Distance from surface to weak layer",
       "AvalCauseTID": "Type of weak layer",
       "AvalProbabilityTID": "Probablity for avalanche",
       "AvalTriggerSimpleTID": "Expected load to trigger avalanche",
-      "AvalancheExtTID": "Type",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size of expected avalanche",
       "ObsName": "Avalanche problem evaluation",
@@ -408,10 +414,10 @@
       "ObsName": "Avalanche Evaluation"
     },
     "AvalancheObs": {
-      "AvalCauseTID": "Weak layer",
       "AvalancheTID": "Type",
       "AvalancheTriggerTID": "Sensitivity to triggers",
       "AvalancheType": "Landslide type",
+      "AvalCauseTID": "Weak layer",
       "Comment": "Comment",
       "DestructiveSizeTID": "Size",
       "DtAvalancheTime": "Avalanche time (required)",
@@ -516,8 +522,6 @@
       "TwoDecimalPlaces": "(cm, up to two decimal places)",
       "WaterSurfaceInHole": "Water surface in hole"
     },
-    "InCm": "In centimeter",
-    "InMeter": "In meter",
     "Incident": {
       "ActivityInfluencedTID": "Activity",
       "Comment": "Description",
@@ -530,6 +534,8 @@
       "ObsName": "Incident",
       "Urls": "Links"
     },
+    "InCm": "In centimeter",
+    "InMeter": "In meter",
     "LandslideObs": {
       "ActivityInfluencedTName": "What was affected?",
       "And": " and ",
@@ -543,9 +549,9 @@
       "ForecastAccurateTName": "Was forecast accurate?",
       "InMap": "in map",
       "LandSlideSizeTName": "Size",
+      "LandslideTime": "Landslide time",
       "LandSlideTName": "Landslide type",
       "LandSlideTriggerTName": "Trigger",
-      "LandslideTime": "Landslide time",
       "LandslideType": "Landslide type",
       "ObsName": "Landslide observation",
       "Position": "Landslide position",
@@ -597,8 +603,8 @@
     },
     "SnowProfile": {
       "AddLayerBottom": "Add underlying layer",
-      "AddLayerTop": "Add overlying layer",
       "AddLayers": "Add layers",
+      "AddLayerTop": "Add overlying layer",
       "AddTests": "Add tests",
       "Cm": "cm",
       "Comment": "Comment",
@@ -630,7 +636,6 @@
       "ObsName": "Snow profile",
       "SnowDensity": "Snow density",
       "SnowTemperature": "Temperature",
-      "StratLayers": "Strat layers",
       "Stratification": {
         "CriticalLayer": "Critical layer",
         "DeleteLayer": "Delete layer",
@@ -653,6 +658,7 @@
         "UseLayers": "Use layers",
         "Wetness": "Wetness"
       },
+      "StratLayers": "Strat layers",
       "SumOfAllLayers": "Sum of all layers:",
       "Temperature": {
         "Add": "Add temperature",
@@ -718,9 +724,9 @@
       "MeasurementTypeQuestion": "How do you read the water level?",
       "MeasurementTypeTName": "Measurement instrument",
       "MeasuringToolDescription": "Enter the measuring instrument here",
-      "ObsName": "Waterlevel",
       "ObservationTimingQuestion": "What do you register?",
       "ObservationTimingTName": "What is registered?",
+      "ObsName": "Waterlevel",
       "WaterAstrayQuestion": "Is there any water astray?",
       "WaterAstrayTName": "Is there any water astray?",
       "WaterLevelDescription": "Water level in meters",
@@ -759,6 +765,7 @@
   "Of": "of",
   "Ok": "Ok",
   "Password": "Password",
+  "picture": "picture",
   "PictureCarousel": {
     "Comment": "Comment",
     "Copyright": "Copyright",
@@ -926,8 +933,8 @@
     }
   },
   "SearchButtonName": "Search",
-  "SearchResultOfTotal": "of",
   "Searching": "Searching, Please wait",
+  "SearchResultOfTotal": "of",
   "ShowAllObservations": "Show all observations",
   "ShowFilteredObservations": "show only chosen observations",
   "ShowLess": "Show fewer",
@@ -936,6 +943,7 @@
   "SignIn": "Sign In",
   "SignOut": "Sign Out",
   "SingleRegistration": "registration",
+  "snø": "snow",
   "SortByName": "Sort by:",
   "TableModes": {
     "CompactKey": "Compact",
@@ -943,6 +951,7 @@
     "ShortKey": "Short"
   },
   "Time": "time",
+  "to": "to",
   "Unknown": "Unknown",
   "Url": {
     "Add": "Add web URL",
@@ -958,15 +967,6 @@
     "Regobs": "REGOBS",
     "User": "USER"
   },
-  "Yes": "Yes",
-  "from": "fra",
-  "is": "ice",
-  "jord": "landslide",
-  "metersOverSeaLevel": "meters above sealevel",
-  "observation": " observations",
-  "observations": "observation(s)",
-  "picture": "picture",
-  "snø": "snow",
-  "to": "to",
-  "vann": "flood"
+  "vann": "flood",
+  "Yes": "Yes"
 }
