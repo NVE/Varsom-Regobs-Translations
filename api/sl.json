@@ -31,6 +31,10 @@
   "HeightKey": "Višina",
   "Ice": "led",
   "LanguageLabel": "Jezik:",
+  "Location": {
+    "Municipality": "občina",
+    "WarningRegion": "Območje opozorila"
+  },
   "MapMode": "Zemljevid",
   "Months": {
     "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec"
@@ -270,7 +274,7 @@
       "MeasurementTypeTName": "Naprava za meritev",
       "ObservationTimingTName": "Kaj želiš označiti?",
       "ObsName": "Vodostaj",
-      "WaterAstrayTName": "Ali obstaja vodni tok?",
+      "WaterAstrayTName": "Je kaj vode izven struge?",
       "WaterLevelStateTName": "Situacija",
       "WaterMarking": "Vodna oznaka",
       "WaterMeasurement": "Merjenje vode",
