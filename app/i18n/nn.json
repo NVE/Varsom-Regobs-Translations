@@ -1,6 +1,6 @@
 {
   "ABONNER_BANNER": {
-    "BANNER_TEXT_LINE_1": "Naturfarevarsler frå Varsom på SMS eller e-post.",
+    "BANNER_TEXT_LINE_1": "Naturfarevarsel frå Varsom på SMS eller e-post.",
     "BANNER_TEXT_LINE_2": "Sett opp eller administrer varsla dine her.",
     "LINK_TEXT": "Gå til abonner.varsom.no",
     "TITLE": "Varsom Abonner"
@@ -563,6 +563,12 @@
       }
     }
   },
+  "SET_NICK_ALERT": {
+    "ERROR": "Klarte ikkje lagre kallenavn. Ver venleg og prøv igjen seinare.",
+    "HELP_TEXT": "Du må legge til eit kallenamn for å bruke Varsom Regobs. Kallenamnet vert vist i dine observasjonar.",
+    "INPUT_TEXT": "Skriv inn kallenamn",
+    "NICK": "Kallenamn"
+  },
   "SETTINGS": {
     "ALLOW_ANALYTICS": "Tillat sending av bruksdata",
     "ALLOW_ANALYTICS_DESCRIPTION": "Hjelp oss å gjere Varsom RegObs betre med å la oss sjå korleis du bruker applikasjonen. ",
@@ -589,12 +595,6 @@
     "UPDATE_DROPDOWNS": "Oppdater nedtrekksmenyar",
     "USE_IN_WORLD": "Utanfor Noreg",
     "USE_RETINA_MAP": "Bruk høg oppløysing på kart"
-  },
-  "SET_NICK_ALERT": {
-    "ERROR": "Klarte ikkje lagre kallenavn. Ver vennleg og prøv igjen seinare.",
-    "HELP_TEXT": "Du må legge til eit kallenavn for å bruke Varsom Regobs. Kallenavnet blir vist når du gjer observasjonar.",
-    "INPUT_TEXT": "Skriv inn kallenavn",
-    "NICK": "Kallenavn"
   },
   "START_WIZARD": {
     "CHOOSE_COUNTRY": {
@@ -685,7 +685,7 @@
     "STEEPNESS_MAP_DISCLAMER": "<i>Berre</i> for turplanlegging. Kartet er automatisk generert og kan ha feil og mangler, t.d.bratte heng som ikkje visast.",
     "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Korte utløp (50% av skreda stoppar innanfor denne grensa)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Middels utløp (25% av skreda går lenger)",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Lange utløp (5% av skreda går lenger)\nNokre skred kan ha utløp som ikkje er vist på kartet.",
+    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Lange utløp (5% av skreda går lengre)\nNokre skred kan ha lengre utløp som ikkje er vist på kartet.",
     "STEEPNESS_OUTLET_MAP_DESCRIPTION": "Hellingskart med utløp",
     "STEEPNESS_OUTLET_MAP_DISCLAMER": "<i>Berre</i> for turplanlegging. Kartet er automatisk generert og kan ha feil og manglar, t.d. bratte heng og utløp som ikkje visast.\n<br/>\n<br/>\nFargar på utløp for snøskred:",
     "WEAKENED_ICE_MAP_DESCRIPTION": "Kart over svekka is"
