@@ -950,7 +950,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_0_desc": {
-        "translation": "Kompetence niso znane.",
+        "translation": "Neznana usposobljenost.",
         "notes": "Unknown",
         "limit": "1024"
     },
@@ -960,7 +960,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_100_desc": {
-        "translation": "Kompetence za sneg niso znane.",
+        "translation": "Neznano za sneg.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1030,7 +1030,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_200_desc": {
-        "translation": "Kompetence niso znane.",
+        "translation": "Neznana usposobljenost.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1040,7 +1040,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_210_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje.",
+        "translation": "Opazovalec je oddal ustrezna opažanja.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1050,7 +1050,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_220_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "translation": "Opazovalec je oddal ustrezna opažanja s pravilno uporabo obrazcev Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1060,7 +1060,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_230_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "translation": "Strokovnjak z več ustreznimi opažanji.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1070,7 +1070,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_240_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Izkušen strokovnjak z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1080,7 +1080,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_250_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Strokovnjak iz pristojnih služb, z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1090,7 +1090,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_300_desc": {
-        "translation": "Kompetence niso znane.",
+        "translation": "Neznana usposobljenost.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1100,7 +1100,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_310_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "translation": "Opazovalec je oddal ustrezna opažanja.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1110,7 +1110,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_320_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "translation": "Opazovalec je oddal ustrezna opažanja s pravilno uporabo obrazcev Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1120,7 +1120,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_330_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "translation": "Strokovnjak z več ustreznimi opažanji.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1130,7 +1130,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_340_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Izkušen strokovnjak z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1140,7 +1140,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_350_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Strokovnjak iz pristojnih služb, z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1150,7 +1150,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_400_desc": {
-        "translation": "Kompetence niso znane.",
+        "translation": "Neznana usposobljenost.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1160,7 +1160,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_410_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "translation": "Opazovalec je oddal ustrezna opažanja.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1170,7 +1170,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_420_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "translation": "Opazovalec je oddal ustrezna opažanja s pravilno uporabo obrazcev Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1180,7 +1180,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_430_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "translation": "Strokovnjak z več ustreznimi opažanji.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1190,7 +1190,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_440_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Izkušen strokovnjak z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1200,7 +1200,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_450_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Strokovnjak iz pristojnih služb, z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1210,7 +1210,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_600_desc": {
-        "translation": "Kompetence niso znane.",
+        "translation": "Neznana usposobljenost.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1220,7 +1220,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_610_desc": {
-        "translation": "Opazovalec je oddal relevantna opazovanja.",
+        "translation": "Opazovalec je oddal ustrezna opažanja.",
         "notes": "*",
         "limit": "1024"
     },
@@ -1230,7 +1230,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_620_desc": {
-        "translation": "Opazovalec je oddal relevantno opazovanje s pravilno uporabo obrazcev Regobs.",
+        "translation": "Opazovalec je oddal ustrezna opažanja s pravilno uporabo obrazcev Regobs.",
         "notes": "**",
         "limit": "1024"
     },
@@ -1240,7 +1240,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_630_desc": {
-        "translation": "Strokovnjak z več relevantnimi opazovanji.",
+        "translation": "Strokovnjak z več ustreznimi opažanji.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1250,7 +1250,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_640_desc": {
-        "translation": "Izkušen strokovnjak z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Izkušen strokovnjak z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1260,7 +1260,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_650_desc": {
-        "translation": "Strokovnjak z NVE z več relevantnimi opazovanji, oddanimi s pravilno uporabo obrazcev Regobs.",
+        "translation": "Strokovnjak iz pristojnih služb, z več ustreznimi opažanji, oddanimi s pravilno uporabo obrazcev Regobs.",
         "notes": "*****",
         "limit": "1024"
     },
@@ -1270,7 +1270,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_700_desc": {
-        "translation": "Kompetence za led niso znane.",
+        "translation": "Neznano za led.",
         "notes": "-",
         "limit": "1024"
     },
@@ -1300,7 +1300,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_730_desc": {
-        "translation": "Izkušen opazovalec z izkušnjami s terena.",
+        "translation": "Izobražen opazovalec z izkušnjami s terena.",
         "notes": "***",
         "limit": "1024"
     },
@@ -1310,7 +1310,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_740_desc": {
-        "translation": "Usposobljeno osebje.",
+        "translation": "Izobraženo osebje.",
         "notes": "****",
         "limit": "1024"
     },
@@ -1320,7 +1320,7 @@
         "limit": "30"
     },
     "CompetenceLevelKD_750_desc": {
-        "translation": "Osebje, usposobljeno v NVE ali podobno.",
+        "translation": "Izobraženo osebje v pristojnih službah (meteoroloških, hidroloških, plazovnih).",
         "notes": "*****",
         "limit": "1024"
     },
@@ -3691,17 +3691,17 @@
         "limit": "30"
     },
     "IceCoverBeforeKD_1_desc": {
-        "translation": "Pred današnjim dnem na območju opazovanja ni bilo ledu. Led je morda bil ob obali. \"Območje opazovanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
+        "translation": "Pred današnjim dnem na območju opažanja ni bilo ledu. Led je morda bil ob obali. \"Območje opažanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
         "notes": "No ice, now first ice at site",
         "limit": "1024"
     },
     "IceCoverBeforeKD_10": {
-        "translation": "Opazovanje veljavno do včeraj",
+        "translation": "Opažanje veljavno do včeraj",
         "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
         "limit": "30"
     },
     "IceCoverBeforeKD_10_desc": {
-        "translation": "Kontinuirana opazovanja. Lahko sklepamo, da je obseg ledene površine s prejšnjega opazovanja veljaven do včerajšnjega dne. Danes je lahko vrednost drugačna (ali pa enaka).",
+        "translation": "Neprekinjena opažanja. Lahko sklepamo, da je obseg ledene površine s prejšnjega opažanja veljaven do včerajšnjega dne. Danes je lahko vrednost drugačna (ali pa enaka).",
         "notes": "Last obs valid until yesterday",
         "limit": "1024"
     },
@@ -3731,7 +3731,7 @@
         "limit": "30"
     },
     "IceCoverBeforeKD_99_desc": {
-        "translation": "Napaka pri meritvah. Opažen obseg ledene površine s prejšnjega opazovanja verjetno ne predstavlja dejanskega stanja do včeraj.",
+        "translation": "Napaka pri meritvah. Opažen obseg ledene površine s prejšnjega opažanja verjetno ne predstavlja dejanskega stanja do včeraj.",
         "notes": "Break - Unknown until today",
         "limit": "1024"
     },
@@ -4663,7 +4663,7 @@
         "limit": "30"
     },
     "SurfaceWaterContentKD_0": {
-        "translation": "Ni opaziti",
+        "translation": "Brez opažanja",
         "notes": "",
         "limit": "30"
     },
@@ -4673,22 +4673,22 @@
         "limit": "30"
     },
     "SurfaceWaterContentKD_2": {
-        "translation": "Suh",
+        "translation": "Suha",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_3": {
-        "translation": "Vlažen",
+        "translation": "Vlažna",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_4": {
-        "translation": "Moker",
+        "translation": "Mokra",
         "notes": "",
         "limit": "30"
     },
     "SurfaceWaterContentKD_5": {
-        "translation": "Zelo moker",
+        "translation": "Zelo mokra",
         "notes": "",
         "limit": "30"
     },
