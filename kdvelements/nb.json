@@ -4534,7 +4534,7 @@
     },
     "RegistrationKD_62": {
         "translation": "Vannstand",
-        "notes": "new waterleve observajon for flom database project.",
+        "notes": "new waterlevel observation for flood database project",
         "limit": "30"
     },
     "RegistrationKD_62_desc": {
@@ -4909,7 +4909,7 @@
     },
     "UsageFlagKD_101": {
         "translation": "Til administrativ bruk",
-        "notes": "The observation og group has a administrative purpose. It is elswize hidden as though it has been deleted.",
+        "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
         "limit": "30"
     },
     "UsageFlagKD_101_desc": {
@@ -4969,7 +4969,7 @@
     },
     "UTMSourceKD_45": {
         "translation": "Gammel posisjon i smPhone",
-        "notes": "Position from smart phone storage. Is used when curent position isnt available.",
+        "notes": "Position from smart phone storage. Is used when current position isn't available.",
         "limit": "50"
     },
     "UTMSourceKD_45_desc": {
@@ -4979,7 +4979,7 @@
     },
     "UTMSourceKD_50": {
         "translation": "NVDB",
-        "notes": "Nasjonal roads databank",
+        "notes": "National roads databank",
         "limit": "50"
     },
     "UTMSourceKD_50_desc": {
