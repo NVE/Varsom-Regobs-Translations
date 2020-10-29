@@ -29,7 +29,7 @@
     "SOUTH_EAST_SHORT": "SO",
     "SOUTH_SHORT": "S",
     "SOUTH_WEST": "Sydväst",
-    "SOUTH_WEST_SHORT": "Sv",
+    "SOUTH_WEST_SHORT": "SV",
     "WEST": "Väst",
     "WEST_SHORT": "V"
   },
@@ -101,23 +101,23 @@
     "ConditionOfUse": "Användningsvillkor",
     "ContactIndividual": "Kontakta då den del av varningstjänsten som passar din användning av regObs.",
     "ContactUsHeader": "Kontakta oss",
-    "FeedbackForm1": "Du kan också använda en ",
+    "FeedbackForm1": "Du kan också använda ett ",
     "FeedbackForm2": "feedbackformulär",
     "FeedbackForm3": " för att ge oss feedback om tjänsten.",
     "GoTo": "Gå till",
     "HearFromYou": "Vi vill höra om din användarupplevelse eller om du har frågor av professionell karakär.",
     "IskartAbout": "Läs isvarningarna som utarbetats av NVE baserat på tillgänglig isinformation och väder på vintern.",
     "IskartAlt": "Logo för Iskart.no",
-    "NveVarsom": "Jordskredvarningen och översvämningsvarningen vid NVE är en del av flera verktyg som vi har etablerat tillsammans med varsom.no.",
+    "NveVarsom": "Jordskredsvarningen och översvämningsvarningen vid NVE är en del av flera verktyg som vi har etablerat tillsammans med varsom.no.",
     "OtherToolsHeader": "Andra verktyg",
     "ReadMoreAboutRegobs": "Läs mer om Regobs",
     "RegObsContactEmail": "kontaktepost@regobs.no",
-    "RegObsCovers": "Den täcker lavinprognoserna, isvarningarna, jordskredvarningarna och översvämningsvarningarna.",
+    "RegObsCovers": "Den täcker lavinprognoserna, isvarningarna, jordskredsvarningarna och översvämningsvarningarna.",
     "RegObsFacebook": "Professionell grupp för regObs på Facebook",
     "RegObsGatheringPlace": "Regobs är en samlingsplats för observationer och händelser som används i varnings- och beredskapsarbete.",
-    "SeNorgeAbout": "seNorge är en öppen portal som visar uppdaterade kartor över snö, väder och vattenförhållanden och klimat för Norge.",
+    "SeNorgeAbout": "seNorge är en öppen portal som visar uppdaterade kartor över snö, väder, vattenförhållanden och klimat för Norge.",
     "SeNorgeAlt": "Logo för Senorge.no",
-    "VarsomAbout": "Varsom.no är en tjänst som tillhandahålls av NVE, i samarbete med Meteorologisk institutt, Statens vegvesen og Bane NOR.",
+    "VarsomAbout": "Varsom.no är en tjänst som tillhandahålls av NVE, i samarbete med Meteorologisk institutt, Statens vegvesen och Bane NOR.",
     "VarsomAlt": "Logo för Varsom.no",
     "XGeoAbout": "xGeo är ett verktyg som används för beredskap, övervakning och varning för översvämningar, jordskred och laviner.",
     "XGeoAlt": "Logo för Xgeo.no"
@@ -134,7 +134,7 @@
   },
   "GoBack": "Gå tillbaka",
   "GoToObservation": "Gå till observation",
-  "GoToReportPage": "Gå till rapport vy",
+  "GoToReportPage": "Gå till rapportvy",
   "HeightKey": "Höjd",
   "Home": "Hem",
   "HomeLocationSearch": {
@@ -158,7 +158,7 @@
     "ValidEmail": "Ange en giltig e-postadress."
   },
   "Map": {
-    "InMapView": "i kart vy",
+    "InMapView": "i kartvy",
     "Loading": "Laddar",
     "LoadingObservations": "Laddar observation"
   },
@@ -199,14 +199,14 @@
     "SupportWeakenedIceDescription": "Stödkarta visar delar av vattendrag som uppför sig oförutsägbart under vintern på grund av vattenkraftsproduktion",
     "SupportWeakenedIceName": "Svag is",
     "Water": {
-      "10YearFlood": "10-årsöversvämning",
-      "20YearFlood": "20-årsöversvämning",
-      "50YearFlood": "50-årsöversvämning",
-      "100YearFlood": "100-årsöversvämning",
-      "200YearFlood": "200-årsöversvämning",
-      "200YearFloodClimate": "200-årsöversvämning (klimat)",
-      "500YearFlood": "500-årsöversvämning",
-      "1000YearFlood": "1000-årsöversvämning",
+      "10YearFlood": "10-års-översvämning",
+      "20YearFlood": "20-års-översvämning",
+      "50YearFlood": "50-års-översvämning",
+      "100YearFlood": "100-års-översvämning",
+      "200YearFlood": "200-års-översvämning",
+      "200YearFloodClimate": "200-års-översvämning (klimat)",
+      "500YearFlood": "500-års-översvämning",
+      "1000YearFlood": "1000-års-översvämning",
       "AjourRecognized": "ajourförd",
       "Current": "Aktuella",
       "ForReview": "För granskning",
@@ -232,16 +232,27 @@
   "metersOverSeaLevel": "möh",
   "MultipleRegistrations": "registreringar",
   "MyPage": {
+    "MyCompetence": "Min kompetens",
     "MyGroups": "Mina grupper",
     "MyObservations": {
       "Competence": "Kompetens",
       "ContactQuestion": "Kontakta oss gärna om du har några frågor om kompetens.",
+      "HighestCompetence": "HÖGSTA KOMPETENS",
       "MyCompetences": "Min kompetens",
+      "MyNveAccount": "Mitt NVE-konto",
       "NoCompetence": "Du har ingen kompetens kopplad till din Regobs-användare.",
+      "NoObservations": {
+        "Message": "Du har inte registrerat några observationer än. Så fort du delar det du ser ute i naturen genom att skapa en observation kommer den att synas här.",
+        "Title": "Dela med dig av det du ser!"
+      },
       "Title": "Mina observationer"
+      "UnknownCompetence": "OKÄND KOMPETENS"
     },
     "MyPage": "Min sida",
     "MyPlaces": "Mina platser",
+    "UserInfo": {
+      "EditNickname": "Redigera alias"
+    },
     "VarsomUser": "Varsom-användaren"
   },
   "Navbar": {
@@ -249,9 +260,9 @@
       "ObservationsFromLastSevenDays": "Visa alla observationer från senaste 7 dagarna"
     },
     "Ice": {
-      "RegisterObservation": "Ny is observation",
-      "SearchInObservation": "Rapport is observationer",
-      "ShowObservationsInMap": "Is observationer och karta över svag is"
+      "RegisterObservation": "Ny isobservation",
+      "SearchInObservation": "Rapport isobservationer",
+      "ShowObservationsInMap": "Isobservationer och karta över svag is"
     },
     "RegisterObservation": "Registrera observationer",
     "SearchInObservation": "Sök observationer",
@@ -264,13 +275,13 @@
     },
     "Soil": {
       "RegisterObservation": "Ny jordobservation",
-      "SearchInObservation": "Rapport vatten-och jordobservationer",
-      "ShowObservationsInMap": "Jord-och vattenobservationer och terräng utsatt för skred"
+      "SearchInObservation": "Rapport vatten- och jordobservationer",
+      "ShowObservationsInMap": "Jord- och vattenobservationer samt terräng utsatt för skred"
     },
     "Water": {
       "RegisterObservation": "Ny vattenobservation",
-      "SearchInObservation": "Rapport vatten-och jordobservationer",
-      "ShowObservationsInMap": "Vatten-och jordobservationer och översvämningskarta"
+      "SearchInObservation": "Rapport vatten- och jordobservationer",
+      "ShowObservationsInMap": "Vatten- och jordobservationer samt översvämningskarta"
     }
   },
   "No": "Nej",
