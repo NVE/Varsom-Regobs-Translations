@@ -80,7 +80,7 @@
         "notes": "App helptext for geohazard type \"Water\", registration type \"Damages\""
     },
     "Helptext_App_60_62": {
-        "translation": "Er det vann opp til dørklinka? Her kan du registrere målt eller markert vannstand, i forhold til en kjent skala eller andre referansepunkt.\n\nFå gjerne med hvor og når du har observert. Et bilde er alltid svært nyttig.",
+        "translation": "Registrer målt eller markert vannstand etter en kjent skala eller andre referansepunkt.\n\n«Spor av vannet der det var» er typisk kvister, rusk og rask som ligger igjen der vannet var på det høyeste. Gresset kan også være trykket ned. Slik kan du få målt inn høyeste vannstand uten å være ute i felt når vannstand er på det høyeste. Alternativt måler du der vannet står nå. \nHar du ikke måleutstyr med det kan du sette et merke (f. eks. stikke en kvist i jorda, tegne merke på bruer eller bygninger), eller ta et bildet med en referanse (bruer, hus, etc.) der en kan seinere gå tilbake og finne igjen hvor høyt vannet sto. Ta et bilde av merket og legg det til under notater.\n\nFå med hvor og når du har observert. Et bilde er alltid svært nyttig.\n\nBare svar på spørsmålene som du kan svare på, resten lar du stå åpent. ",
         "notes": "App helptext for geohazard type \"Water\", registration type \"Water Level\""
     },
     "Helptext_App_70_10": {
@@ -180,7 +180,7 @@
         "notes": "Web helptext for geohazard type \"Water\", registration type \"Damages\""
     },
     "Helptext_Web_60_62": {
-        "translation": "Er det vann opp til dørklinka? Her kan du registrere målt eller markert vannstand, i forhold til en kjent skala eller andre referansepunkt. \n\nFå gjerne med hvor og når du har observert. Et bilde er alltid svært nyttig.",
+        "translation": "Registrer målt eller markert vannstand etter en kjent skala eller andre referansepunkt.\n\n«Spor av vannet der det var» er typisk kvister, rusk og rask som ligger igjen der vannet var på det høyeste. Gresset kan også være trykket ned. Slik kan du få målt inn høyeste vannstand uten å være ute i felt når vannstand er på det høyeste. Alternativt måler du der vannet står nå. \nHar du ikke måleutstyr med det kan du sette et merke (f. eks. stikke en kvist i jorda, tegne merke på bruer eller bygninger), eller ta et bildet med en referanse (bruer, hus, etc.) der en kan seinere gå tilbake og finne igjen hvor høyt vannet sto. Ta et bilde av merket og legg det til under notater.\n\nFå med hvor og når du har observert. Et bilde er alltid svært nyttig.\n\nBare svar på spørsmålene som du kan svare på, resten lar du stå åpent. ",
         "notes": "Web helptext for geohazard type \"Water\", registration type \"Water Level\""
     },
     "Helptext_Web_70_10": {

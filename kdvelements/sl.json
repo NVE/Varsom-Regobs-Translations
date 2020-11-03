@@ -640,12 +640,12 @@
         "limit": "30"
     },
     "AvalCauseDepthKD_1": {
-        "translation": "V pol metra",
+        "translation": "Do pol metra",
         "notes": "",
         "limit": "30"
     },
     "AvalCauseDepthKD_2": {
-        "translation": "V enem metru",
+        "translation": "Do enega metra",
         "notes": "",
         "limit": "30"
     },
@@ -3126,7 +3126,7 @@
         "limit": "30"
     },
     "ForecastRegionKD_0": {
-        "translation": "Not given",
+        "translation": "Ni podano",
         "notes": "",
         "limit": "50"
     },
@@ -3241,7 +3241,7 @@
         "limit": "50"
     },
     "ForecastRegionKD_200": {
-        "translation": "County not given",
+        "translation": "Območje ni podano",
         "notes": "",
         "limit": "50"
     },
@@ -4651,17 +4651,17 @@
         "limit": "50"
     },
     "ForecastRegionKD_2999": {
-        "translation": "Unknown",
+        "translation": "Neznano",
         "notes": "",
         "limit": "50"
     },
     "ForecastRegionKD_300": {
-        "translation": "County not given",
+        "translation": "Območje ni podano",
         "notes": "",
         "limit": "50"
     },
     "ForecastRegionKD_3000": {
-        "translation": "Region not given",
+        "translation": "Regija ni podana",
         "notes": "",
         "limit": "50"
     },
@@ -5046,12 +5046,12 @@
         "limit": "50"
     },
     "ForecastRegionKD_399": {
-        "translation": "Unknown",
+        "translation": "Neznano",
         "notes": "",
         "limit": "50"
     },
     "ForecastRegionKD_400": {
-        "translation": "County not given",
+        "translation": "Območje ni podano",
         "notes": "",
         "limit": "50"
     },
@@ -5166,12 +5166,12 @@
         "limit": "50"
     },
     "ForecastRegionKD_499": {
-        "translation": "Unknown",
+        "translation": "Neznano",
         "notes": "",
         "limit": "50"
     },
     "ForecastRegionKD_700": {
-        "translation": "County not given",
+        "translation": "Območje ni podano",
         "notes": "",
         "limit": "50"
     },

@@ -1,10 +1,6 @@
 {
-    "Helptext_App_10_10": {
-        "translation": "Besedilo pomoči ni na voljo v slovenščini.",
-        "notes": "App helptext for geohazard type \"Snow\", registration type \"Notes\""
-    },
     "Helptext_App_10_11": {
-        "translation": "Zbrati želimo čim več informacij o nesrečah, skorajšnjih nesrečah in drugih incidentih, povezanih s plazovi. To bo del preventivnega dela za preprečevanje plazovnih incidentov v prihodnje. \n\nZapisujete lahko dejstva o samem plazu, vzroku in poteku ter tudi razmišljanje o tem, kako bi se plazu lahko izognili. Koliko informacij želite dodati, je vaša odločitev. Bodite osredotočeni na učenje in dejstva, ne na domneve ali pripisovanje krivde. \n\n#### Četudi ne veste veliko o snežni odeji, nam lahko že fotografija plazu zelo koristi. \nPošljete lahko tudi vnose, ki vsebuje samo fotografijo.\n\nČe je ustreznih več možnosti iz seznama \"obseg škode\", izberite tisto, ki povzroči največji družbeni učinek.\n",
+        "translation": "Zbrati želimo čim več informacij o nesrečah, skorajšnjih nesrečah in drugih incidentih, povezanih s plazovi. To bo del preventivnega dela za preprečevanje plazovnih incidentov v prihodnje. \n\nZapisujete lahko dejstva o samem plazu, vzroku in poteku ter tudi razmišljanje o tem, kako bi se plazu lahko izognili. Koliko informacij želite dodati, je vaša odločitev. Bodite osredotočeni na učenje in dejstva, ne na domneve ali pripisovanje krivde. \n\n#### Četudi ne veste veliko o snežni odeji, nam lahko že fotografija plazu zelo koristi. \nOddate lahko tudi vnose, ki vsebuje samo fotografijo.\n\nČe je ustreznih več možnosti iz seznama \"obseg škode\", izberite tisto, ki povzroči največji družbeni učinek.\n",
         "notes": "App helptext for geohazard type \"Snow\", registration type \"Incident\""
     },
     "Helptext_App_10_13": {
@@ -100,7 +96,7 @@
         "notes": "App helptext for geohazard type \"Ice\", registration type \"Ice Cover\""
     },
     "Helptext_Web_10_11": {
-        "translation": "Zbrati želimo čim več informacij o nesrečah, skorajšnjih nesrečah in drugih incidentih, povezanih s plazovi. To bo del preventivnega dela za preprečevanje plazovnih incidentov v prihodnje. \n\nZapisujete lahko dejstva o samem plazu, vzroku in poteku ter tudi razmišljanje o tem, kako bi se plazu lahko izognili. Koliko informacij želite dodati, je vaša odločitev. Bodite osredotočeni na učenje in dejstva, ne na domneve ali pripisovanje krivde. \n\n#### Četudi ne veste veliko o snežni odeji, nam lahko že fotografija plazu zelo koristi. \nPošljete lahko tudi vnose, ki vsebuje samo fotografijo.\n\nČe je ustreznih več možnosti iz seznama \"obseg škode\", izberite tisto, ki povzroči največji družbeni učinek.\n",
+        "translation": "Zbrati želimo čim več informacij o nesrečah, skorajšnjih nesrečah in drugih incidentih, povezanih s plazovi. To bo del preventivnega dela za preprečevanje plazovnih incidentov v prihodnje. \n\nZapisujete lahko dejstva o samem plazu, vzroku in poteku ter tudi razmišljanje o tem, kako bi se plazu lahko izognili. Koliko informacij želite dodati, je vaša odločitev. Bodite osredotočeni na učenje in dejstva, ne na domneve ali pripisovanje krivde. \n\n#### Četudi ne veste veliko o snežni odeji, nam lahko že fotografija plazu zelo koristi. \nOddate lahko tudi vnose, ki vsebuje samo fotografijo.\n\nČe je ustreznih več možnosti iz seznama \"obseg škode\", izberite tisto, ki povzroči največji družbeni učinek.\n",
         "notes": "Web helptext for geohazard type \"Snow\", registration type \"Incident\""
     },
     "Helptext_Web_10_13": {

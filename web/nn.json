@@ -1,972 +1,3282 @@
 {
-  "AddObsDetails": {
-    "Add": "Legg til",
-    "HideHelptext": "Skjul hjelpeteksta"
-  },
-  "AppearanceName": "Utsjånad:",
-  "Attachment": {
-    "Attachment": "Vedlegg",
-    "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velgje",
-    "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtypar er:",
-    "NoDescription": "Ingen skildring",
-    "Uploading": "Lastar opp"
-  },
-  "Cancel": "Avbryt",
-  "ChangePassword": "Bytt passord",
-  "Chip": {
-    "GoToObservation": "Gå til observasjon",
-    "ShowAllObservations": "Vis alle"
-  },
-  "COMPASS_DIRECTION": {
-    "EAST": "Aust",
-    "EAST_SHORT": "A",
-    "NORTH": "Nord",
-    "NORTH_EAST": "Nord-Aust",
-    "NORTH_EAST_SHORT": "NA",
-    "NORTH_SHORT": "N",
-    "NORTH_WEST": "Nord-Vest",
-    "NORTH_WEST_SHORT": "NV",
-    "SOUTH": "Sør",
-    "SOUTH_EAST": "Sør-Aust",
-    "SOUTH_EAST_SHORT": "SA",
-    "SOUTH_SHORT": "S",
-    "SOUTH_WEST": "Sør-Vest",
-    "SOUTH_WEST_SHORT": "SV",
-    "WEST": "Vest",
-    "WEST_SHORT": "V"
-  },
-  "Cookies": {
-    "AboutUseFirstParagraph": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
-    "AboutUseSecondParagraph": "Behandlingrunnlaget for dette er personvernforordinga artikkel 6 nr. 1 f, som tillet oss å behandle opplysingar som er naudsynt for å ta hand om ein interesse som veg tyngre enn omsynet til den enkelte sitt personvern. Den interessen er å få nettsidene våre til å fungere godt, slik at du får ei god brukaroppleving.",
-    "AboutUseThirdParagraph": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
-    "CookiesDescription": "I tabellen under lister vi opp kva slags informasjonskapslar beta.regobs.no brukar, kva slags data som lagrast og kvifor nettstaden treng dei.",
-    "Customize": "TIlpass sjølv",
-    "CustomizeDescription": "De fleste moderne nettleserar (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) er stilt inn på å akseptere informasjonskapslar automatisk, men du kan sjølv velje å endre innstillingane slik at informasjonskapslar ikkje blir akseptert. Vær merksam på at det kan føre til at regobs.no ikkje fungerar optimalt.",
-    "DataProcessorColumnLabel": "Databehandlar",
-    "DescriptionColumnLabel": "Skildring",
-    "Descriptions": {
-      "__utma": "Brukast for å skilje brukarar og økter.",
-      "__utmb": "Brukast for å bestemme nye økter / besøk.",
-      "__utmc": "Brukast for å hjelpe med å bestemme nye økter/besøk.",
-      "__utmt": "Brukast til å senke talet på førespørslar.",
-      "__utmz": "Brukast til å lagre korleis brukaren kom til nettstaden."
+    "AddObsDetails": {
+        "Add": {
+            "translation": "Legg til",
+            "notes": ""
+        },
+        "HideHelptext": {
+            "translation": "Skjul hjelpeteksta",
+            "notes": ""
+        }
     },
-    "DomainColumnLabel": "Domene",
-    "HowToAdminister": "forklarar korleis du sjølv kan administrere informasjonskapslar.",
-    "Label": "Informasjonskapslar",
-    "NameColumnLabel": "Kapsel",
-    "TheWebsite": "Nettsida",
-    "Title": "Om bruk av informasjonskapslar"
-  },
-  "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
-  "CountOf": "Tal",
-  "CreateAccount": "Opprett NVE-konto",
-  "CreateObservation": "Opprett observasjon",
-  "Date": "Dato",
-  "Delete": "Slett",
-  "Dialogs": {
-    "Account": {
-      "LoggedOutDescription": "Du har blitt automatisk utlogga. Vil du logge inn på nytt?",
-      "LoggedOutTitle": "Utlogga"
+    "AppearanceName": {
+        "translation": "Utsjånad:",
+        "notes": ""
     },
-    "Buttons": {
-      "AddForm": "Lagre",
-      "Back": "Tilbake",
-      "Next": "Greit, gå vidare"
+    "Attachment": {
+        "Attachment": {
+            "translation": "Vedlegg",
+            "notes": ""
+        },
+        "DropzoneText": {
+            "translation": "Dra filer hit for å laste opp, eller klikk for å velgje",
+            "notes": ""
+        },
+        "InvalidAttachmentType": {
+            "translation": "Ugyldig vedlegg. Tillate filtypar er:",
+            "notes": ""
+        },
+        "NoDescription": {
+            "translation": "Ingen skildring",
+            "notes": ""
+        },
+        "Uploading": {
+            "translation": "Lastar opp",
+            "notes": ""
+        }
     },
-    "Location": {
-      "Description": "Marker i kartet kvar observasjonen blei gjort. Finn fram med å søke eller med å zoome med pluss- og minusknappane.",
-      "DescriptionMobile": "Marker i kartet kvar observasjonen blei gjort",
-      "EditName": "Namngje stad",
-      "EditNameLabel": "Stadsnavn",
-      "Title": "Kvar blei observasjonen gjort?"
+    "Cancel": {
+        "translation": "Avbryt",
+        "notes": ""
     },
-    "NickName": {
-      "Create": {
-        "HelpText": "Du må legge til eit kallenamn for å bruke Varsom Regobs. Kallenamnet er det som vert vist i dine observasjonar.",
-        "Title": "Legg til kallenamn"
-      },
-      "Edit": {
-        "HelpText": "Kallenamnet syner i dine observasjonar",
-        "Title": "Rediger kallenamn"
-      },
-      "Error": {
-        "Error": "Klarte ikkje å lagre kallenamnet. Ver venleg å prøve igjen seinare.",
-        "Invalid": "Vennlegast skriv kallenamn"
-      },
-      "InputText": "Skriv inn kallenamn"
+    "ChangePassword": {
+        "translation": "Bytt passord",
+        "notes": ""
     },
-    "SaveSearch": {
-      "Description": "Søket vert lagra i din nettlesar, og vert ikkje synkronisert til andre einingar. Du kan lagre opptil 5 søk per naturfare.",
-      "DialogTitle": "Lagre søk",
-      "ExpansionPanelTitle": "Lagra søk",
-      "FailedSave": "Kunne ikkje lagre søk",
-      "InputLabel": "Namn på søk",
-      "SaveButton": "Lagre dette søket"
+    "Chip": {
+        "GoToObservation": {
+            "translation": "Gå til observasjon",
+            "notes": ""
+        },
+        "ShowAllObservations": {
+            "translation": "Vis alle",
+            "notes": ""
+        }
+    },
+    "COMPASS_DIRECTION": {
+        "EAST": {
+            "translation": "Aust",
+            "notes": ""
+        },
+        "EAST_SHORT": {
+            "translation": "A",
+            "notes": ""
+        },
+        "NORTH": {
+            "translation": "Nord",
+            "notes": ""
+        },
+        "NORTH_EAST": {
+            "translation": "Nord-Aust",
+            "notes": ""
+        },
+        "NORTH_EAST_SHORT": {
+            "translation": "NA",
+            "notes": ""
+        },
+        "NORTH_SHORT": {
+            "translation": "N",
+            "notes": ""
+        },
+        "NORTH_WEST": {
+            "translation": "Nord-Vest",
+            "notes": ""
+        },
+        "NORTH_WEST_SHORT": {
+            "translation": "NV",
+            "notes": ""
+        },
+        "SOUTH": {
+            "translation": "Sør",
+            "notes": ""
+        },
+        "SOUTH_EAST": {
+            "translation": "Sør-Aust",
+            "notes": ""
+        },
+        "SOUTH_EAST_SHORT": {
+            "translation": "SA",
+            "notes": ""
+        },
+        "SOUTH_SHORT": {
+            "translation": "S",
+            "notes": ""
+        },
+        "SOUTH_WEST": {
+            "translation": "Sør-Vest",
+            "notes": ""
+        },
+        "SOUTH_WEST_SHORT": {
+            "translation": "SV",
+            "notes": ""
+        },
+        "WEST": {
+            "translation": "Vest",
+            "notes": ""
+        },
+        "WEST_SHORT": {
+            "translation": "V",
+            "notes": ""
+        }
+    },
+    "Cookies": {
+        "AboutUseFirstParagraph": {
+            "translation": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
+            "notes": ""
+        },
+        "AboutUseSecondParagraph": {
+            "translation": "Behandlingrunnlaget for dette er personvernforordinga artikkel 6 nr. 1 f, som tillet oss å behandle opplysingar som er naudsynt for å ta hand om ein interesse som veg tyngre enn omsynet til den enkelte sitt personvern. Den interessen er å få nettsidene våre til å fungere godt, slik at du får ei god brukaroppleving.",
+            "notes": ""
+        },
+        "AboutUseThirdParagraph": {
+            "translation": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
+            "notes": ""
+        },
+        "CookiesDescription": {
+            "translation": "I tabellen under lister vi opp kva slags informasjonskapslar beta.regobs.no brukar, kva slags data som lagrast og kvifor nettstaden treng dei.",
+            "notes": ""
+        },
+        "Customize": {
+            "translation": "TIlpass sjølv",
+            "notes": ""
+        },
+        "CustomizeDescription": {
+            "translation": "De fleste moderne nettleserar (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) er stilt inn på å akseptere informasjonskapslar automatisk, men du kan sjølv velje å endre innstillingane slik at informasjonskapslar ikkje blir akseptert. Vær merksam på at det kan føre til at regobs.no ikkje fungerar optimalt.",
+            "notes": ""
+        },
+        "DataProcessorColumnLabel": {
+            "translation": "Databehandlar",
+            "notes": ""
+        },
+        "DescriptionColumnLabel": {
+            "translation": "Skildring",
+            "notes": ""
+        },
+        "Descriptions": {
+            "__utma": {
+                "translation": "Brukast for å skilje brukarar og økter.",
+                "notes": ""
+            },
+            "__utmb": {
+                "translation": "Brukast for å bestemme nye økter / besøk.",
+                "notes": ""
+            },
+            "__utmc": {
+                "translation": "Brukast for å hjelpe med å bestemme nye økter/besøk.",
+                "notes": ""
+            },
+            "__utmt": {
+                "translation": "Brukast til å senke talet på førespørslar.",
+                "notes": ""
+            },
+            "__utmz": {
+                "translation": "Brukast til å lagre korleis brukaren kom til nettstaden.",
+                "notes": ""
+            }
+        },
+        "DomainColumnLabel": {
+            "translation": "Domene",
+            "notes": ""
+        },
+        "HowToAdminister": {
+            "translation": "forklarar korleis du sjølv kan administrere informasjonskapslar.",
+            "notes": ""
+        },
+        "Label": {
+            "translation": "Informasjonskapslar",
+            "notes": ""
+        },
+        "NameColumnLabel": {
+            "translation": "Kapsel",
+            "notes": ""
+        },
+        "TheWebsite": {
+            "translation": "Nettsida",
+            "notes": ""
+        },
+        "Title": {
+            "translation": "Om bruk av informasjonskapslar",
+            "notes": ""
+        }
+    },
+    "CopiedToClipboard": {
+        "translation": "Lenke til observasjonen kopiert til utklippstavle.",
+        "notes": ""
+    },
+    "CountOf": {
+        "translation": "Tal",
+        "notes": ""
+    },
+    "CreateAccount": {
+        "translation": "Opprett NVE-konto",
+        "notes": ""
+    },
+    "CreateObservation": {
+        "translation": "Opprett observasjon",
+        "notes": ""
+    },
+    "Date": {
+        "translation": "Dato",
+        "notes": ""
+    },
+    "Delete": {
+        "translation": "Slett",
+        "notes": ""
+    },
+    "Dialogs": {
+        "Account": {
+            "LoggedOutDescription": {
+                "translation": "Du har blitt automatisk utlogga. Vil du logge inn på nytt?",
+                "notes": ""
+            },
+            "LoggedOutTitle": {
+                "translation": "Utlogga",
+                "notes": ""
+            }
+        },
+        "Buttons": {
+            "AddForm": {
+                "translation": "Lagre",
+                "notes": ""
+            },
+            "Back": {
+                "translation": "Tilbake",
+                "notes": ""
+            },
+            "Next": {
+                "translation": "Greit, gå vidare",
+                "notes": ""
+            }
+        },
+        "Location": {
+            "Description": {
+                "translation": "Marker i kartet kvar observasjonen blei gjort. Finn fram med å søke eller med å zoome med pluss- og minusknappane.",
+                "notes": ""
+            },
+            "DescriptionMobile": {
+                "translation": "Marker i kartet kvar observasjonen blei gjort",
+                "notes": ""
+            },
+            "EditName": {
+                "translation": "Namngje stad",
+                "notes": ""
+            },
+            "EditNameLabel": {
+                "translation": "Stadsnavn",
+                "notes": ""
+            },
+            "Title": {
+                "translation": "Kvar blei observasjonen gjort?",
+                "notes": ""
+            }
+        },
+        "NickName": {
+            "Create": {
+                "HelpText": {
+                    "translation": "Du må legge til eit kallenamn for å bruke Varsom Regobs. Kallenamnet er det som vert vist i dine observasjonar.",
+                    "notes": ""
+                },
+                "Title": {
+                    "translation": "Legg til kallenamn",
+                    "notes": ""
+                }
+            },
+            "Edit": {
+                "HelpText": {
+                    "translation": "Kallenamnet syner i dine observasjonar",
+                    "notes": ""
+                },
+                "Title": {
+                    "translation": "Rediger kallenamn",
+                    "notes": ""
+                }
+            },
+            "Error": {
+                "Error": {
+                    "translation": "Klarte ikkje å lagre kallenamnet. Ver venleg å prøve igjen seinare.",
+                    "notes": ""
+                },
+                "Invalid": {
+                    "translation": "Vennlegast skriv kallenamn",
+                    "notes": ""
+                }
+            },
+            "InputText": {
+                "translation": "Skriv inn kallenamn",
+                "notes": ""
+            }
+        },
+        "SaveSearch": {
+            "Description": {
+                "translation": "Søket vert lagra i din nettlesar, og vert ikkje synkronisert til andre einingar. Du kan lagre opptil 5 søk per naturfare.",
+                "notes": ""
+            },
+            "DialogTitle": {
+                "translation": "Lagre søk",
+                "notes": ""
+            },
+            "ExpansionPanelTitle": {
+                "translation": "Lagra søk",
+                "notes": ""
+            },
+            "FailedSave": {
+                "translation": "Kunne ikkje lagre søk",
+                "notes": ""
+            },
+            "InputLabel": {
+                "translation": "Namn på søk",
+                "notes": ""
+            },
+            "SaveButton": {
+                "translation": "Lagre dette søket",
+                "notes": ""
+            }
+        },
+        "Time": {
+            "AdditionalInformation": {
+                "translation": "Tilleggsinformasjon",
+                "notes": ""
+            },
+            "Description": {
+                "translation": "Legg inn tidspunktet observasjonen blei gjort. Bruk lokaltid på observasjonsstaden.",
+                "notes": ""
+            },
+            "Exact": {
+                "translation": "Eksakt",
+                "notes": ""
+            },
+            "MoreThanOneKm": {
+                "translation": "Mein enn 1 km",
+                "notes": ""
+            },
+            "NotMemberOfAnyGroups": {
+                "translation": "Du er ikkje medlem av nokre grupper",
+                "notes": ""
+            },
+            "Share": {
+                "translation": "Del med gruppe",
+                "notes": ""
+            },
+            "Source": {
+                "translation": "Kjelde",
+                "notes": ""
+            },
+            "Title": {
+                "translation": "Når blei observasjonen gjort?",
+                "notes": ""
+            },
+            "Uncertainty": {
+                "translation": "Usikkerheit i posisjon",
+                "notes": ""
+            }
+        }
+    },
+    "Direction": {
+        "E": {
+            "translation": "A",
+            "notes": ""
+        },
+        "N": {
+            "translation": "N",
+            "notes": ""
+        },
+        "NE": {
+            "translation": "NA",
+            "notes": ""
+        },
+        "NW": {
+            "translation": "NV",
+            "notes": ""
+        },
+        "S": {
+            "translation": "S",
+            "notes": ""
+        },
+        "SE": {
+            "translation": "SA",
+            "notes": ""
+        },
+        "SW": {
+            "translation": "SV",
+            "notes": ""
+        },
+        "W": {
+            "translation": "V",
+            "notes": ""
+        }
+    },
+    "Email": {
+        "translation": "E-post",
+        "notes": ""
+    },
+    "Footer": {
+        "AboutDataInRegObs": {
+            "translation": "Om data i Regobs",
+            "notes": ""
+        },
+        "AboutRegObsHeader": {
+            "translation": "Om Regobs",
+            "notes": ""
+        },
+        "BeAwareThat": {
+            "translation": "Om det er ",
+            "notes": ""
+        },
+        "Collaboration": {
+            "translation": "Samarbeid",
+            "notes": ""
+        },
+        "ConditionOfUse": {
+            "translation": "Vilkår for bruk",
+            "notes": ""
+        },
+        "ContactIndividual": {
+            "translation": "Ta då kontakt med varslingstjenesten som rettar seg best mot det du brukar regObs til.",
+            "notes": ""
+        },
+        "ContactUsHeader": {
+            "translation": "Kontakt oss",
+            "notes": ""
+        },
+        "FeedbackForm1": {
+            "translation": "Du kan også bruke eit ",
+            "notes": ""
+        },
+        "FeedbackForm2": {
+            "translation": "tilbakemeldingsskjema",
+            "notes": ""
+        },
+        "FeedbackForm3": {
+            "translation": "for å gje oss tilbakemeldingar på tjenesten",
+            "notes": ""
+        },
+        "GoTo": {
+            "translation": "Gå til",
+            "notes": ""
+        },
+        "HearFromYou": {
+            "translation": "Vi høyrer gjerne frå deg om brukaropplevingar eller faglege henvendingar. ",
+            "notes": ""
+        },
+        "IskartAbout": {
+            "translation": "Les isvarsla som NVE har utarbeida på grunnlag av tilgjengeleg isinformasjon og vêret i vinter. ",
+            "notes": ""
+        },
+        "IskartAlt": {
+            "translation": "Logo for Iskart.no",
+            "notes": ""
+        },
+        "NveVarsom": {
+            "translation": "Jordskredvarslinga og flaumvarslinga hjå NVE er ein del av fleire verkty vi har etablert saman med varsom.no.",
+            "notes": ""
+        },
+        "OtherToolsHeader": {
+            "translation": "Andre verkty",
+            "notes": ""
+        },
+        "ReadMoreAboutRegobs": {
+            "translation": "Les meir om regObs",
+            "notes": ""
+        },
+        "RegObsContactEmail": {
+            "translation": "Kontaktepost@regobs.no",
+            "notes": ""
+        },
+        "RegObsCovers": {
+            "translation": "Den dekkjer snøskredsvarslinga, isvarslinga, jordskredvarslinga og flaumvarslinga.",
+            "notes": ""
+        },
+        "RegObsFacebook": {
+            "translation": "Faggruppe regObs på Facebook",
+            "notes": ""
+        },
+        "RegObsGatheringPlace": {
+            "translation": "regObs er ein samlingstad for observasjonar og hendelingar brukt i varsling og beredskapsarbeid.",
+            "notes": ""
+        },
+        "SeNorgeAbout": {
+            "translation": "seNorge er ein open portal, som viser oppdaterte kart over snø-, vêr- og vass- og klima tilhøve i Noreg.",
+            "notes": ""
+        },
+        "SeNorgeAlt": {
+            "translation": "Logo for Senorge.no",
+            "notes": ""
+        },
+        "VarsomAbout": {
+            "translation": "Varsom.no er ein tjeneste levert av NVE, i samarbeid med Meteorologisk institutt, Statens vegvesen og Bane NOR.",
+            "notes": ""
+        },
+        "VarsomAlt": {
+            "translation": "Logo for Varsom.no",
+            "notes": ""
+        },
+        "XGeoAbout": {
+            "translation": "xGeo er eit verkty som brukast til beredskap, overvaking og varsling av flaum, jord-og snøskredfare.",
+            "notes": ""
+        },
+        "XGeoAlt": {
+            "translation": "Logo for Xgeo.no",
+            "notes": ""
+        }
+    },
+    "Forgotten": {
+        "translation": "Gløymt passord?",
+        "notes": ""
+    },
+    "from": {
+        "translation": "frå",
+        "notes": ""
+    },
+    "Geohazards": {
+        "All": {
+            "translation": "Alle",
+            "notes": ""
+        },
+        "Ice": {
+            "translation": "Is",
+            "notes": ""
+        },
+        "Snow": {
+            "translation": "Snø",
+            "notes": ""
+        },
+        "Soil": {
+            "translation": "Jord",
+            "notes": ""
+        },
+        "Water": {
+            "translation": "Vatn",
+            "notes": ""
+        },
+        "WaterSoil": {
+            "translation": "Vatn og jord",
+            "notes": ""
+        }
+    },
+    "GeoLocation": {
+        "PositionError": {
+            "PermissionDenied": {
+                "translation": "For å hente posisjonen lyt du endre innstillingar i nettlesaren.",
+                "notes": ""
+            },
+            "PositionUnavailable": {
+                "translation": "Får ikkje tak i posisjonen din",
+                "notes": ""
+            },
+            "Timeout": {
+                "translation": "Det tok for lang tid å få tak i posisjonen din. ",
+                "notes": ""
+            }
+        }
+    },
+    "GoBack": {
+        "translation": "Gå tilbake",
+        "notes": ""
+    },
+    "GoToObservation": {
+        "translation": "Gå til observasjon",
+        "notes": ""
+    },
+    "GoToReportPage": {
+        "translation": "Gå til rapportvising",
+        "notes": ""
+    },
+    "HeightKey": {
+        "translation": "Høgde",
+        "notes": ""
+    },
+    "Home": {
+        "translation": "Heim",
+        "notes": ""
+    },
+    "HomeLocationSearch": {
+        "All": {
+            "translation": "Alle",
+            "notes": ""
+        },
+        "Change": {
+            "translation": "Endre",
+            "notes": ""
+        },
+        "Days": {
+            "translation": "døgn",
+            "notes": ""
+        },
+        "Last": {
+            "translation": "siste",
+            "notes": ""
+        },
+        "NoMaps": {
+            "translation": "Ingen støttekart",
+            "notes": ""
+        },
+        "Search": {
+            "translation": "Søk i kart",
+            "notes": ""
+        }
+    },
+    "Information": {
+        "translation": "Informasjon",
+        "notes": ""
+    },
+    "InvalidDate": {
+        "translation": "Ugyldig dato",
+        "notes": ""
+    },
+    "is": {
+        "translation": "is",
+        "notes": ""
+    },
+    "jord": {
+        "translation": "jord",
+        "notes": ""
+    },
+    "LanguageLabel": {
+        "translation": "Språk:",
+        "notes": ""
+    },
+    "Login": {
+        "CreateNewRegObsUser": {
+            "translation": "Opprett regObs bruker her.",
+            "notes": ""
+        },
+        "EmailRequired": {
+            "translation": "Vennligst oppgi e-postadresse",
+            "notes": ""
+        },
+        "NoUser": {
+            "translation": "Ikkje brukar?",
+            "notes": ""
+        },
+        "PasswordRequired": {
+            "translation": "Oppgi passord",
+            "notes": ""
+        },
+        "ValidEmail": {
+            "translation": "Oppgi ei gyldig e-postadresse. ",
+            "notes": ""
+        }
+    },
+    "Map": {
+        "InMapView": {
+            "translation": "i utsnitt",
+            "notes": ""
+        },
+        "Loading": {
+            "translation": "Lastar",
+            "notes": ""
+        },
+        "LoadingObservations": {
+            "translation": "Lastar observasjonar",
+            "notes": ""
+        }
+    },
+    "MapMode": {
+        "translation": "Kart",
+        "notes": ""
+    },
+    "MapSelection": {
+        "Ice": {
+            "Channel": {
+                "translation": "Kanal",
+                "notes": ""
+            },
+            "FracturedIceAlongShore": {
+                "translation": "Sprekt is langs land",
+                "notes": ""
+            },
+            "OftenDangerousIceConditions": {
+                "translation": "Ofte farlege istilhøve",
+                "notes": ""
+            },
+            "Penstock": {
+                "translation": "Røyrgate",
+                "notes": ""
+            },
+            "PowerPlantTunnel": {
+                "translation": "Kraftverkstunnel",
+                "notes": ""
+            },
+            "SignificantlyWeakenedIce": {
+                "translation": "Vesentleg svekka is",
+                "notes": ""
+            },
+            "WeakenedIce": {
+                "translation": "Svekka is",
+                "notes": ""
+            }
+        },
+        "Observations": {
+            "translation": "Observasjonar",
+            "notes": ""
+        },
+        "ObservationsAndSupportMaps": {
+            "translation": "Observasjonar og støttekart",
+            "notes": ""
+        },
+        "Opacity": {
+            "translation": "Gjennomsiktigheit",
+            "notes": ""
+        },
+        "SnowWarningRegions": {
+            "translation": "Varslingsregionar",
+            "notes": ""
+        },
+        "Soil": {
+            "HighLoose": {
+                "translation": "Høg (losneområde)",
+                "notes": ""
+            },
+            "HighOutlet": {
+                "translation": "Høg (utløpsområde)",
+                "notes": ""
+            },
+            "LowLoose": {
+                "translation": "Lav (losneområde)",
+                "notes": ""
+            },
+            "LowOutlet": {
+                "translation": "Lav (utløpsområde)",
+                "notes": ""
+            },
+            "MappedAreas": {
+                "translation": "Kartlagde områder",
+                "notes": ""
+            },
+            "MediumLoose": {
+                "translation": "Middels (utløpsområde)\n",
+                "notes": ""
+            },
+            "MediumOutlet": {
+                "translation": "Middels (utløpsområde)\n",
+                "notes": ""
+            },
+            "None": {
+                "translation": "Ingen",
+                "notes": ""
+            },
+            "PotentialHazards": {
+                "translation": "Potensielt skredfare",
+                "notes": ""
+            }
+        },
+        "SupportClayZonesDescription": {
+            "translation": "Kvikkleire/Jordskred",
+            "notes": ""
+        },
+        "SupportClayZonesName": {
+            "translation": "Kvikkleire/Jordskred",
+            "notes": ""
+        },
+        "SupportFloodZonesDescription": {
+            "translation": "Flaumsoner",
+            "notes": ""
+        },
+        "SupportFloodZonesName": {
+            "translation": "Flaumsoner",
+            "notes": ""
+        },
+        "SupportMap": {
+            "translation": "Støttekart:",
+            "notes": ""
+        },
+        "SupportMaps": {
+            "translation": "Støttekart",
+            "notes": ""
+        },
+        "SupportSteepnessDescription": {
+            "translation": "Fargar gir hellingen til terrenget (grader):",
+            "notes": ""
+        },
+        "SupportSteepnessName": {
+            "translation": "Helling",
+            "notes": ""
+        },
+        "SupportWeakenedIceDescription": {
+            "translation": "Støttekartet viser delar av vassdrag som oppfører seg uforutsigbart gjennom vinteren grunna reguleringar for kraftproduksjon",
+            "notes": ""
+        },
+        "SupportWeakenedIceName": {
+            "translation": "Svekka is",
+            "notes": ""
+        },
+        "Water": {
+            "1000YearFlood": {
+                "translation": "1000-årsflaum",
+                "notes": ""
+            },
+            "100YearFlood": {
+                "translation": "100-årsflaum",
+                "notes": ""
+            },
+            "10YearFlood": {
+                "translation": "10-årsflaum",
+                "notes": ""
+            },
+            "200YearFlood": {
+                "translation": "200-årsflaum",
+                "notes": ""
+            },
+            "200YearFloodClimate": {
+                "translation": "200-årsflaum (klima)",
+                "notes": ""
+            },
+            "20YearFlood": {
+                "translation": "20-årsflaum",
+                "notes": ""
+            },
+            "500YearFlood": {
+                "translation": "500-årsflaum",
+                "notes": ""
+            },
+            "50YearFlood": {
+                "translation": "50-årsflaum",
+                "notes": ""
+            },
+            "AjourRecognized": {
+                "translation": "Ajourført",
+                "notes": ""
+            },
+            "Current": {
+                "translation": "Gjeldande",
+                "notes": ""
+            },
+            "ForReview": {
+                "translation": "Til ny vurdering",
+                "notes": ""
+            },
+            "LowPoint": {
+                "translation": "Flaumutsett lavpunkt med:",
+                "notes": ""
+            },
+            "RiverAndWater10YearFlood": {
+                "translation": "Elv og vatn 10-årsflaum",
+                "notes": ""
+            },
+            "UnderPlanning": {
+                "translation": "Under planlegging",
+                "notes": ""
+            }
+        }
+    },
+    "MapSideNav": {
+        "ChosenObservation": {
+            "translation": "Valt observasjon",
+            "notes": ""
+        },
+        "Hide": {
+            "translation": "Skjul",
+            "notes": ""
+        },
+        "MapSelection": {
+            "translation": "Kartval",
+            "notes": ""
+        },
+        "MoveMap": {
+            "translation": "Zoom ut eller forleng tidsrommet for å sjå fleire observasjonar",
+            "notes": ""
+        },
+        "NoObservationsInMapView": {
+            "translation": "Ingen observasjonar i kartutsnittet.",
+            "notes": ""
+        },
+        "Observations": {
+            "translation": "Observasjonar",
+            "notes": ""
+        },
+        "ObservationsInMapView": {
+            "translation": "Observasjonar i kartutsnittet",
+            "notes": ""
+        },
+        "Options": {
+            "translation": "Kartval",
+            "notes": ""
+        },
+        "ShowInList": {
+            "translation": "Vis i liste",
+            "notes": ""
+        },
+        "ShowMapSelection": {
+            "translation": "Vis kartval",
+            "notes": ""
+        },
+        "ShowObservationsInMapView": {
+            "translation": "Vis observasjonar i kartutsnittet",
+            "notes": ""
+        }
+    },
+    "Menu": {
+        "translation": "Meny",
+        "notes": ""
+    },
+    "metersOverSeaLevel": {
+        "translation": "moh",
+        "notes": ""
+    },
+    "MultipleRegistrations": {
+        "translation": "registreringar",
+        "notes": ""
+    },
+    "MyPage": {
+        "MyCompetence": {
+            "translation": "Min kompetanse",
+            "notes": ""
+        },
+        "MyGroups": {
+            "translation": "Mine grupper",
+            "notes": ""
+        },
+        "MyObservations": {
+            "Competence": {
+                "translation": "Kompetanse",
+                "notes": ""
+            },
+            "ContactQuestion": {
+                "translation": "Ta gjerne kontakt om du har spørsmål om kompetanse. ",
+                "notes": ""
+            },
+            "HighestCompetence": {
+                "translation": "HØGASTE KOMPETANSE",
+                "notes": ""
+            },
+            "MyCompetences": {
+                "translation": "Min kompetanse",
+                "notes": ""
+            },
+            "MyNveAccount": {
+                "translation": "Min NVE-konto",
+                "notes": ""
+            },
+            "NoCompetence": {
+                "translation": "Du har ikkje kompetanse knytt til Regobs-brukaren din.",
+                "notes": ""
+            },
+            "NoObservations": {
+                "Message": {
+                    "translation": "Du har ikkje registrert observasjonar enno. Så snart du delar det du ser ute i naturen ved å gjere ein observasjon vil den syne her. ",
+                    "notes": ""
+                },
+                "Title": {
+                    "translation": "Del det du ser!",
+                    "notes": ""
+                }
+            },
+            "Title": {
+                "translation": "Mine observasjonar",
+                "notes": ""
+            },
+            "UnknownCompetence": {
+                "translation": "UKJEND KOMPETANSE",
+                "notes": ""
+            }
+        },
+        "MyPage": {
+            "translation": "Mi side",
+            "notes": ""
+        },
+        "MyPlaces": {
+            "translation": "Mine stadar",
+            "notes": ""
+        },
+        "UserInfo": {
+            "EditNickname": {
+                "translation": "Endre kallenamn",
+                "notes": ""
+            }
+        },
+        "VarsomUser": {
+            "translation": "Varsom-bruker",
+            "notes": ""
+        }
+    },
+    "Navbar": {
+        "All": {
+            "ObservationsFromLastSevenDays": {
+                "translation": "Vis alle observasjonane frå dei siste sju dagane",
+                "notes": ""
+            }
+        },
+        "Ice": {
+            "RegisterObservation": {
+                "translation": "Ny isobservasjon",
+                "notes": ""
+            },
+            "SearchInObservation": {
+                "translation": "Rapportvising for is",
+                "notes": ""
+            },
+            "ShowObservationsInMap": {
+                "translation": "Isobservasjonar og svekka is kart",
+                "notes": ""
+            }
+        },
+        "RegisterObservation": {
+            "translation": "Registrer observasjon",
+            "notes": ""
+        },
+        "SearchInObservation": {
+            "translation": "Søk i observasjonane",
+            "notes": ""
+        },
+        "ShowObservationsInMap": {
+            "translation": "Vis observasjonar i kart",
+            "notes": ""
+        },
+        "Snow": {
+            "RegisterObservation": {
+                "translation": "Ny snøobservasjon",
+                "notes": ""
+            },
+            "SearchInObservation": {
+                "translation": "Rapportvising for snø",
+                "notes": ""
+            },
+            "ShowObservationsInMap": {
+                "translation": "Snøobservasjon og brattleikkart",
+                "notes": ""
+            }
+        },
+        "Soil": {
+            "RegisterObservation": {
+                "translation": "Ny isobservasjon",
+                "notes": ""
+            },
+            "SearchInObservation": {
+                "translation": "Rapportvising for jord og vatn",
+                "notes": ""
+            },
+            "ShowObservationsInMap": {
+                "translation": "Jord- og vassobservasjonar og skredutsett terreng",
+                "notes": ""
+            }
+        },
+        "Water": {
+            "RegisterObservation": {
+                "translation": "Ny vassobservasjon",
+                "notes": ""
+            },
+            "SearchInObservation": {
+                "translation": "Rapportvising for vatn og jord",
+                "notes": ""
+            },
+            "ShowObservationsInMap": {
+                "translation": "Vass- og jordobservasjonar og flaumsonekart",
+                "notes": ""
+            }
+        }
+    },
+    "No": {
+        "translation": "Nei",
+        "notes": ""
+    },
+    "Now": {
+        "translation": "no",
+        "notes": ""
+    },
+    "NveAccountSignIn": {
+        "translation": "Logg inn",
+        "notes": ""
+    },
+    "observation": {
+        "translation": "observasjonar",
+        "notes": ""
+    },
+    "ObservationCard": {
+        "AboveSeaLevel": {
+            "translation": "moh",
+            "notes": ""
+        },
+        "Download": {
+            "translation": "Last ned",
+            "notes": ""
+        },
+        "ForecastRegion": {
+            "translation": "Varslingsregion",
+            "notes": ""
+        },
+        "Forms": {
+            "translation": "Skjema",
+            "notes": ""
+        },
+        "Observed": {
+            "translation": "Observert:",
+            "notes": ""
+        },
+        "ObsId": {
+            "translation": "ID:",
+            "notes": ""
+        },
+        "Original": {
+            "translation": "Sjå original",
+            "notes": ""
+        },
+        "Registered": {
+            "translation": "Registrert:",
+            "notes": ""
+        },
+        "SentInBy": {
+            "translation": "Sendt inn av",
+            "notes": ""
+        },
+        "Updated": {
+            "translation": "Oppdatert:",
+            "notes": ""
+        }
+    },
+    "observations": {
+        "translation": "observasjon(ar)",
+        "notes": ""
+    },
+    "Observations": {
+        "AvalancheActivityObs": {
+            "Aspect": {
+                "translation": "Eksposisjon",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Skredutløysar",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DateWarning": {
+                "translation": "Dato er annleis enn observasjontidspunktet",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Tid",
+                "notes": ""
+            },
+            "DuringTheDay": {
+                "translation": "I dag",
+                "notes": ""
+            },
+            "EstimatedTime": {
+                "translation": "Antatt tidsrom",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Hogde losneområde",
+                "notes": ""
+            },
+            "HowManyAvalanches": {
+                "translation": "Tal på skred",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "meter over havnivå",
+                "notes": ""
+            },
+            "NoAvalancheActivity": {
+                "translation": "Ingen skredaktivitet observert",
+                "notes": ""
+            },
+            "NumberAndSize": {
+                "translation": "Tal og storleik",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredaktivitet",
+                "notes": ""
+            }
+        },
+        "AvalancheActivityObs2": {
+            "AvalancheTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Tid",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "meter over havnivå",
+                "notes": ""
+            },
+            "NumberAndSizeAndTrigger": {
+                "translation": "Tak, storleik og skredutløysar",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredaktivitet",
+                "notes": ""
+            },
+            "Prevalence": {
+                "translation": "Utbreiing losneområde",
+                "notes": ""
+            }
+        },
+        "AvalancheDangerObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DangerSignTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredfareteikn",
+                "notes": ""
+            }
+        },
+        "AvalancheEvalProblem2": {
+            "AvalancheExtTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "AvalCauseAttributeLightTID": {
+                "translation": "Ugunstige eigenskapar til det svake laget",
+                "notes": ""
+            },
+            "AvalCauseDepthTID": {
+                "translation": "Avstanden mellom det svake laget og overflata",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Type svakt lag",
+                "notes": ""
+            },
+            "AvalProbabilityTID": {
+                "translation": "Sannsyn for skred",
+                "notes": ""
+            },
+            "AvalTriggerSimpleTID": {
+                "translation": "Sannsynleg last for å løyse ut skred",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Storleik på venta skred",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredproblem",
+                "notes": ""
+            },
+            "PrevalenceArea": {
+                "translation": "Utbreiing losneområde",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation": {
+            "AvalancheDangerTID": {
+                "translation": "Faregrad",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Utvikling",
+                "notes": ""
+            },
+            "AvalancheEvaluation1": {
+                "translation": "Skredvurdering",
+                "notes": ""
+            },
+            "AvalancheProblemTID1": {
+                "translation": "Skredfareproblem 1",
+                "notes": ""
+            },
+            "AvalancheProblemTID2": {
+                "translation": "Skredfareproblem 2",
+                "notes": ""
+            },
+            "AvalancheProblemTID3": {
+                "translation": "Skredfareproblem 3",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar til varsla faregrad",
+                "notes": ""
+            },
+            "Evaluation": {
+                "translation": "Vurdering",
+                "notes": ""
+            },
+            "ForecastCorrect": {
+                "translation": "Vurdering av varsla faregrad på varsom.no",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredfarevurdering",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Eksposisjon",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation2": {
+            "AvalancheDangerTID": {
+                "translation": "Faregrad",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Utvikling",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Skredvurdering",
+                "notes": ""
+            },
+            "AvalancheProblem": {
+                "translation": "Skredproblem",
+                "notes": ""
+            },
+            "ExposedTerrain": {
+                "translation": "Utsett terreng",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredfarevurdering",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation3": {
+            "AvalancheDangerTID": {
+                "translation": "Faregrad",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Utvikling",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Skredvurdering",
+                "notes": ""
+            },
+            "ForecastComment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "ForecastCorrectTID": {
+                "translation": "Rettheit av varselet",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredfarevurdering",
+                "notes": ""
+            }
+        },
+        "AvalancheObs": {
+            "AvalancheTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Skredutløysar",
+                "notes": ""
+            },
+            "AvalancheType": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Svakt lag",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Storleik",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Tidspunkt for skred.",
+                "notes": ""
+            },
+            "FractureHeight": {
+                "translation": "Brothøyde (cm)",
+                "notes": ""
+            },
+            "FractureWidth": {
+                "translation": "Brotbreidd (m)",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Losneområdet",
+                "notes": ""
+            },
+            "HeigthStopZone": {
+                "translation": "Stoppområdet",
+                "notes": ""
+            },
+            "IncidentDescription": {
+                "translation": "Ulykke eller skade",
+                "notes": ""
+            },
+            "IncidentPlaceholder": {
+                "translation": "Førte skredet til skade, ulykke eller nestenulykke? Kva skjedde og kvifor? Kunne situasjonen vore unngått?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredhending",
+                "notes": ""
+            },
+            "Position": {
+                "translation": "Skredposisjon",
+                "notes": ""
+            },
+            "PositionDescription": {
+                "translation": "Sett start- og sluttpunkt for skredet, om du veit det.",
+                "notes": ""
+            },
+            "SetStartPosition": {
+                "translation": "Sett startpunkt",
+                "notes": ""
+            },
+            "SetStopPosition": {
+                "translation": "Sett sluttpunkt",
+                "notes": ""
+            },
+            "TerrainStartZoneTID": {
+                "translation": "Terrengtype i løysneområdet",
+                "notes": ""
+            },
+            "TrajectoryName": {
+                "translation": "Skredbanenamn",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Eksposisjon",
+                "notes": ""
+            }
+        },
+        "AvalancheProblem": {
+            "AvalancheDestructiveSize": {
+                "translation": "Storleik på venta skred",
+                "notes": ""
+            },
+            "AvalancheProbability": {
+                "translation": "Moglegheit for skred",
+                "notes": ""
+            },
+            "AvalancheTriggerProbability": {
+                "translation": "Skredutløysar",
+                "notes": ""
+            },
+            "AvalancheType": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "NoWeakLayers": {
+                "translation": "Det finnast ikkje svake lag",
+                "notes": ""
+            },
+            "Propagation": {
+                "translation": "Utbreiing",
+                "notes": ""
+            },
+            "WeakLayer": {
+                "translation": "Svakt lag",
+                "notes": ""
+            },
+            "WeakLayerDepth": {
+                "translation": "Djupn til det svake laget",
+                "notes": ""
+            }
+        },
+        "CompressionTest": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DistanceFromTop": {
+                "translation": "Avstand fra toppen (cm)",
+                "notes": ""
+            },
+            "FractureType": {
+                "translation": "Brottype",
+                "notes": ""
+            },
+            "Include": {
+                "translation": "Inkluder i snøprofil",
+                "notes": ""
+            },
+            "NumberOfHits": {
+                "translation": "Antal slag",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Stabilitetstest",
+                "notes": ""
+            },
+            "Stability": {
+                "translation": "Stabilitet",
+                "notes": ""
+            },
+            "StabilityEvalTID": {
+                "translation": "Stabilitet",
+                "notes": ""
+            },
+            "Test": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "Type": {
+                "translation": "Test type",
+                "notes": ""
+            }
+        },
+        "DamageObs": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DamageTypeTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "LocationDescription": {
+                "translation": "Angje skadepunkt viss di kjenner det",
+                "notes": ""
+            },
+            "LocationTitle": {
+                "translation": "Kvar er skadepunktet?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skadar",
+                "notes": ""
+            }
+        },
+        "DangerObs": {
+            "Area": {
+                "translation": "Område",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DangerSignTName": {
+                "translation": "Type",
+                "notes": ""
+            },
+            "NewDangerSign": {
+                "translation": "Nytt fareteikn",
+                "notes": ""
+            },
+            "NoDamageSign": {
+                "translation": "Ingen fareteikn observert",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Fareteikn",
+                "notes": ""
+            },
+            "Title": {
+                "translation": "Fareteikn",
+                "notes": ""
+            }
+        },
+        "GeneralObservation": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "NoObservationsFound": {
+                "translation": "Ingen observasjonar funne",
+                "notes": ""
+            },
+            "Notes": {
+                "translation": "Notatar",
+                "notes": ""
+            },
+            "NotesForObservation": {
+                "translation": "Notat frå observasjonen",
+                "notes": ""
+            },
+            "ObsComment": {
+                "translation": "Tekst",
+                "notes": ""
+            },
+            "ObsHeader": {
+                "translation": "Overskrift",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Fritekst",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Lenker",
+                "notes": ""
+            }
+        },
+        "IceCoverObs": {
+            "BearingStrength": {
+                "translation": "Bereevne",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "Description": {
+                "translation": "Skildring",
+                "notes": ""
+            },
+            "IceCapacityTName": {
+                "translation": "Bereevne",
+                "notes": ""
+            },
+            "IceCover": {
+                "translation": "Isdekning",
+                "notes": ""
+            },
+            "IceCoverAfterTName": {
+                "translation": "Isdekningsgrad etter observasjon",
+                "notes": ""
+            },
+            "IceCoverBeforeObservation": {
+                "translation": "Isdekning før observasjon",
+                "notes": ""
+            },
+            "IceCoverBeforeTName": {
+                "translation": "Isdekningsgrad før observasjon",
+                "notes": ""
+            },
+            "IceCoverTName": {
+                "translation": "Isdekning",
+                "notes": ""
+            },
+            "IceSkateabilityTName": {
+                "translation": "skøyteforhold",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Isdekningsgrad",
+                "notes": ""
+            }
+        },
+        "IceThickness": {
+            "AddIceLayer": {
+                "translation": "Legg til islag",
+                "notes": ""
+            },
+            "AddIceThicknessLayer": {
+                "translation": "Legg til islag",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "IceHeightAfterInput": {
+                "translation": "Tjukkleik til overvatnet (cm)",
+                "notes": ""
+            },
+            "IceHeightAfterInputNo": {
+                "translation": "Høgde frå isoverflata til vassflata i boreholet (cm)",
+                "notes": ""
+            },
+            "IceHeightBeforeInput": {
+                "translation": "Tjukkleik til overvatnet (cm)",
+                "notes": ""
+            },
+            "IceLayer": {
+                "translation": "Islag",
+                "notes": ""
+            },
+            "IceLayerThickness": {
+                "translation": "Tjukkleik på islag (cm)",
+                "notes": ""
+            },
+            "IceThicknessLayers": {
+                "translation": "Islag (ovanfra og ned)",
+                "notes": ""
+            },
+            "IceThicknessSum": {
+                "translation": "Total istjukkleik (cm)",
+                "notes": ""
+            },
+            "IceType": {
+                "translation": "Type is",
+                "notes": ""
+            },
+            "IsEqualToIceSurface": {
+                "translation": "er likt med isoverflata",
+                "notes": ""
+            },
+            "LowerThanIceSurface": {
+                "translation": "Lavare enn isoverflata",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Istjukkleik",
+                "notes": ""
+            },
+            "OverIce": {
+                "translation": "Over isen ",
+                "notes": ""
+            },
+            "OverWaterAfterDrilling": {
+                "translation": "Overvatn etter boring",
+                "notes": ""
+            },
+            "OverWaterBeforeDrilling": {
+                "translation": "Overvatn før boring",
+                "notes": ""
+            },
+            "SlushSnowBeforeDrilling": {
+                "translation": "Sørpe før boring (cm)",
+                "notes": ""
+            },
+            "SnowDepthBeforeDrilling": {
+                "translation": "Snø før boring",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "totalt",
+                "notes": ""
+            },
+            "TwoDecimalPlaces": {
+                "translation": "(cm, med opptil to desimalar)",
+                "notes": ""
+            },
+            "WaterSurfaceInHole": {
+                "translation": "Vassflata i holet",
+                "notes": ""
+            }
+        },
+        "Incident": {
+            "ActivityInfluencedTID": {
+                "translation": "Aktivitet",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Skildring",
+                "notes": ""
+            },
+            "DamageExtentTID": {
+                "translation": "Skadeomfang",
+                "notes": ""
+            },
+            "Description": {
+                "translation": "Kvifor skjedde det? Gjekk det bra? Kunne situasjonen vore unngått?",
+                "notes": ""
+            },
+            "GeoHazardTID": {
+                "translation": "Observasjonstype",
+                "notes": ""
+            },
+            "IncidentHeader": {
+                "translation": "Overskrift",
+                "notes": ""
+            },
+            "IncidentIngress": {
+                "translation": "Ingress",
+                "notes": ""
+            },
+            "IncidentText": {
+                "translation": "Skildring",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Ulykke/hending",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Lenker",
+                "notes": ""
+            }
+        },
+        "InCm": {
+            "translation": "I centimeter",
+            "notes": ""
+        },
+        "InMeter": {
+            "translation": "I meter",
+            "notes": ""
+        },
+        "LandslideObs": {
+            "ActivityInfluencedTName": {
+                "translation": "Kva blei påverka?",
+                "notes": ""
+            },
+            "And": {
+                "translation": "og",
+                "notes": ""
+            },
+            "AvalTrigger": {
+                "translation": "Skredutløysar",
+                "notes": ""
+            },
+            "Between": {
+                "translation": "Mellom",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DamageExtent": {
+                "translation": "Skadeomfang",
+                "notes": ""
+            },
+            "DamageExtentTName": {
+                "translation": "Omfang",
+                "notes": ""
+            },
+            "DtLandSlideTime": {
+                "translation": "Kva er tidlegaste tidspunktet skredet kan ha gått?",
+                "notes": ""
+            },
+            "DtLandSlideTimeEnd": {
+                "translation": "Kva er siste tid skredet kunne gått?",
+                "notes": ""
+            },
+            "ForecastAccurateTName": {
+                "translation": "Stemte varselet på varsom.no?",
+                "notes": ""
+            },
+            "InMap": {
+                "translation": "i kart",
+                "notes": ""
+            },
+            "LandSlideSizeTName": {
+                "translation": "Storleik",
+                "notes": ""
+            },
+            "LandslideTime": {
+                "translation": "Skredtidspunkt",
+                "notes": ""
+            },
+            "LandSlideTName": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "LandSlideTriggerTName": {
+                "translation": "Skredutløysar",
+                "notes": ""
+            },
+            "LandslideType": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Skredhending",
+                "notes": ""
+            },
+            "Position": {
+                "translation": "Skredposisjon",
+                "notes": ""
+            },
+            "PositionDescription": {
+                "translation": "Sett start- og sluttpunkt for skredet, om du veit det.",
+                "notes": ""
+            },
+            "Required": {
+                "translation": "Obligatorisk",
+                "notes": ""
+            },
+            "SetLandslidePosition": {
+                "translation": "Sett skredposisjon",
+                "notes": ""
+            },
+            "SetStartPosition": {
+                "translation": "Sett startpunkt",
+                "notes": ""
+            },
+            "SetStopPosition": {
+                "translation": "Sett sluttpunkt",
+                "notes": ""
+            },
+            "Time": {
+                "translation": "Tid",
+                "notes": ""
+            },
+            "TimeDescription": {
+                "translation": "Her skal du legge inn tidspunktet skredet gjekk. Tidspunktet skal vere i lokaltid i området observasjonen er gjort",
+                "notes": ""
+            },
+            "Title": {
+                "translation": "Skredhending",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Lenker",
+                "notes": ""
+            }
+        },
+        "Picture": {
+            "Aspect": {
+                "translation": "Himmelretning",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "Copyright": {
+                "translation": "Opphavsrett",
+                "notes": ""
+            },
+            "Edit": {
+                "translation": "Rediger bilete",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Bilete",
+                "notes": ""
+            },
+            "Photographer": {
+                "translation": "Fotograf",
+                "notes": ""
+            },
+            "PictureComment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "RegistrationTID": {
+                "translation": "Av",
+                "notes": ""
+            }
+        },
+        "Shared": {
+            "Description": {
+                "translation": "Skildring",
+                "notes": ""
+            },
+            "ExposedHeight": {
+                "Height": {
+                    "translation": "Høgde",
+                    "notes": ""
+                },
+                "LowerHeight": {
+                    "translation": "Nedre høgde",
+                    "notes": ""
+                },
+                "Title": {
+                    "translation": "Utsett høgde",
+                    "notes": ""
+                }
+            },
+            "UnsentDescription": {
+                "translation": "Skjema er ikkje synkronisert med Regobs.",
+                "notes": ""
+            },
+            "UnsentSummaryTitle": {
+                "translation": "Usendt skjema",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "All": {
+                    "translation": "Alle",
+                    "notes": ""
+                },
+                "Title": {
+                    "translation": "Eksposisjon",
+                    "notes": ""
+                }
+            }
+        },
+        "SnowCover": {
+            "CriticalLayer": {
+                "translation": "Svakt lag",
+                "notes": ""
+            },
+            "CriticalLayerFound": {
+                "translation": "Svakt lag finnast",
+                "notes": ""
+            },
+            "CriticalLayerLocation": {
+                "translation": "Plassering",
+                "notes": ""
+            },
+            "CriticalLayerNotFound": {
+                "translation": "Det finnast ikkje svakt lag",
+                "notes": ""
+            },
+            "CriticalLayerTID": {
+                "translation": "Skredtype",
+                "notes": ""
+            },
+            "DepthHoar": {
+                "translation": "Begerkrystallar",
+                "notes": ""
+            },
+            "DepthHoarInSnowCover": {
+                "translation": "med begerkrystallar nedst i snødekke",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Snøprofil",
+                "notes": ""
+            },
+            "SnowPilotRefTID": {
+                "translation": "Snøprofil",
+                "notes": ""
+            },
+            "UnderSurface": {
+                "translation": "under overflata",
+                "notes": ""
+            }
+        },
+        "SnowProfile": {
+            "AddLayerBottom": {
+                "translation": "Legg til eit nytt lag under",
+                "notes": ""
+            },
+            "AddLayers": {
+                "translation": "Legg til lagdeling",
+                "notes": ""
+            },
+            "AddLayerTop": {
+                "translation": "Legg til eit nytt lag over",
+                "notes": ""
+            },
+            "AddTests": {
+                "translation": "Legg til testar",
+                "notes": ""
+            },
+            "Cm": {
+                "translation": "cm",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "CompressionTest": {
+                "translation": "Stabilitetstest",
+                "notes": ""
+            },
+            "CompresstionTestConnectedToProfile": {
+                "translation": "Observert test knytta til profilet.",
+                "notes": ""
+            },
+            "Density": {
+                "AddDensity": {
+                    "translation": "Legg til tettleik",
+                    "notes": ""
+                },
+                "Average": {
+                    "translation": "Snitt",
+                    "notes": ""
+                },
+                "CylinderBoreDiam": {
+                    "translation": "Sylinderdiameter (cm)",
+                    "notes": ""
+                },
+                "Density": {
+                    "translation": "Tettleik",
+                    "notes": ""
+                },
+                "DensityLabel": {
+                    "translation": "Tettleik (kg/m³)",
+                    "notes": ""
+                },
+                "DensityProfileAdded": {
+                    "translation": "tettleiksprofil lagt til",
+                    "notes": ""
+                },
+                "DensityProfiles": {
+                    "translation": "tettleiksprofilar",
+                    "notes": ""
+                },
+                "Height": {
+                    "translation": "Høgde (cm)",
+                    "notes": ""
+                },
+                "Layer": {
+                    "translation": "Lag",
+                    "notes": ""
+                },
+                "Method": {
+                    "translation": "Metode",
+                    "notes": ""
+                },
+                "Sum": {
+                    "translation": "Sum",
+                    "notes": ""
+                },
+                "Summary": {
+                    "translation": "Sammendrag",
+                    "notes": ""
+                },
+                "TareWeight": {
+                    "translation": "Vekt av posen og ev. røyr (g)",
+                    "notes": ""
+                },
+                "UseCylinder": {
+                    "translation": "Sylingerutrekning",
+                    "notes": ""
+                },
+                "WaterEquivalent": {
+                    "translation": "Vassekv. (mm)",
+                    "notes": ""
+                },
+                "Weight": {
+                    "translation": "Vekt (g)",
+                    "notes": ""
+                }
+            },
+            "DepthPlaceholder": {
+                "translation": "Djupn (cm)",
+                "notes": ""
+            },
+            "IsProfileDugToTheGround": {
+                "translation": "Går profilet til bakken?",
+                "notes": ""
+            },
+            "Layers": {
+                "translation": "Lagdeling",
+                "notes": ""
+            },
+            "LayersObserved": {
+                "translation": "lag observert",
+                "notes": ""
+            },
+            "Main": {
+                "translation": "Overordna",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Snøprofil",
+                "notes": ""
+            },
+            "SnowDensity": {
+                "translation": "Snøtettleik",
+                "notes": ""
+            },
+            "SnowTemperature": {
+                "translation": "Temperatur",
+                "notes": ""
+            },
+            "Stratification": {
+                "CriticalLayer": {
+                    "translation": "Kritisk lag",
+                    "notes": ""
+                },
+                "DeleteLayer": {
+                    "translation": "Slett laget",
+                    "notes": ""
+                },
+                "GetLayers": {
+                    "translation": "Hent lagdeling frå ein annan profil",
+                    "notes": ""
+                },
+                "GetLayersFromOtherObsInfo": {
+                    "translation": "Du kan velje å kopiere laga frå andre profilar, registrert innanfor 100 km dei siste 14 dagane.",
+                    "notes": ""
+                },
+                "GrainFormPrimary": {
+                    "translation": "Kornform",
+                    "notes": ""
+                },
+                "GrainFormSecondary": {
+                    "translation": "Sek. kornform",
+                    "notes": ""
+                },
+                "GrainSizeAvg": {
+                    "translation": "Kornstorleik (mm)",
+                    "notes": ""
+                },
+                "GrainSizeAvgMax": {
+                    "translation": "Maks kornstorleik (mm)",
+                    "notes": ""
+                },
+                "Hardness": {
+                    "translation": "Hardheit",
+                    "notes": ""
+                },
+                "HardnessBottom": {
+                    "translation": "Nedre hardleik",
+                    "notes": ""
+                },
+                "Layer": {
+                    "translation": "Lag",
+                    "notes": ""
+                },
+                "MultipleObserved": {
+                    "translation": "lagdelinger observert",
+                    "notes": ""
+                },
+                "NoPreviousLayersFound": {
+                    "translation": "Ingen tidligere lagdelinger funne",
+                    "notes": ""
+                },
+                "Observed": {
+                    "translation": "lagdeling observert",
+                    "notes": ""
+                },
+                "SelectLayers": {
+                    "translation": "Vel lagdeling",
+                    "notes": ""
+                },
+                "ShowLess": {
+                    "translation": "Vis færre val",
+                    "notes": ""
+                },
+                "ShowMore": {
+                    "translation": "Vis fleire val",
+                    "notes": ""
+                },
+                "Thickness": {
+                    "translation": "Tjukkleik (cm)",
+                    "notes": ""
+                },
+                "UseLayers": {
+                    "translation": "Bruk lagdelinga",
+                    "notes": ""
+                },
+                "Wetness": {
+                    "translation": "Fuktigheit",
+                    "notes": ""
+                }
+            },
+            "StratLayers": {
+                "translation": "Lagdeling",
+                "notes": ""
+            },
+            "SumOfAllLayers": {
+                "translation": "Summen av alle lag:",
+                "notes": ""
+            },
+            "Temperature": {
+                "Add": {
+                    "translation": "Legg til temperatur",
+                    "notes": ""
+                },
+                "MultipleObserved": {
+                    "translation": "temperaturpunkt observert",
+                    "notes": ""
+                },
+                "Observed": {
+                    "translation": " temperaturpunkt observert",
+                    "notes": ""
+                },
+                "Placeholder": {
+                    "translation": "Temperatur (°C)",
+                    "notes": ""
+                },
+                "TempProfile": {
+                    "translation": "Temperaturprofil",
+                    "notes": ""
+                }
+            },
+            "Test": {
+                "Add": {
+                    "translation": "Legg til",
+                    "notes": ""
+                },
+                "AddTest": {
+                    "translation": "Legg til test",
+                    "notes": ""
+                },
+                "AttachedToProfile": {
+                    "translation": "Observert test knytta til profilet.",
+                    "notes": ""
+                },
+                "AttachedToProfileTooltip": {
+                    "translation": "Testen er knytt til snøprofilen",
+                    "notes": ""
+                },
+                "Tests": {
+                    "translation": "testar",
+                    "notes": ""
+                },
+                "TestsWillAppearHere": {
+                    "translation": "Testar du har lagd til visast her",
+                    "notes": ""
+                },
+                "Update": {
+                    "translation": "Oppdater test",
+                    "notes": ""
+                }
+            }
+        },
+        "SnowSurfaceObservation": {
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "CommentHeader": {
+                "translation": "Skildr snødekket",
+                "notes": ""
+            },
+            "CommentPlaceholder": {
+                "translation": "Korleis er snøfordelinga generelt, men tanke på høgde og eksposisjon? Er det store skilnadar i regionen?",
+                "notes": ""
+            },
+            "FootPenetration": {
+                "translation": "Innsynking fot",
+                "notes": ""
+            },
+            "HeightLimitLayeredSnow": {
+                "translation": "Øvre grense for snø utan lagdeling (moh)",
+                "notes": ""
+            },
+            "HightLimitLayeredSnowPlaceholder": {
+                "translation": "For snø utan farleg lagdeling",
+                "notes": ""
+            },
+            "NewSnow": {
+                "translation": "nysnø",
+                "notes": ""
+            },
+            "NewSnowDepth24": {
+                "translation": "Siste døgn (cm)",
+                "notes": ""
+            },
+            "NewSnowLine": {
+                "translation": "Nysnøgrense (moh)",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Snødekke",
+                "notes": ""
+            },
+            "SnowDepth": {
+                "translation": "Snødjupn (cm)",
+                "notes": ""
+            },
+            "SnowDriftTName": {
+                "translation": "Snøfokk",
+                "notes": ""
+            },
+            "SnowLine": {
+                "translation": "Snøgrense (moh)",
+                "notes": ""
+            },
+            "SnowLines": {
+                "translation": "Snøgrenser",
+                "notes": ""
+            },
+            "SnowSurfaceTName": {
+                "translation": "Snøoverflate",
+                "notes": ""
+            },
+            "SurfaceRougnessTName": {
+                "translation": "Overflate",
+                "notes": ""
+            },
+            "SurfaceWaterContentTName": {
+                "translation": "Overflatefuktigheit",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "totalt",
+                "notes": ""
+            }
+        },
+        "WaterLevel": {
+            "AppliesFor": {
+                "translation": "Gjeld for",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "Lake": {
+                "translation": "Innsjø",
+                "notes": ""
+            },
+            "MeasuredDischarge": {
+                "translation": "Målt vassføring",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Vasstand",
+                "notes": ""
+            },
+            "River": {
+                "translation": "elv",
+                "notes": ""
+            },
+            "WaterLevelDescribed": {
+                "translation": "Vasstand skildring",
+                "notes": ""
+            },
+            "WaterLevelRefTName": {
+                "translation": "Referansenivå",
+                "notes": ""
+            },
+            "WaterLevelValue": {
+                "translation": "Storleik",
+                "notes": ""
+            }
+        },
+        "WaterLevel2": {
+            "AddNewMarking": {
+                "translation": "Legg til ny vasstandmarkering",
+                "notes": ""
+            },
+            "AddNewMeasurement": {
+                "translation": "Legg til ny vasstandmåling",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "DescribeSituationQuestion": {
+                "translation": "Korleis vil du skildre situasjonen?",
+                "notes": ""
+            },
+            "MarkingComment": {
+                "translation": "Skildring av markeringa",
+                "notes": ""
+            },
+            "MarkingReferenceQuestion": {
+                "translation": "Eg har markert vasstanden i/på",
+                "notes": ""
+            },
+            "MarkingTypeQuestion": {
+                "translation": "Eg har markert vasstanden med",
+                "notes": ""
+            },
+            "MeasuredRelativeTo": {
+                "translation": "Måling relativt til",
+                "notes": ""
+            },
+            "MeasurementComment": {
+                "translation": "Skildring av målinga",
+                "notes": ""
+            },
+            "MeasurementReferenceComment": {
+                "translation": "Skildr høgde",
+                "notes": ""
+            },
+            "MeasurementReferenceQuestion": {
+                "translation": "Høgda er relativt til",
+                "notes": ""
+            },
+            "MeasurementReferenceTName": {
+                "translation": "Vassmarkering på/i",
+                "notes": ""
+            },
+            "MeasurementTypeQuestion": {
+                "translation": "Korleis les du av vasstanden?",
+                "notes": ""
+            },
+            "MeasurementTypeTName": {
+                "translation": "Måleinstrument",
+                "notes": ""
+            },
+            "MeasuringToolDescription": {
+                "translation": "Skriv inn måleinstrument her",
+                "notes": ""
+            },
+            "ObservationTimingQuestion": {
+                "translation": "Kva registerar du?",
+                "notes": ""
+            },
+            "ObservationTimingTName": {
+                "translation": "Kva registrerar du?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Vasstand",
+                "notes": ""
+            },
+            "WaterAstrayQuestion": {
+                "translation": "Kan du sjå vatn på avveg?",
+                "notes": ""
+            },
+            "WaterAstrayTName": {
+                "translation": "Vatn på avveg",
+                "notes": ""
+            },
+            "WaterLevelDescription": {
+                "translation": "Vasstand i meter",
+                "notes": ""
+            },
+            "WaterLevelMethodQuestion": {
+                "translation": "Korleis registrerar du?",
+                "notes": ""
+            },
+            "WaterLevelStateTName": {
+                "translation": "Situasjon",
+                "notes": ""
+            },
+            "WaterMarking": {
+                "translation": "Vassmerking",
+                "notes": ""
+            },
+            "WaterMeasurement": {
+                "translation": "Vassmåling",
+                "notes": ""
+            },
+            "WaterMeasurementValue": {
+                "translation": "Vassmålingsverdi",
+                "notes": ""
+            },
+            "With": {
+                "translation": "med",
+                "notes": ""
+            }
+        },
+        "WeatherObservation": {
+            "AirTemperature": {
+                "translation": "Lufttemperatur (°C)",
+                "notes": ""
+            },
+            "AirTemperaturePlaceholder": {
+                "translation": "Kan skrivast med to desimalar",
+                "notes": ""
+            },
+            "CloudCover": {
+                "translation": "Skydekke (%)",
+                "notes": ""
+            },
+            "Clouds": {
+                "translation": "skyer",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Kommentar",
+                "notes": ""
+            },
+            "CommentHeader": {
+                "translation": "Skildr vêret",
+                "notes": ""
+            },
+            "CommentPlaceholder": {
+                "translation": "Korleis har vêret vore det siste døgnet? T.d.: Har det vore byger? Har det vore temperatuendringar? Kvar går nullisotermen?",
+                "notes": ""
+            },
+            "FromEast": {
+                "translation": "A - frå aust",
+                "notes": ""
+            },
+            "FromNorth": {
+                "translation": "N - frå nord",
+                "notes": ""
+            },
+            "FromNorthEast": {
+                "translation": "NA - frå nordaust",
+                "notes": ""
+            },
+            "FromNorthWest": {
+                "translation": "NV - frå nordvest",
+                "notes": ""
+            },
+            "FromSouth": {
+                "translation": "S - frå sør",
+                "notes": ""
+            },
+            "FromSouthEast": {
+                "translation": "SA - frå søraust",
+                "notes": ""
+            },
+            "FromSouthWest": {
+                "translation": "SV - frå sørvest",
+                "notes": ""
+            },
+            "FromWest": {
+                "translation": "V - frå vest",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Værobservasjon",
+                "notes": ""
+            },
+            "OnlyFullPercentage": {
+                "translation": "Berre i heile prosent",
+                "notes": ""
+            },
+            "Precipitation": {
+                "translation": "Nedbørstype",
+                "notes": ""
+            },
+            "PrecipitationTID": {
+                "translation": "Nedbørstype",
+                "notes": ""
+            },
+            "Wind": {
+                "translation": "Vind",
+                "notes": ""
+            },
+            "WindDirection": {
+                "translation": "Vindretning",
+                "notes": ""
+            },
+            "WindSpeed": {
+                "translation": "Vindhastigheit (m/s)",
+                "notes": ""
+            }
+        }
+    },
+    "Of": {
+        "translation": "av",
+        "notes": ""
+    },
+    "Ok": {
+        "translation": "Ok",
+        "notes": ""
+    },
+    "Password": {
+        "translation": "Passord",
+        "notes": ""
+    },
+    "picture": {
+        "translation": "bilete",
+        "notes": ""
+    },
+    "PictureCarousel": {
+        "Comment": {
+            "translation": "Kommentar",
+            "notes": ""
+        },
+        "Copyright": {
+            "translation": "Opphavsrett",
+            "notes": ""
+        },
+        "Image": {
+            "translation": "Bilete",
+            "notes": ""
+        },
+        "ObservedLocation": {
+            "translation": "Observert lokasjon",
+            "notes": ""
+        },
+        "Of": {
+            "translation": "Av",
+            "notes": ""
+        }
+    },
+    "PictureKey": {
+        "translation": "Bilete",
+        "notes": ""
+    },
+    "PictureMode": {
+        "translation": "Berre bilete",
+        "notes": ""
+    },
+    "Reg": {
+        "ObservedTime": {
+            "translation": "Observert",
+            "notes": ""
+        },
+        "ObserverNickName": {
+            "translation": "Av",
+            "notes": ""
+        },
+        "RegisteredTime": {
+            "translation": "Registrert",
+            "notes": ""
+        },
+        "UpdatedTime": {
+            "translation": "Oppdatert",
+            "notes": ""
+        }
+    },
+    "Register": {
+        "translation": "Registrer bruker",
+        "notes": ""
+    },
+    "RegistrationDetail": {
+        "EditInfo": {
+            "translation": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering.",
+            "notes": ""
+        }
+    },
+    "RegistrationEdit": {
+        "AddForm": {
+            "translation": "Legg til skjema",
+            "notes": ""
+        },
+        "BadRequest": {
+            "translation": "Ugyldig skjema.",
+            "notes": ""
+        },
+        "ConfirmDelete": {
+            "translation": "Er du sikker på at du vil slette denne observasjonen?",
+            "notes": ""
+        },
+        "ContinueOnDraft": {
+            "translation": "Hald fram på kladd",
+            "notes": ""
+        },
+        "ContinueOnDraftButton": {
+            "translation": "Hald fram på kladd",
+            "notes": ""
+        },
+        "ContinueOnDraftCancelButton": {
+            "translation": "Start ny observasjon",
+            "notes": ""
+        },
+        "ContinueOnDraftMessage": {
+            "translation": "Du har allereie ein kladd liggande frå",
+            "notes": ""
+        },
+        "ContinueOnDraftQuestion": {
+            "translation": "Vil du halde fram med med den?",
+            "notes": ""
+        },
+        "DeleteError": {
+            "translation": "Klarte ikkje å slette observasjon!",
+            "notes": ""
+        },
+        "DeleteObservation": {
+            "translation": "Slett observasjon",
+            "notes": ""
+        },
+        "Discard": {
+            "translation": "Forkast",
+            "notes": ""
+        },
+        "Done": {
+            "translation": "Ferdig",
+            "notes": ""
+        },
+        "ErrorHasBeenLogged": {
+            "translation": "Feilmeldinga har blitt logga i systemet med referanse",
+            "notes": ""
+        },
+        "FormInfo": {
+            "translation": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast.",
+            "notes": ""
+        },
+        "MissingNetwork": {
+            "translation": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
+            "notes": ""
+        },
+        "NoCancel": {
+            "translation": "Nei, avbryt",
+            "notes": ""
+        },
+        "Retry": {
+            "translation": "Prøv på nytt",
+            "notes": ""
+        },
+        "SaveAsDraft": {
+            "translation": "Lagre som kladd?",
+            "notes": ""
+        },
+        "SaveDraft": {
+            "translation": "Lagre kladd",
+            "notes": ""
+        },
+        "SaveDraftMessage": {
+            "translation": "Du har ikkje lagt til nokre skjemaa og observasjonen blir difor ikkje publisert. Vil du lagre som kladd og halde fram seinare?",
+            "notes": ""
+        },
+        "SubmitFailedHeader": {
+            "translation": "Innsendinga misslykkast",
+            "notes": ""
+        },
+        "SyncError": {
+            "translation": "Klarte ikkje å synkronisere observasjon med Regobs!",
+            "notes": ""
+        },
+        "SyncErrorFormInfo": {
+            "translation": "Eit eller fleire objekt på dette skjemaet kunne ikkje sendast inn.",
+            "notes": ""
+        },
+        "SyncInProgress": {
+            "translation": "Synkronisering føregår:",
+            "notes": ""
+        },
+        "YesDelete": {
+            "translation": "Ja, slett!",
+            "notes": ""
+        }
+    },
+    "RegistrationKeyInfo": {
+        "Accuracy": {
+            "translation": "Nøyaktigheit",
+            "notes": ""
+        },
+        "Edit": {
+            "translation": "Endre",
+            "notes": ""
+        },
+        "MetersAboveSeaLevel": {
+            "translation": "Meter over havet",
+            "notes": ""
+        },
+        "Municipal": {
+            "translation": "Kommune",
+            "notes": ""
+        },
+        "Source": {
+            "translation": "Kjelde",
+            "notes": ""
+        },
+        "WarningRegion": {
+            "translation": "Varslingsregion",
+            "notes": ""
+        }
+    },
+    "RememberMe": {
+        "translation": "Hugs meg",
+        "notes": ""
+    },
+    "RequiredField": {
+        "translation": "*Obligatorisk felt",
+        "notes": ""
+    },
+    "RequiredFieldError": {
+        "translation": "Dette feltet er påkrevd",
+        "notes": ""
+    },
+    "Reset": {
+        "translation": "Nullstill",
+        "notes": ""
+    },
+    "Routes": {
+        "About": {
+            "translation": "Om",
+            "notes": ""
+        },
+        "Cookies": {
+            "translation": "Informasjonskapslar",
+            "notes": ""
+        },
+        "Home": {
+            "translation": "Heim",
+            "notes": ""
+        }
+    },
+    "Save": {
+        "translation": "Lagre",
+        "notes": ""
+    },
+    "Search": {
+        "Criterias": {
+            "Area": {
+                "Label": {
+                    "translation": "Område",
+                    "notes": ""
+                },
+                "List": {
+                    "translation": "Regionar",
+                    "notes": ""
+                },
+                "Norway": {
+                    "translation": "Norge",
+                    "notes": ""
+                },
+                "Search": {
+                    "translation": "I nærleiken",
+                    "notes": ""
+                }
+            },
+            "Country": {
+                "Label": {
+                    "translation": "Andre land",
+                    "notes": ""
+                }
+            },
+            "FreeText": {
+                "Label": {
+                    "translation": "Tekst i observasjon",
+                    "notes": ""
+                },
+                "Placeholder": {
+                    "translation": "Søk på tekst",
+                    "notes": ""
+                }
+            },
+            "ObservationType": {
+                "Label": {
+                    "translation": "Observasjonstype",
+                    "notes": ""
+                }
+            },
+            "Observers": {
+                "CompetenceFilter": {
+                    "translation": "Kompetanse",
+                    "notes": ""
+                },
+                "CompetenceLevelExplanation": {
+                    "translation": "Kompetanseforklaring",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Observatørar",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Mine observasjonar",
+                    "notes": ""
+                },
+                "ObserverNickNamePlaceholder": {
+                    "translation": "Søk på observatør",
+                    "notes": ""
+                },
+                "SearchInCompetences": {
+                    "translation": "Søk på kompetanse:",
+                    "notes": ""
+                },
+                "SearchNickName": {
+                    "translation": "Navnesøk",
+                    "notes": ""
+                }
+            },
+            "QuickSearch": {
+                "Label": {
+                    "translation": "HurtigSøk",
+                    "notes": ""
+                }
+            },
+            "Recent": {
+                "Day": {
+                    "translation": "døgn",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "Frå",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Mine siste søk",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "siste",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Mine observasjonar",
+                    "notes": ""
+                },
+                "ObserverCompetence": {
+                    "translation": "Observatørkompetanse",
+                    "notes": ""
+                },
+                "ObserverName": {
+                    "translation": "Observatørnamn",
+                    "notes": ""
+                },
+                "Regions": {
+                    "translation": "Regionar",
+                    "notes": ""
+                },
+                "RegistrationTypes": {
+                    "translation": "Observasjonstype",
+                    "notes": ""
+                },
+                "Time": {
+                    "translation": "Tidsperiode",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Til",
+                    "notes": ""
+                }
+            },
+            "Regions": {
+                "BRegionInfo": {
+                    "translation": "Varslast berre på faregrad 4 og 5",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Regionar",
+                    "notes": ""
+                }
+            },
+            "TimePeriod": {
+                "ChooseDate": {
+                    "translation": "vel dato:",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "døgn",
+                    "notes": ""
+                },
+                "Days": {
+                    "translation": "døgn",
+                    "notes": ""
+                },
+                "FilterByDays": {
+                    "translation": "Vis frå dei siste:",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "Frå",
+                    "notes": ""
+                },
+                "FromDatePicker": {
+                    "Placeholder": {
+                        "translation": "Fra dato",
+                        "notes": ""
+                    }
+                },
+                "InvalidDate": {
+                    "translation": "Ugyldig dato",
+                    "notes": ""
+                },
+                "InvalidDateRange": {
+                    "translation": "Ugyldig tidsperiode",
+                    "notes": ""
+                },
+                "InvalidInteger": {
+                    "translation": "Ugyldig heiltal",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Tidsperiode",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "siste",
+                    "notes": ""
+                },
+                "NumberOfDays": {
+                    "Placeholder": {
+                        "translation": "Vel talet på døgn",
+                        "notes": ""
+                    }
+                },
+                "Or": {
+                    "translation": "eller",
+                    "notes": ""
+                },
+                "OrChooseDate": {
+                    "translation": "eller vel dato",
+                    "notes": ""
+                },
+                "OrChooseRange": {
+                    "translation": "Vel tidsrom",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "Til",
+                    "notes": ""
+                },
+                "ToDatePicker": {
+                    "Placeholder": {
+                        "translation": "Til dato",
+                        "notes": ""
+                    }
+                }
+            }
+        },
+        "GetMoreRegistrationsBtn": {
+            "translation": "Hent fleire observasjonar",
+            "notes": ""
+        },
+        "Header": {
+            "HideRegTypeFilter": {
+                "translation": "Skjul filtrering",
+                "notes": ""
+            },
+            "ShowRegTypeFilter": {
+                "translation": "Vis filtrering",
+                "notes": ""
+            },
+            "Sort": {
+                "Label": {
+                    "translation": "Sorter på",
+                    "notes": ""
+                },
+                "LastUpdated": {
+                    "translation": "Sist oppdaterte tid",
+                    "notes": ""
+                },
+                "Observed": {
+                    "translation": "Observert tid",
+                    "notes": ""
+                },
+                "Registered": {
+                    "translation": "Registret tid",
+                    "notes": ""
+                }
+            },
+            "ViewMode": {
+                "ListKey": {
+                    "translation": "Liste",
+                    "notes": ""
+                },
+                "MapKey": {
+                    "translation": "Kart",
+                    "notes": ""
+                },
+                "PictureKey": {
+                    "translation": "Bilete",
+                    "notes": ""
+                }
+            }
+        },
+        "HeadingColor": {
+            "black": {
+                "translation": "Svart",
+                "notes": ""
+            },
+            "blue": {
+                "translation": "Blå",
+                "notes": ""
+            }
+        },
+        "LoadMoreRegistrationsText": {
+            "translation": "Klikk her for å laste fleire registreringar manuelt",
+            "notes": ""
+        },
+        "SearchButton": {
+            "translation": "Søk i observasjonane",
+            "notes": ""
+        },
+        "SearchFilters": {
+            "translation": "Søkefilter",
+            "notes": ""
+        },
+        "SortOrder": {
+            "Observert tid": {
+                "translation": "Observert",
+                "notes": ""
+            },
+            "Registrert tid": {
+                "translation": "Registert tid",
+                "notes": ""
+            },
+            "Siste oppdatert tid": {
+                "translation": "Siste oppdaterte tidq",
+                "notes": ""
+            }
+        }
+    },
+    "SearchButtonName": {
+        "translation": "Søk",
+        "notes": ""
+    },
+    "Searching": {
+        "translation": "Søker",
+        "notes": ""
+    },
+    "SearchResultOfTotal": {
+        "translation": "av",
+        "notes": ""
+    },
+    "ShowAllObservations": {
+        "translation": "Vis alle observasjonar",
+        "notes": ""
+    },
+    "ShowFilteredObservations": {
+        "translation": "Vis valgte observasjonar",
+        "notes": ""
+    },
+    "ShowLess": {
+        "translation": "Vis mindre",
+        "notes": ""
+    },
+    "ShowMore": {
+        "translation": "Vis meir",
+        "notes": ""
+    },
+    "ShowSearchButtonName": {
+        "translation": "Vis søk",
+        "notes": ""
+    },
+    "SignIn": {
+        "translation": "Logg inn",
+        "notes": ""
+    },
+    "SignOut": {
+        "translation": "Logg ut",
+        "notes": ""
+    },
+    "SingleRegistration": {
+        "translation": "registrering",
+        "notes": ""
+    },
+    "snø": {
+        "translation": "snø",
+        "notes": ""
+    },
+    "SortByName": {
+        "translation": "Sorter etter:",
+        "notes": ""
+    },
+    "TableModes": {
+        "CompactKey": {
+            "translation": "Kompakt",
+            "notes": ""
+        },
+        "CompleteKey": {
+            "translation": "Fullstendig",
+            "notes": ""
+        },
+        "ShortKey": {
+            "translation": "Kort",
+            "notes": ""
+        }
     },
     "Time": {
-      "AdditionalInformation": "Tilleggsinformasjon",
-      "Description": "Legg inn tidspunktet observasjonen blei gjort. Bruk lokaltid på observasjonsstaden.",
-      "Exact": "Eksakt",
-      "MoreThanOneKm": "Mein enn 1 km",
-      "NotMemberOfAnyGroups": "Du er ikkje medlem av nokre grupper",
-      "Share": "Del med gruppe",
-      "Source": "Kjelde",
-      "Title": "Når blei observasjonen gjort?",
-      "Uncertainty": "Usikkerheit i posisjon"
-    }
-  },
-  "Direction": {
-    "E": "A",
-    "N": "N",
-    "NE": "NA",
-    "NW": "NV",
-    "S": "S",
-    "SE": "SA",
-    "SW": "SV",
-    "W": "V"
-  },
-  "Email": "E-post",
-  "Footer": {
-    "AboutDataInRegObs": "Om data i Regobs",
-    "AboutRegObsHeader": "Om Regobs",
-    "BeAwareThat": "Om det er ",
-    "Collaboration": "Samarbeid",
-    "ConditionOfUse": "Vilkår for bruk",
-    "ContactIndividual": "Ta då kontakt med varslingstjenesten som rettar seg best mot det du brukar regObs til.",
-    "ContactUsHeader": "Kontakt oss",
-    "FeedbackForm1": "Du kan også bruke eit ",
-    "FeedbackForm2": "tilbakemeldingsskjema",
-    "FeedbackForm3": "for å gje oss tilbakemeldingar på tjenesten",
-    "GoTo": "Gå til",
-    "HearFromYou": "Vi høyrer gjerne frå deg om brukaropplevingar eller faglege henvendingar. ",
-    "IskartAbout": "Les isvarsla som NVE har utarbeida på grunnlag av tilgjengeleg isinformasjon og vêret i vinter. ",
-    "IskartAlt": "Logo for Iskart.no",
-    "NveVarsom": "Jordskredvarslinga og flaumvarslinga hjå NVE er ein del av fleire verkty vi har etablert saman med varsom.no.",
-    "OtherToolsHeader": "Andre verkty",
-    "ReadMoreAboutRegobs": "Les meir om regObs",
-    "RegObsContactEmail": "Kontaktepost@regobs.no",
-    "RegObsCovers": "Den dekkjer snøskredsvarslinga, isvarslinga, jordskredvarslinga og flaumvarslinga.",
-    "RegObsFacebook": "Faggruppe regObs på Facebook",
-    "RegObsGatheringPlace": "regObs er ein samlingstad for observasjonar og hendelingar brukt i varsling og beredskapsarbeid.",
-    "SeNorgeAbout": "seNorge er ein open portal, som viser oppdaterte kart over snø-, vêr- og vass- og klima tilhøve i Noreg.",
-    "SeNorgeAlt": "Logo for Senorge.no",
-    "VarsomAbout": "Varsom.no er ein tjeneste levert av NVE, i samarbeid med Meteorologisk institutt, Statens vegvesen og Bane NOR.",
-    "VarsomAlt": "Logo for Varsom.no",
-    "XGeoAbout": "xGeo er eit verkty som brukast til beredskap, overvaking og varsling av flaum, jord-og snøskredfare.",
-    "XGeoAlt": "Logo for Xgeo.no"
-  },
-  "Forgotten": "Gløymt passord?",
-  "from": "frå",
-  "Geohazards": {
-    "All": "Alle",
-    "Ice": "Is",
-    "Snow": "Snø",
-    "Soil": "Jord",
-    "Water": "Vatn",
-    "WaterSoil": "Vatn og jord"
-  },
-  "GeoLocation": {
-    "PositionError": {
-      "PermissionDenied": "For å hente posisjonen lyt du endre innstillingar i nettlesaren.",
-      "PositionUnavailable": "Får ikkje tak i posisjonen din",
-      "Timeout": "Det tok for lang tid å få tak i posisjonen din. "
-    }
-  },
-  "GoBack": "Gå tilbake",
-  "GoToObservation": "Gå til observasjon",
-  "GoToReportPage": "Gå til rapportvising",
-  "HeightKey": "Høgde",
-  "Home": "Heim",
-  "HomeLocationSearch": {
-    "All": "Alle",
-    "Change": "Endre",
-    "Days": "døgn",
-    "Last": "siste",
-    "NoMaps": "Ingen støttekart",
-    "Search": "Søk i kart"
-  },
-  "Information": "Informasjon",
-  "InvalidDate": "Ugyldig dato",
-  "is": "is",
-  "jord": "jord",
-  "LanguageLabel": "Språk:",
-  "Login": {
-    "CreateNewRegObsUser": "Opprett regObs bruker her.",
-    "EmailRequired": "Vennligst oppgi e-postadresse",
-    "NoUser": "Ikkje brukar?",
-    "PasswordRequired": "Oppgi passord",
-    "ValidEmail": "Oppgi ei gyldig e-postadresse. "
-  },
-  "Map": {
-    "InMapView": "i utsnitt",
-    "Loading": "Lastar",
-    "LoadingObservations": "Lastar observasjonar"
-  },
-  "MapMode": "Kart",
-  "MapSelection": {
-    "Ice": {
-      "Channel": "Kanal",
-      "FracturedIceAlongShore": "Sprekt is langs land",
-      "OftenDangerousIceConditions": "Ofte farlege istilhøve",
-      "Penstock": "Røyrgate",
-      "PowerPlantTunnel": "Kraftverkstunnel",
-      "SignificantlyWeakenedIce": "Vesentleg svekka is",
-      "WeakenedIce": "Svekka is"
+        "translation": "tidspunkt",
+        "notes": ""
     },
-    "Observations": "Observasjonar",
-    "ObservationsAndSupportMaps": "Observasjonar og støttekart",
-    "Opacity": "Gjennomsiktigheit",
-    "SnowWarningRegions": "Varslingsregionar",
-    "Soil": {
-      "HighLoose": "Høg (losneområde)",
-      "HighOutlet": "Høg (utløpsområde)",
-      "LowLoose": "Lav (losneområde)",
-      "LowOutlet": "Lav (utløpsområde)",
-      "MappedAreas": "Kartlagde områder",
-      "MediumLoose": "Middels (utløpsområde)\n",
-      "MediumOutlet": "Middels (utløpsområde)\n",
-      "None": "Ingen",
-      "PotentialHazards": "Potensielt skredfare"
+    "to": {
+        "translation": "to",
+        "notes": ""
     },
-    "SupportClayZonesDescription": "Kvikkleire/Jordskred",
-    "SupportClayZonesName": "Kvikkleire/Jordskred",
-    "SupportFloodZonesDescription": "Flaumsoner",
-    "SupportFloodZonesName": "Flaumsoner",
-    "SupportMap": "Støttekart:",
-    "SupportMaps": "Støttekart",
-    "SupportSteepnessDescription": "Fargar gir hellingen til terrenget (grader):",
-    "SupportSteepnessName": "Helling",
-    "SupportWeakenedIceDescription": "Støttekartet viser delar av vassdrag som oppfører seg uforutsigbart gjennom vinteren grunna reguleringar for kraftproduksjon",
-    "SupportWeakenedIceName": "Svekka is",
-    "Water": {
-      "1000YearFlood": "1000-årsflaum",
-      "100YearFlood": "100-årsflaum",
-      "10YearFlood": "10-årsflaum",
-      "200YearFlood": "200-årsflaum",
-      "200YearFloodClimate": "200-årsflaum (klima)",
-      "20YearFlood": "20-årsflaum",
-      "500YearFlood": "500-årsflaum",
-      "50YearFlood": "50-årsflaum",
-      "AjourRecognized": "Ajourført",
-      "Current": "Gjeldande",
-      "ForReview": "Til ny vurdering",
-      "LowPoint": "Flaumutsett lavpunkt med:",
-      "RiverAndWater10YearFlood": "Elv og vatn 10-årsflaum",
-      "UnderPlanning": "Under planlegging"
-    }
-  },
-  "MapSideNav": {
-    "ChosenObservation": "Valt observasjon",
-    "Hide": "Skjul",
-    "MapSelection": "Kartval",
-    "MoveMap": "Zoom ut eller forleng tidsrommet for å sjå fleire observasjonar",
-    "NoObservationsInMapView": "Ingen observasjonar i kartutsnittet.",
-    "Observations": "Observasjonar",
-    "ObservationsInMapView": "Observasjonar i kartutsnittet",
-    "Options": "Kartval",
-    "ShowInList": "Vis i liste",
-    "ShowMapSelection": "Vis kartval",
-    "ShowObservationsInMapView": "Vis observasjonar i kartutsnittet"
-  },
-  "Menu": "Meny",
-  "metersOverSeaLevel": "moh",
-  "MultipleRegistrations": "registreringar",
-  "MyPage": {
-    "MyCompetence": "Min kompetanse",
-    "MyGroups": "Mine grupper",
-    "MyObservations": {
-      "Competence": "Kompetanse",
-      "ContactQuestion": "Ta gjerne kontakt om du har spørsmål om kompetanse. ",
-      "HighestCompetence": "HØGASTE KOMPETANSE",
-      "MyCompetences": "Min kompetanse",
-      "MyNveAccount": "Min NVE-konto",
-      "NoCompetence": "Du har ikkje kompetanse knytt til Regobs-brukaren din.",
-      "NoObservations": {
-        "Message": "Du har ikkje registrert observasjonar enno. Så snart du delar det du ser ute i naturen ved å gjere ein observasjon vil den syne her. ",
-        "Title": "Del det du ser!"
-      },
-      "Title": "Mine observasjonar",
-      "UnknownCompetence": "UKJEND KOMPETANSE"
+    "Unknown": {
+        "translation": "Ukjent",
+        "notes": ""
     },
-    "MyPage": "Mi side",
-    "MyPlaces": "Mine stadar",
-    "UserInfo": {
-      "EditNickname": "Endre kallenamn"
-    },
-    "VarsomUser": "Varsom-bruker"
-  },
-  "Navbar": {
-    "All": {
-      "ObservationsFromLastSevenDays": "Vis alle observasjonane frå dei siste sju dagane"
-    },
-    "Ice": {
-      "RegisterObservation": "Ny isobservasjon",
-      "SearchInObservation": "Rapportvising for is",
-      "ShowObservationsInMap": "Isobservasjonar og svekka is kart"
-    },
-    "RegisterObservation": "Registrer observasjon",
-    "SearchInObservation": "Søk i observasjonane",
-    "ShowObservationsInMap": "Vis observasjonar i kart",
-    "Snow": {
-      "RegisterObservation": "Ny snøobservasjon",
-      "SearchInObservation": "Rapportvising for snø",
-      "ShowObservationsInMap": "Snøobservasjon og brattleikkart"
-    },
-    "Soil": {
-      "RegisterObservation": "Ny isobservasjon",
-      "SearchInObservation": "Rapportvising for jord og vatn",
-      "ShowObservationsInMap": "Jord- og vassobservasjonar og skredutsett terreng"
-    },
-    "Water": {
-      "RegisterObservation": "Ny vassobservasjon",
-      "SearchInObservation": "Rapportvising for vatn og jord",
-      "ShowObservationsInMap": "Vass- og jordobservasjonar og flaumsonekart"
-    }
-  },
-  "No": "Nei",
-  "Now": "no",
-  "NveAccountSignIn": "Logg inn",
-  "observation": "observasjonar",
-  "ObservationCard": {
-    "AboveSeaLevel": "moh",
-    "Download": "Last ned",
-    "ForecastRegion": "Varslingsregion",
-    "Forms": "Skjema",
-    "Observed": "Observert:",
-    "ObsId": "ID:",
-    "Original": "Sjå original",
-    "Registered": "Registrert:",
-    "SentInBy": "Sendt inn av",
-    "Updated": "Oppdatert:"
-  },
-  "observations": "observasjon(ar)",
-  "Observations": {
-    "AvalancheActivityObs": {
-      "Aspect": "Eksposisjon",
-      "AvalancheTID": "Skredtype",
-      "AvalancheTriggerTID": "Skredutløysar",
-      "Comment": "Kommentar",
-      "DateWarning": "Dato er annleis enn observasjontidspunktet",
-      "DtAvalancheTime": "Tid",
-      "DuringTheDay": "I dag",
-      "EstimatedTime": "Antatt tidsrom",
-      "HeigthStartZone": "Hogde losneområde",
-      "HowManyAvalanches": "Tal på skred",
-      "MetersOverSeaLevel": "meter over havnivå",
-      "NoAvalancheActivity": "Ingen skredaktivitet observert",
-      "NumberAndSize": "Tal og storleik",
-      "ObsName": "Skredaktivitet"
-    },
-    "AvalancheActivityObs2": {
-      "AvalancheTID": "Skredtype",
-      "Comment": "Kommentar",
-      "DtAvalancheTime": "Tid",
-      "MetersOverSeaLevel": "meter over havnivå",
-      "NumberAndSizeAndTrigger": "Tak, storleik og skredutløysar",
-      "ObsName": "Skredaktivitet",
-      "Prevalence": "Utbreiing losneområde"
-    },
-    "AvalancheDangerObs": {
-      "Comment": "Kommentar",
-      "DangerSignTID": "Skredtype",
-      "ObsName": "Skredfareteikn"
-    },
-    "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Skredtype",
-      "AvalCauseAttributeLightTID": "Ugunstige eigenskapar til det svake laget",
-      "AvalCauseDepthTID": "Avstanden mellom det svake laget og overflata",
-      "AvalCauseTID": "Type svakt lag",
-      "AvalProbabilityTID": "Sannsyn for skred",
-      "AvalTriggerSimpleTID": "Sannsynleg last for å løyse ut skred",
-      "Comment": "Kommentar",
-      "DestructiveSizeTID": "Storleik på venta skred",
-      "ObsName": "Skredproblem",
-      "PrevalenceArea": "Utbreiing losneområde"
-    },
-    "AvalancheEvaluation": {
-      "AvalancheDangerTID": "Faregrad",
-      "AvalancheDevelopment": "Utvikling",
-      "AvalancheEvaluation1": "Skredvurdering",
-      "AvalancheProblemTID1": "Skredfareproblem 1",
-      "AvalancheProblemTID2": "Skredfareproblem 2",
-      "AvalancheProblemTID3": "Skredfareproblem 3",
-      "Comment": "Kommentar til varsla faregrad",
-      "Evaluation": "Vurdering",
-      "ForecastCorrect": "Vurdering av varsla faregrad på varsom.no",
-      "ObsName": "Skredfarevurdering",
-      "ValidExposition": "Eksposisjon"
-    },
-    "AvalancheEvaluation2": {
-      "AvalancheDangerTID": "Faregrad",
-      "AvalancheDevelopment": "Utvikling",
-      "AvalancheEvaluation": "Skredvurdering",
-      "AvalancheProblem": "Skredproblem",
-      "ExposedTerrain": "Utsett terreng",
-      "ObsName": "Skredfarevurdering"
-    },
-    "AvalancheEvaluation3": {
-      "AvalancheDangerTID": "Faregrad",
-      "AvalancheDevelopment": "Utvikling",
-      "AvalancheEvaluation": "Skredvurdering",
-      "ForecastComment": "Kommentar",
-      "ForecastCorrectTID": "Rettheit av varselet",
-      "ObsName": "Skredfarevurdering"
-    },
-    "AvalancheObs": {
-      "AvalancheTID": "Skredtype",
-      "AvalancheTriggerTID": "Skredutløysar",
-      "AvalancheType": "Skredtype",
-      "AvalCauseTID": "Svakt lag",
-      "Comment": "Kommentar",
-      "DestructiveSizeTID": "Storleik",
-      "DtAvalancheTime": "Tidspunkt for skred.",
-      "FractureHeight": "Brothøyde (cm)",
-      "FractureWidth": "Brotbreidd (m)",
-      "HeigthStartZone": "Losneområdet",
-      "HeigthStopZone": "Stoppområdet",
-      "IncidentDescription": "Ulykke eller skade",
-      "IncidentPlaceholder": "Førte skredet til skade, ulykke eller nestenulykke? Kva skjedde og kvifor? Kunne situasjonen vore unngått?",
-      "ObsName": "Skredhending",
-      "Position": "Skredposisjon",
-      "PositionDescription": "Sett start- og sluttpunkt for skredet, om du veit det.",
-      "SetStartPosition": "Sett startpunkt",
-      "SetStopPosition": "Sett sluttpunkt",
-      "TerrainStartZoneTID": "Terrengtype i løysneområdet",
-      "TrajectoryName": "Skredbanenamn",
-      "ValidExposition": "Eksposisjon"
-    },
-    "AvalancheProblem": {
-      "AvalancheDestructiveSize": "Storleik på venta skred",
-      "AvalancheProbability": "Moglegheit for skred",
-      "AvalancheTriggerProbability": "Skredutløysar",
-      "AvalancheType": "Skredtype",
-      "Comment": "Kommentar",
-      "NoWeakLayers": "Det finnast ikkje svake lag",
-      "Propagation": "Utbreiing",
-      "WeakLayer": "Svakt lag",
-      "WeakLayerDepth": "Djupn til det svake laget"
-    },
-    "CompressionTest": {
-      "Comment": "Kommentar",
-      "DistanceFromTop": "Avstand fra toppen (cm)",
-      "FractureType": "Brottype",
-      "Include": "Inkluder i snøprofil",
-      "NumberOfHits": "Antal slag",
-      "ObsName": "Stabilitetstest",
-      "Stability": "Stabilitet",
-      "StabilityEvalTID": "Stabilitet",
-      "Test": "Test",
-      "Type": "Test type"
-    },
-    "DamageObs": {
-      "Comment": "Kommentar",
-      "DamageTypeTID": "Skredtype",
-      "LocationDescription": "Angje skadepunkt viss di kjenner det",
-      "LocationTitle": "Kvar er skadepunktet?",
-      "ObsName": "Skadar"
-    },
-    "DangerObs": {
-      "Area": "Område",
-      "Comment": "Kommentar",
-      "DangerSignTName": "Type",
-      "NewDangerSign": "Nytt fareteikn",
-      "NoDamageSign": "Ingen fareteikn observert",
-      "ObsName": "Fareteikn",
-      "Title": "Fareteikn"
-    },
-    "GeneralObservation": {
-      "Comment": "Kommentar",
-      "NoObservationsFound": "Ingen observasjonar funne",
-      "Notes": "Notatar",
-      "NotesForObservation": "Notat frå observasjonen",
-      "ObsComment": "Tekst",
-      "ObsHeader": "Overskrift",
-      "ObsName": "Fritekst",
-      "Urls": "Lenker"
-    },
-    "IceCoverObs": {
-      "BearingStrength": "Bereevne",
-      "Comment": "Kommentar",
-      "Description": "Skildring",
-      "IceCapacityTName": "Bereevne",
-      "IceCover": "Isdekning",
-      "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
-      "IceCoverBeforeObservation": "Isdekning før observasjon",
-      "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
-      "IceCoverTName": "Isdekning",
-      "IceSkateabilityTName": "skøyteforhold",
-      "ObsName": "Isdekningsgrad"
-    },
-    "IceThickness": {
-      "AddIceLayer": "Legg til islag",
-      "AddIceThicknessLayer": "Legg til islag",
-      "Comment": "Kommentar",
-      "IceHeightAfterInput": "Tjukkleik til overvatnet (cm)",
-      "IceHeightAfterInputNo": "Høgde frå isoverflata til vassflata i boreholet (cm)",
-      "IceHeightBeforeInput": "Tjukkleik til overvatnet (cm)",
-      "IceLayer": "Islag",
-      "IceLayerThickness": "Tjukkleik på islag (cm)",
-      "IceThicknessLayers": "Islag (ovanfra og ned)",
-      "IceThicknessSum": "Total istjukkleik (cm)",
-      "IceType": "Type is",
-      "IsEqualToIceSurface": "er likt med isoverflata",
-      "LowerThanIceSurface": "Lavare enn isoverflata",
-      "ObsName": "Istjukkleik",
-      "OverIce": "Over isen ",
-      "OverWaterAfterDrilling": "Overvatn etter boring",
-      "OverWaterBeforeDrilling": "Overvatn før boring",
-      "SlushSnowBeforeDrilling": "Sørpe før boring (cm)",
-      "SnowDepthBeforeDrilling": "Snø før boring",
-      "Total": "totalt",
-      "TwoDecimalPlaces": "(cm, med opptil to desimalar)",
-      "WaterSurfaceInHole": "Vassflata i holet"
-    },
-    "Incident": {
-      "ActivityInfluencedTID": "Aktivitet",
-      "Comment": "Skildring",
-      "DamageExtentTID": "Skadeomfang",
-      "Description": "Kvifor skjedde det? Gjekk det bra? Kunne situasjonen vore unngått?",
-      "GeoHazardTID": "Observasjonstype",
-      "IncidentHeader": "Overskrift",
-      "IncidentIngress": "Ingress",
-      "IncidentText": "Skildring",
-      "ObsName": "Ulykke/hending",
-      "Urls": "Lenker"
-    },
-    "InCm": "I centimeter",
-    "InMeter": "I meter",
-    "LandslideObs": {
-      "ActivityInfluencedTName": "Kva blei påverka?",
-      "And": "og",
-      "AvalTrigger": "Skredutløysar",
-      "Between": "Mellom",
-      "Comment": "Kommentar",
-      "DamageExtent": "Skadeomfang",
-      "DamageExtentTName": "Omfang",
-      "DtLandSlideTime": "Kva er tidlegaste tidspunktet skredet kan ha gått?",
-      "DtLandSlideTimeEnd": "Kva er siste tid skredet kunne gått?",
-      "ForecastAccurateTName": "Stemte varselet på varsom.no?",
-      "InMap": "i kart",
-      "LandSlideSizeTName": "Storleik",
-      "LandslideTime": "Skredtidspunkt",
-      "LandSlideTName": "Skredtype",
-      "LandSlideTriggerTName": "Skredutløysar",
-      "LandslideType": "Skredtype",
-      "ObsName": "Skredhending",
-      "Position": "Skredposisjon",
-      "PositionDescription": "Sett start- og sluttpunkt for skredet, om du veit det.",
-      "Required": "Obligatorisk",
-      "SetLandslidePosition": "Sett skredposisjon",
-      "SetStartPosition": "Sett startpunkt",
-      "SetStopPosition": "Sett sluttpunkt",
-      "Time": "Tid",
-      "TimeDescription": "Her skal du legge inn tidspunktet skredet gjekk. Tidspunktet skal vere i lokaltid i området observasjonen er gjort",
-      "Title": "Skredhending",
-      "Urls": "Lenker"
-    },
-    "Picture": {
-      "Aspect": "Himmelretning",
-      "Comment": "Kommentar",
-      "Copyright": "Opphavsrett",
-      "Edit": "Rediger bilete",
-      "ObsName": "Bilete",
-      "Photographer": "Fotograf",
-      "PictureComment": "Kommentar",
-      "RegistrationTID": "Av"
-    },
-    "Shared": {
-      "Description": "Skildring",
-      "ExposedHeight": {
-        "Height": "Høgde",
-        "LowerHeight": "Nedre høgde",
-        "Title": "Utsett høgde"
-      },
-      "UnsentDescription": "Skjema er ikkje synkronisert med Regobs.",
-      "UnsentSummaryTitle": "Usendt skjema",
-      "ValidExposition": {
-        "All": "Alle",
-        "Title": "Eksposisjon"
-      }
-    },
-    "SnowCover": {
-      "CriticalLayer": "Svakt lag",
-      "CriticalLayerFound": "Svakt lag finnast",
-      "CriticalLayerLocation": "Plassering",
-      "CriticalLayerNotFound": "Det finnast ikkje svakt lag",
-      "CriticalLayerTID": "Skredtype",
-      "DepthHoar": "Begerkrystallar",
-      "DepthHoarInSnowCover": "med begerkrystallar nedst i snødekke",
-      "ObsName": "Snøprofil",
-      "SnowPilotRefTID": "Snøprofil",
-      "UnderSurface": "under overflata"
-    },
-    "SnowProfile": {
-      "AddLayerBottom": "Legg til eit nytt lag under",
-      "AddLayers": "Legg til lagdeling",
-      "AddLayerTop": "Legg til eit nytt lag over",
-      "AddTests": "Legg til testar",
-      "Cm": "cm",
-      "Comment": "Kommentar",
-      "CompressionTest": "Stabilitetstest",
-      "CompresstionTestConnectedToProfile": "Observert test knytta til profilet.",
-      "Density": {
-        "AddDensity": "Legg til tettleik",
-        "Average": "Snitt",
-        "CylinderBoreDiam": "Sylinderdiameter (cm)",
-        "Density": "Tettleik",
-        "DensityLabel": "Tettleik (kg/m³)",
-        "DensityProfileAdded": "tettleiksprofil lagt til",
-        "DensityProfiles": "tettleiksprofilar",
-        "Height": "Høgde (cm)",
-        "Layer": "Lag",
-        "Method": "Metode",
-        "Sum": "Sum",
-        "Summary": "Sammendrag",
-        "TareWeight": "Vekt av posen og ev. røyr (g)",
-        "UseCylinder": "Sylingerutrekning",
-        "WaterEquivalent": "Vassekv. (mm)",
-        "Weight": "Vekt (g)"
-      },
-      "DepthPlaceholder": "Djupn (cm)",
-      "IsProfileDugToTheGround": "Går profilet til bakken?",
-      "Layers": "Lagdeling",
-      "LayersObserved": "lag observert",
-      "Main": "Overordna",
-      "ObsName": "Snøprofil",
-      "SnowDensity": "Snøtettleik",
-      "SnowTemperature": "Temperatur",
-      "Stratification": {
-        "CriticalLayer": "Kritisk lag",
-        "DeleteLayer": "Slett laget",
-        "GetLayers": "Hent lagdeling frå ein annan profil",
-        "GetLayersFromOtherObsInfo": "Du kan velje å kopiere laga frå andre profilar, registrert innanfor 100 km dei siste 14 dagane.",
-        "GrainFormPrimary": "Kornform",
-        "GrainFormSecondary": "Sek. kornform",
-        "GrainSizeAvg": "Kornstorleik (mm)",
-        "GrainSizeAvgMax": "Maks kornstorleik (mm)",
-        "Hardness": "Hardheit",
-        "HardnessBottom": "Nedre hardleik",
-        "Layer": "Lag",
-        "MultipleObserved": "lagdelinger observert",
-        "NoPreviousLayersFound": "Ingen tidligere lagdelinger funne",
-        "Observed": "lagdeling observert",
-        "SelectLayers": "Vel lagdeling",
-        "ShowLess": "Vis færre val",
-        "ShowMore": "Vis fleire val",
-        "Thickness": "Tjukkleik (cm)",
-        "UseLayers": "Bruk lagdelinga",
-        "Wetness": "Fuktigheit"
-      },
-      "StratLayers": "Lagdeling",
-      "SumOfAllLayers": "Summen av alle lag:",
-      "Temperature": {
-        "Add": "Legg til temperatur",
-        "MultipleObserved": "temperaturpunkt observert",
-        "Observed": " temperaturpunkt observert",
-        "Placeholder": "Temperatur (°C)",
-        "TempProfile": "Temperaturprofil"
-      },
-      "Test": {
-        "Add": "Legg til",
-        "AddTest": "Legg til test",
-        "AttachedToProfile": "Observert test knytta til profilet.",
-        "AttachedToProfileTooltip": "Testen er knytt til snøprofilen",
-        "Tests": "testar",
-        "TestsWillAppearHere": "Testar du har lagd til visast her",
-        "Update": "Oppdater test"
-      }
-    },
-    "SnowSurfaceObservation": {
-      "Comment": "Kommentar",
-      "CommentHeader": "Skildr snødekket",
-      "CommentPlaceholder": "Korleis er snøfordelinga generelt, men tanke på høgde og eksposisjon? Er det store skilnadar i regionen?",
-      "FootPenetration": "Innsynking fot",
-      "HeightLimitLayeredSnow": "Øvre grense for snø utan lagdeling (moh)",
-      "HightLimitLayeredSnowPlaceholder": "For snø utan farleg lagdeling",
-      "NewSnow": "nysnø",
-      "NewSnowDepth24": "Siste døgn (cm)",
-      "NewSnowLine": "Nysnøgrense (moh)",
-      "ObsName": "Snødekke",
-      "SnowDepth": "Snødjupn (cm)",
-      "SnowDriftTName": "Snøfokk",
-      "SnowLine": "Snøgrense (moh)",
-      "SnowLines": "Snøgrenser",
-      "SnowSurfaceTName": "Snøoverflate",
-      "SurfaceRougnessTName": "Overflate",
-      "SurfaceWaterContentTName": "Overflatefuktigheit",
-      "Total": "totalt"
-    },
-    "WaterLevel": {
-      "AppliesFor": "Gjeld for",
-      "Comment": "Kommentar",
-      "Lake": "Innsjø",
-      "MeasuredDischarge": "Målt vassføring",
-      "ObsName": "Vasstand",
-      "River": "elv",
-      "WaterLevelDescribed": "Vasstand skildring",
-      "WaterLevelRefTName": "Referansenivå",
-      "WaterLevelValue": "Storleik"
-    },
-    "WaterLevel2": {
-      "AddNewMarking": "Legg til ny vasstandmarkering",
-      "AddNewMeasurement": "Legg til ny vasstandmåling",
-      "Comment": "Kommentar",
-      "DescribeSituationQuestion": "Korleis vil di skildre situasjonen?",
-      "MarkingComment": "Skildring av markeringa",
-      "MarkingReferenceQuestion": "Eg har markert vasstanden i/på",
-      "MarkingTypeQuestion": "Eg har markert vasstanden med",
-      "MeasuredRelativeTo": "Måling relativt til",
-      "MeasurementComment": "Skildring av målinga",
-      "MeasurementReferenceComment": "Skildr høgde",
-      "MeasurementReferenceQuestion": "Høgda er relativt til",
-      "MeasurementReferenceTName": "Vassmarkering på/i",
-      "MeasurementTypeQuestion": "Korleis les du av vasstanden?",
-      "MeasurementTypeTName": "Måleinstrument",
-      "MeasuringToolDescription": "Skriv inn måleinstrument her",
-      "ObservationTimingQuestion": "Kva registerar du?",
-      "ObservationTimingTName": "Kva registrerar du?",
-      "ObsName": "Vasstand",
-      "WaterAstrayQuestion": "Kan du sjå vatn på avveg?",
-      "WaterAstrayTName": "Vatn på avveg",
-      "WaterLevelDescription": "Vasstand i meter",
-      "WaterLevelMethodQuestion": "Korleis registrerar du?",
-      "WaterLevelStateTName": "Situasjon",
-      "WaterMarking": "Vassmerking",
-      "WaterMeasurement": "Vassmåling",
-      "WaterMeasurementValue": "Vassmålingsverdi",
-      "With": "med"
-    },
-    "WeatherObservation": {
-      "AirTemperature": "Lufttemperatur (°C)",
-      "AirTemperaturePlaceholder": "Kan skrivast med to desimalar",
-      "CloudCover": "Skydekke (%)",
-      "Clouds": "skyer",
-      "Comment": "Kommentar",
-      "CommentHeader": "Skildr vêret",
-      "CommentPlaceholder": "Korleis har vêret vore det siste døgnet? T.d.: Har det vore byger? Har det vore temperatuendringar? Kvar går nullisotermen?",
-      "FromEast": "A - frå aust",
-      "FromNorth": "N - frå nord",
-      "FromNorthEast": "NA - frå nordaust",
-      "FromNorthWest": "NV - frå nordvest",
-      "FromSouth": "S - frå sør",
-      "FromSouthEast": "SA - frå søraust",
-      "FromSouthWest": "SV - frå sørvest",
-      "FromWest": "V - frå vest",
-      "ObsName": "Værobservasjon",
-      "OnlyFullPercentage": "Berre i heile prosent",
-      "Precipitation": "Nedbørstype",
-      "PrecipitationTID": "Nedbørstype",
-      "Wind": "Vind",
-      "WindDirection": "Vindretning",
-      "WindSpeed": "Vindhastigheit (m/s)"
-    }
-  },
-  "Of": "av",
-  "Ok": "Ok",
-  "Password": "Passord",
-  "picture": "bilete",
-  "PictureCarousel": {
-    "Comment": "Kommentar",
-    "Copyright": "Opphavsrett",
-    "Image": "Bilete",
-    "ObservedLocation": "Observert lokasjon",
-    "Of": "Av"
-  },
-  "PictureKey": "Bilete",
-  "PictureMode": "Berre bilete",
-  "Reg": {
-    "ObservedTime": "Observert",
-    "ObserverNickName": "Av",
-    "RegisteredTime": "Registrert",
-    "UpdatedTime": "Oppdatert"
-  },
-  "Register": "Registrer bruker",
-  "RegistrationDetail": {
-    "EditInfo": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering."
-  },
-  "RegistrationEdit": {
-    "AddForm": "Legg til skjema",
-    "BadRequest": "Ugyldig skjema.",
-    "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
-    "ContinueOnDraft": "Hald fram på kladd",
-    "ContinueOnDraftButton": "Hald fram på kladd",
-    "ContinueOnDraftCancelButton": "Start ny observasjon",
-    "ContinueOnDraftMessage": "Du har allereie ein kladd liggande frå",
-    "ContinueOnDraftQuestion": "Vil du halde fram med med den?",
-    "DeleteError": "Klarte ikkje å slette observasjon!",
-    "DeleteObservation": "Slett observasjon",
-    "Discard": "Forkast",
-    "Done": "Ferdig",
-    "ErrorHasBeenLogged": "Feilmeldinga har blitt logga i systemet med referanse",
-    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast.",
-    "MissingNetwork": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
-    "NoCancel": "Nei, avbryt",
-    "Retry": "Prøv på nytt",
-    "SaveAsDraft": "Lagre som kladd?",
-    "SaveDraft": "Lagre kladd",
-    "SaveDraftMessage": "Du har ikkje lagt til nokre skjemaa og observasjonen blir difor ikkje publisert. Vil du lagre som kladd og halde fram seinare?",
-    "SubmitFailedHeader": "Innsendinga misslykkast",
-    "SyncError": "Klarte ikkje å synkronisere observasjon med Regobs!",
-    "SyncErrorFormInfo": "Eit eller fleire objekt på dette skjemaet kunne ikkje sendast inn.",
-    "SyncInProgress": "Synkronisering føregår:",
-    "YesDelete": "Ja, slett!"
-  },
-  "RegistrationKeyInfo": {
-    "Accuracy": "Nøyaktigheit",
-    "Edit": "Endre",
-    "MetersAboveSeaLevel": "Meter over havet",
-    "Municipal": "Kommune",
-    "Source": "Kjelde",
-    "WarningRegion": "Varslingsregion"
-  },
-  "RememberMe": "Hugs meg",
-  "RequiredField": "*Obligatorisk felt",
-  "RequiredFieldError": "Dette feltet er påkrevd",
-  "Reset": "Nullstill",
-  "Routes": {
-    "About": "Om",
-    "Cookies": "Informasjonskapslar",
-    "Home": "Heim"
-  },
-  "Save": "Lagre",
-  "Search": {
-    "Criterias": {
-      "Area": {
-        "Label": "Område",
-        "List": "Regionar",
-        "Norway": "Norge",
-        "Search": "I nærleiken"
-      },
-      "Country": {
-        "Label": "Andre land"
-      },
-      "FreeText": {
-        "Label": "Tekst i observasjon",
-        "Placeholder": "Søk på tekst"
-      },
-      "ObservationType": {
-        "Label": "Observasjonstype"
-      },
-      "Observers": {
-        "CompetenceFilter": "Kompetanse",
-        "CompetenceLevelExplanation": "Kompetanseforklaring",
-        "Label": "Observatørar",
-        "MyObservations": "Mine observasjonar",
-        "ObserverNickNamePlaceholder": "Søk på observatør",
-        "SearchInCompetences": "Søk på kompetanse:",
-        "SearchNickName": "Navnesøk"
-      },
-      "QuickSearch": {
-        "Label": "HurtigSøk"
-      },
-      "Recent": {
-        "Day": "døgn",
-        "FromDate": "Frå",
-        "Label": "Mine siste søk",
-        "Last": "siste",
-        "MyObservations": "Mine observasjonar",
-        "ObserverCompetence": "Observatørkompetanse",
-        "ObserverName": "Observatørnamn",
-        "Regions": "Regionar",
-        "RegistrationTypes": "Observasjonstype",
-        "Time": "Tidsperiode",
-        "ToDate": "Til"
-      },
-      "Regions": {
-        "BRegionInfo": "Varslast berre på faregrad 4 og 5",
-        "Label": "Regionar"
-      },
-      "TimePeriod": {
-        "ChooseDate": "vel dato:",
-        "Day": "døgn",
-        "Days": "døgn",
-        "FilterByDays": "Vis frå dei siste:",
-        "FromDate": "Frå",
-        "FromDatePicker": {
-          "Placeholder": "Fra dato"
+    "Url": {
+        "Add": {
+            "translation": "Legg til web-lenke",
+            "notes": ""
         },
-        "InvalidDate": "Ugyldig dato",
-        "InvalidDateRange": "Ugyldig tidsperiode",
-        "InvalidInteger": "Ugyldig heiltal",
-        "Label": "Tidsperiode",
-        "Last": "siste",
-        "NumberOfDays": {
-          "Placeholder": "Vel talet på døgn"
+        "Description": {
+            "translation": "Skildring",
+            "notes": ""
         },
-        "Or": "eller",
-        "OrChooseDate": "eller vel dato",
-        "OrChooseRange": "Vel tidsrom",
-        "ToDate": "Til",
-        "ToDatePicker": {
-          "Placeholder": "Til dato"
+        "Edit": {
+            "translation": "Endre",
+            "notes": ""
+        },
+        "EditUrl": {
+            "translation": "Rediger web-lenke",
+            "notes": ""
+        },
+        "Url": {
+            "translation": "URL",
+            "notes": ""
+        },
+        "WebUrl": {
+            "translation": "Web-lenke",
+            "notes": ""
         }
-      }
     },
-    "GetMoreRegistrationsBtn": "Hent fleire observasjonar",
-    "Header": {
-      "HideRegTypeFilter": "Skjul filtrering",
-      "ShowRegTypeFilter": "Vis filtrering",
-      "Sort": {
-        "Label": "Sorter på",
-        "LastUpdated": "Sist oppdaterte tid",
-        "Observed": "Observert tid",
-        "Registered": "Registret tid"
-      },
-      "ViewMode": {
-        "ListKey": "Liste",
-        "MapKey": "Kart",
-        "PictureKey": "Bilete"
-      }
+    "UserMenu": {
+        "Language": {
+            "translation": "SPRÅK",
+            "notes": ""
+        },
+        "Page": {
+            "translation": "SIDE",
+            "notes": ""
+        },
+        "Regobs": {
+            "translation": "REGOBS",
+            "notes": ""
+        },
+        "User": {
+            "translation": "BRUKER",
+            "notes": ""
+        }
     },
-    "HeadingColor": {
-      "black": "Svart",
-      "blue": "Blå"
+    "vann": {
+        "translation": "vatn",
+        "notes": ""
     },
-    "LoadMoreRegistrationsText": "Klikk her for å laste fleire registreringar manuelt",
-    "SearchButton": "Søk i observasjonane",
-    "SearchFilters": "Søkefilter",
-    "SortOrder": {
-      "Observert tid": "Observert",
-      "Registrert tid": "Registert tid",
-      "Siste oppdatert tid": "Siste oppdaterte tidq"
+    "Yes": {
+        "translation": "Ja",
+        "notes": ""
     }
-  },
-  "SearchButtonName": "Søk",
-  "Searching": "Søker",
-  "SearchResultOfTotal": "av",
-  "ShowAllObservations": "Vis alle observasjonar",
-  "ShowFilteredObservations": "Vis valgte observasjonar",
-  "ShowLess": "Vis mindre",
-  "ShowMore": "Vis meir",
-  "ShowSearchButtonName": "Vis søk",
-  "SignIn": "Logg inn",
-  "SignOut": "Logg ut",
-  "SingleRegistration": "registrering",
-  "snø": "snø",
-  "SortByName": "Sorter etter:",
-  "TableModes": {
-    "CompactKey": "Kompakt",
-    "CompleteKey": "Fullstendig",
-    "ShortKey": "Kort"
-  },
-  "Time": "tidspunkt",
-  "to": "to",
-  "Unknown": "Ukjent",
-  "Url": {
-    "Add": "Legg til web-lenke",
-    "Description": "Skildring",
-    "Edit": "Endre",
-    "EditUrl": "Rediger web-lenke",
-    "Url": "URL",
-    "WebUrl": "Web-lenke"
-  },
-  "UserMenu": {
-    "Language": "SPRÅK",
-    "Page": "SIDE",
-    "Regobs": "REGOBS",
-    "User": "BRUKER"
-  },
-  "vann": "vatn",
-  "Yes": "Ja"
 }

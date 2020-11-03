@@ -1,9 +1,24 @@
 {
-  "config_ios": {
-    "NSCameraUsageDescription": "Add images to observations",
-    "NSLocationAlwaysUsageDescription": "Location is used to show your position in the map and to set initial position when documenting observations",
-    "NSLocationWhenInUseUsageDescription": "Location is used to show your position in the map and to set initial position when documenting observations",
-    "NSPhotoLibraryAddUsageDescription": "Add images to observations",
-    "NSPhotoLibraryUsageDescription": "Add images to observations"
-  }
+    "config_ios": {
+        "NSCameraUsageDescription": {
+            "translation": "Add images to observations",
+            "notes": ""
+        },
+        "NSLocationAlwaysUsageDescription": {
+            "translation": "Location is used to show your position in the map and to set initial position when documenting observations",
+            "notes": ""
+        },
+        "NSLocationWhenInUseUsageDescription": {
+            "translation": "Location is used to show your position in the map and to set initial position when documenting observations",
+            "notes": ""
+        },
+        "NSPhotoLibraryAddUsageDescription": {
+            "translation": "Add images to observations",
+            "notes": ""
+        },
+        "NSPhotoLibraryUsageDescription": {
+            "translation": "Add images to observations",
+            "notes": ""
+        }
+    }
 }

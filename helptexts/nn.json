@@ -180,7 +180,7 @@
         "notes": "Web helptext for geohazard type \"Water\", registration type \"Damages\""
     },
     "Helptext_Web_60_62": {
-        "translation": "Er det vatn opp til dørklinka? Her kan du registrere målt eller markert vasstand etter ein kjent skala eller andre referansepunkt.\n\nFå gjerne med kor og når du har observert dette. Eit bilde er som vanleg svært nyttig.",
+        "translation": "Registrer målt eller markert vasstand etter ein kjent skala eller andre referansepunkt.\n\n\"Spor av vatn der det var\" er typisk kvistar, rusk og rask som ligg igjen der vatnet var på det høgaste. Graset kan også vere trykka ned. På denne måten kan du måle høgaste vasstand utan å vere ute i felt når vasstand er på det høgaste. Alternativt måler du vatnet der det står no. Hugs å skrive om det er noverande eller høgaste vasstand som vert målt.\nViss du ikkje har med måleutstyr kan du sette eit merke (td. stikke ein kvist i jorda, teikne merke på bru eller bygning). eller ta eit bilete med ein referanse (bru, hus, etc.) der ein seinare kan gå tilbake og finne att kor høgt vatnet stod. Ta eit bilete av merket og legg det til under notatar.\n\nFå med kvar og når du har observert. Eit bilete er alltid svært nyttig.\n\nSvar på dei spørsmåla du kan svare på, resten let du stå opent.",
         "notes": "Web helptext for geohazard type \"Water\", registration type \"Water Level\""
     },
     "Helptext_Web_70_10": {

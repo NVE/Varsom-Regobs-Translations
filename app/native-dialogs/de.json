@@ -1,9 +1,24 @@
 {
-  "config_ios": {
-    "NSCameraUsageDescription": "Füge Bilder zu Beobachtung hinzu",
-    "NSLocationAlwaysUsageDescription": "Der Standort wird verwendet, um Ihre Position auf der Karte anzuzeigen und die Anfangsposition bei der Dokumentation der Beobachtung festzulegen",
-    "NSLocationWhenInUseUsageDescription": "Der Standort wird verwendet, um Ihre Position auf der Karte anzuzeigen und die Anfangsposition bei der Dokumentation der Beobachtung festzulegen",
-    "NSPhotoLibraryAddUsageDescription": "Füge Bilder zu Beobachtung hinzu",
-    "NSPhotoLibraryUsageDescription": "Füge Bilder zu Beobachtung hinzu"
-  }
+    "config_ios": {
+        "NSCameraUsageDescription": {
+            "translation": "Füge Bilder zu Beobachtung hinzu",
+            "notes": ""
+        },
+        "NSLocationAlwaysUsageDescription": {
+            "translation": "Der Standort wird verwendet, um Ihre Position auf der Karte anzuzeigen und die Anfangsposition bei der Dokumentation der Beobachtung festzulegen",
+            "notes": ""
+        },
+        "NSLocationWhenInUseUsageDescription": {
+            "translation": "Der Standort wird verwendet, um Ihre Position auf der Karte anzuzeigen und die Anfangsposition bei der Dokumentation der Beobachtung festzulegen",
+            "notes": ""
+        },
+        "NSPhotoLibraryAddUsageDescription": {
+            "translation": "Füge Bilder zu Beobachtung hinzu",
+            "notes": ""
+        },
+        "NSPhotoLibraryUsageDescription": {
+            "translation": "Füge Bilder zu Beobachtung hinzu",
+            "notes": ""
+        }
+    }
 }

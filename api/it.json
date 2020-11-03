@@ -1,381 +1,1278 @@
 {
-  "AppearanceName": "Apparenza:",
-  "Converters": {
-    "Above": "Su",
-    "AboveSeaLevel": "m",
-    "And": "e",
-    "Below": "sotto",
-    "Between": "tra",
-    "East": "Est",
-    "EastShort": "E",
-    "North": "Nord",
-    "NorthEast": "Nord Est",
-    "NorthEastShort": "NE",
-    "NorthShort": "N",
-    "NorthWest": "Nord Ovest",
-    "NorthWestShort": "NO",
-    "NotBetween": "Non tra",
-    "South": "Sud",
-    "SouthEast": "Sud Est",
-    "SouthEastShort": "SE",
-    "SouthShort": "S",
-    "SouthWest": "Sud Ovest",
-    "SouthWestShort": "SO",
-    "UnknownDirection": "Direzione non conosciuta",
-    "West": "Ovest",
-    "WestShort": "O"
-  },
-  "CountOf": "Numero di",
-  "From": "da",
-  "GoToObservation": "Vai all'osservazione",
-  "HeightKey": "Altezza",
-  "Ice": "ghiaccio",
-  "LanguageLabel": "Lingua:",
-  "Location": {
-    "Municipality": "Comune",
-    "WarningRegion": "Area di previesione"
-  },
-  "MapMode": "Mappa",
-  "Months": {
-    "ShortList": "Gen, Feb, Mar, Apr, Mag, Giu, Lul, Ago, Set, Ott, Nov, Dic"
-  },
-  "MultipleRegistrations": "registrazioni",
-  "Observation": "Osservazioni",
-  "ObservationPlural": "Osservazione(i)",
-  "Observations": {
-    "AvalancheActivityObs": {
-      "Aspect": "Esposizione",
-      "AvalancheTID": "Ora",
-      "AvalancheTriggerTID": "Causa di distacco",
-      "Comment": "Commento",
-      "DtAvalancheTime": "Tempo",
-      "HeigthStartZone": "Quota zona di distacco",
-      "MetersOverSeaLevel": "m",
-      "NumberAndSize": "Numero e dimensioni",
-      "ObsName": "Attività valanghiva"
+    "AppearanceName": {
+        "translation": "Apparenza:",
+        "notes": ""
     },
-    "AvalancheActivityObs2": {
-      "AvalancheExtTID": "Tipo",
-      "AvalancheTID": "Tipo",
-      "Comment": "Commento",
-      "DtAvalancheTime": "Ora",
-      "DuringTheDay": "Durante la giornata",
-      "MetersOverSeaLevel": "m",
-      "NumberAndSizeAndTrigger": "Numero, dimensioni e causa di distacco",
-      "ObsName": "Attività valanghiva",
-      "Prevalence": "Distribuzione spaziale"
+    "Converters": {
+        "Above": {
+            "translation": "Su",
+            "notes": ""
+        },
+        "AboveSeaLevel": {
+            "translation": "m",
+            "notes": ""
+        },
+        "And": {
+            "translation": "e",
+            "notes": ""
+        },
+        "Below": {
+            "translation": "sotto",
+            "notes": ""
+        },
+        "Between": {
+            "translation": "tra",
+            "notes": ""
+        },
+        "East": {
+            "translation": "Est",
+            "notes": ""
+        },
+        "EastShort": {
+            "translation": "E",
+            "notes": ""
+        },
+        "North": {
+            "translation": "Nord",
+            "notes": ""
+        },
+        "NorthEast": {
+            "translation": "Nord Est",
+            "notes": ""
+        },
+        "NorthEastShort": {
+            "translation": "NE",
+            "notes": ""
+        },
+        "NorthShort": {
+            "translation": "N",
+            "notes": ""
+        },
+        "NorthWest": {
+            "translation": "Nord Ovest",
+            "notes": ""
+        },
+        "NorthWestShort": {
+            "translation": "NO",
+            "notes": ""
+        },
+        "NotBetween": {
+            "translation": "Non tra",
+            "notes": ""
+        },
+        "South": {
+            "translation": "Sud",
+            "notes": ""
+        },
+        "SouthEast": {
+            "translation": "Sud Est",
+            "notes": ""
+        },
+        "SouthEastShort": {
+            "translation": "SE",
+            "notes": ""
+        },
+        "SouthShort": {
+            "translation": "S",
+            "notes": ""
+        },
+        "SouthWest": {
+            "translation": "Sud Ovest",
+            "notes": ""
+        },
+        "SouthWestShort": {
+            "translation": "SO",
+            "notes": ""
+        },
+        "UnknownDirection": {
+            "translation": "Direzione non conosciuta",
+            "notes": ""
+        },
+        "West": {
+            "translation": "Ovest",
+            "notes": ""
+        },
+        "WestShort": {
+            "translation": "O",
+            "notes": ""
+        }
     },
-    "AvalancheDangerObs": {
-      "Comment": "Commento",
-      "DangerSignTID": "Tipo",
-      "ObsName": "Indizio di pericolo"
+    "CountOf": {
+        "translation": "Numero di",
+        "notes": ""
     },
-    "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Tipo di valanga",
-      "AvalCauseAttributeLightTID": "Propertà del strato debole non favoribili",
-      "AvalCauseDepthTID": "Distanza dalla superfice allo strato debole",
-      "AvalCauseTID": "Tipo di strato debole",
-      "AvalProbabilityTID": "Probabilità di distacco",
-      "AvalTriggerSimpleTID": "Sovraccarico aspettato per distacco valanghivo",
-      "Comment": "Commento",
-      "DestructiveSizeTID": "Dimensione aspettata della valanga",
-      "ObsName": "Problema tipico",
-      "PrevalenceArea": "Distribuzione"
+    "From": {
+        "translation": "da",
+        "notes": ""
     },
-    "AvalancheEvaluation": {
-      "AvalancheDangerTID": "Pericolo valanghivo",
-      "AvalancheEvaluation1": "Evaluazione",
-      "AvalancheProblemTID1": "Problema tipico 1",
-      "AvalancheProblemTID2": "Problema tipico 2",
-      "AvalancheProblemTID3": "Problema tipico 3",
-      "Comment": "Commento",
-      "ObsName": "Evaluazione di pericolo valanghivo",
-      "ValidExposition": "Esposizione"
+    "GoToObservation": {
+        "translation": "Vai all'osservazione",
+        "notes": ""
     },
-    "AvalancheEvaluation2": {
-      "AvalancheDangerTID": "Pericolo valanghivo",
-      "AvalancheDevelopment": "Sviluppo",
-      "AvalancheEvaluation": "Evaluazione",
-      "AvalancheProblem": "Problema tipico",
-      "ExposedTerrain": "Terreno esposto",
-      "ObsName": "Evaluazione pericolo valanghivo"
+    "HeightKey": {
+        "translation": "Altezza",
+        "notes": ""
     },
-    "AvalancheEvaluation3": {
-      "AvalancheDangerTID": "Pericolo valanghivo",
-      "AvalancheDevelopment": "Sviluppo",
-      "AvalancheEvaluation": "Evaluazione",
-      "ForecastComment": "Commento",
-      "ForecastCorrectTID": "Correttezza del bolletino",
-      "ObsName": "Evaluazione pericolo valanghivo"
+    "Ice": {
+        "translation": "ghiaccio",
+        "notes": ""
     },
-    "AvalancheObs": {
-      "Avalanche": "Valanga",
-      "AvalancheTID": "Tipo",
-      "AvalancheTriggerTID": "Causa di distacco",
-      "AvalCauseTID": "Strato debole",
-      "Comment": "Commento",
-      "DestructiveSizeTID": "Dimensioni",
-      "DtAvalancheTime": "Ora",
-      "Facing": "versante",
-      "Fracture": "fronte di distacco",
-      "FractureHeigth": "Spessore",
-      "FractureWidth": "Larghezza",
-      "HeightStartZoneText": "distacco a",
-      "HeigthStartZone": "Quota zona di distacco",
-      "HeigthStopZone": "Quota zona di diposito",
-      "HeigthStopZoneText": "fermato a",
-      "ObsName": "Osservazione valanga",
-      "TerrainStartZoneTID": "Terreno nella zona di distacco",
-      "Trajectory": "Traiettoria della valanga",
-      "ValidExposition": "Esposizione"
+    "LanguageLabel": {
+        "translation": "Lingua:",
+        "notes": ""
     },
-    "CompressionTest": {
-      "Comment": "Commento",
-      "ObsName": "Test",
-      "StabilityEvalTID": "Stabilità",
-      "Test": "Test"
+    "Location": {
+        "Municipality": {
+            "translation": "Comune",
+            "notes": ""
+        },
+        "WarningRegion": {
+            "translation": "Area di previesione",
+            "notes": ""
+        }
     },
-    "DamageObs": {
-      "Comment": "Commento",
-      "DamageTypeTID": "Tipo",
-      "ObsName": "Osseervazione di danni"
+    "MapMode": {
+        "translation": "Mappa",
+        "notes": ""
     },
-    "DangerObs": {
-      "Comment": "Commento",
-      "DangerSignTName": "Tipo",
-      "ObsName": "Segno di pericolo"
+    "Months": {
+        "ShortList": {
+            "translation": "Gen, Feb, Mar, Apr, Mag, Giu, Lul, Ago, Set, Ott, Nov, Dic",
+            "notes": ""
+        }
     },
-    "GeneralObservation": {
-      "Comment": "Commento",
-      "ObsComment": "Testo",
-      "ObsHeader": "Titolo",
-      "ObsName": "Nota",
-      "Urls": "Link"
+    "MultipleRegistrations": {
+        "translation": "registrazioni",
+        "notes": ""
     },
-    "IceCoverObs": {
-      "Comment": "Commento",
-      "IceCapacityTName": "Robustezza meccanica",
-      "IceCoverAfterTName": "Grado di copertura di ghiaccio dopo la osservazione",
-      "IceCoverBeforeTName": "Grado di copertura di ghiaccio prima della osservazione",
-      "IceCoverTName": "Copertura di ghiaccio",
-      "IceSkateabilityTName": "Pattinabilità",
-      "ObsName": "Grado di copertura di ghiaccio"
+    "Observation": {
+        "translation": "Osservazioni",
+        "notes": ""
     },
-    "IceThickness": {
-      "BeforeDrilling": "prima di forare",
-      "Comment": "Commento",
-      "IceThicknessLayers": "Strati (dall'alto al basso)",
-      "IceThicknessSum": "Altezza totale",
-      "IsEqualToIceSurface": "Superficie di aqua uguale alla superficie ghiacciata",
-      "LowerThanIceSurface": "dalla superficie",
-      "ObsName": "Altezza ghiaccio",
-      "OverIce": "Sopra al ghiaccio",
-      "OverWater": "acqua superficiale",
-      "OverWaterAfterDrilling": "acqua superficiale dopo foramento",
-      "SlushSnow": "Neve bagnata",
-      "Snow": "neve",
-      "Total": "totale",
-      "UnknownIceLayer": "strato ghiaccio non conosciuto",
-      "WaterSurfaceInHole": "Altezza acqua nel foro"
+    "ObservationPlural": {
+        "translation": "Osservazione(i)",
+        "notes": ""
     },
-    "Incident": {
-      "ActivityInfluencedTID": "Attività",
-      "Comment": "Commento",
-      "DamageExtentTID": "Estensioni",
-      "GeoHazardTID": "Tipo di ossvervazione",
-      "IncidentHeader": "Titolo",
-      "IncidentIngress": "Ingresso",
-      "IncidentText": "testo",
-      "ObsName": "Incidento",
-      "Urls": "Link"
+    "Observations": {
+        "AvalancheActivityObs": {
+            "Aspect": {
+                "translation": "Esposizione",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Ora",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Causa di distacco",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Tempo",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Quota zona di distacco",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m",
+                "notes": ""
+            },
+            "NumberAndSize": {
+                "translation": "Numero e dimensioni",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Attività valanghiva",
+                "notes": ""
+            }
+        },
+        "AvalancheActivityObs2": {
+            "AvalancheExtTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Ora",
+                "notes": ""
+            },
+            "DuringTheDay": {
+                "translation": "Durante la giornata",
+                "notes": ""
+            },
+            "MetersOverSeaLevel": {
+                "translation": "m",
+                "notes": ""
+            },
+            "NumberAndSizeAndTrigger": {
+                "translation": "Numero, dimensioni e causa di distacco",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Attività valanghiva",
+                "notes": ""
+            },
+            "Prevalence": {
+                "translation": "Distribuzione spaziale",
+                "notes": ""
+            }
+        },
+        "AvalancheDangerObs": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DangerSignTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Indizio di pericolo",
+                "notes": ""
+            }
+        },
+        "AvalancheEvalProblem2": {
+            "AvalancheExtTID": {
+                "translation": "Tipo di valanga",
+                "notes": ""
+            },
+            "AvalCauseAttributeLightTID": {
+                "translation": "Propertà del strato debole non favoribili",
+                "notes": ""
+            },
+            "AvalCauseDepthTID": {
+                "translation": "Distanza dalla superfice allo strato debole",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Tipo di strato debole",
+                "notes": ""
+            },
+            "AvalProbabilityTID": {
+                "translation": "Probabilità di distacco",
+                "notes": ""
+            },
+            "AvalTriggerSimpleTID": {
+                "translation": "Sovraccarico aspettato per distacco valanghivo",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Dimensione aspettata della valanga",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Problema tipico",
+                "notes": ""
+            },
+            "PrevalenceArea": {
+                "translation": "Distribuzione",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation": {
+            "AvalancheDangerTID": {
+                "translation": "Pericolo valanghivo",
+                "notes": ""
+            },
+            "AvalancheEvaluation1": {
+                "translation": "Evaluazione",
+                "notes": ""
+            },
+            "AvalancheProblemTID1": {
+                "translation": "Problema tipico 1",
+                "notes": ""
+            },
+            "AvalancheProblemTID2": {
+                "translation": "Problema tipico 2",
+                "notes": ""
+            },
+            "AvalancheProblemTID3": {
+                "translation": "Problema tipico 3",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Evaluazione di pericolo valanghivo",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Esposizione",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation2": {
+            "AvalancheDangerTID": {
+                "translation": "Pericolo valanghivo",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Sviluppo",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Evaluazione",
+                "notes": ""
+            },
+            "AvalancheProblem": {
+                "translation": "Problema tipico",
+                "notes": ""
+            },
+            "ExposedTerrain": {
+                "translation": "Terreno esposto",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Evaluazione pericolo valanghivo",
+                "notes": ""
+            }
+        },
+        "AvalancheEvaluation3": {
+            "AvalancheDangerTID": {
+                "translation": "Pericolo valanghivo",
+                "notes": ""
+            },
+            "AvalancheDevelopment": {
+                "translation": "Sviluppo",
+                "notes": ""
+            },
+            "AvalancheEvaluation": {
+                "translation": "Evaluazione",
+                "notes": ""
+            },
+            "ForecastComment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "ForecastCorrectTID": {
+                "translation": "Correttezza del bolletino",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Evaluazione pericolo valanghivo",
+                "notes": ""
+            }
+        },
+        "AvalancheObs": {
+            "Avalanche": {
+                "translation": "Valanga",
+                "notes": ""
+            },
+            "AvalancheTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "AvalancheTriggerTID": {
+                "translation": "Causa di distacco",
+                "notes": ""
+            },
+            "AvalCauseTID": {
+                "translation": "Strato debole",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DestructiveSizeTID": {
+                "translation": "Dimensioni",
+                "notes": ""
+            },
+            "DtAvalancheTime": {
+                "translation": "Ora",
+                "notes": ""
+            },
+            "Facing": {
+                "translation": "versante",
+                "notes": ""
+            },
+            "Fracture": {
+                "translation": "fronte di distacco",
+                "notes": ""
+            },
+            "FractureHeigth": {
+                "translation": "Spessore",
+                "notes": ""
+            },
+            "FractureWidth": {
+                "translation": "Larghezza",
+                "notes": ""
+            },
+            "HeightStartZoneText": {
+                "translation": "distacco a",
+                "notes": ""
+            },
+            "HeigthStartZone": {
+                "translation": "Quota zona di distacco",
+                "notes": ""
+            },
+            "HeigthStopZone": {
+                "translation": "Quota zona di diposito",
+                "notes": ""
+            },
+            "HeigthStopZoneText": {
+                "translation": "fermato a",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Osservazione valanga",
+                "notes": ""
+            },
+            "TerrainStartZoneTID": {
+                "translation": "Terreno nella zona di distacco",
+                "notes": ""
+            },
+            "Trajectory": {
+                "translation": "Traiettoria della valanga",
+                "notes": ""
+            },
+            "ValidExposition": {
+                "translation": "Esposizione",
+                "notes": ""
+            }
+        },
+        "CompressionTest": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "StabilityEvalTID": {
+                "translation": "Stabilità",
+                "notes": ""
+            },
+            "Test": {
+                "translation": "Test",
+                "notes": ""
+            }
+        },
+        "DamageObs": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DamageTypeTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Osseervazione di danni",
+                "notes": ""
+            }
+        },
+        "DangerObs": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DangerSignTName": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Segno di pericolo",
+                "notes": ""
+            }
+        },
+        "GeneralObservation": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "ObsComment": {
+                "translation": "Testo",
+                "notes": ""
+            },
+            "ObsHeader": {
+                "translation": "Titolo",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Nota",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Link",
+                "notes": ""
+            }
+        },
+        "IceCoverObs": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "IceCapacityTName": {
+                "translation": "Robustezza meccanica",
+                "notes": ""
+            },
+            "IceCoverAfterTName": {
+                "translation": "Grado di copertura di ghiaccio dopo la osservazione",
+                "notes": ""
+            },
+            "IceCoverBeforeTName": {
+                "translation": "Grado di copertura di ghiaccio prima della osservazione",
+                "notes": ""
+            },
+            "IceCoverTName": {
+                "translation": "Copertura di ghiaccio",
+                "notes": ""
+            },
+            "IceSkateabilityTName": {
+                "translation": "Pattinabilità",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Grado di copertura di ghiaccio",
+                "notes": ""
+            }
+        },
+        "IceThickness": {
+            "BeforeDrilling": {
+                "translation": "prima di forare",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "IceThicknessLayers": {
+                "translation": "Strati (dall'alto al basso)",
+                "notes": ""
+            },
+            "IceThicknessSum": {
+                "translation": "Altezza totale",
+                "notes": ""
+            },
+            "IsEqualToIceSurface": {
+                "translation": "Superficie di aqua uguale alla superficie ghiacciata",
+                "notes": ""
+            },
+            "LowerThanIceSurface": {
+                "translation": "dalla superficie",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Altezza ghiaccio",
+                "notes": ""
+            },
+            "OverIce": {
+                "translation": "Sopra al ghiaccio",
+                "notes": ""
+            },
+            "OverWater": {
+                "translation": "acqua superficiale",
+                "notes": ""
+            },
+            "OverWaterAfterDrilling": {
+                "translation": "acqua superficiale dopo foramento",
+                "notes": ""
+            },
+            "SlushSnow": {
+                "translation": "Neve bagnata",
+                "notes": ""
+            },
+            "Snow": {
+                "translation": "neve",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "totale",
+                "notes": ""
+            },
+            "UnknownIceLayer": {
+                "translation": "strato ghiaccio non conosciuto",
+                "notes": ""
+            },
+            "WaterSurfaceInHole": {
+                "translation": "Altezza acqua nel foro",
+                "notes": ""
+            }
+        },
+        "Incident": {
+            "ActivityInfluencedTID": {
+                "translation": "Attività",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DamageExtentTID": {
+                "translation": "Estensioni",
+                "notes": ""
+            },
+            "GeoHazardTID": {
+                "translation": "Tipo di ossvervazione",
+                "notes": ""
+            },
+            "IncidentHeader": {
+                "translation": "Titolo",
+                "notes": ""
+            },
+            "IncidentIngress": {
+                "translation": "Ingresso",
+                "notes": ""
+            },
+            "IncidentText": {
+                "translation": "testo",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Incidento",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Link",
+                "notes": ""
+            }
+        },
+        "LandslideObs": {
+            "ActivityInfluencedTName": {
+                "translation": "Cosa è stato impattato?",
+                "notes": ""
+            },
+            "And": {
+                "translation": "e",
+                "notes": ""
+            },
+            "Between": {
+                "translation": "tra",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DamageExtentTName": {
+                "translation": "Estensioni",
+                "notes": ""
+            },
+            "ForecastAccurateTName": {
+                "translation": "Era accurato l'avviso su Varsom.no?",
+                "notes": ""
+            },
+            "LandSlideSizeTName": {
+                "translation": "Dimensioni",
+                "notes": ""
+            },
+            "LandSlideTName": {
+                "translation": "Tipo di frana",
+                "notes": ""
+            },
+            "LandSlideTriggerTName": {
+                "translation": "Causa di distacco",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Osservazione di frana",
+                "notes": ""
+            },
+            "Time": {
+                "translation": "Ora",
+                "notes": ""
+            },
+            "Urls": {
+                "translation": "Link",
+                "notes": ""
+            }
+        },
+        "Picture": {
+            "Aspect": {
+                "translation": "Direzione cardinale",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "Copyright": {
+                "translation": "Copyright",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Immagine",
+                "notes": ""
+            },
+            "Photographer": {
+                "translation": "Fotografo",
+                "notes": ""
+            },
+            "PictureComment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "RegistrationTID": {
+                "translation": "Immagine di",
+                "notes": ""
+            }
+        },
+        "SnowCover": {
+            "CriticalLayer": {
+                "translation": "Strato debole",
+                "notes": ""
+            },
+            "CriticalLayerFound": {
+                "translation": "strato debole osservato",
+                "notes": ""
+            },
+            "CriticalLayerLocation": {
+                "translation": "locazione",
+                "notes": ""
+            },
+            "CriticalLayerNotFound": {
+                "translation": "Nessun strato debole osservato",
+                "notes": ""
+            },
+            "CriticalLayerTID": {
+                "translation": "Tipo",
+                "notes": ""
+            },
+            "DepthHoar": {
+                "translation": "Brina di profondità",
+                "notes": ""
+            },
+            "DepthHoarInSnowCover": {
+                "translation": "con brina di profondità al fondo del manto nevoso",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Profilo",
+                "notes": ""
+            },
+            "SnowPilotRefTID": {
+                "translation": "Profilo",
+                "notes": ""
+            },
+            "UnderSurface": {
+                "translation": "sotto la superficie",
+                "notes": ""
+            }
+        },
+        "SnowProfile": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "CompressionTest": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "CompressionTests": {
+                "translation": "Test",
+                "notes": ""
+            },
+            "CompressionTestsConnectedToProfile": {
+                "translation": "associati al profilo",
+                "notes": ""
+            },
+            "LayersObserved": {
+                "translation": "strati osservati",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Profilo del manto nevoso",
+                "notes": ""
+            },
+            "SnowDensity": {
+                "translation": "Densità",
+                "notes": ""
+            },
+            "SnowDensityLayersObserved": {
+                "translation": "Strati di densità osservati",
+                "notes": ""
+            },
+            "SnowTemperature": {
+                "translation": "temperatura",
+                "notes": ""
+            },
+            "SnowTemperatureLayersObserved": {
+                "translation": "punti di temperatura osservati",
+                "notes": ""
+            },
+            "StartProfileLayersObserved": {
+                "translation": "strati osservati",
+                "notes": ""
+            },
+            "StratLayers": {
+                "translation": "Strati",
+                "notes": ""
+            }
+        },
+        "SnowSurfaceObservation": {
+            "FootPenetration": {
+                "translation": "penetrazione piede",
+                "notes": ""
+            },
+            "HeightLimitLayeredSnow": {
+                "translation": "neve a strati inizia a",
+                "notes": ""
+            },
+            "Kommentar": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "NewSnow": {
+                "translation": "neve fresca",
+                "notes": ""
+            },
+            "NewSnowDepth24": {
+                "translation": "Neve fresca nelle ultime 24 ore",
+                "notes": ""
+            },
+            "NewSnowLine": {
+                "translation": "Limite della nevicata",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Superficie nevosa",
+                "notes": ""
+            },
+            "SnowDepth": {
+                "translation": "Altezza manto nevoso",
+                "notes": ""
+            },
+            "SnowDriftTName": {
+                "translation": "Saltazione",
+                "notes": ""
+            },
+            "SnowLine": {
+                "translation": "Limite dell'innevamento",
+                "notes": ""
+            },
+            "SnowLines": {
+                "translation": "Limiti di neve",
+                "notes": ""
+            },
+            "SnowSurfaceTName": {
+                "translation": "Durezza della superficie",
+                "notes": ""
+            },
+            "SurfaceRougnessTName": {
+                "translation": "rugosità della superficie",
+                "notes": ""
+            },
+            "SurfaceWaterContentTName": {
+                "translation": "Contenuto in acqua liquida",
+                "notes": ""
+            },
+            "Total": {
+                "translation": "totale",
+                "notes": ""
+            }
+        },
+        "WaterLevel": {
+            "AppliesFor": {
+                "translation": "valido per",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "commento",
+                "notes": ""
+            },
+            "Lake": {
+                "translation": "lago",
+                "notes": ""
+            },
+            "MeasuredDischarge": {
+                "translation": "Deflusso mesurato",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Livello dell'acqua",
+                "notes": ""
+            },
+            "River": {
+                "translation": "fiume",
+                "notes": ""
+            },
+            "WaterLevelDescribed": {
+                "translation": "descrizione livello dell'acqua",
+                "notes": ""
+            },
+            "WaterLevelRefTName": {
+                "translation": "livello dell'acqua di riferenza",
+                "notes": ""
+            },
+            "WaterLevelValue": {
+                "translation": "valore",
+                "notes": ""
+            }
+        },
+        "WaterLevel2": {
+            "Comment": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "DtMeasurementTime": {
+                "translation": "Ora",
+                "notes": ""
+            },
+            "MeasuredRelativeTo": {
+                "translation": "mesuramento relativo a",
+                "notes": ""
+            },
+            "MeasurementReferenceTName": {
+                "translation": "marcatura dell'acqua su/con",
+                "notes": ""
+            },
+            "MeasurementTypeTName": {
+                "translation": "Strumento di misura",
+                "notes": ""
+            },
+            "ObservationTimingTName": {
+                "translation": "Cosa registri?",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "Livello dell'acqua",
+                "notes": ""
+            },
+            "WaterAstrayTName": {
+                "translation": "C'è dell'acqua deviata?",
+                "notes": ""
+            },
+            "WaterLevelStateTName": {
+                "translation": "Situazione",
+                "notes": ""
+            },
+            "WaterMarking": {
+                "translation": "Marcatura dell'acqua",
+                "notes": ""
+            },
+            "WaterMeasurement": {
+                "translation": "mesurazione dell'acqua",
+                "notes": ""
+            },
+            "WaterMeasurementValue": {
+                "translation": "valore",
+                "notes": ""
+            },
+            "With": {
+                "translation": "con",
+                "notes": ""
+            }
+        },
+        "WeatherObservation": {
+            "AirTemperature": {
+                "translation": "temperatura dell'aria",
+                "notes": ""
+            },
+            "CloudCover": {
+                "translation": "copertura nuvolosa",
+                "notes": ""
+            },
+            "Clouds": {
+                "translation": "nuvole",
+                "notes": ""
+            },
+            "Comment": {
+                "translation": "commento",
+                "notes": ""
+            },
+            "ObsName": {
+                "translation": "temo",
+                "notes": ""
+            },
+            "PrecipitationTID": {
+                "translation": "precipitazione",
+                "notes": ""
+            },
+            "Wind": {
+                "translation": "vento",
+                "notes": ""
+            },
+            "WindDirection": {
+                "translation": "da",
+                "notes": ""
+            }
+        }
     },
-    "LandslideObs": {
-      "ActivityInfluencedTName": "Cosa è stato impattato?",
-      "And": "e",
-      "Between": "tra",
-      "Comment": "Commento",
-      "DamageExtentTName": "Estensioni",
-      "ForecastAccurateTName": "Era accurato l'avviso su Varsom.no?",
-      "LandSlideSizeTName": "Dimensioni",
-      "LandSlideTName": "Tipo di frana",
-      "LandSlideTriggerTName": "Causa di distacco",
-      "ObsName": "Osservazione di frana",
-      "Time": "Ora",
-      "Urls": "Link"
+    "Of": {
+        "translation": "di",
+        "notes": ""
     },
-    "Picture": {
-      "Aspect": "Direzione cardinale",
-      "Comment": "Commento",
-      "Copyright": "Copyright",
-      "ObsName": "Immagine",
-      "Photographer": "Fotografo",
-      "PictureComment": "Commento",
-      "RegistrationTID": "Immagine di"
+    "PictureKey": {
+        "translation": "Immagine",
+        "notes": ""
     },
-    "SnowCover": {
-      "CriticalLayer": "Strato debole",
-      "CriticalLayerFound": "strato debole osservato",
-      "CriticalLayerLocation": "locazione",
-      "CriticalLayerNotFound": "Nessun strato debole osservato",
-      "CriticalLayerTID": "Tipo",
-      "DepthHoar": "Brina di profondità",
-      "DepthHoarInSnowCover": "con brina di profondità al fondo del manto nevoso",
-      "ObsName": "Profilo",
-      "SnowPilotRefTID": "Profilo",
-      "UnderSurface": "sotto la superficie"
+    "PictureMode": {
+        "translation": "Immagini",
+        "notes": ""
     },
-    "SnowProfile": {
-      "Comment": "Commento",
-      "CompressionTest": "Test",
-      "CompressionTests": "Test",
-      "CompressionTestsConnectedToProfile": "associati al profilo",
-      "LayersObserved": "strati osservati",
-      "ObsName": "Profilo del manto nevoso",
-      "SnowDensity": "Densità",
-      "SnowDensityLayersObserved": "Strati di densità osservati",
-      "SnowTemperature": "temperatura",
-      "SnowTemperatureLayersObserved": "punti di temperatura osservati",
-      "StartProfileLayersObserved": "strati osservati",
-      "StratLayers": "Strati"
+    "Reg": {
+        "ObservedTime": {
+            "translation": "Osservato",
+            "notes": ""
+        },
+        "ObserverNickName": {
+            "translation": "da",
+            "notes": ""
+        },
+        "RegisteredTime": {
+            "translation": "Registrato",
+            "notes": ""
+        },
+        "UpdatedTime": {
+            "translation": "Aggiornato",
+            "notes": ""
+        }
     },
-    "SnowSurfaceObservation": {
-      "FootPenetration": "penetrazione piede",
-      "HeightLimitLayeredSnow": "neve a strati inizia a",
-      "Kommentar": "Commento",
-      "NewSnow": "neve fresca",
-      "NewSnowDepth24": "Neve fresca nelle ultime 24 ore",
-      "NewSnowLine": "Limite della nevicata",
-      "ObsName": "Superficie nevosa",
-      "SnowDepth": "Altezza manto nevoso",
-      "SnowDriftTName": "Saltazione",
-      "SnowLine": "Limite dell'innevamento",
-      "SnowLines": "Limiti di neve",
-      "SnowSurfaceTName": "Durezza della superficie",
-      "SurfaceRougnessTName": "rugosità della superficie",
-      "SurfaceWaterContentTName": "Contenuto in acqua liquida",
-      "Total": "totale"
+    "Search": {
+        "Criterias": {
+            "Country": {
+                "CountryInfo": {
+                    "translation": "Se un paese non c'è nella lista, è perchè non sono registrate nessune osservazioni",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Altri paesi",
+                    "notes": ""
+                }
+            },
+            "ObservationTypes": {
+                "Label": {
+                    "translation": "Tipo di osservazione",
+                    "notes": ""
+                }
+            },
+            "Observers": {
+                "Label": {
+                    "translation": "Osservatore",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Le mie osservazioni",
+                    "notes": ""
+                },
+                "ObserverNickNamePlaceholder": {
+                    "translation": "Ricerca per nickname",
+                    "notes": ""
+                },
+                "SearchInCompetences": {
+                    "translation": "Ricerca per competenza:",
+                    "notes": ""
+                }
+            },
+            "QuickSearch": {
+                "Label": {
+                    "translation": "Ricerca rapida",
+                    "notes": ""
+                }
+            },
+            "Recent": {
+                "CountryKey": {
+                    "translation": "Paese",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "giorni",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "da",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Cerche recenti",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "ultime",
+                    "notes": ""
+                },
+                "MyObservations": {
+                    "translation": "Le mie osservazioni",
+                    "notes": ""
+                },
+                "ObserverCompetence": {
+                    "translation": "competenza dell'osservatore",
+                    "notes": ""
+                },
+                "ObserverName": {
+                    "translation": "nome dell'osservatore",
+                    "notes": ""
+                },
+                "Regions": {
+                    "translation": "Regioni",
+                    "notes": ""
+                },
+                "RegistrationTypes": {
+                    "translation": "tipi di osservazioni",
+                    "notes": ""
+                },
+                "Time": {
+                    "translation": "ora",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "a",
+                    "notes": ""
+                }
+            },
+            "Regions": {
+                "BRegionInfo": {
+                    "translation": "Per regioni marcati da *, bollettini sono solo emesse se il pericilo è 4 o 5.",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "Regioni",
+                    "notes": ""
+                }
+            },
+            "TimePeriod": {
+                "ChooseDate": {
+                    "translation": "selezionare una data:",
+                    "notes": ""
+                },
+                "Day": {
+                    "translation": "giorno",
+                    "notes": ""
+                },
+                "FromDate": {
+                    "translation": "da",
+                    "notes": ""
+                },
+                "Label": {
+                    "translation": "periodo di tempo",
+                    "notes": ""
+                },
+                "Last": {
+                    "translation": "ultimo",
+                    "notes": ""
+                },
+                "Or": {
+                    "translation": "o",
+                    "notes": ""
+                },
+                "ToDate": {
+                    "translation": "a",
+                    "notes": ""
+                }
+            }
+        },
+        "GetMoreRegistrationsBtn": {
+            "translation": "Carica più osservazioni",
+            "notes": ""
+        },
+        "HeadingColor": {
+            "black": {
+                "translation": "neo",
+                "notes": ""
+            },
+            "blue": {
+                "translation": "blu",
+                "notes": ""
+            }
+        },
+        "LoadMoreRegistrationsText": {
+            "translation": "Clicca qui per caricare più osservazioni manualmente",
+            "notes": ""
+        },
+        "SortOrder": {
+            "LastUpdated": {
+                "translation": "ultimo aggiornamento",
+                "notes": ""
+            },
+            "ObservedTime": {
+                "translation": "ora",
+                "notes": ""
+            },
+            "RegistrationTime": {
+                "translation": "registrata",
+                "notes": ""
+            }
+        }
     },
-    "WaterLevel": {
-      "AppliesFor": "valido per",
-      "Comment": "commento",
-      "Lake": "lago",
-      "MeasuredDischarge": "Deflusso mesurato",
-      "ObsName": "Livello dell'acqua",
-      "River": "fiume",
-      "WaterLevelDescribed": "descrizione livello dell'acqua",
-      "WaterLevelRefTName": "livello dell'acqua di riferenza",
-      "WaterLevelValue": "valore"
+    "SearchButtonName": {
+        "translation": "Cerca",
+        "notes": ""
     },
-    "WaterLevel2": {
-      "Comment": "Commento",
-      "DtMeasurementTime": "Ora",
-      "MeasuredRelativeTo": "mesuramento relativo a",
-      "MeasurementReferenceTName": "marcatura dell'acqua su/con",
-      "MeasurementTypeTName": "Strumento di misura",
-      "ObservationTimingTName": "Cosa registri?",
-      "ObsName": "Livello dell'acqua",
-      "WaterAstrayTName": "C'è dell'acqua deviata?",
-      "WaterLevelStateTName": "Situazione",
-      "WaterMarking": "Marcatura dell'acqua",
-      "WaterMeasurement": "mesurazione dell'acqua",
-      "WaterMeasurementValue": "valore",
-      "With": "con"
+    "Searching": {
+        "translation": "attendere prego",
+        "notes": ""
     },
-    "WeatherObservation": {
-      "AirTemperature": "temperatura dell'aria",
-      "CloudCover": "copertura nuvolosa",
-      "Clouds": "nuvole",
-      "Comment": "commento",
-      "ObsName": "temo",
-      "PrecipitationTID": "precipitazione",
-      "Wind": "vento",
-      "WindDirection": "da"
+    "SearchResultOfTotal": {
+        "translation": "di",
+        "notes": ""
+    },
+    "ShowAllObservations": {
+        "translation": "mostra tutte le osservazioni",
+        "notes": ""
+    },
+    "ShowFilteredObservations": {
+        "translation": "mostra osservazioni selezionati",
+        "notes": ""
+    },
+    "ShowLess": {
+        "translation": "mostra meno",
+        "notes": ""
+    },
+    "ShowMore": {
+        "translation": "mostra più",
+        "notes": ""
+    },
+    "ShowSearchButtonName": {
+        "translation": "Mostra la barra per le ricerche",
+        "notes": ""
+    },
+    "SingleRegistration": {
+        "translation": "registrazione",
+        "notes": ""
+    },
+    "Snow": {
+        "translation": "neve",
+        "notes": ""
+    },
+    "Soil": {
+        "translation": "suolo",
+        "notes": ""
+    },
+    "SortByName": {
+        "translation": "Ordina per:",
+        "notes": ""
+    },
+    "TableModes": {
+        "CompactKey": {
+            "translation": "Compatto",
+            "notes": ""
+        },
+        "CompleteKey": {
+            "translation": "Completo",
+            "notes": ""
+        },
+        "ShortKey": {
+            "translation": "Corto",
+            "notes": ""
+        }
+    },
+    "To": {
+        "translation": "a",
+        "notes": ""
+    },
+    "Water": {
+        "translation": "acqua",
+        "notes": ""
     }
-  },
-  "Of": "di",
-  "PictureKey": "Immagine",
-  "PictureMode": "Immagini",
-  "Reg": {
-    "ObservedTime": "Osservato",
-    "ObserverNickName": "da",
-    "RegisteredTime": "Registrato",
-    "UpdatedTime": "Aggiornato"
-  },
-  "Search": {
-    "Criterias": {
-      "Country": {
-        "CountryInfo": "Se un paese non c'è nella lista, è perchè non sono registrate nessune osservazioni",
-        "Label": "Altri paesi"
-      },
-      "ObservationTypes": {
-        "Label": "Tipo di osservazione"
-      },
-      "Observers": {
-        "Label": "Osservatore",
-        "MyObservations": "Le mie osservazioni",
-        "ObserverNickNamePlaceholder": "Ricerca per nickname",
-        "SearchInCompetences": "Ricerca per competenza:"
-      },
-      "QuickSearch": {
-        "Label": "Ricerca rapida"
-      },
-      "Recent": {
-        "CountryKey": "Paese",
-        "Day": "giorni",
-        "FromDate": "da",
-        "Label": "Cerche recenti",
-        "Last": "ultime",
-        "MyObservations": "Le mie osservazioni",
-        "ObserverCompetence": "competenza dell'osservatore",
-        "ObserverName": "nome dell'osservatore",
-        "Regions": "Regioni",
-        "RegistrationTypes": "tipi di osservazioni",
-        "Time": "ora",
-        "ToDate": "a"
-      },
-      "Regions": {
-        "BRegionInfo": "Per regioni marcati da *, bollettini sono solo emesse se il pericilo è 4 o 5.",
-        "Label": "Regioni"
-      },
-      "TimePeriod": {
-        "ChooseDate": "selezionare una data:",
-        "Day": "giorno",
-        "FromDate": "da",
-        "Label": "periodo di tempo",
-        "Last": "ultimo",
-        "Or": "o",
-        "ToDate": "a"
-      }
-    },
-    "GetMoreRegistrationsBtn": "Carica più osservazioni",
-    "HeadingColor": {
-      "black": "neo",
-      "blue": "blu"
-    },
-    "LoadMoreRegistrationsText": "Clicca qui per caricare più osservazioni manualmente",
-    "SortOrder": {
-      "LastUpdated": "ultimo aggiornamento",
-      "ObservedTime": "ora",
-      "RegistrationTime": "registrata"
-    }
-  },
-  "SearchButtonName": "Cerca",
-  "Searching": "attendere prego",
-  "SearchResultOfTotal": "di",
-  "ShowAllObservations": "mostra tutte le osservazioni",
-  "ShowFilteredObservations": "mostra osservazioni selezionati",
-  "ShowLess": "mostra meno",
-  "ShowMore": "mostra più",
-  "ShowSearchButtonName": "Mostra la barra per le ricerche",
-  "SingleRegistration": "registrazione",
-  "Snow": "neve",
-  "Soil": "suolo",
-  "SortByName": "Ordina per:",
-  "TableModes": {
-    "CompactKey": "Compatto",
-    "CompleteKey": "Completo",
-    "ShortKey": "Corto"
-  },
-  "To": "a",
-  "Water": "acqua"
 }

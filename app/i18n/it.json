@@ -1,752 +1,2540 @@
 {
-  "ABONNER_BANNER": {
-    "BANNER_TEXT_LINE_1": "Ricevi avvisi da Varosom per SMS or e-mail.",
-    "BANNER_TEXT_LINE_2": "Configura i tuoi avvisi qui.",
-    "LINK_TEXT": "Vai a abonner.varsom.no",
-    "TITLE": "Varsom Abonner"
-  },
-  "ADD_MENU": {
-    "DRAFT": "Bozza",
-    "NEW_OBSERVATION": "Nouvo",
-    "NEW_TRIP": "Nouova escursione"
-  },
-  "ALERT": {
-    "CANCEL": "Annulla",
-    "DEFAULT_HEADER": "Ops!",
-    "FINE": "Ok",
-    "NO_THANKS": "No Grazie",
-    "OK": "Ok",
-    "PULL_TO_REFRESH": "Tira per aggiornare",
-    "UNDO": "Annulla",
-    "WARNING": "Avviso"
-  },
-  "COACH_MARKS": {
-    "ADD_OBSERVATIONS": "Aggiungi le tue osservazioni",
-    "SELECT_GEO_HAZARD": "Seleziona pericolo naturale",
-    "VIEW_WARNINGS": "Mostra avvisi da varsom.no"
-  },
-  "COMPETENCE": {
-    "UNKNOWN": "Competenza non conosciuta"
-  },
-  "DATA_LOAD": {
-    "DATA": "Caricamento...",
-    "LOADING": "Caricando"
-  },
-  "DATE": "Data",
-  "DAYS": {
-    "SHORT": {
-      "0": "Do",
-      "1": "Lu",
-      "2": "Ma",
-      "3": "Me",
-      "4": "Gio",
-      "5": "Ve",
-      "6": "Sa"
+    "ABONNER_BANNER": {
+        "BANNER_TEXT_LINE_1": {
+            "translation": "Ricevi avvisi da Varosom per SMS or e-mail.",
+            "notes": ""
+        },
+        "BANNER_TEXT_LINE_2": {
+            "translation": "Configura i tuoi avvisi qui.",
+            "notes": ""
+        },
+        "LINK_TEXT": {
+            "translation": "Vai a abonner.varsom.no",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Varsom Abonner",
+            "notes": ""
+        }
+    },
+    "ADD_MENU": {
+        "DRAFT": {
+            "translation": "Bozza",
+            "notes": ""
+        },
+        "NEW_OBSERVATION": {
+            "translation": "Nouvo",
+            "notes": ""
+        },
+        "NEW_TRIP": {
+            "translation": "Nouova escursione",
+            "notes": ""
+        }
+    },
+    "ALERT": {
+        "CANCEL": {
+            "translation": "Annulla",
+            "notes": ""
+        },
+        "DEFAULT_HEADER": {
+            "translation": "Ops!",
+            "notes": ""
+        },
+        "FINE": {
+            "translation": "Ok",
+            "notes": ""
+        },
+        "NO_THANKS": {
+            "translation": "No Grazie",
+            "notes": ""
+        },
+        "OK": {
+            "translation": "Ok",
+            "notes": ""
+        },
+        "PULL_TO_REFRESH": {
+            "translation": "Tira per aggiornare",
+            "notes": ""
+        },
+        "UNDO": {
+            "translation": "Annulla",
+            "notes": ""
+        },
+        "WARNING": {
+            "translation": "Avviso",
+            "notes": ""
+        }
+    },
+    "COACH_MARKS": {
+        "ADD_OBSERVATIONS": {
+            "translation": "Aggiungi le tue osservazioni",
+            "notes": ""
+        },
+        "SELECT_GEO_HAZARD": {
+            "translation": "Seleziona pericolo naturale",
+            "notes": ""
+        },
+        "VIEW_WARNINGS": {
+            "translation": "Mostra avvisi da varsom.no",
+            "notes": ""
+        }
+    },
+    "COMPETENCE": {
+        "UNKNOWN": {
+            "translation": "Competenza non conosciuta",
+            "notes": ""
+        }
+    },
+    "DATA_LOAD": {
+        "DATA": {
+            "translation": "Caricamento...",
+            "notes": ""
+        },
+        "LOADING": {
+            "translation": "Caricando",
+            "notes": ""
+        }
+    },
+    "DATE": {
+        "translation": "Data",
+        "notes": ""
+    },
+    "DAYS": {
+        "SHORT": {
+            "0": {
+                "translation": "Do",
+                "notes": ""
+            },
+            "1": {
+                "translation": "Lu",
+                "notes": ""
+            },
+            "2": {
+                "translation": "Ma",
+                "notes": ""
+            },
+            "3": {
+                "translation": "Me",
+                "notes": ""
+            },
+            "4": {
+                "translation": "Gio",
+                "notes": ""
+            },
+            "5": {
+                "translation": "Ve",
+                "notes": ""
+            },
+            "6": {
+                "translation": "Sa",
+                "notes": ""
+            }
+        }
+    },
+    "DIALOGS": {
+        "ARE_YOU_SURE": {
+            "translation": "Sei sicuro?",
+            "notes": ""
+        },
+        "CANCEL": {
+            "translation": "Annulla",
+            "notes": ""
+        },
+        "COMMENT": {
+            "translation": "Commento",
+            "notes": ""
+        },
+        "CONFIRM": {
+            "translation": "Conferma",
+            "notes": ""
+        },
+        "DELETE": {
+            "translation": "Eliminare",
+            "notes": ""
+        },
+        "NEXT": {
+            "translation": "Prossimo",
+            "notes": ""
+        },
+        "NO": {
+            "translation": "No",
+            "notes": ""
+        },
+        "OF": {
+            "translation": "Di",
+            "notes": ""
+        },
+        "OK": {
+            "translation": "Ok",
+            "notes": ""
+        },
+        "OK_BACK": {
+            "translation": "Ok, ritorna al riepilogo",
+            "notes": ""
+        },
+        "PREVIOUS": {
+            "translation": "Precedente",
+            "notes": ""
+        },
+        "RESET": {
+            "translation": "Reset",
+            "notes": ""
+        },
+        "YES": {
+            "translation": "Si",
+            "notes": ""
+        }
+    },
+    "DIRECTION": {
+        "E": {
+            "translation": "E",
+            "notes": ""
+        },
+        "N": {
+            "translation": "N",
+            "notes": ""
+        },
+        "NE": {
+            "translation": "NE",
+            "notes": ""
+        },
+        "NW": {
+            "translation": "NO",
+            "notes": ""
+        },
+        "S": {
+            "translation": "S",
+            "notes": ""
+        },
+        "SE": {
+            "translation": "SE",
+            "notes": ""
+        },
+        "SW": {
+            "translation": "SO",
+            "notes": ""
+        },
+        "W": {
+            "translation": "O",
+            "notes": ""
+        }
+    },
+    "GEO_HAZARDS": {
+        "DIRT": {
+            "translation": "Suolo",
+            "notes": ""
+        },
+        "ICE": {
+            "translation": "Ghiaccio",
+            "notes": ""
+        },
+        "SNOW": {
+            "translation": "Neve",
+            "notes": ""
+        },
+        "WATER": {
+            "translation": "Acqua",
+            "notes": ""
+        }
+    },
+    "GEOLOCATION_SERVICE": {
+        "NOTIFICATION_TITLE": {
+            "translation": "Registrando percorso",
+            "notes": ""
+        }
+    },
+    "HELP": {
+        "TITLE": {
+            "translation": "Aiuto",
+            "notes": ""
+        }
+    },
+    "LEGAL_TERMS": {
+        "HEADER": {
+            "translation": "Informazioni sui dati in Varsom Regobs",
+            "notes": ""
+        },
+        "LINE_1": {
+            "translation": "Usa gli avvisi, dati e mappe sul tuo rischio. Errori e omissioni sono possibili.",
+            "notes": ""
+        },
+        "LINE_2": {
+            "translation": "Il bollettino è un stumento di pianificazione e può essere diverso dalla situazione incontrata in campo. Una propria evaluazione deve sempre essere fatta. Condizione possono essere complesse e differenti da che è indicata nel bollettino.",
+            "notes": ""
+        },
+        "LINE_3": {
+            "translation": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non fa garanzie contro errori o emissioni nei dati.",
+            "notes": ""
+        },
+        "OK": {
+            "translation": "Ok, accetto.",
+            "notes": ""
+        },
+        "TERMS": {
+            "translation": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non prende responsibilità per dati che sono incorrette o fourvianti. Il numero di stelle accanto al nickname (1-5) indica il livello di competenza della persona che ha provvisto l'osservazione. Se non ci sono stelle, il livello di competenza e basso non è conosciuto.",
+            "notes": ""
+        }
+    },
+    "LOGIN": {
+        "CHANGE_PASSWORD": {
+            "translation": "Cambia password",
+            "notes": ""
+        },
+        "CREATE_USER": {
+            "translation": "Crea utente",
+            "notes": ""
+        },
+        "EMAIL": {
+            "translation": "Email",
+            "notes": ""
+        },
+        "FORGOT_PASSWORD": {
+            "translation": "Dimenticato password",
+            "notes": ""
+        },
+        "IS_LOGGING_IN": {
+            "translation": "Effettuare il login",
+            "notes": ""
+        },
+        "LOGGED_IN_AS": {
+            "translation": "Collegato come",
+            "notes": ""
+        },
+        "LOGIN": {
+            "translation": "Login",
+            "notes": ""
+        },
+        "LOGOUT": {
+            "translation": "Logout",
+            "notes": ""
+        },
+        "MY_PROFILE": {
+            "translation": "Il mio profilo",
+            "notes": ""
+        },
+        "PASSWORD": {
+            "translation": "Password",
+            "notes": ""
+        },
+        "SERVICE_UNAVAILABLE": {
+            "translation": "Errore di connessione. Hai copertura cellulare? Attendere alcuni minuti e riprova.",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Login",
+            "notes": ""
+        },
+        "UNAUTHORIZED": {
+            "translation": "Username o password errati. Riprova.",
+            "notes": ""
+        },
+        "UNKNOWN_ERROR": {
+            "translation": "Errore nel processo login. Messaggio dal server:",
+            "notes": ""
+        }
+    },
+    "MAP_CENTER_INFO": {
+        "ABOVE_SEA_LEVEL": {
+            "translation": "quota",
+            "notes": ""
+        },
+        "COPIED_TO_CLIPBOARD": {
+            "translation": "Copiato negli appunti",
+            "notes": ""
+        },
+        "EAST_SHORT": {
+            "translation": "E",
+            "notes": ""
+        },
+        "NORTH_SHORT": {
+            "translation": "N",
+            "notes": ""
+        }
+    },
+    "MAP_ITEM_BAR": {
+        "AWAY": {
+            "translation": "Di distanza",
+            "notes": ""
+        },
+        "OBSERVATION": {
+            "translation": "Osservazione",
+            "notes": ""
+        }
+    },
+    "MAP_SEARCH": {
+        "SEARCH_HISTORY_HEADER": {
+            "translation": "Ultime ricerche",
+            "notes": ""
+        },
+        "SEARCH_TEXT": {
+            "translation": "Cerca posizione",
+            "notes": ""
+        }
+    },
+    "MENU": {
+        "ABOUT_REGOBS": {
+            "translation": "Sui dati in Regobs",
+            "notes": ""
+        },
+        "AND": {
+            "translation": "e",
+            "notes": ""
+        },
+        "CONTACT_REGOBS": {
+            "translation": "Contattaci",
+            "notes": ""
+        },
+        "CONTACT_REGOBS_ERROR": {
+            "translation": "Segnala Errore",
+            "notes": ""
+        },
+        "CONTACT_SUBJECT": {
+            "translation": "Contattaci dall'app",
+            "notes": ""
+        },
+        "DAYS_BACK": {
+            "translation": "Giorni fa",
+            "notes": ""
+        },
+        "ERROR_REPORT_DESCRIPTION": {
+            "translation": "La preghiamo di Descrivere il problema qua sotto. Allega un screenshot se ce l'ha.",
+            "notes": ""
+        },
+        "ERROR_REPORT_SUBJECT": {
+            "translation": "Rapproto errori da",
+            "notes": ""
+        },
+        "GENERAL": {
+            "translation": "Generale",
+            "notes": ""
+        },
+        "HIDE_OBSERVATIONS": {
+            "translation": "Nascondere osservazioni",
+            "notes": ""
+        },
+        "LAST_UPDATED": {
+            "translation": "Ultimo aggiorno",
+            "notes": ""
+        },
+        "MAP": {
+            "translation": "Mappa",
+            "notes": ""
+        },
+        "MAP_LEGENDS": {
+            "translation": "Leggenda della mappa",
+            "notes": ""
+        },
+        "MAP_SETTINGS": {
+            "translation": "Impostazioni della mappa",
+            "notes": ""
+        },
+        "MAP_SETTINGS_FOR": {
+            "translation": "Impostazioni della mappa per",
+            "notes": ""
+        },
+        "OPACITY": {
+            "translation": "Transparenza",
+            "notes": ""
+        },
+        "OTHER": {
+            "translation": "Altro",
+            "notes": ""
+        },
+        "SHOW": {
+            "translation": "Mostra",
+            "notes": ""
+        },
+        "SHOW_MAP_CENTER": {
+            "translation": "Mostra is centro della mappa",
+            "notes": ""
+        },
+        "SHOW_OBSERVATIONS": {
+            "translation": "Mostra osservazioni",
+            "notes": ""
+        },
+        "SHOW_TRIPS": {
+            "translation": "Mostra uscite",
+            "notes": ""
+        },
+        "START_WIZARD": {
+            "translation": "Avvio guidata rapida",
+            "notes": ""
+        },
+        "SUPPORT_MAP_CREDITS": {
+            "translation": "Mappe di supporto fornite da",
+            "notes": ""
+        },
+        "TILES": {
+            "ARC_GIS": {
+                "translation": "ESRI World Topo (mondo)",
+                "notes": ""
+            },
+            "GEODATA_LANDSKAP": {
+                "translation": "Geodata Topo (Norvegia)",
+                "notes": ""
+            },
+            "KARTVERKET": {
+                "translation": "Kartverket (Norvegia)",
+                "notes": ""
+            },
+            "OPEN_TOPO": {
+                "translation": "OpenTopoMap (mondo)",
+                "notes": ""
+            }
+        },
+        "TIME_FRAME": {
+            "translation": "Periodo di tempo",
+            "notes": ""
+        },
+        "TODAYS_OBSERVATIONS": {
+            "translation": "Solo oggi",
+            "notes": ""
+        },
+        "TOPO_MAP_CREDITS": {
+            "translation": "Mappe topografiche fornite da",
+            "notes": ""
+        },
+        "UPDATE_OBSERVATIONS": {
+            "translation": "Aggiornato",
+            "notes": ""
+        },
+        "USER_SETTINGS": {
+            "translation": "Utente",
+            "notes": ""
+        },
+        "WEEKS_BACK": {
+            "translation": "Settimane fa",
+            "notes": ""
+        }
+    },
+    "MONTHS": {
+        "SHORT_LIST": {
+            "translation": "Gen, Feb, Mar, Apr, Mag, Giu, Lug, Ago, Set, Ott, Nov, Dic",
+            "notes": ""
+        }
+    },
+    "MY_OBSERVATIONS": {
+        "LOADING_MORE": {
+            "translation": "Carica più osservazioni...",
+            "notes": ""
+        },
+        "MY_SENT_OBSERVATIONS": {
+            "translation": "Le mie osservazioni",
+            "notes": ""
+        },
+        "NO_OBSERVATIONS": {
+            "translation": "Condividi le tuoi osservazioni!",
+            "notes": ""
+        },
+        "NO_OBSERVATIONS_TEXT": {
+            "translation": "Le tue osservazioni appariranno qui.  Condividi le tue osservazioni, immagini, e valutazioni con altri sportivi usando Varsom Regobs.",
+            "notes": ""
+        },
+        "SENT_SUBTITLE": {
+            "translation": "Queste osservazioni sono inviate e archiviate in Regobs.",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Le mie osservazioni",
+            "notes": ""
+        }
+    },
+    "OBSERVATION_LIST": {
+        "ALL_OBSERVATIONS": {
+            "translation": "Tutte le osservazioni",
+            "notes": ""
+        },
+        "FORMS": {
+            "translation": "Moduli",
+            "notes": ""
+        },
+        "GO_TO_OBSERVATION": {
+            "translation": "Vai all'osservazione",
+            "notes": ""
+        },
+        "IN_MAP_VIEW": {
+            "translation": "Vedi osservazioni nella mappa",
+            "notes": ""
+        },
+        "NO_OBSERVATIONS": {
+            "translation": "Nessune osservazioni",
+            "notes": ""
+        },
+        "NO_OBSERVATIONS_TEXT": {
+            "translation": "Non vi sono osservazioni in questa sezione di mappa. Prova a cambiare sezione o aumentare il periodo di tempo usato per ricercare osservazioni.",
+            "notes": ""
+        },
+        "OBSERVATIONS": {
+            "translation": "Osservazioni",
+            "notes": ""
+        }
+    },
+    "OFFLINE_MAP": {
+        "TITLE": {
+            "translation": "Mappa offline",
+            "notes": ""
+        }
+    },
+    "PERMISSION": {
+        "LOCATION_DENIED_HEADER": {
+            "translation": "Autorizzazione a locazione rifiutata",
+            "notes": ""
+        },
+        "LOCATION_DENIED_MESSAGE": {
+            "translation": "Non è possibile mostrare la posizione nella mappa senza autorizzazione.",
+            "notes": ""
+        }
+    },
+    "POPUP_DISCLAMER": {
+        "ABOUT_OBSERVATIONS": {
+            "HEADER": {
+                "translation": "Inormazioni sulle osservazioni.",
+                "notes": ""
+            },
+            "MESSAGE": {
+                "translation": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non fa garanzie contro errori o emissioni nei dati. Considera le osservazioni in luce della competeza dell'osservatore, come mostrato dalle stelle accanto al nome.",
+                "notes": ""
+            }
+        },
+        "ABOUT_SUPPORT_MAPS": {
+            "HEADER": {
+                "translation": "Sulle mappe",
+                "notes": ""
+            },
+            "MESSAGE": {
+                "translation": "Uso delle mappe è a proprio rischio, e propria evaluazione deve essere fatta. Le mappe possono contenere errori o emissioni.",
+                "notes": ""
+            }
+        },
+        "OK_I_UNDERSTAND": {
+            "translation": "OK, ho capito.",
+            "notes": ""
+        }
+    },
+    "REGISTRATION": {
+        "ADD_IMAGES": {
+            "translation": "Agguingi immagini",
+            "notes": ""
+        },
+        "ADD_WEB_URL": {
+            "TITLE": {
+                "translation": "Aggiungi Url",
+                "notes": ""
+            },
+            "URL": {
+                "translation": "Url",
+                "notes": ""
+            }
+        },
+        "BACK_TO_OBSERVATION": {
+            "translation": "Torna all'osservazione",
+            "notes": ""
+        },
+        "CONFIRM_RESET": {
+            "translation": "Sei sicuro che vuoi reimpostare tutti i campi?",
+            "notes": ""
+        },
+        "DANGER_OBS": {
+            "AREA": {
+                "translation": "Area",
+                "notes": ""
+            },
+            "COMMENT": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "COMMENT_PLACEHOLDER": {
+                "translation": "Ulteriori informazioni sui segni di preicolo",
+                "notes": ""
+            },
+            "DESCRIPTION": {
+                "translation": "Descrizione",
+                "notes": ""
+            },
+            "FOR_MUNICIPAL": {
+                "translation": "Per il municipio",
+                "notes": ""
+            },
+            "FOR_REGION": {
+                "translation": "Regione",
+                "notes": ""
+            },
+            "GENERAL_ON_MOUNTAIN": {
+                "translation": "Generalmente in montagna",
+                "notes": ""
+            },
+            "IN_THE_VALLEY_OR_FJORD": {
+                "translation": "Nella valle/nel fiordo",
+                "notes": ""
+            },
+            "MANY_WATER_NEARBY": {
+                "translation": "Tanti laghi vicini",
+                "notes": ""
+            },
+            "NEW_DANGER_OBS": {
+                "translation": "Nouvo segno di pericolo",
+                "notes": ""
+            },
+            "NO_DAMAGE_SIGN": {
+                "translation": "Nessuni segni di pericolo",
+                "notes": ""
+            },
+            "ON_THIS_MOUNTAIN_SIDE": {
+                "translation": "Su questa versante",
+                "notes": ""
+            },
+            "ON_THIS_PLACE": {
+                "translation": "Qui",
+                "notes": ""
+            },
+            "ON_THIS_SIDE_OF_THE_WATER": {
+                "translation": "Al di qua del lago",
+                "notes": ""
+            },
+            "ON_THIS_WATER": {
+                "translation": "Su questo lago",
+                "notes": ""
+            },
+            "RIGHT_HERE": {
+                "translation": "Qua",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Segno di pericolo",
+                "notes": ""
+            }
+        },
+        "DELETE": {
+            "translation": "Elimina osservazione",
+            "notes": ""
+        },
+        "DELETE_CONFIRM": {
+            "translation": "Sei sicuro?",
+            "notes": ""
+        },
+        "DIRT": {
+            "LAND_SLIDE_OBS": {
+                "AVAL_TRIGGER": {
+                    "translation": "Causa della frana",
+                    "notes": ""
+                },
+                "DAMAGE_EXTENT": {
+                    "translation": "Estensioni di danni",
+                    "notes": ""
+                },
+                "DESTRUCTIVE_SIZE": {
+                    "translation": "Estensione",
+                    "notes": ""
+                },
+                "DIRT_ACTIVITY_INFLUENCED": {
+                    "translation": "Cosa è colpita?",
+                    "notes": ""
+                },
+                "DIRT_FORECAST_ACCURATE": {
+                    "translation": "Era corretto il bollettino?",
+                    "notes": ""
+                },
+                "DT_LAND_SLIDE_TIME": {
+                    "translation": "Quando è cominciata la frana?",
+                    "notes": ""
+                },
+                "DT_LAND_SLIDE_TIME_END": {
+                    "translation": "Quando è finita la frana?",
+                    "notes": ""
+                },
+                "END_POSITION": {
+                    "translation": "Posizione finale",
+                    "notes": ""
+                },
+                "IN_MAP": {
+                    "translation": "nella mappa",
+                    "notes": ""
+                },
+                "LANDSLIDE_TYPE": {
+                    "translation": "Tipo di frana",
+                    "notes": ""
+                },
+                "POSITION": {
+                    "translation": "Posizione della frana",
+                    "notes": ""
+                },
+                "SET_LANDSLIDE_POSITION": {
+                    "translation": "Indica la posizione della frana",
+                    "notes": ""
+                },
+                "START_POSITION": {
+                    "translation": "Posizione iniziale",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Incidento di frana",
+                    "notes": ""
+                }
+            }
+        },
+        "DRAFTS": {
+            "translation": "Le mie bozze",
+            "notes": ""
+        },
+        "DRAFTS_DESCRIPTION": {
+            "translation": "Queste osservazioni sono in processo e non sono inviate.",
+            "notes": ""
+        },
+        "EMAIL": {
+            "BODY": {
+                "translation": "Ciao! Io ho problemi inviare questa registrazione. Potete aiutarmi?",
+                "notes": ""
+            },
+            "SUBJECT": {
+                "translation": "Registrazione fallita.",
+                "notes": ""
+            }
+        },
+        "FAILED": {
+            "EDIT_OBSERVATION": {
+                "translation": "Modifica osservazione",
+                "notes": ""
+            },
+            "LOGGED": {
+                "translation": "Il promema è registrato.",
+                "notes": ""
+            },
+            "PROBLEM": {
+                "translation": "C'è stato un problema con la registrazione.",
+                "notes": ""
+            },
+            "PROBLEM_HELP_TEXT": {
+                "translation": "Osserzazioni con problemi di registrazione sono memorizzate nel telefono, e quando il problema è risolto puoi inviarle di nuovo.",
+                "notes": ""
+            },
+            "REFERENCE": {
+                "translation": "Referenza",
+                "notes": ""
+            },
+            "SEND_EMAIL": {
+                "translation": "Inviaci per E-Mail.",
+                "notes": ""
+            },
+            "SUBTITLE": {
+                "translation": "Errore di rete o timeout. Riproviamo in un'attimo e speriamo che la rete sia migliore.",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Registrazione fallita.",
+                "notes": ""
+            }
+        },
+        "GENERAL_COMMENT": {
+            "ADD_NOTES_HEADER": {
+                "translation": "Note per l'osservazione",
+                "notes": ""
+            },
+            "ADD_PICTURE": {
+                "translation": "Aggiungi un'immagine",
+                "notes": ""
+            },
+            "CHOOSE_FROM_LIBRARY": {
+                "translation": "Scelghi dalla libreria di immagini",
+                "notes": ""
+            },
+            "COMMENT_PLACEHOLDER": {
+                "translation": "Poui descrivere di più qua",
+                "notes": ""
+            },
+            "COMMENT_TITLE": {
+                "translation": "Descrizione",
+                "notes": ""
+            },
+            "DESCRIPTION": {
+                "translation": "Puoi caricare immagini dell'area osservata o di altre pertinente cose.",
+                "notes": ""
+            },
+            "SUBTITLE": {
+                "translation": "Immagini della osservazione",
+                "notes": ""
+            },
+            "TAKE_NEW_PHOTO": {
+                "translation": "Preni una nuova foto",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Note",
+                "notes": ""
+            }
+        },
+        "GROUP": {
+            "SUBTITLE": {
+                "translation": "Condivide osservazione con",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Condividere con gruppo",
+                "notes": ""
+            }
+        },
+        "ICE": {
+            "ICE_COVER": {
+                "ICE_CAPACITY": {
+                    "translation": "Resistenza meccanica",
+                    "notes": ""
+                },
+                "ICE_COVER": {
+                    "translation": "Copertura di ghiaccio",
+                    "notes": ""
+                },
+                "ICE_COVER_BEFORE": {
+                    "translation": "Copertura di ghiaccio prima della osservazione",
+                    "notes": ""
+                },
+                "ICE_SKATEABILITY": {
+                    "translation": "Pattinabilità",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Copertura di ghiaccio",
+                    "notes": ""
+                }
+            },
+            "ICE_THICKNESS": {
+                "ADD_ICE_LAYER": {
+                    "translation": "Aggiungi strato ghiaccio",
+                    "notes": ""
+                },
+                "ADD_ICE_LAYER_TITLE": {
+                    "translation": "Altezza dello strato di ghiaccio",
+                    "notes": ""
+                },
+                "DRY_SNOW_BEFORE_DRILL": {
+                    "translation": "Neve prima di forare (cm)",
+                    "notes": ""
+                },
+                "ICE_HEIGHT_AFTER_INPUT": {
+                    "translation": "Altezza di acqua superficiale",
+                    "notes": ""
+                },
+                "ICE_HEIGHT_AFTER_NO": {
+                    "translation": "Altezza dalla superficie glaciale all'acqua nel foro",
+                    "notes": ""
+                },
+                "ICE_HEIGHT_AFTER_TOGGLE": {
+                    "translation": "Altezza dell'acqua superficiale dopo foratura",
+                    "notes": ""
+                },
+                "ICE_HEIGHT_BEFORE_INPUT": {
+                    "translation": "Altezza dell'acqua superficiale",
+                    "notes": ""
+                },
+                "ICE_HEIGHT_BEFORE_TOGGLE": {
+                    "translation": "Altezza dell'acqua superficiale prima di forare",
+                    "notes": ""
+                },
+                "ICE_LAYER": {
+                    "translation": "Strato ghiaccio",
+                    "notes": ""
+                },
+                "ICE_LAYER_THICKNESS": {
+                    "translation": "Altezza strato di ghiaccio (cm)",
+                    "notes": ""
+                },
+                "ICE_THICKNESS_SUM": {
+                    "translation": "Altezza totale di ghiaccio (cm)",
+                    "notes": ""
+                },
+                "ICE_TYPE": {
+                    "translation": "Tipo di ghiaccio",
+                    "notes": ""
+                },
+                "SLUSH_SNOW_BEFORE_DRILL": {
+                    "translation": "Neve bagniata prima di forare (cm)",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Altezza di ghiaccio",
+                    "notes": ""
+                }
+            }
+        },
+        "IMAGE_DESCRIPTION": {
+            "translation": "Descrizione dell'imagine",
+            "notes": ""
+        },
+        "IMAGE_DESCRIPTION_PLACEHOLDER": {
+            "translation": "Aggiungi una descrizione all'immagine",
+            "notes": ""
+        },
+        "IMAGES": {
+            "translation": "Immagini",
+            "notes": ""
+        },
+        "IN_CM": {
+            "translation": "In centimetri",
+            "notes": ""
+        },
+        "IN_FULL_CM": {
+            "translation": "In centimetri senza cifre decimali",
+            "notes": ""
+        },
+        "INCIDENT": {
+            "ACTIVITY": {
+                "translation": "Attività",
+                "notes": ""
+            },
+            "COMMENT": {
+                "translation": "Commento",
+                "notes": ""
+            },
+            "COMMENT_PLACEHOLDER": {
+                "translation": "Perché e successo? È tutto bene? Potrebbe essere evitato?",
+                "notes": ""
+            },
+            "DAMAGE_EXTENT": {
+                "translation": "Estensioni di danni",
+                "notes": ""
+            },
+            "IMAGE_PLACEHOLDER": {
+                "translation": "+ Aggiungi una descrizione dell'immagine",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Incidente",
+                "notes": ""
+            }
+        },
+        "INVALID_IMAGE": {
+            "translation": "Questa immagine è  invalia.",
+            "notes": ""
+        },
+        "NONE": {
+            "translation": "Nessuno selettato",
+            "notes": ""
+        },
+        "OBS_LOCATION": {
+            "CONFIRM_TEXT": {
+                "translation": "Conferma locazione",
+                "notes": ""
+            },
+            "CURRENT_LOCATION": {
+                "translation": "Locazione attuale",
+                "notes": ""
+            },
+            "HIDE_DETAILS": {
+                "translation": "Nascondi dettagli",
+                "notes": ""
+            },
+            "SHOW_DETAILS": {
+                "translation": "Mostra dettagli",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Locazione della osservazione",
+                "notes": ""
+            }
+        },
+        "OVERVIEW": {
+            "DATE_AND_TIME": {
+                "translation": "Data e ora",
+                "notes": ""
+            },
+            "MY_OBSERVATION": {
+                "translation": "La mia osservazione",
+                "notes": ""
+            },
+            "SHARE_WITH_GROUP": {
+                "translation": "Condividere con gruppo",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Osservazione",
+                "notes": ""
+            }
+        },
+        "REQUIRED_FIELDS_MISSING": {
+            "translation": "Ci sono campi invalide. Voui resettare la forma e andare indietro?",
+            "notes": ""
+        },
+        "RESEND": {
+            "translation": "Prova a inviare di nuovo",
+            "notes": ""
+        },
+        "RESET": {
+            "translation": "Resetta",
+            "notes": ""
+        },
+        "SAVE_ALERT": {
+            "HEADER": {
+                "translation": "Salva come bozza?",
+                "notes": ""
+            },
+            "MESSAGE": {
+                "translation": "Stai uscieno dalla registrazione senza inviare. Voui salvare come bozza?",
+                "notes": ""
+            },
+            "NO": {
+                "translation": "No, scarta.",
+                "notes": ""
+            },
+            "YES": {
+                "translation": "Si, salva",
+                "notes": ""
+            }
+        },
+        "SAVED_DESCRIPTION": {
+            "translation": "Questi venno sincronizzati quendo hai rete.",
+            "notes": ""
+        },
+        "SAVED_ON_PHONE": {
+            "translation": "Salvati sul telefono.",
+            "notes": ""
+        },
+        "SEND": {
+            "translation": "Invia",
+            "notes": ""
+        },
+        "SET_DAMAGE_LOCATION": {
+            "CONFIRM_TEXT": {
+                "translation": "Conferma locazione di danni",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Locazione di danni",
+                "notes": ""
+            }
+        },
+        "SET_TIME": {
+            "CONFIRM": {
+                "translation": "Conferma data e ora",
+                "notes": ""
+            },
+            "HEADER": {
+                "translation": "Che tempo hai osservato?",
+                "notes": ""
+            },
+            "NOW": {
+                "translation": "Adesso",
+                "notes": ""
+            },
+            "TITLE": {
+                "translation": "Ora",
+                "notes": ""
+            }
+        },
+        "SNOW": {
+            "AVALANCHE_ACTIVITY": {
+                "ADD_NEW": {
+                    "translation": "Aggiungi nuova attività valanghiva",
+                    "notes": ""
+                },
+                "COMMENT_PLACEHOLDER": {
+                    "translation": "Ulteriori commenti",
+                    "notes": ""
+                },
+                "DATE_WARNING": {
+                    "translation": "Data è differente dalla data dell'osservazione",
+                    "notes": ""
+                },
+                "DURING_THE_DAY": {
+                    "translation": "Durante la giornata",
+                    "notes": ""
+                },
+                "ESTIMATED_TIME": {
+                    "translation": "Periodo di tempo estimato",
+                    "notes": ""
+                },
+                "HOW_MANY_AVALANCHES": {
+                    "translation": "Numero di valanghe",
+                    "notes": ""
+                },
+                "NO_AVALANCHE_ACTIVITY": {
+                    "translation": "Nessuna attivita valanghiva osservata",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Attivitá valanghiva",
+                    "notes": ""
+                },
+                "UNKNOWN_NUMBER": {
+                    "translation": "Numero non conosciuto",
+                    "notes": ""
+                }
+            },
+            "AVALANCHE_EVALUATION": {
+                "AVALANCHE_DANGER": {
+                    "translation": "Pericolo valanghivo",
+                    "notes": ""
+                },
+                "AVALANCHE_DEVELOPMENT": {
+                    "translation": "Sviluppo",
+                    "notes": ""
+                },
+                "AVALANCHE_DEVEOPMENT_PLACEHOLDER": {
+                    "translation": "sviluppo del pericolo valanghivo",
+                    "notes": ""
+                },
+                "COMMENT": {
+                    "translation": "Commento sul bollettino",
+                    "notes": ""
+                },
+                "EVALUATION": {
+                    "translation": "Evaluazione del pericolo",
+                    "notes": ""
+                },
+                "EVALUATION_PLACEHOLDER": {
+                    "translation": "Evaluazione del pericolo valanghivo",
+                    "notes": ""
+                },
+                "FORECAST_CORRECT": {
+                    "translation": "Evaluazione del bollettino su varsom.no",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Evaluazione del pericolo valanghivo",
+                    "notes": ""
+                }
+            },
+            "AVALANCHE_OBS": {
+                "AVAL_CAUSE": {
+                    "translation": "Strato debole",
+                    "notes": ""
+                },
+                "AVALANCHE_TRIGGER": {
+                    "translation": "Sensitività",
+                    "notes": ""
+                },
+                "AVALANCHE_TYPE": {
+                    "translation": "Tipo di valanga",
+                    "notes": ""
+                },
+                "DESTRUCTIVE_SIZE": {
+                    "translation": "Dimensioni",
+                    "notes": ""
+                },
+                "FRACTURE_HEIGTH": {
+                    "translation": "Spessore (cm)",
+                    "notes": ""
+                },
+                "FRACTURE_WIDTH": {
+                    "translation": "Larghezza",
+                    "notes": ""
+                },
+                "INCIDENT_DESCRIPTION": {
+                    "translation": "Incidente o lesione",
+                    "notes": ""
+                },
+                "INCIDENT_PLACEHOLDER": {
+                    "translation": "Ci sono stati danni, incidenti o uno scampato pericolo causata dalla valanga? Come e perchè e successo? Era evitabile?",
+                    "notes": ""
+                },
+                "POSITION": {
+                    "translation": "Posizione della valanga",
+                    "notes": ""
+                },
+                "SET_AVALANCHE_POSITION": {
+                    "translation": "Indica la posizione della valaga",
+                    "notes": ""
+                },
+                "TERRAIN_START_ZONE": {
+                    "translation": "Tipo di terreno nella zona di distacco",
+                    "notes": ""
+                },
+                "TIME": {
+                    "translation": "Data e ora del distacco (richiesto)",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Incidente valanghivo",
+                    "notes": ""
+                },
+                "TRAJECTORY_NAME": {
+                    "translation": "Traiettoria valanghiva",
+                    "notes": ""
+                },
+                "VALID_EXPOSITION": {
+                    "translation": "Esposizione",
+                    "notes": ""
+                }
+            },
+            "AVALANCHE_PROBLEM": {
+                "ADD_NEW": {
+                    "translation": "Aggiungi un nouvo situzione tipica",
+                    "notes": ""
+                },
+                "ALL": {
+                    "translation": "Tutti",
+                    "notes": ""
+                },
+                "AVAL_PROBABILITY": {
+                    "translation": "Probabilità di distacco",
+                    "notes": ""
+                },
+                "AVALANCHE_DESTRUCTIVE_SIZE": {
+                    "translation": "Dimensione aspettata",
+                    "notes": ""
+                },
+                "AVALANCHE_PROBABILITY": {
+                    "translation": "La possibilitá di valanghe",
+                    "notes": ""
+                },
+                "AVALANCHE_PROPAGATION_HEADER": {
+                    "translation": "Distribuzione spaziale della situazione tipica",
+                    "notes": ""
+                },
+                "AVALANCHE_TRIGGER_PROBABILITY": {
+                    "translation": "Sensibilità a distacco",
+                    "notes": ""
+                },
+                "AVALANCHE_TYPE": {
+                    "translation": "Tipo di valanga",
+                    "notes": ""
+                },
+                "BOTTOM": {
+                    "translation": "fondo",
+                    "notes": ""
+                },
+                "EXPOSED_HEIGHT_COMBO": {
+                    "translation": "Quota",
+                    "notes": ""
+                },
+                "EXPOSED_HEIGHT1": {
+                    "translation": "Quota",
+                    "notes": ""
+                },
+                "EXPOSED_HEIGHT2": {
+                    "translation": "Quota inferiore",
+                    "notes": ""
+                },
+                "MIDDLE": {
+                    "translation": "Intermedio",
+                    "notes": ""
+                },
+                "NO_WEAK_LAYERS": {
+                    "translation": "Non ci sono strati deboli",
+                    "notes": ""
+                },
+                "PROPAGATION": {
+                    "translation": "Distribuzione spaziale",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Situazione tipica",
+                    "notes": ""
+                },
+                "TOP": {
+                    "translation": "Superiore",
+                    "notes": ""
+                },
+                "UNKNOWN_TYPE": {
+                    "translation": "Strato debole non conosciuto",
+                    "notes": ""
+                },
+                "VALID_EXPOSITION": {
+                    "translation": "Esposizione",
+                    "notes": ""
+                },
+                "WEAK_LAYER": {
+                    "translation": "Strato debole",
+                    "notes": ""
+                },
+                "WEAK_LAYER_DEPTH": {
+                    "translation": "Profondità dello strato debole",
+                    "notes": ""
+                }
+            },
+            "COMPRESSION_TEST": {
+                "ADD_NEW": {
+                    "translation": "Aggiungi un nuovo test",
+                    "notes": ""
+                },
+                "DISTANCE_FROM_TOP": {
+                    "translation": "Altezza dalla superficie (cm)",
+                    "notes": ""
+                },
+                "FRACTURE_TYPE": {
+                    "translation": "Carattere della frattura",
+                    "notes": ""
+                },
+                "STABILITY_EVAL": {
+                    "translation": "Stabilitá",
+                    "notes": ""
+                },
+                "TAPS_FRACTURE": {
+                    "translation": "Numero di colpi",
+                    "notes": ""
+                },
+                "TEST_TYPE": {
+                    "translation": "Tipo di test",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Test di stabilità",
+                    "notes": ""
+                }
+            },
+            "SNOW_PROFILE": {
+                "COMPRESSION_TEST": {
+                    "ATTACHED": {
+                        "translation": "allegato al profilo",
+                        "notes": ""
+                    },
+                    "EMPTY": {
+                        "translation": "No",
+                        "notes": ""
+                    },
+                    "INCLUDE_IN_SNOW_PROFILE": {
+                        "translation": "Includere nel profilo",
+                        "notes": ""
+                    },
+                    "MULTIPLE_TESTS": {
+                        "translation": "Tests",
+                        "notes": ""
+                    },
+                    "SINGLE_TEST": {
+                        "translation": "Test",
+                        "notes": ""
+                    },
+                    "TITLE": {
+                        "translation": "Tests",
+                        "notes": ""
+                    }
+                },
+                "GENERATING_PREVIEW": {
+                    "translation": "Generando anteprima...",
+                    "notes": ""
+                },
+                "IS_PROFILE_TO_GROUND": {
+                    "translation": "Il profilo è fino all terreno?",
+                    "notes": ""
+                },
+                "PREVIEW": {
+                    "translation": "Anteprima",
+                    "notes": ""
+                },
+                "PREVIEW_ERROR": {
+                    "translation": "Non è possibile gerenare la anteprima",
+                    "notes": ""
+                },
+                "PREVIEW_ITEM": {
+                    "translation": "Vedi profilo",
+                    "notes": ""
+                },
+                "SNOW_DENSITY": {
+                    "CYLINDER": {
+                        "translation": "Cilindro",
+                        "notes": ""
+                    },
+                    "CYLINDER_DIAMETER": {
+                        "translation": "Diameto del cilindro (cm)",
+                        "notes": ""
+                    },
+                    "CYLINDER_METHOD": {
+                        "translation": "Usa cilindro",
+                        "notes": ""
+                    },
+                    "DENSITY": {
+                        "translation": "Densità (kg/m³)",
+                        "notes": ""
+                    },
+                    "EMPTY": {
+                        "translation": "Nessuni profili di densità",
+                        "notes": ""
+                    },
+                    "HEIGHT": {
+                        "translation": "Altezza (cm)",
+                        "notes": ""
+                    },
+                    "LAYER": {
+                        "translation": "Strati",
+                        "notes": ""
+                    },
+                    "METHOD": {
+                        "translation": "Metodo",
+                        "notes": ""
+                    },
+                    "MULTIPLE_LAYERS": {
+                        "translation": "Profili di densità",
+                        "notes": ""
+                    },
+                    "ONE_LAYER": {
+                        "translation": "Profilo di densità aggiunto",
+                        "notes": ""
+                    },
+                    "TARE_WEIGHT": {
+                        "translation": "Peso tara (g)",
+                        "notes": ""
+                    },
+                    "TITLE": {
+                        "translation": "Densità",
+                        "notes": ""
+                    },
+                    "WATER_EQUIVALENT": {
+                        "translation": "equivalente in acqua della neve",
+                        "notes": ""
+                    },
+                    "WEIGHT": {
+                        "translation": "Peso (g)",
+                        "notes": ""
+                    }
+                },
+                "SNOW_PROFILE_HELP_TEXT": {
+                    "translation": "Purtroppo non abbiamo una forma per profili nella versione attuale dell'app Varsom Regobs. Poui caricare un'immagine del profilo eseguito a mano o esportare da un app a terza parte come Ullr Labs Avalanche. Su regobs.no puoi aggiornare l'informazione sul profilo con con gli strumenti forniti li.",
+                    "notes": ""
+                },
+                "SNOW_TEMP": {
+                    "ADD_LAYER_BOTTOM": {
+                        "translation": "Aggiungi un punto nuovo",
+                        "notes": ""
+                    },
+                    "DEPTH": {
+                        "translation": "Altezza dalla superficie (cm)",
+                        "notes": ""
+                    },
+                    "EMPTY": {
+                        "translation": "Nessuni valori di temperatura osservati",
+                        "notes": ""
+                    },
+                    "MULTIPLE_LAYERS": {
+                        "translation": "Valori di temperature osservate",
+                        "notes": ""
+                    },
+                    "ONE_LAYER": {
+                        "translation": "Valore di temperatura osservato",
+                        "notes": ""
+                    },
+                    "POINT": {
+                        "translation": "Temperatura",
+                        "notes": ""
+                    },
+                    "TEMPERATURE": {
+                        "translation": "Temperatura (°C)",
+                        "notes": ""
+                    },
+                    "TITLE": {
+                        "translation": "Profilo di temperatura",
+                        "notes": ""
+                    }
+                },
+                "STRAT_PROFILE": {
+                    "ADD_LAYER": {
+                        "translation": "Aggiungi strato",
+                        "notes": ""
+                    },
+                    "ADD_LAYER_BOTTOM": {
+                        "translation": "Aggiungi strato in basso",
+                        "notes": ""
+                    },
+                    "ADD_LAYER_TOP": {
+                        "translation": "Aggiungi strato in alto",
+                        "notes": ""
+                    },
+                    "CRITICAL_LAYER": {
+                        "translation": "strato critico",
+                        "notes": ""
+                    },
+                    "EMPTY": {
+                        "translation": "Nessuni strati osservati",
+                        "notes": ""
+                    },
+                    "FROM_OTHER_PROFILE": {
+                        "translation": "strato da un'altro profilo",
+                        "notes": ""
+                    },
+                    "GRAIN_FORM": {
+                        "translation": "Forma di cristallo",
+                        "notes": ""
+                    },
+                    "GRAIN_FROM_SECONDARY": {
+                        "translation": "Forma di cristallo secondare",
+                        "notes": ""
+                    },
+                    "HARDNESS": {
+                        "translation": "Durezza",
+                        "notes": ""
+                    },
+                    "HARDNESS_BOTTOM": {
+                        "translation": "durezza piu bassa",
+                        "notes": ""
+                    },
+                    "LAYER": {
+                        "translation": "Strato",
+                        "notes": ""
+                    },
+                    "MAX_GRAIN_SIZE": {
+                        "translation": "Dimensione di cristallo massimo (mm)",
+                        "notes": ""
+                    },
+                    "MULTIPLE_LAYERS": {
+                        "translation": "strati",
+                        "notes": ""
+                    },
+                    "NO_PROFILES_FOUND": {
+                        "translation": "Nessuti strati da altri profili trovati",
+                        "notes": ""
+                    },
+                    "ONE_LAYER": {
+                        "translation": "strato",
+                        "notes": ""
+                    },
+                    "OTHER_PROFILE_DESCRIPTION": {
+                        "translation": "Puoi scegliere di copiare i strati da un profilo precedente degli ultimi 14 giorni entro una distanza di 100km",
+                        "notes": ""
+                    },
+                    "OTHER_PROFILE_ITEM_TEXT": {
+                        "translation": "Prendi strati da un'altro profilo",
+                        "notes": ""
+                    },
+                    "SHOW_LESS": {
+                        "translation": "Nascondi opzioni",
+                        "notes": ""
+                    },
+                    "SHOW_MORE": {
+                        "translation": "Mostra più opzioni",
+                        "notes": ""
+                    },
+                    "SIZE": {
+                        "translation": "Dimensione dei cristalli (mm)",
+                        "notes": ""
+                    },
+                    "THICKNESS": {
+                        "translation": "Spessore",
+                        "notes": ""
+                    },
+                    "TITLE": {
+                        "translation": "Strati",
+                        "notes": ""
+                    },
+                    "TOTAL_THICKNESS": {
+                        "translation": "Spessore totale",
+                        "notes": ""
+                    },
+                    "WETNESS": {
+                        "translation": "Umidità",
+                        "notes": ""
+                    }
+                },
+                "SUBFORMS": {
+                    "translation": "Sottomaschera",
+                    "notes": ""
+                },
+                "SUPERIOR": {
+                    "translation": "Principale",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Profilo del manto nevoso",
+                    "notes": ""
+                }
+            },
+            "SNOW_SURFACE": {
+                "COMMENT_HEADER": {
+                    "translation": "Descrivi la superficie dell manto nevoso",
+                    "notes": ""
+                },
+                "COMMENT_PLACEHOLDER": {
+                    "translation": "Come è la distribuzione generale della neve in relazione di esposizione e quota? Ci sono delle differenze significanti nella regione?",
+                    "notes": ""
+                },
+                "HEIGHT_LIMIT_LAYERED_SNOW": {
+                    "translation": "Quota più bassa di neve stratificata (m)",
+                    "notes": ""
+                },
+                "HIGHT_LIMIT_LAYERED_SNOW_PLACEHOLDER": {
+                    "translation": "Per neve senza strati pericolosi",
+                    "notes": ""
+                },
+                "NEW_SNOW_DEPTH": {
+                    "translation": "Neve fresca 24 ore (cm)",
+                    "notes": ""
+                },
+                "NEW_SNOW_LINE": {
+                    "translation": "Limite della nevicata (m)",
+                    "notes": ""
+                },
+                "SNOW_DEPTH": {
+                    "translation": "Altezza manto nevoso (cm)",
+                    "notes": ""
+                },
+                "SNOW_DRIFT": {
+                    "translation": "Saltazione",
+                    "notes": ""
+                },
+                "SNOW_LINE": {
+                    "translation": "Limite dell'innevamento",
+                    "notes": ""
+                },
+                "SNOW_SURFACE": {
+                    "translation": "Superficie del manto nevoso",
+                    "notes": ""
+                },
+                "SURFACE_WATER_CONTENT_REG": {
+                    "translation": "Umidità della superficie",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Superficie del manto nevoso",
+                    "notes": ""
+                }
+            },
+            "WEATHER": {
+                "AIR_TEMPERATURE": {
+                    "translation": "Temperatura atmosferica (°C)",
+                    "notes": ""
+                },
+                "AIR_TEMPERATURE_PLACEHOLDER": {
+                    "translation": "Può essere indicato con due cifre decimali",
+                    "notes": ""
+                },
+                "CLOUD_COVER": {
+                    "translation": "Copertura nuvolosa (%)",
+                    "notes": ""
+                },
+                "COMMENT_HEADER": {
+                    "translation": "Descrivi il tempo",
+                    "notes": ""
+                },
+                "COMMENT_PLACEHOLDER": {
+                    "translation": "Come è stato il tempo le ultime 24 ore? Per esempio: Ha nevicato? Ci sono state variazioni in temperatura? Dove è stato il limito do congielamento?",
+                    "notes": ""
+                },
+                "FROM_EAST": {
+                    "translation": "E - dall'est",
+                    "notes": ""
+                },
+                "FROM_NORTH": {
+                    "translation": "N - dal nord",
+                    "notes": ""
+                },
+                "FROM_NORTH_WEST": {
+                    "translation": "NO - da nordovest",
+                    "notes": ""
+                },
+                "FROM_NOTRH_EAST": {
+                    "translation": "NE - dal nordest",
+                    "notes": ""
+                },
+                "FROM_SOUTH": {
+                    "translation": "S - dal sud",
+                    "notes": ""
+                },
+                "FROM_SOUTH_EAST": {
+                    "translation": "SE - dal sudest",
+                    "notes": ""
+                },
+                "FROM_SOUTH_WEST": {
+                    "translation": "SO - dal sudovest",
+                    "notes": ""
+                },
+                "FROM_WEST": {
+                    "translation": "O - dall'ovest",
+                    "notes": ""
+                },
+                "NOT_GIVEN": {
+                    "translation": "non dato",
+                    "notes": ""
+                },
+                "ONLY_FULL_PERCENTAGE": {
+                    "translation": "Percenti nenza decimali",
+                    "notes": ""
+                },
+                "PRECIPITATION": {
+                    "translation": "Precipitazione",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Condizioni meteorologiche",
+                    "notes": ""
+                },
+                "WIND_DIRECTION": {
+                    "translation": "Direzione del vento",
+                    "notes": ""
+                },
+                "WIND_SPEED": {
+                    "translation": "Velocità del vento",
+                    "notes": ""
+                }
+            }
+        },
+        "SUMMARY": {
+            "translation": "Sintesi",
+            "notes": ""
+        },
+        "WATER": {
+            "DAMAGE": {
+                "ADD_DAMAGE_LOCATION": {
+                    "translation": "Aggiungi la locazione di danni",
+                    "notes": ""
+                },
+                "CAN_YOU_SEE_DAMAGE": {
+                    "translation": "Puoi vedere i danni?",
+                    "notes": ""
+                },
+                "COMMENT": {
+                    "translation": "Descrizione",
+                    "notes": ""
+                },
+                "COMMENT_PLACEHOLDER": {
+                    "translation": "Prega descrivere i danni",
+                    "notes": ""
+                },
+                "IMAGE_OF_DAMAGES": {
+                    "translation": "Immagini dei danni",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Danni",
+                    "notes": ""
+                },
+                "WHAT_IS_DAMAGED": {
+                    "translation": "Cosa è danneggiato?",
+                    "notes": ""
+                },
+                "WHERE_IS_DAMAGE_LOCATION": {
+                    "translation": "Dove si trovano i danni?",
+                    "notes": ""
+                }
+            },
+            "WATER_LEVEL": {
+                "ADD_NEW": {
+                    "translation": "Aggiungi nuovo",
+                    "notes": ""
+                },
+                "ADD_PICTURE": {
+                    "translation": "Aggiungi un immagine di",
+                    "notes": ""
+                },
+                "CAN_YOU_SEE_WATER": {
+                    "translation": "C'è dell'acqua deviata?",
+                    "notes": ""
+                },
+                "DESCRIBE": {
+                    "translation": "Descrivi",
+                    "notes": ""
+                },
+                "DESCRIBE_HEIGHT": {
+                    "translation": "Descrivi altezza",
+                    "notes": ""
+                },
+                "DESCRIBE_SITUATION": {
+                    "translation": "Come cescrivesti la situazione?",
+                    "notes": ""
+                },
+                "DT_REQUIRED_TEXT": {
+                    "translation": "Ora è richiesta!",
+                    "notes": ""
+                },
+                "HOW_DO_YOU_READ": {
+                    "translation": "Come mesuri il livello dell'acqua?",
+                    "notes": ""
+                },
+                "MARKED_WITH": {
+                    "translation": "Ho marcato il livello dell'acqua con",
+                    "notes": ""
+                },
+                "MARKING": {
+                    "translation": "Marca",
+                    "notes": ""
+                },
+                "MARKING_PLURAL": {
+                    "translation": "Marche",
+                    "notes": ""
+                },
+                "MARKING_REFERENCE": {
+                    "translation": "Ho marcato il livello d'acqua su",
+                    "notes": ""
+                },
+                "MEASURE_PLURAL": {
+                    "translation": "Misure",
+                    "notes": ""
+                },
+                "MEASURING": {
+                    "translation": "Mesura",
+                    "notes": ""
+                },
+                "MEASURING_TOOL": {
+                    "translation": "Indica l'istrumento di misura qui",
+                    "notes": ""
+                },
+                "OBSERVATION_TIMING": {
+                    "translation": "Cosa registri?",
+                    "notes": ""
+                },
+                "REGISTRATION_METHOD": {
+                    "translation": "Come registri?",
+                    "notes": ""
+                },
+                "RELATIVE": {
+                    "translation": "L'altezza è indicata relativamente a",
+                    "notes": ""
+                },
+                "TITLE": {
+                    "translation": "Livello dell'acqua",
+                    "notes": ""
+                },
+                "WATER_LEVEL_METERS": {
+                    "translation": "Livello dell'acqua in metri",
+                    "notes": ""
+                },
+                "WATER_MARKING": {
+                    "translation": "Marca del livello d'acqua",
+                    "notes": ""
+                },
+                "WATER_MEASUREMENT": {
+                    "translation": "Misura del livello d'acqua",
+                    "notes": ""
+                }
+            }
+        }
+    },
+    "SETTINGS": {
+        "ALLOW_ANALYTICS": {
+            "translation": "Consentire invio di dati di utilizzo dell'app",
+            "notes": ""
+        },
+        "ALLOW_ANALYTICS_DESCRIPTION": {
+            "translation": "Facci sapere come usi l'app per aiutarci a migliorare Varsom Regobs",
+            "notes": ""
+        },
+        "ALLOW_ANALYTICS_DESCRIPTION_LINE2": {
+            "translation": "Le data sono anonimi e non possone essere connette ad un individuo.",
+            "notes": ""
+        },
+        "ALLOW_ANALYTICS_HEADER": {
+            "translation": "Condividi statisiche di uso",
+            "notes": ""
+        },
+        "APP_VERSION": {
+            "translation": "Versione",
+            "notes": ""
+        },
+        "APPMODE": {
+            "translation": "Modo di app",
+            "notes": ""
+        },
+        "CONFIRM_RESET": {
+            "translation": "Sei sicuro che voui fare is reset?",
+            "notes": ""
+        },
+        "COUNTRY": {
+            "translation": "Paese",
+            "notes": ""
+        },
+        "DROPDOWNS_FAILED": {
+            "translation": "Aggiorno dei menu è fallito. Prega controllare impostazioni di rete e riprovare più tardi.",
+            "notes": ""
+        },
+        "DROPDOWNS_UPDATED": {
+            "translation": "Menu aggiornati!",
+            "notes": ""
+        },
+        "EMAIL_RECEIPT": {
+            "translation": "Notifica per E-mail.",
+            "notes": ""
+        },
+        "HIDE_ADVANCED": {
+            "translation": "Nascondi impostazioni avanzate",
+            "notes": ""
+        },
+        "LANGUAGE": {
+            "translation": "Lingua",
+            "notes": ""
+        },
+        "NORWAY_ONLY": {
+            "translation": "Solo in Norvegiese",
+            "notes": ""
+        },
+        "NUMBER_OF_TILES_IN_CACHE": {
+            "translation": "Massimo numero di tessere di mappa nella memoria",
+            "notes": ""
+        },
+        "READ_MORE_IN_LICENSE_AGREEMENT": {
+            "translation": "Puoi leggere di più sul nostro utilizzo di data nella nostra tutela della riservatezza.",
+            "notes": ""
+        },
+        "RESET": {
+            "translation": "Resetta l'app",
+            "notes": ""
+        },
+        "RESETTING": {
+            "translation": "Resettando, prega attendere...",
+            "notes": ""
+        },
+        "SHOW_ADVANCED": {
+            "translation": "Mostra impostazioni avanzate",
+            "notes": ""
+        },
+        "SIZE_OF_TILES_CACHE": {
+            "translation": "Dimensioni delle tessere di mappa salvate su questo apparecchio",
+            "notes": ""
+        },
+        "TILES_CACHE_SIZE": {
+            "translation": "Numero di tessere di mappa salvate su questo apparecchio",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Impostazioni",
+            "notes": ""
+        },
+        "UPDATE_DROPDOWNS": {
+            "translation": "Aggiorna i menu",
+            "notes": ""
+        },
+        "USE_IN_WORLD": {
+            "translation": "Fuori di Norvegia",
+            "notes": ""
+        },
+        "USE_RETINA_MAP": {
+            "translation": "Usa mappe ad alta resoluzione",
+            "notes": ""
+        }
+    },
+    "START_WIZARD": {
+        "CHOOSE_COUNTRY": {
+            "HEADER": {
+                "translation": "Scelgli paese",
+                "notes": ""
+            },
+            "NO_NORWAY": {
+                "translation": "No, anche in altri paesi",
+                "notes": ""
+            },
+            "SUBTITLE": {
+                "translation": "Vuoi usare l'app solo in Norvegia?",
+                "notes": ""
+            },
+            "YES_NORWAY": {
+                "translation": "Si, solo in Norvegia.",
+                "notes": ""
+            }
+        },
+        "CHOOSE_INTEREST": {
+            "translation": "Scegli la tua area d'interesse",
+            "notes": ""
+        },
+        "CHOOSE_LANGUAGE": {
+            "ENGLISH": {
+                "translation": "Inglese",
+                "notes": ""
+            },
+            "ENGLISH_SECONDARY_LANGUAGE": {
+                "translation": "Inglese",
+                "notes": ""
+            },
+            "HEADER": {
+                "translation": "Scegli lingua",
+                "notes": ""
+            },
+            "HEADER_SECONDARY_LANGUAGE": {
+                "translation": "Scegli lingua",
+                "notes": ""
+            },
+            "NORWEGIAN": {
+                "translation": "Norvegiese",
+                "notes": ""
+            },
+            "NORWEGIAN_SECONDARY_LANGUAGE": {
+                "translation": "Norvegiese",
+                "notes": ""
+            }
+        },
+        "COMPETENCE_PAGE": {
+            "HEADER": {
+                "translation": "Utilizza Regobs con saggiezza!",
+                "notes": ""
+            },
+            "LINE_1": {
+                "translation": "Oltre ad utilizzare le informazioni nell'app, proprio giudizio deve essere usato. Le osservazioni devono essere viste in luce della competenza dell osservatore, marcata con stelle accanto al suo nome.",
+                "notes": ""
+            }
+        },
+        "I_UNDERSTAND": {
+            "translation": "Ok, ho capito!",
+            "notes": ""
+        },
+        "PAGE_1": {
+            "HEADER": {
+                "translation": "Progetta uscite sicure!",
+                "notes": ""
+            },
+            "LINE_1": {
+                "translation": "Osserva le osservazioni e avvertenze quando pianifichi la tua uscita.",
+                "notes": ""
+            }
+        },
+        "PAGE_2": {
+            "HEADER": {
+                "translation": "Leggi in terreno meglio!",
+                "notes": ""
+            },
+            "LINE_1": {
+                "translation": "Vedi dove sei in relazione alle zone di pericolo nel terreno. Usa mappe supportive adattate ai pericoli in questione.",
+                "notes": ""
+            }
+        },
+        "PAGE_3": {
+            "BUTTON_TEXT": {
+                "translation": "Nuova osservazione",
+                "notes": ""
+            },
+            "HEADER": {
+                "translation": "Condividi quello che hai visto con altri!",
+                "notes": ""
+            },
+            "LINE_1": {
+                "translation": "Condividi le tue osservazioni e immagini con altri!",
+                "notes": ""
+            }
+        },
+        "PAGE_4": {
+            "HEADER": {
+                "translation": "Come e dove?",
+                "notes": ""
+            },
+            "LINE_1": {
+                "translation": "Scegli cosa vedere e condividere su Regobs. Tu puoi leggere come condividere osservazioni su varsom.no/snøskredskolen and varsom.no/isskolen",
+                "notes": ""
+            }
+        },
+        "SKIP_START": {
+            "translation": "ignorare",
+            "notes": ""
+        }
+    },
+    "SUPPORT_MAP": {
+        "ABOUT": {
+            "translation": "Sulle mappe",
+            "notes": ""
+        },
+        "CAUTION_AREA": {
+            "translation": "Zona di pericolo",
+            "notes": ""
+        },
+        "CLAY_DANGER_ZONE": {
+            "translation": "Zona di pericolo di argilla",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_1": {
+            "translation": "Punto di argilla rapida (SVV)",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_2": {
+            "translation": "Zona di argilla rapida (SVV)",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_3": {
+            "translation": "Tessera di mappa pienamente o partialmente mappata",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_4": {
+            "translation": "Confine marino",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_5": {
+            "translation": "Zona sopra il confine marino",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_6": {
+            "translation": "Zona sotto il confine marino",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_7": {
+            "translation": "Nessuno / basso impatto marino.",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_8": {
+            "translation": "Zona di scarico",
+            "notes": ""
+        },
+        "CLAY_LEGEND_TEXT_9": {
+            "translation": "Potenziale pericolo di valanga",
+            "notes": ""
+        },
+        "CLAY_ZONES_MAP_DESCRIPTION": {
+            "translation": "Zone di argilla",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_1": {
+            "translation": "Attuale",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_10": {
+            "translation": "Alluivione a 200 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_11": {
+            "translation": "Alluivione a 500 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_12": {
+            "translation": "Alluivione a 1000 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_13": {
+            "translation": "Alluivione a 200 anni (clima)",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_2": {
+            "translation": "In revisione",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_3": {
+            "translation": "Registrato",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_4": {
+            "translation": "In progettazione",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_5": {
+            "translation": "Alluivione a 10 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_6": {
+            "translation": "Alluivione a 10 anni di fiume e lago",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_7": {
+            "translation": "Alluivione a 20 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_8": {
+            "translation": "Alluivione a 50 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_9": {
+            "translation": "Alluivione a 100 anni",
+            "notes": ""
+        },
+        "FLOOD_LEGEND_TEXT_YEAR": {
+            "translation": "Tempo di inondazione",
+            "notes": ""
+        },
+        "FLOOD_ZONES_MAP_DESCRIPTION": {
+            "translation": "Zone di alluvione",
+            "notes": ""
+        },
+        "HIGH": {
+            "translation": "Alta",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_1": {
+            "translation": "Ghiaccio rotta lungo la costa",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_2": {
+            "translation": "Ghiaccio debolito in modo significativo",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_3": {
+            "translation": "Condizioni di ghiaccio spesso pericolose",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_4": {
+            "translation": "Ghiaccio debolito",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_5": {
+            "translation": "Canale",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_6": {
+            "translation": "Tubazione",
+            "notes": ""
+        },
+        "ICE_LEGEND_TEXT_7": {
+            "translation": "Tunnel di centrale elettrica",
+            "notes": ""
+        },
+        "ICE_MAP_DESCRIPTION": {
+            "translation": "La mappa di supporto mostra parti di corsi d'acqua che sono inprevedibili nel corso dell'inverno per colpa di regolamento per generazione di elettricità",
+            "notes": ""
+        },
+        "INFO_PAGE": {
+            "translation": "<h1>About maps with steepness and runout zones Sulle mappe con pendenza e zone di deposito</h1>\nLe mappe sono prodotte automaticamente e possono contenere errori. Ci puo essere terreno ripido che non è rappresentato nell modello topografico a per cui non è presente nella mappa. È possibile che alcune valange hanno una zona di diposito più grande di quello indicato nella mappa.\n\n <h2>Quali considerazioni da fare?</h2>\nAdatta il rischio che prendi con la scielta di dove, quando e come uscire nelle montagne. Varsom Regobs è un strumento di pianificazione e i dati presentati possono essere differenti dalla situazione nel campo. Sempre fare la propria evaluazione.\n\n\n<h2>Quando è sicuro?</h2>\nEscursioni in terreno dove valanghe sono possibili con neve presente involge sempre un rischio.\nC'è sempre un rischio presente in escursioni in in terreno dove valanghe sono una possibilità quando è ricoperta di neve.\n\n<h2>Per sapere di più</h2>\nSi consiglia di prendere un corso valanghe e visitare Snøskredskolen su Varsom.no.",
+            "notes": ""
+        },
+        "LOW": {
+            "translation": "Basso",
+            "notes": ""
+        },
+        "MARITINE_BORDER": {
+            "translation": "Confine marino",
+            "notes": ""
+        },
+        "MIDDLE": {
+            "translation": "Medio",
+            "notes": ""
+        },
+        "NO_OPACITY": {
+            "translation": "Solido",
+            "notes": ""
+        },
+        "READ_MORE": {
+            "translation": "Per sapere di più sulle mappe",
+            "notes": ""
+        },
+        "STEEPNESS_COLOR_INFO": {
+            "translation": "I colori indicano l'inclinazione del terreno",
+            "notes": ""
+        },
+        "STEEPNESS_MAP_DESCRIPTION": {
+            "translation": "Mappa con colorazione di inclinazione",
+            "notes": ""
+        },
+        "STEEPNESS_MAP_DISCLAMER": {
+            "translation": "La mappa è generata la computer e può contenere errori. Terreno ripido non incidata sulla mappa può essere presente. La mappa è un stumento per pianeggamento, e deve essere usato con occhio critico.",
+            "notes": ""
+        },
+        "STEEPNESS_OUTLET_LEGEND_TEXT_1": {
+            "translation": "Zone di deposito corte (50% di valanghe correranno più lungo)",
+            "notes": ""
+        },
+        "STEEPNESS_OUTLET_LEGEND_TEXT_2": {
+            "translation": "Zone di deposito medie (25% di valanghe correranno più lungo)",
+            "notes": ""
+        },
+        "STEEPNESS_OUTLET_LEGEND_TEXT_3": {
+            "translation": "Zone di deposito lunghe (5% di valanghe correranno più lungo). Valanghe con una zona di deposito ancora più lunga di che è indicato nella mappa sono possibili.",
+            "notes": ""
+        },
+        "STEEPNESS_OUTLET_MAP_DESCRIPTION": {
+            "translation": "Mappa con colorazione di inclinazione e zone di deposito",
+            "notes": ""
+        },
+        "STEEPNESS_OUTLET_MAP_DISCLAMER": {
+            "translation": "La mappa è generata la computer e può contenere errori. Terreno ripido o zone di deposito non incidata sulla mappa può essere presente. La mappa è un stumento per pianeggamento, e deve essere usato con occhio critico.",
+            "notes": ""
+        },
+        "WEAKENED_ICE_MAP_DESCRIPTION": {
+            "translation": "Ghiaccio debole",
+            "notes": ""
+        }
+    },
+    "TABS": {
+        "LIST": {
+            "translation": "Lista",
+            "notes": ""
+        },
+        "MAP": {
+            "translation": "Mappa",
+            "notes": ""
+        },
+        "TRIPS": {
+            "translation": "Escursioni",
+            "notes": ""
+        },
+        "WARNINGS": {
+            "translation": "Avvertenze",
+            "notes": ""
+        }
+    },
+    "TRIP_LOG": {
+        "COMPLETE": {
+            "translation": "Completo",
+            "notes": ""
+        },
+        "CONTINUE": {
+            "translation": "Continua",
+            "notes": ""
+        },
+        "NOT_STARTED": {
+            "translation": "Nuova uscita",
+            "notes": ""
+        },
+        "PAUSED": {
+            "translation": "Pausa uscita",
+            "notes": ""
+        },
+        "RUNNING": {
+            "translation": "Traccia GPS in corso",
+            "notes": ""
+        },
+        "START": {
+            "translation": "Avvia",
+            "notes": ""
+        },
+        "STOP": {
+            "translation": "Ferma",
+            "notes": ""
+        },
+        "STOPPED": {
+            "translation": "Uscita fermata e completa",
+            "notes": ""
+        }
+    },
+    "TRIP": {
+        "COMMENT_DESCRIPTION": {
+            "translation": "Descrivi la tua escursione, obiettivi di osservazione ecc.",
+            "notes": ""
+        },
+        "END_ERROR": {
+            "translation": "Sosta escursione non possibile. Prega riprovare in due minuti. La escurzione sarà sostata automaticamente a mezzanotte.",
+            "notes": ""
+        },
+        "ERROR": {
+            "translation": "Avvio escursione non possibile. Prega riprovare.",
+            "notes": ""
+        },
+        "ERROR_POSITION": {
+            "translation": "Avvio escursione non è possibile senza posizione GPS.",
+            "notes": ""
+        },
+        "LEGACY_HELP_TEXT": {
+            "translation": "Puoi usare questa forma per communicare che hai pianeggiato una escursione oggi.\n\nÈ utile per i previsori a sapere se possono aspettare osservazioni oggi. È anche utile sapere che forma di osservazioni possona aspettare (cosa cerchi, dove vai) e quando credi di subire le osservazioni a Regobs.\n\nTutti gli osservatori pagati devono registrare che tipo di uscita osservatoria faranno: è una uscita ordinaria pagata, o è una registrazione supplementare. Registrazioni supplementari sono le registrazioni che fai durante il corso di altro lavoro o tempo libero.",
+            "notes": ""
+        },
+        "ONGOING_TRIP": {
+            "translation": "Uscita in corso",
+            "notes": ""
+        },
+        "START_TRIP": {
+            "translation": "Inizia uscita",
+            "notes": ""
+        },
+        "STARTED": {
+            "translation": "Uscita iniziata",
+            "notes": ""
+        },
+        "STOP_TRIP": {
+            "translation": "Ferma uscita",
+            "notes": ""
+        },
+        "STOPPED": {
+            "translation": "Uscita fermata",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Uscite",
+            "notes": ""
+        },
+        "TRIP": {
+            "translation": "Uscita",
+            "notes": ""
+        },
+        "TRIP_END_DESCRIPTION": {
+            "translation": "Osservazioni aspettate prima di",
+            "notes": ""
+        },
+        "TRIP_TYPE": {
+            "translation": "Tipo di uscita",
+            "notes": ""
+        }
+    },
+    "VALIDATION": {
+        "AND": {
+            "translation": "e",
+            "notes": ""
+        },
+        "BETWEEN": {
+            "translation": "tra",
+            "notes": ""
+        },
+        "CHARACTERS": {
+            "translation": "caratteri",
+            "notes": ""
+        },
+        "INTEGER": {
+            "translation": "cifre intere",
+            "notes": ""
+        },
+        "MAX": {
+            "translation": "meno di",
+            "notes": ""
+        },
+        "MIN": {
+            "translation": "almeno",
+            "notes": ""
+        },
+        "MUST_BE": {
+            "translation": "deve essere",
+            "notes": ""
+        }
+    },
+    "WARNING_LIST": {
+        "A_REGIONS": {
+            "translation": "A - Regioni",
+            "notes": ""
+        },
+        "ADDED_TO_FAVOURITES": {
+            "translation": "aggiunto ai preferiti",
+            "notes": ""
+        },
+        "ALL": {
+            "translation": "Tutti",
+            "notes": ""
+        },
+        "ALL_WARNINGS": {
+            "translation": "Tutte le previsioni",
+            "notes": ""
+        },
+        "B_REGIONS": {
+            "translation": "B- Regioni",
+            "notes": ""
+        },
+        "B_REGIONS_SUBTITLE": {
+            "translation": "Bollettino solo su livello pericolo 4 o 5",
+            "notes": ""
+        },
+        "FAVOURITES": {
+            "translation": "Preferiti",
+            "notes": ""
+        },
+        "IN_MAP_CENTER": {
+            "translation": "Nel centro della mappa",
+            "notes": ""
+        },
+        "IN_MAP_VIEW": {
+            "translation": "Nella parte della mappa mostrata",
+            "notes": ""
+        },
+        "MAIN_REGIONS": {
+            "translation": "Regioni principali",
+            "notes": ""
+        },
+        "NO_FAVOURITES": {
+            "translation": "Scegli i tuoi preferiti",
+            "notes": ""
+        },
+        "NO_FAVOURITES_TEXT": {
+            "translation": "Sfiora la previsione a sinistra per salvarlo qui come preferito",
+            "notes": ""
+        },
+        "NO_WARNINGS": {
+            "translation": "Nessuni previsioni",
+            "notes": ""
+        },
+        "NO_WARNINGS_TEXT": {
+            "translation": "Non c'è un previsione per la zona dove sei. Quando c'ê un previsione verrà mostrato qua.",
+            "notes": ""
+        },
+        "OTHER_RELEVANT": {
+            "translation": "Altri rilevanti",
+            "notes": ""
+        },
+        "RELEVANT": {
+            "translation": "Rilevanti",
+            "notes": ""
+        },
+        "REMOVED_FROM_FAVOURITES": {
+            "translation": "rimosso dai preferiti",
+            "notes": ""
+        },
+        "TITLE": {
+            "translation": "Previsioni",
+            "notes": ""
+        },
+        "TITLE_ICE": {
+            "translation": "Previsione ghiaccio",
+            "notes": ""
+        },
+        "TITLE_SNOW": {
+            "translation": "Bolletino valanghe",
+            "notes": ""
+        },
+        "TITLE_WATER": {
+            "translation": "previsione idrometeorologica",
+            "notes": ""
+        },
+        "VALID_FROM": {
+            "translation": "Valido da",
+            "notes": ""
+        }
     }
-  },
-  "DIALOGS": {
-    "ARE_YOU_SURE": "Sei sicuro?",
-    "CANCEL": "Annulla",
-    "COMMENT": "Commento",
-    "CONFIRM": "Conferma",
-    "DELETE": "Eliminare",
-    "NEXT": "Prossimo",
-    "NO": "No",
-    "OF": "Di",
-    "OK": "Ok",
-    "OK_BACK": "Ok, ritorna al riepilogo",
-    "PREVIOUS": "Precedente",
-    "RESET": "Reset",
-    "YES": "Si"
-  },
-  "DIRECTION": {
-    "E": "E",
-    "N": "N",
-    "NE": "NE",
-    "NW": "NO",
-    "S": "S",
-    "SE": "SE",
-    "SW": "SO",
-    "W": "O"
-  },
-  "GEO_HAZARDS": {
-    "DIRT": "Suolo",
-    "ICE": "Ghiaccio",
-    "SNOW": "Neve",
-    "WATER": "Acqua"
-  },
-  "GEOLOCATION_SERVICE": {
-    "NOTIFICATION_TITLE": "Registrando percorso"
-  },
-  "HELP": {
-    "TITLE": "Aiuto"
-  },
-  "LEGAL_TERMS": {
-    "HEADER": "Informazioni sui dati in Varsom Regobs",
-    "LINE_1": "Usa gli avvisi, dati e mappe sul tuo rischio. Errori e omissioni sono possibili.",
-    "LINE_2": "Il bollettino è un stumento di pianificazione e può essere diverso dalla situazione incontrata in campo. Una propria evaluazione deve sempre essere fatta. Condizione possono essere complesse e differenti da che è indicata nel bollettino.",
-    "LINE_3": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non fa garanzie contro errori o emissioni nei dati.",
-    "OK": "Ok, accetto.",
-    "TERMS": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non prende responsibilità per dati che sono incorrette o fourvianti. Il numero di stelle accanto al nickname (1-5) indica il livello di competenza della persona che ha provvisto l'osservazione. Se non ci sono stelle, il livello di competenza e basso non è conosciuto."
-  },
-  "LOGIN": {
-    "CHANGE_PASSWORD": "Cambia password",
-    "CREATE_USER": "Crea utente",
-    "EMAIL": "Email",
-    "FORGOT_PASSWORD": "Dimenticato password",
-    "IS_LOGGING_IN": "Effettuare il login",
-    "LOGGED_IN_AS": "Collegato come",
-    "LOGIN": "Login",
-    "LOGOUT": "Logout",
-    "MY_PROFILE": "Il mio profilo",
-    "PASSWORD": "Password",
-    "SERVICE_UNAVAILABLE": "Errore di connessione. Hai copertura cellulare? Attendere alcuni minuti e riprova.",
-    "TITLE": "Login",
-    "UNAUTHORIZED": "Username o password errati. Riprova.",
-    "UNKNOWN_ERROR": "Errore nel processo login. Messaggio dal server:"
-  },
-  "MAP_CENTER_INFO": {
-    "ABOVE_SEA_LEVEL": "quota",
-    "COPIED_TO_CLIPBOARD": "Copiato negli appunti",
-    "EAST_SHORT": "E",
-    "NORTH_SHORT": "N"
-  },
-  "MAP_ITEM_BAR": {
-    "AWAY": "Di distanza",
-    "OBSERVATION": "Osservazione"
-  },
-  "MAP_SEARCH": {
-    "SEARCH_HISTORY_HEADER": "Ultime ricerche",
-    "SEARCH_TEXT": "Cerca posizione"
-  },
-  "MENU": {
-    "ABOUT_REGOBS": "Sui dati in Regobs",
-    "AND": "e",
-    "CONTACT_REGOBS": "Contattaci",
-    "CONTACT_REGOBS_ERROR": "Segnala Errore",
-    "CONTACT_SUBJECT": "Contattaci dall'app",
-    "DAYS_BACK": "Giorni fa",
-    "ERROR_REPORT_DESCRIPTION": "La preghiamo di Descrivere il problema qua sotto. Allega un screenshot se ce l'ha.",
-    "ERROR_REPORT_SUBJECT": "Rapproto errori da",
-    "GENERAL": "Generale",
-    "HIDE_OBSERVATIONS": "Nascondere osservazioni",
-    "LAST_UPDATED": "Ultimo aggiorno",
-    "MAP": "Mappa",
-    "MAP_LEGENDS": "Leggenda della mappa",
-    "MAP_SETTINGS": "Impostazioni della mappa",
-    "MAP_SETTINGS_FOR": "Impostazioni della mappa per",
-    "OPACITY": "Transparenza",
-    "OTHER": "Altro",
-    "SHOW": "Mostra",
-    "SHOW_MAP_CENTER": "Mostra is centro della mappa",
-    "SHOW_OBSERVATIONS": "Mostra osservazioni",
-    "SHOW_TRIPS": "Mostra uscite",
-    "START_WIZARD": "Avvio guidata rapida",
-    "SUPPORT_MAP_CREDITS": "Mappe di supporto fornite da",
-    "TILES": {
-      "ARC_GIS": "ESRI World Topo (mondo)",
-      "GEODATA_LANDSKAP": "Geodata Topo (Norvegia)",
-      "KARTVERKET": "Kartverket (Norvegia)",
-      "OPEN_TOPO": "OpenTopoMap (mondo)"
-    },
-    "TIME_FRAME": "Periodo di tempo",
-    "TODAYS_OBSERVATIONS": "Solo oggi",
-    "TOPO_MAP_CREDITS": "Mappe topografiche fornite da",
-    "UPDATE_OBSERVATIONS": "Aggiornato",
-    "USER_SETTINGS": "Utente",
-    "WEEKS_BACK": "Settimane fa"
-  },
-  "MONTHS": {
-    "SHORT_LIST": "Gen, Feb, Mar, Apr, Mag, Giu, Lug, Ago, Set, Ott, Nov, Dic"
-  },
-  "MY_OBSERVATIONS": {
-    "LOADING_MORE": "Carica più osservazioni...",
-    "MY_SENT_OBSERVATIONS": "Le mie osservazioni",
-    "NO_OBSERVATIONS": "Condividi le tuoi osservazioni!",
-    "NO_OBSERVATIONS_TEXT": "Le tue osservazioni appariranno qui.  Condividi le tue osservazioni, immagini, e valutazioni con altri sportivi usando Varsom Regobs.",
-    "SENT_SUBTITLE": "Queste osservazioni sono inviate e archiviate in Regobs.",
-    "TITLE": "Le mie osservazioni"
-  },
-  "OBSERVATION_LIST": {
-    "ALL_OBSERVATIONS": "Tutte le osservazioni",
-    "FORMS": "Moduli",
-    "GO_TO_OBSERVATION": "Vai all'osservazione",
-    "IN_MAP_VIEW": "Vedi osservazioni nella mappa",
-    "NO_OBSERVATIONS": "Nessune osservazioni",
-    "NO_OBSERVATIONS_TEXT": "Non vi sono osservazioni in questa sezione di mappa. Prova a cambiare sezione o aumentare il periodo di tempo usato per ricercare osservazioni.",
-    "OBSERVATIONS": "Osservazioni"
-  },
-  "OFFLINE_MAP": {
-    "TITLE": "Mappa offline"
-  },
-  "PERMISSION": {
-    "LOCATION_DENIED_HEADER": "Autorizzazione a locazione rifiutata",
-    "LOCATION_DENIED_MESSAGE": "Non è possibile mostrare la posizione nella mappa senza autorizzazione."
-  },
-  "POPUP_DISCLAMER": {
-    "ABOUT_OBSERVATIONS": {
-      "HEADER": "Inormazioni sulle osservazioni.",
-      "MESSAGE": "Dati su Regobs sono prodotti dagli utenti ed e sono disponibili come sono. Errori ed emissioni sono possibili. NVE non fa garanzie contro errori o emissioni nei dati. Considera le osservazioni in luce della competeza dell'osservatore, come mostrato dalle stelle accanto al nome."
-    },
-    "ABOUT_SUPPORT_MAPS": {
-      "HEADER": "Sulle mappe",
-      "MESSAGE": "Uso delle mappe è a proprio rischio, e propria evaluazione deve essere fatta. Le mappe possono contenere errori o emissioni."
-    },
-    "OK_I_UNDERSTAND": "OK, ho capito."
-  },
-  "REGISTRATION": {
-    "ADD_IMAGES": "Agguingi immagini",
-    "ADD_WEB_URL": {
-      "TITLE": "Aggiungi Url",
-      "URL": "Url"
-    },
-    "BACK_TO_OBSERVATION": "Torna all'osservazione",
-    "CONFIRM_RESET": "Sei sicuro che vuoi reimpostare tutti i campi?",
-    "DANGER_OBS": {
-      "AREA": "Area",
-      "COMMENT": "Commento",
-      "COMMENT_PLACEHOLDER": "Ulteriori informazioni sui segni di preicolo",
-      "DESCRIPTION": "Descrizione",
-      "FOR_MUNICIPAL": "Per il municipio",
-      "FOR_REGION": "Regione",
-      "GENERAL_ON_MOUNTAIN": "Generalmente in montagna",
-      "IN_THE_VALLEY_OR_FJORD": "Nella valle/nel fiordo",
-      "MANY_WATER_NEARBY": "Tanti laghi vicini",
-      "NEW_DANGER_OBS": "Nouvo segno di pericolo",
-      "NO_DAMAGE_SIGN": "Nessuni segni di pericolo",
-      "ON_THIS_MOUNTAIN_SIDE": "Su questa versante",
-      "ON_THIS_PLACE": "Qui",
-      "ON_THIS_SIDE_OF_THE_WATER": "Al di qua del lago",
-      "ON_THIS_WATER": "Su questo lago",
-      "RIGHT_HERE": "Qua",
-      "TITLE": "Segno di pericolo"
-    },
-    "DELETE": "Elimina osservazione",
-    "DELETE_CONFIRM": "Sei sicuro?",
-    "DIRT": {
-      "LAND_SLIDE_OBS": {
-        "AVAL_TRIGGER": "Causa della frana",
-        "DAMAGE_EXTENT": "Estensioni di danni",
-        "DESTRUCTIVE_SIZE": "Estensione",
-        "DIRT_ACTIVITY_INFLUENCED": "Cosa è colpita?",
-        "DIRT_FORECAST_ACCURATE": "Era corretto il bollettino?",
-        "DT_LAND_SLIDE_TIME": "Quando è cominciata la frana?",
-        "DT_LAND_SLIDE_TIME_END": "Quando è finita la frana?",
-        "END_POSITION": "Posizione finale",
-        "IN_MAP": "nella mappa",
-        "LANDSLIDE_TYPE": "Tipo di frana",
-        "POSITION": "Posizione della frana",
-        "SET_LANDSLIDE_POSITION": "Indica la posizione della frana",
-        "START_POSITION": "Posizione iniziale",
-        "TITLE": "Incidento di frana"
-      }
-    },
-    "DRAFTS": "Le mie bozze",
-    "DRAFTS_DESCRIPTION": "Queste osservazioni sono in processo e non sono inviate.",
-    "EMAIL": {
-      "BODY": "Ciao! Io ho problemi inviare questa registrazione. Potete aiutarmi?",
-      "SUBJECT": "Registrazione fallita."
-    },
-    "FAILED": {
-      "EDIT_OBSERVATION": "Modifica osservazione",
-      "LOGGED": "Il promema è registrato.",
-      "PROBLEM": "C'è stato un problema con la registrazione.",
-      "PROBLEM_HELP_TEXT": "Osserzazioni con problemi di registrazione sono memorizzate nel telefono, e quando il problema è risolto puoi inviarle di nuovo.",
-      "REFERENCE": "Referenza",
-      "SEND_EMAIL": "Inviaci per E-Mail.",
-      "SUBTITLE": "Errore di rete o timeout. Riproviamo in un'attimo e speriamo che la rete sia migliore.",
-      "TITLE": "Registrazione fallita."
-    },
-    "GENERAL_COMMENT": {
-      "ADD_NOTES_HEADER": "Note per l'osservazione",
-      "ADD_PICTURE": "Aggiungi un'immagine",
-      "CHOOSE_FROM_LIBRARY": "Scelghi dalla libreria di immagini",
-      "COMMENT_PLACEHOLDER": "Poui descrivere di più qua",
-      "COMMENT_TITLE": "Descrizione",
-      "DESCRIPTION": "Puoi caricare immagini dell'area osservata o di altre pertinente cose.",
-      "SUBTITLE": "Immagini della osservazione",
-      "TAKE_NEW_PHOTO": "Preni una nuova foto",
-      "TITLE": "Note"
-    },
-    "GROUP": {
-      "SUBTITLE": "Condivide osservazione con",
-      "TITLE": "Condividere con gruppo"
-    },
-    "ICE": {
-      "ICE_COVER": {
-        "ICE_CAPACITY": "Resistenza meccanica",
-        "ICE_COVER": "Copertura di ghiaccio",
-        "ICE_COVER_BEFORE": "Copertura di ghiaccio prima della osservazione",
-        "ICE_SKATEABILITY": "Pattinabilità",
-        "TITLE": "Copertura di ghiaccio"
-      },
-      "ICE_THICKNESS": {
-        "ADD_ICE_LAYER": "Aggiungi strato ghiaccio",
-        "ADD_ICE_LAYER_TITLE": "Altezza dello strato di ghiaccio",
-        "DRY_SNOW_BEFORE_DRILL": "Neve prima di forare (cm)",
-        "ICE_HEIGHT_AFTER_INPUT": "Altezza di acqua superficiale",
-        "ICE_HEIGHT_AFTER_NO": "Altezza dalla superficie glaciale all'acqua nel foro",
-        "ICE_HEIGHT_AFTER_TOGGLE": "Altezza dell'acqua superficiale dopo foratura",
-        "ICE_HEIGHT_BEFORE_INPUT": "Altezza dell'acqua superficiale",
-        "ICE_HEIGHT_BEFORE_TOGGLE": "Altezza dell'acqua superficiale prima di forare",
-        "ICE_LAYER": "Strato ghiaccio",
-        "ICE_LAYER_THICKNESS": "Altezza strato di ghiaccio (cm)",
-        "ICE_THICKNESS_SUM": "Altezza totale di ghiaccio (cm)",
-        "ICE_TYPE": "Tipo di ghiaccio",
-        "SLUSH_SNOW_BEFORE_DRILL": "Neve bagniata prima di forare (cm)",
-        "TITLE": "Altezza di ghiaccio"
-      }
-    },
-    "IMAGE_DESCRIPTION": "Descrizione dell'imagine",
-    "IMAGE_DESCRIPTION_PLACEHOLDER": "Aggiungi una descrizione all'immagine",
-    "IMAGES": "Immagini",
-    "IN_CM": "In centimetri",
-    "IN_FULL_CM": "In centimetri senza cifre decimali",
-    "INCIDENT": {
-      "ACTIVITY": "Attività",
-      "COMMENT": "Commento",
-      "COMMENT_PLACEHOLDER": "Perché e successo? È tutto bene? Potrebbe essere evitato?",
-      "DAMAGE_EXTENT": "Estensioni di danni",
-      "IMAGE_PLACEHOLDER": "+ Aggiungi una descrizione dell'immagine",
-      "TITLE": "Incidente"
-    },
-    "INVALID_IMAGE": "Questa immagine è  invalia.",
-    "NONE": "Nessuno selettato",
-    "OBS_LOCATION": {
-      "CONFIRM_TEXT": "Conferma locazione",
-      "CURRENT_LOCATION": "Locazione attuale",
-      "HIDE_DETAILS": "Nascondi dettagli",
-      "SHOW_DETAILS": "Mostra dettagli",
-      "TITLE": "Locazione della osservazione"
-    },
-    "OVERVIEW": {
-      "DATE_AND_TIME": "Data e ora",
-      "MY_OBSERVATION": "La mia osservazione",
-      "SHARE_WITH_GROUP": "Condividere con gruppo",
-      "TITLE": "Osservazione"
-    },
-    "REQUIRED_FIELDS_MISSING": "Ci sono campi invalide. Voui resettare la forma e andare indietro?",
-    "RESEND": "Prova a inviare di nuovo",
-    "RESET": "Resetta",
-    "SAVE_ALERT": {
-      "HEADER": "Salva come bozza?",
-      "MESSAGE": "Stai uscieno dalla registrazione senza inviare. Voui salvare come bozza?",
-      "NO": "No, scarta.",
-      "YES": "Si, salva"
-    },
-    "SAVED_DESCRIPTION": "Questi venno sincronizzati quendo hai rete.",
-    "SAVED_ON_PHONE": "Salvati sul telefono.",
-    "SEND": "Invia",
-    "SET_DAMAGE_LOCATION": {
-      "CONFIRM_TEXT": "Conferma locazione di danni",
-      "TITLE": "Locazione di danni"
-    },
-    "SET_TIME": {
-      "CONFIRM": "Conferma data e ora",
-      "HEADER": "Che tempo hai osservato?",
-      "NOW": "Adesso",
-      "TITLE": "Ora"
-    },
-    "SNOW": {
-      "AVALANCHE_ACTIVITY": {
-        "ADD_NEW": "Aggiungi nuova attività valanghiva",
-        "COMMENT_PLACEHOLDER": "Ulteriori commenti",
-        "DATE_WARNING": "Data è differente dalla data dell'osservazione",
-        "DURING_THE_DAY": "Durante la giornata",
-        "ESTIMATED_TIME": "Periodo di tempo estimato",
-        "HOW_MANY_AVALANCHES": "Numero di valanghe",
-        "NO_AVALANCHE_ACTIVITY": "Nessuna attivita valanghiva osservata",
-        "TITLE": "Attivitá valanghiva",
-        "UNKNOWN_NUMBER": "Numero non conosciuto"
-      },
-      "AVALANCHE_EVALUATION": {
-        "AVALANCHE_DANGER": "Pericolo valanghivo",
-        "AVALANCHE_DEVELOPMENT": "Sviluppo",
-        "AVALANCHE_DEVEOPMENT_PLACEHOLDER": "sviluppo del pericolo valanghivo",
-        "COMMENT": "Commento sul bollettino",
-        "EVALUATION": "Evaluazione del pericolo",
-        "EVALUATION_PLACEHOLDER": "Evaluazione del pericolo valanghivo",
-        "FORECAST_CORRECT": "Evaluazione del bollettino su varsom.no",
-        "TITLE": "Evaluazione del pericolo valanghivo"
-      },
-      "AVALANCHE_OBS": {
-        "AVAL_CAUSE": "Strato debole",
-        "AVALANCHE_TRIGGER": "Sensitività",
-        "AVALANCHE_TYPE": "Tipo di valanga",
-        "DESTRUCTIVE_SIZE": "Dimensioni",
-        "FRACTURE_HEIGTH": "Spessore (cm)",
-        "FRACTURE_WIDTH": "Larghezza",
-        "INCIDENT_DESCRIPTION": "Incidente o lesione",
-        "INCIDENT_PLACEHOLDER": "Ci sono stati danni, incidenti o uno scampato pericolo causata dalla valanga? Come e perchè e successo? Era evitabile?",
-        "POSITION": "Posizione della valanga",
-        "SET_AVALANCHE_POSITION": "Indica la posizione della valaga",
-        "TERRAIN_START_ZONE": "Tipo di terreno nella zona di distacco",
-        "TIME": "Data e ora del distacco (richiesto)",
-        "TITLE": "Incidente valanghivo",
-        "TRAJECTORY_NAME": "Traiettoria valanghiva",
-        "VALID_EXPOSITION": "Esposizione"
-      },
-      "AVALANCHE_PROBLEM": {
-        "ADD_NEW": "Aggiungi un nouvo situzione tipica",
-        "ALL": "Tutti",
-        "AVAL_PROBABILITY": "Probabilità di distacco",
-        "AVALANCHE_DESTRUCTIVE_SIZE": "Dimensione aspettata",
-        "AVALANCHE_PROBABILITY": "La possibilitá di valanghe",
-        "AVALANCHE_PROPAGATION_HEADER": "Distribuzione spaziale della situazione tipica",
-        "AVALANCHE_TRIGGER_PROBABILITY": "Sensibilità a distacco",
-        "AVALANCHE_TYPE": "Tipo di valanga",
-        "BOTTOM": "fondo",
-        "EXPOSED_HEIGHT_COMBO": "Quota",
-        "EXPOSED_HEIGHT1": "Quota",
-        "EXPOSED_HEIGHT2": "Quota inferiore",
-        "MIDDLE": "Intermedio",
-        "NO_WEAK_LAYERS": "Non ci sono strati deboli",
-        "PROPAGATION": "Distribuzione spaziale",
-        "TITLE": "Situazione tipica",
-        "TOP": "Superiore",
-        "UNKNOWN_TYPE": "Strato debole non conosciuto",
-        "VALID_EXPOSITION": "Esposizione",
-        "WEAK_LAYER": "Strato debole",
-        "WEAK_LAYER_DEPTH": "Profondità dello strato debole"
-      },
-      "COMPRESSION_TEST": {
-        "ADD_NEW": "Aggiungi un nuovo test",
-        "DISTANCE_FROM_TOP": "Altezza dalla superficie (cm)",
-        "FRACTURE_TYPE": "Carattere della frattura",
-        "STABILITY_EVAL": "Stabilitá",
-        "TAPS_FRACTURE": "Numero di colpi",
-        "TEST_TYPE": "Tipo di test",
-        "TITLE": "Test di stabilità"
-      },
-      "SNOW_PROFILE": {
-        "COMPRESSION_TEST": {
-          "ATTACHED": "allegato al profilo",
-          "EMPTY": "No",
-          "INCLUDE_IN_SNOW_PROFILE": "Includere nel profilo",
-          "MULTIPLE_TESTS": "Tests",
-          "SINGLE_TEST": "Test",
-          "TITLE": "Tests"
-        },
-        "GENERATING_PREVIEW": "Generando anteprima...",
-        "IS_PROFILE_TO_GROUND": "Il profilo è fino all terreno?",
-        "PREVIEW": "Anteprima",
-        "PREVIEW_ERROR": "Non è possibile gerenare la anteprima",
-        "PREVIEW_ITEM": "Vedi profilo",
-        "SNOW_DENSITY": {
-          "CYLINDER": "Cilindro",
-          "CYLINDER_DIAMETER": "Diameto del cilindro (cm)",
-          "CYLINDER_METHOD": "Usa cilindro",
-          "DENSITY": "Densità (kg/m³)",
-          "EMPTY": "Nessuni profili di densità",
-          "HEIGHT": "Altezza (cm)",
-          "LAYER": "Strati",
-          "METHOD": "Metodo",
-          "MULTIPLE_LAYERS": "Profili di densità",
-          "ONE_LAYER": "Profilo di densità aggiunto",
-          "TARE_WEIGHT": "Peso tara (g)",
-          "TITLE": "Densità",
-          "WATER_EQUIVALENT": "equivalente in acqua della neve",
-          "WEIGHT": "Peso (g)"
-        },
-        "SNOW_PROFILE_HELP_TEXT": "Purtroppo non abbiamo una forma per profili nella versione attuale dell'app Varsom Regobs. Poui caricare un'immagine del profilo eseguito a mano o esportare da un app a terza parte come Ullr Labs Avalanche. Su regobs.no puoi aggiornare l'informazione sul profilo con con gli strumenti forniti li.",
-        "SNOW_TEMP": {
-          "ADD_LAYER_BOTTOM": "Aggiungi un punto nuovo",
-          "DEPTH": "Altezza dalla superficie (cm)",
-          "EMPTY": "Nessuni valori di temperatura osservati",
-          "MULTIPLE_LAYERS": "Valori di temperature osservate",
-          "ONE_LAYER": "Valore di temperatura osservato",
-          "POINT": "Temperatura",
-          "TEMPERATURE": "Temperatura (°C)",
-          "TITLE": "Profilo di temperatura"
-        },
-        "STRAT_PROFILE": {
-          "ADD_LAYER": "Aggiungi strato",
-          "ADD_LAYER_BOTTOM": "Aggiungi strato in basso",
-          "ADD_LAYER_TOP": "Aggiungi strato in alto",
-          "CRITICAL_LAYER": "strato critico",
-          "EMPTY": "Nessuni strati osservati",
-          "FROM_OTHER_PROFILE": "strato da un'altro profilo",
-          "GRAIN_FORM": "Forma di cristallo",
-          "GRAIN_FROM_SECONDARY": "Forma di cristallo secondare",
-          "HARDNESS": "Durezza",
-          "HARDNESS_BOTTOM": "durezza piu bassa",
-          "LAYER": "Strato",
-          "MAX_GRAIN_SIZE": "Dimensione di cristallo massimo (mm)",
-          "MULTIPLE_LAYERS": "strati",
-          "NO_PROFILES_FOUND": "Nessuti strati da altri profili trovati",
-          "ONE_LAYER": "strato",
-          "OTHER_PROFILE_DESCRIPTION": "Puoi scegliere di copiare i strati da un profilo precedente degli ultimi 14 giorni entro una distanza di 100km",
-          "OTHER_PROFILE_ITEM_TEXT": "Prendi strati da un'altro profilo",
-          "SHOW_LESS": "Nascondi opzioni",
-          "SHOW_MORE": "Mostra più opzioni",
-          "SIZE": "Dimensione dei cristalli (mm)",
-          "THICKNESS": "Spessore",
-          "TITLE": "Strati",
-          "TOTAL_THICKNESS": "Spessore totale",
-          "WETNESS": "Umidità"
-        },
-        "SUBFORMS": "Sottomaschera",
-        "SUPERIOR": "Principale",
-        "TITLE": "Profilo del manto nevoso"
-      },
-      "SNOW_SURFACE": {
-        "COMMENT_HEADER": "Descrivi la superficie dell manto nevoso",
-        "COMMENT_PLACEHOLDER": "Come è la distribuzione generale della neve in relazione di esposizione e quota? Ci sono delle differenze significanti nella regione?",
-        "HEIGHT_LIMIT_LAYERED_SNOW": "Quota più bassa di neve stratificata (m)",
-        "HIGHT_LIMIT_LAYERED_SNOW_PLACEHOLDER": "Per neve senza strati pericolosi",
-        "NEW_SNOW_DEPTH": "Neve fresca 24 ore (cm)",
-        "NEW_SNOW_LINE": "Limite della nevicata (m)",
-        "SNOW_DEPTH": "Altezza manto nevoso (cm)",
-        "SNOW_DRIFT": "Saltazione",
-        "SNOW_LINE": "Limite dell'innevamento",
-        "SNOW_SURFACE": "Superficie del manto nevoso",
-        "SURFACE_WATER_CONTENT_REG": "Umidità della superficie",
-        "TITLE": "Superficie del manto nevoso"
-      },
-      "WEATHER": {
-        "AIR_TEMPERATURE": "Temperatura atmosferica (°C)",
-        "AIR_TEMPERATURE_PLACEHOLDER": "Può essere indicato con due cifre decimali",
-        "CLOUD_COVER": "Copertura nuvolosa (%)",
-        "COMMENT_HEADER": "Descrivi il tempo",
-        "COMMENT_PLACEHOLDER": "Come è stato il tempo le ultime 24 ore? Per esempio: Ha nevicato? Ci sono state variazioni in temperatura? Dove è stato il limito do congielamento?",
-        "FROM_EAST": "E - dall'est",
-        "FROM_NORTH": "N - dal nord",
-        "FROM_NORTH_WEST": "NO - da nordovest",
-        "FROM_NOTRH_EAST": "NE - dal nordest",
-        "FROM_SOUTH": "S - dal sud",
-        "FROM_SOUTH_EAST": "SE - dal sudest",
-        "FROM_SOUTH_WEST": "SO - dal sudovest",
-        "FROM_WEST": "O - dall'ovest",
-        "NOT_GIVEN": "non dato",
-        "ONLY_FULL_PERCENTAGE": "Percenti nenza decimali",
-        "PRECIPITATION": "Precipitazione",
-        "TITLE": "Condizioni meteorologiche",
-        "WIND_DIRECTION": "Direzione del vento",
-        "WIND_SPEED": "Velocità del vento"
-      }
-    },
-    "SUMMARY": "Sintesi",
-    "WATER": {
-      "DAMAGE": {
-        "ADD_DAMAGE_LOCATION": "Aggiungi la locazione di danni",
-        "CAN_YOU_SEE_DAMAGE": "Puoi vedere i danni?",
-        "COMMENT": "Descrizione",
-        "COMMENT_PLACEHOLDER": "Prega descrivere i danni",
-        "IMAGE_OF_DAMAGES": "Immagini dei danni",
-        "TITLE": "Danni",
-        "WHAT_IS_DAMAGED": "Cosa è danneggiato?",
-        "WHERE_IS_DAMAGE_LOCATION": "Dove si trovano i danni?"
-      },
-      "WATER_LEVEL": {
-        "ADD_NEW": "Aggiungi nuovo",
-        "ADD_PICTURE": "Aggiungi un immagine di",
-        "CAN_YOU_SEE_WATER": "C'è dell'acqua deviata?",
-        "DESCRIBE": "Descrivi",
-        "DESCRIBE_HEIGHT": "Descrivi altezza",
-        "DESCRIBE_SITUATION": "Come cescrivesti la situazione?",
-        "DT_REQUIRED_TEXT": "Ora è richiesta!",
-        "HOW_DO_YOU_READ": "Come mesuri il livello dell'acqua?",
-        "MARKED_WITH": "Ho marcato il livello dell'acqua con",
-        "MARKING": "Marca",
-        "MARKING_PLURAL": "Marche",
-        "MARKING_REFERENCE": "Ho marcato il livello d'acqua su",
-        "MEASURE_PLURAL": "Misure",
-        "MEASURING": "Mesura",
-        "MEASURING_TOOL": "Indica l'istrumento di misura qui",
-        "OBSERVATION_TIMING": "Cosa registri?",
-        "REGISTRATION_METHOD": "Come registri?",
-        "RELATIVE": "L'altezza è indicata relativamente a",
-        "TITLE": "Livello dell'acqua",
-        "WATER_LEVEL_METERS": "Livello dell'acqua in metri",
-        "WATER_MARKING": "Marca del livello d'acqua",
-        "WATER_MEASUREMENT": "Misura del livello d'acqua"
-      }
-    }
-  },
-  "SETTINGS": {
-    "ALLOW_ANALYTICS": "Consentire invio di dati di utilizzo dell'app",
-    "ALLOW_ANALYTICS_DESCRIPTION": "Facci sapere come usi l'app per aiutarci a migliorare Varsom Regobs",
-    "ALLOW_ANALYTICS_DESCRIPTION_LINE2": "Le data sono anonimi e non possone essere connette ad un individuo.",
-    "ALLOW_ANALYTICS_HEADER": "Condividi statisiche di uso",
-    "APP_VERSION": "Versione",
-    "APPMODE": "Modo di app",
-    "CONFIRM_RESET": "Sei sicuro che voui fare is reset?",
-    "COUNTRY": "Paese",
-    "DROPDOWNS_FAILED": "Aggiorno dei menu è fallito. Prega controllare impostazioni di rete e riprovare più tardi.",
-    "DROPDOWNS_UPDATED": "Menu aggiornati!",
-    "EMAIL_RECEIPT": "Notifica per E-mail.",
-    "HIDE_ADVANCED": "Nascondi impostazioni avanzate",
-    "LANGUAGE": "Lingua",
-    "NORWAY_ONLY": "Solo in Norvegiese",
-    "NUMBER_OF_TILES_IN_CACHE": "Massimo numero di tessere di mappa nella memoria",
-    "READ_MORE_IN_LICENSE_AGREEMENT": "Puoi leggere di più sul nostro utilizzo di data nella nostra tutela della riservatezza.",
-    "RESET": "Resetta l'app",
-    "RESETTING": "Resettando, prega attendere...",
-    "SHOW_ADVANCED": "Mostra impostazioni avanzate",
-    "SIZE_OF_TILES_CACHE": "Dimensioni delle tessere di mappa salvate su questo apparecchio",
-    "TILES_CACHE_SIZE": "Numero di tessere di mappa salvate su questo apparecchio",
-    "TITLE": "Impostazioni",
-    "UPDATE_DROPDOWNS": "Aggiorna i menu",
-    "USE_IN_WORLD": "Fuori di Norvegia",
-    "USE_RETINA_MAP": "Usa mappe ad alta resoluzione"
-  },
-  "START_WIZARD": {
-    "CHOOSE_COUNTRY": {
-      "HEADER": "Scelgli paese",
-      "NO_NORWAY": "No, anche in altri paesi",
-      "SUBTITLE": "Vuoi usare l'app solo in Norvegia?",
-      "YES_NORWAY": "Si, solo in Norvegia."
-    },
-    "CHOOSE_INTEREST": "Scegli la tua area d'interesse",
-    "CHOOSE_LANGUAGE": {
-      "ENGLISH": "Inglese",
-      "ENGLISH_SECONDARY_LANGUAGE": "Inglese",
-      "HEADER": "Scegli lingua",
-      "HEADER_SECONDARY_LANGUAGE": "Scegli lingua",
-      "NORWEGIAN": "Norvegiese",
-      "NORWEGIAN_SECONDARY_LANGUAGE": "Norvegiese"
-    },
-    "COMPETENCE_PAGE": {
-      "HEADER": "Utilizza Regobs con saggiezza!",
-      "LINE_1": "Oltre ad utilizzare le informazioni nell'app, proprio giudizio deve essere usato. Le osservazioni devono essere viste in luce della competenza dell osservatore, marcata con stelle accanto al suo nome."
-    },
-    "I_UNDERSTAND": "Ok, ho capito!",
-    "PAGE_1": {
-      "HEADER": "Progetta uscite sicure!",
-      "LINE_1": "Osserva le osservazioni e avvertenze quando pianifichi la tua uscita."
-    },
-    "PAGE_2": {
-      "HEADER": "Leggi in terreno meglio!",
-      "LINE_1": "Vedi dove sei in relazione alle zone di pericolo nel terreno. Usa mappe supportive adattate ai pericoli in questione."
-    },
-    "PAGE_3": {
-      "BUTTON_TEXT": "Nuova osservazione",
-      "HEADER": "Condividi quello che hai visto con altri!",
-      "LINE_1": "Condividi le tue osservazioni e immagini con altri!"
-    },
-    "PAGE_4": {
-      "HEADER": "Come e dove?",
-      "LINE_1": "Scegli cosa vedere e condividere su Regobs. Tu puoi leggere come condividere osservazioni su varsom.no/snøskredskolen and varsom.no/isskolen"
-    },
-    "SKIP_START": "ignorare"
-  },
-  "SUPPORT_MAP": {
-    "ABOUT": "Sulle mappe",
-    "CAUTION_AREA": "Zona di pericolo",
-    "CLAY_DANGER_ZONE": "Zona di pericolo di argilla",
-    "CLAY_LEGEND_TEXT_1": "Punto di argilla rapida (SVV)",
-    "CLAY_LEGEND_TEXT_2": "Zona di argilla rapida (SVV)",
-    "CLAY_LEGEND_TEXT_3": "Tessera di mappa pienamente o partialmente mappata",
-    "CLAY_LEGEND_TEXT_4": "Confine marino",
-    "CLAY_LEGEND_TEXT_5": "Zona sopra il confine marino",
-    "CLAY_LEGEND_TEXT_6": "Zona sotto il confine marino",
-    "CLAY_LEGEND_TEXT_7": "Nessuno / basso impatto marino.",
-    "CLAY_LEGEND_TEXT_8": "Zona di scarico",
-    "CLAY_LEGEND_TEXT_9": "Potenziale pericolo di valanga",
-    "CLAY_ZONES_MAP_DESCRIPTION": "Zone di argilla",
-    "FLOOD_LEGEND_TEXT_1": "Attuale",
-    "FLOOD_LEGEND_TEXT_10": "Alluivione a 200 anni",
-    "FLOOD_LEGEND_TEXT_11": "Alluivione a 500 anni",
-    "FLOOD_LEGEND_TEXT_12": "Alluivione a 1000 anni",
-    "FLOOD_LEGEND_TEXT_13": "Alluivione a 200 anni (clima)",
-    "FLOOD_LEGEND_TEXT_2": "In revisione",
-    "FLOOD_LEGEND_TEXT_3": "Registrato",
-    "FLOOD_LEGEND_TEXT_4": "In progettazione",
-    "FLOOD_LEGEND_TEXT_5": "Alluivione a 10 anni",
-    "FLOOD_LEGEND_TEXT_6": "Alluivione a 10 anni di fiume e lago",
-    "FLOOD_LEGEND_TEXT_7": "Alluivione a 20 anni",
-    "FLOOD_LEGEND_TEXT_8": "Alluivione a 50 anni",
-    "FLOOD_LEGEND_TEXT_9": "Alluivione a 100 anni",
-    "FLOOD_LEGEND_TEXT_YEAR": "Tempo di inondazione",
-    "FLOOD_ZONES_MAP_DESCRIPTION": "Zone di alluvione",
-    "HIGH": "Alta",
-    "ICE_LEGEND_TEXT_1": "Ghiaccio rotta lungo la costa",
-    "ICE_LEGEND_TEXT_2": "Ghiaccio debolito in modo significativo",
-    "ICE_LEGEND_TEXT_3": "Condizioni di ghiaccio spesso pericolose",
-    "ICE_LEGEND_TEXT_4": "Ghiaccio debolito",
-    "ICE_LEGEND_TEXT_5": "Canale",
-    "ICE_LEGEND_TEXT_6": "Tubazione",
-    "ICE_LEGEND_TEXT_7": "Tunnel di centrale elettrica",
-    "ICE_MAP_DESCRIPTION": "La mappa di supporto mostra parti di corsi d'acqua che sono inprevedibili nel corso dell'inverno per colpa di regolamento per generazione di elettricità",
-    "INFO_PAGE": "<h1>About maps with steepness and runout zones Sulle mappe con pendenza e zone di deposito</h1>\nLe mappe sono prodotte automaticamente e possono contenere errori. Ci puo essere terreno ripido che non è rappresentato nell modello topografico a per cui non è presente nella mappa. È possibile che alcune valange hanno una zona di diposito più grande di quello indicato nella mappa.\n\n <h2>Quali considerazioni da fare?</h2>\nAdatta il rischio che prendi con la scielta di dove, quando e come uscire nelle montagne. Varsom Regobs è un strumento di pianificazione e i dati presentati possono essere differenti dalla situazione nel campo. Sempre fare la propria evaluazione.\n\n\n<h2>Quando è sicuro?</h2>\nEscursioni in terreno dove valanghe sono possibili con neve presente involge sempre un rischio.\nC'è sempre un rischio presente in escursioni in in terreno dove valanghe sono una possibilità quando è ricoperta di neve.\n\n<h2>Per sapere di più</h2>\nSi consiglia di prendere un corso valanghe e visitare Snøskredskolen su Varsom.no.",
-    "LOW": "Basso",
-    "MARITINE_BORDER": "Confine marino",
-    "MIDDLE": "Medio",
-    "NO_OPACITY": "Solido",
-    "READ_MORE": "Per sapere di più sulle mappe",
-    "STEEPNESS_COLOR_INFO": "I colori indicano l'inclinazione del terreno",
-    "STEEPNESS_MAP_DESCRIPTION": "Mappa con colorazione di inclinazione",
-    "STEEPNESS_MAP_DISCLAMER": "La mappa è generata la computer e può contenere errori. Terreno ripido non incidata sulla mappa può essere presente. La mappa è un stumento per pianeggamento, e deve essere usato con occhio critico.",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Zone di deposito corte (50% di valanghe correranno più lungo)",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Zone di deposito medie (25% di valanghe correranno più lungo)",
-    "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Zone di deposito lunghe (5% di valanghe correranno più lungo). Valanghe con una zona di deposito ancora più lunga di che è indicato nella mappa sono possibili.",
-    "STEEPNESS_OUTLET_MAP_DESCRIPTION": "Mappa con colorazione di inclinazione e zone di deposito",
-    "STEEPNESS_OUTLET_MAP_DISCLAMER": "La mappa è generata la computer e può contenere errori. Terreno ripido o zone di deposito non incidata sulla mappa può essere presente. La mappa è un stumento per pianeggamento, e deve essere usato con occhio critico.",
-    "WEAKENED_ICE_MAP_DESCRIPTION": "Ghiaccio debole"
-  },
-  "TABS": {
-    "LIST": "Lista",
-    "MAP": "Mappa",
-    "TRIPS": "Escursioni",
-    "WARNINGS": "Avvertenze"
-  },
-  "TRIP_LOG": {
-    "COMPLETE": "Completo",
-    "CONTINUE": "Continua",
-    "NOT_STARTED": "Nuova uscita",
-    "PAUSED": "Pausa uscita",
-    "RUNNING": "Traccia GPS in corso",
-    "START": "Avvia",
-    "STOP": "Ferma",
-    "STOPPED": "Uscita fermata e completa"
-  },
-  "TRIP": {
-    "COMMENT_DESCRIPTION": "Descrivi la tua escursione, obiettivi di osservazione ecc.",
-    "END_ERROR": "Sosta escursione non possibile. Prega riprovare in due minuti. La escurzione sarà sostata automaticamente a mezzanotte.",
-    "ERROR": "Avvio escursione non possibile. Prega riprovare.",
-    "ERROR_POSITION": "Avvio escursione non è possibile senza posizione GPS.",
-    "LEGACY_HELP_TEXT": "Puoi usare questa forma per communicare che hai pianeggiato una escursione oggi.\n\nÈ utile per i previsori a sapere se possono aspettare osservazioni oggi. È anche utile sapere che forma di osservazioni possona aspettare (cosa cerchi, dove vai) e quando credi di subire le osservazioni a Regobs.\n\nTutti gli osservatori pagati devono registrare che tipo di uscita osservatoria faranno: è una uscita ordinaria pagata, o è una registrazione supplementare. Registrazioni supplementari sono le registrazioni che fai durante il corso di altro lavoro o tempo libero.",
-    "ONGOING_TRIP": "Uscita in corso",
-    "START_TRIP": "Inizia uscita",
-    "STARTED": "Uscita iniziata",
-    "STOP_TRIP": "Ferma uscita",
-    "STOPPED": "Uscita fermata",
-    "TITLE": "Uscite",
-    "TRIP": "Uscita",
-    "TRIP_END_DESCRIPTION": "Osservazioni aspettate prima di",
-    "TRIP_TYPE": "Tipo di uscita"
-  },
-  "VALIDATION": {
-    "AND": "e",
-    "BETWEEN": "tra",
-    "CHARACTERS": "caratteri",
-    "INTEGER": "cifre intere",
-    "MAX": "meno di",
-    "MIN": "almeno",
-    "MUST_BE": "deve essere"
-  },
-  "WARNING_LIST": {
-    "A_REGIONS": "A - Regioni",
-    "ADDED_TO_FAVOURITES": "aggiunto ai preferiti",
-    "ALL": "Tutti",
-    "ALL_WARNINGS": "Tutte le previsioni",
-    "B_REGIONS": "B- Regioni",
-    "B_REGIONS_SUBTITLE": "Bollettino solo su livello pericolo 4 o 5",
-    "FAVOURITES": "Preferiti",
-    "IN_MAP_CENTER": "Nel centro della mappa",
-    "IN_MAP_VIEW": "Nella parte della mappa mostrata",
-    "MAIN_REGIONS": "Regioni principali",
-    "NO_FAVOURITES": "Scegli i tuoi preferiti",
-    "NO_FAVOURITES_TEXT": "Sfiora la previsione a sinistra per salvarlo qui come preferito",
-    "NO_WARNINGS": "Nessuni previsioni",
-    "NO_WARNINGS_TEXT": "Non c'è un previsione per la zona dove sei. Quando c'ê un previsione verrà mostrato qua.",
-    "OTHER_RELEVANT": "Altri rilevanti",
-    "RELEVANT": "Rilevanti",
-    "REMOVED_FROM_FAVOURITES": "rimosso dai preferiti",
-    "TITLE": "Previsioni",
-    "TITLE_ICE": "Previsione ghiaccio",
-    "TITLE_SNOW": "Bolletino valanghe",
-    "TITLE_WATER": "previsione idrometeorologica",
-    "VALID_FROM": "Valido da"
-  }
 }
