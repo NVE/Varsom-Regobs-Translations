@@ -1,9 +1,24 @@
 {
-  "config_ios": {
-    "NSCameraUsageDescription": "Legg til bilete i observasjonen",
-    "NSLocationAlwaysUsageDescription": "Posisjonenen din er brukt til å vise kvar du er på kartet og for å sette observasjonspunkt. ",
-    "NSLocationWhenInUseUsageDescription": "Posisjonenen din er brukt til å vise kvar du er på kartet og for å sette observasjonspunkt. ",
-    "NSPhotoLibraryAddUsageDescription": "Legg til bilete i observasjonen",
-    "NSPhotoLibraryUsageDescription": "Legg til bilete i observasjonen"
-  }
+    "config_ios": {
+        "NSCameraUsageDescription": {
+            "translation": "Legg til bilete i observasjonen",
+            "notes": ""
+        },
+        "NSLocationAlwaysUsageDescription": {
+            "translation": "Posisjonenen din er brukt til å vise kvar du er på kartet og for å sette observasjonspunkt. ",
+            "notes": ""
+        },
+        "NSLocationWhenInUseUsageDescription": {
+            "translation": "Posisjonenen din er brukt til å vise kvar du er på kartet og for å sette observasjonspunkt. ",
+            "notes": ""
+        },
+        "NSPhotoLibraryAddUsageDescription": {
+            "translation": "Legg til bilete i observasjonen",
+            "notes": ""
+        },
+        "NSPhotoLibraryUsageDescription": {
+            "translation": "Legg til bilete i observasjonen",
+            "notes": ""
+        }
+    }
 }

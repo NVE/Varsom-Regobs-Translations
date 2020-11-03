@@ -1,9 +1,24 @@
 {
-  "config_ios": {
-    "NSCameraUsageDescription": "Dodajte slike k opažanjem",
-    "NSLocationAlwaysUsageDescription": "Lokacijske storitve so uporabljene za natančen prikaz vašega položaja na zemljevidu ter za določitev prvotne lokacije vaših opažanj",
-    "NSLocationWhenInUseUsageDescription": "Lokacijske storitve so uporabljene za natančen prikaz vašega položaja na zemljevidu ter za določitev prvotne lokacije vaših opažanj",
-    "NSPhotoLibraryAddUsageDescription": "Dodajte slike k opažanjem",
-    "NSPhotoLibraryUsageDescription": "Dodajte slike k opažanjem"
-  }
+    "config_ios": {
+        "NSCameraUsageDescription": {
+            "translation": "Dodajte slike k opažanjem",
+            "notes": ""
+        },
+        "NSLocationAlwaysUsageDescription": {
+            "translation": "Lokacijske storitve so uporabljene za natančen prikaz vašega položaja na zemljevidu ter za določitev prvotne lokacije vaših opažanj",
+            "notes": ""
+        },
+        "NSLocationWhenInUseUsageDescription": {
+            "translation": "Lokacijske storitve so uporabljene za natančen prikaz vašega položaja na zemljevidu ter za določitev prvotne lokacije vaših opažanj",
+            "notes": ""
+        },
+        "NSPhotoLibraryAddUsageDescription": {
+            "translation": "Dodajte slike k opažanjem",
+            "notes": ""
+        },
+        "NSPhotoLibraryUsageDescription": {
+            "translation": "Dodajte slike k opažanjem",
+            "notes": ""
+        }
+    }
 }
