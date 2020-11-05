@@ -127,6 +127,11 @@
     "W": "V"
   },
   "Email": "E-post",
+  "ErrorMessages": {
+    "AuthRequestError": "Klare ikkje kontakta NVE-konto for pålogging. Prøv igjen seinare eller kontakt oss om feilen ikkje går over.",
+    "Error": "Feil",
+    "LoadObservartionsError": "Noko galt skjedde ved lasting av observasjonar!"
+  },
   "Footer": {
     "AboutDataInRegObs": "Om data i Regobs",
     "AboutRegObsHeader": "Om Regobs",

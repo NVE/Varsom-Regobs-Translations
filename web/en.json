@@ -127,6 +127,11 @@
     "W": "W"
   },
   "Email": "Email",
+  "ErrorMessages": {
+    "AuthRequestError": "Could not connect to NVE-account auth service. Please try again later or contact support if the problem persists.",
+    "Error": "Error",
+    "LoadObservartionsError": "Something went wrong while loading observations!"
+  },
   "Footer": {
     "AboutDataInRegObs": "About data in regObs",
     "AboutRegObsHeader": "About Regobs",
