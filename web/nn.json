@@ -9,6 +9,7 @@
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velgje",
     "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtypar er:",
     "NoDescription": "Ingen skildring",
+    "UploadErrorMessage": "Klara ikkje lasta opp bilete. Prøv om att eller vel eit anna bilete.",
     "Uploading": "Lastar opp"
   },
   "Cancel": "Avbryt",
