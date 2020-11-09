@@ -5,9 +5,9 @@
   },
   "AppearanceName": "Utseende:",
   "Attachment": {
-    "Attachment": "Vedlegg",
+    "Attachment": "Bilde",
     "DropzoneText": "Dra filer hit for å laste opp, eller klikk for å velge",
-    "InvalidAttachmentType": "Ugyldig vedlegg. Tillate filtyper er:",
+    "InvalidAttachmentType": "Ugyldig bilde. Tillate filtyper er:",
     "NoDescription": "Ingen beskrivelse",
     "UploadErrorMessage": "Klarte ikke laste opp bilde. Vennligst prøv igjen eller velg et annet bilde.",
     "Uploading": "Laster opp"
