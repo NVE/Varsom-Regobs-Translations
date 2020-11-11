@@ -959,6 +959,10 @@
   "Time": "tidspunkt",
   "to": "to",
   "Unknown": "Ukjent",
+  "Update": {
+    "NewVersionAvailableDescription": "Siden trenger å lastes på nytt. Vil du oppdatere nå?",
+    "NewVersionAvailableTitle": "En ny versjon er tilgjengelig"
+  },
   "Url": {
     "Add": "Legg til weblenke",
     "Description": "Beskrivelse",

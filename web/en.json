@@ -959,6 +959,10 @@
   "Time": "time",
   "to": "to",
   "Unknown": "Unknown",
+  "Update": {
+    "NewVersionAvailableDescription": "The page needs to refresh. Do you want to update now?",
+    "NewVersionAvailableTitle": "A new version is available"
+  },
   "Url": {
     "Add": "Add web URL",
     "Description": "Description",
