@@ -80,6 +80,8 @@
       "DescriptionMobile": "Place the observation on the map.",
       "EditName": "Set location name",
       "EditNameLabel": "Location name",
+      "EditNameToolTip": "Set location name to create an observation point that can be used to make a time series",
+      "EditNameUpdated": "Change location name",
       "Title": "Where was the observation made?"
     },
     "NickName": {

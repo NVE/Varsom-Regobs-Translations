@@ -80,6 +80,8 @@
       "DescriptionMobile": "Marker i kartet kvar observasjonen blei gjort",
       "EditName": "Namngje stad",
       "EditNameLabel": "Stadsnavn",
+      "EditNameToolTip": "Å namngje stad gjer det mogleg å lage en tidsserie på sama observasjonspunkt",
+      "EditNameUpdated": "Endre stadsnavn",
       "Title": "Kvar blei observasjonen gjort?"
     },
     "NickName": {
