@@ -6,7 +6,7 @@
   "AppearanceName": "Utseende:",
   "Attachment": {
     "Attachment": "Bilagor",
-    "DropzoneText": "Dra filer hit för att ladda upp eller klicka för att välja",
+    "DropzoneText": "Dra bilder hit för att ladda upp eller klicka för att välja",
     "NoDescription": "Ingen beskrivning"
   },
   "Cancel": "Avbryt",

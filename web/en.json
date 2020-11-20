@@ -6,7 +6,7 @@
   "AppearanceName": "Appearance:",
   "Attachment": {
     "Attachment": "Image",
-    "DropzoneText": "Drag files here to upload, or click to select",
+    "DropzoneText": "Drag images here to upload, or click to select",
     "InvalidAttachmentType": "Invalid image. Allowed file types are:",
     "NoDescription": "No description",
     "UploadErrorMessage": "Could not upload image. Please try again or select another image.",
