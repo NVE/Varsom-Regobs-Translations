@@ -516,12 +516,12 @@
       "Description": "Beskrivelse",
       "IceCapacityTName": "Bæreevne",
       "IceCover": "Isdekning",
-      "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
+      "IceCoverAfterTName": "Isdekning etter observasjon",
       "IceCoverBeforeObservation": "Isdekning før observasjon",
-      "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
+      "IceCoverBeforeTName": "Isdekning før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "Skøytbarhet",
-      "ObsName": "Isdekningsgrad"
+      "ObsName": "Isdekning"
     },
     "IceThickness": {
       "AddIceLayer": "Registrer islag",
