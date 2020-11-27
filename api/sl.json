@@ -39,7 +39,7 @@
   "Months": {
     "ShortList": "Jan, Feb, Mar, Apr, Maj, Jun, Jul, Avg, Sep, Okt, Nov, Dec"
   },
-  "MultipleRegistrations": "registracije",
+  "MultipleRegistrations": "vnosi",
   "Observation": "opažanja",
   "ObservationPlural": "opažanje/-a",
   "Observations": {
@@ -125,6 +125,8 @@
       "HeigthStopZone": "Višina območja odlaganja",
       "HeigthStopZoneText": "najnižja točka na",
       "ObsName": "Opažen snežni plaz",
+      "StartLabel": "Začetna točka plazu",
+      "StopLabel": "Končna točka plazu",
       "TerrainStartZoneTID": "Teren na območju proženja",
       "Trajectory": "Pot plazu",
       "ValidExposition": "Usmerjenost pobočja"
@@ -138,7 +140,8 @@
     "DamageObs": {
       "Comment": "Komentar",
       "DamageTypeTID": "Tip",
-      "ObsName": "Opažena škoda"
+      "ObsName": "Opažena škoda",
+      "PositionLabel": "Lokacija škode"
     },
     "DangerObs": {
       "Comment": "Komentar",
@@ -155,11 +158,11 @@
     "IceCoverObs": {
       "Comment": "Komentar",
       "IceCapacityTName": "Nosilnost",
-      "IceCoverAfterTName": "Delež ledenega pokrova po opazovanju",
-      "IceCoverBeforeTName": "Delež ledenega pokrova pred opazovanjem",
+      "IceCoverAfterTName": "Prekritost z ledom po opažanju",
+      "IceCoverBeforeTName": "Delež ledenega pokrova pred opažanjem",
       "IceCoverTName": "Pokritost z ledom",
       "IceSkateabilityTName": "Gladkost",
-      "ObsName": "Opazovanje zaledenelih površin"
+      "ObsName": "Opažanje zaledenelih površin"
     },
     "IceThickness": {
       "BeforeDrilling": "pred vrtanjem",
@@ -234,7 +237,7 @@
       "SnowDensity": "Gostota snega",
       "SnowDensityLayersObserved": "opažene plasti gostote snega",
       "SnowTemperature": "Temperatura",
-      "SnowTemperatureLayersObserved": "opažene temperature v točkah",
+      "SnowTemperatureLayersObserved": "izmerjene temperature v točkah",
       "StartProfileLayersObserved": "opaženo plastenje",
       "StratLayers": "Plastenje"
     },
@@ -245,13 +248,13 @@
       "NewSnow": "nov sneg",
       "NewSnowDepth24": "Nov sneg v zadnjih 24 urah",
       "NewSnowLine": "Nov sneg na višini do",
-      "ObsName": "Površina snežne odeje",
+      "ObsName": "Snežna odeja",
       "SnowDepth": "Višina snežne odeje",
       "SnowDriftTName": "Napihan sneg",
-      "SnowLine": "Snežna meja na",
-      "SnowLines": "Snežna meja",
-      "SnowSurfaceTName": "Trdota snežne odeje",
-      "SurfaceRougnessTName": "Hrapavost površine snežne odeje",
+      "SnowLine": "Meja snega na",
+      "SnowLines": "Meje snega",
+      "SnowSurfaceTName": "Trdnost snežne odeje",
+      "SurfaceRougnessTName": "Hrapavost površine",
       "SurfaceWaterContentTName": "Vodnatost snega",
       "Total": "skupaj"
     },
@@ -304,7 +307,7 @@
   "Search": {
     "Criterias": {
       "Country": {
-        "CountryInfo": "Če država manjka na seznamu, je to zato, ker tam še ni bilo dodanih nobenih opažanj.",
+        "CountryInfo": "Če država manjka na seznamu, je to zato, ker tam še ni bilo oddanih nobenih opažanj.",
         "Label": "Ostale države"
       },
       "ObservationTypes": {
@@ -313,7 +316,7 @@
       "Observers": {
         "Label": "Opazovalci",
         "MyObservations": "Moja opažanja",
-        "ObserverNickNamePlaceholder": "Išči po uporabniškem imenu opazovalca",
+        "ObserverNickNamePlaceholder": "Iskanje po uporabniškem imenu opazovalca",
         "SearchInCompetences": "Išči po usposobljenosti opazovalca: "
       },
       "QuickSearch": {
@@ -367,7 +370,7 @@
   "ShowLess": "Pokaži manj",
   "ShowMore": "Pokaži več",
   "ShowSearchButtonName": "Pokaži iskalno vrstico",
-  "SingleRegistration": "registracija",
+  "SingleRegistration": "vnos",
   "Snow": "sneg",
   "Soil": "zemlja",
   "SortByName": "Razvrsti po:",
@@ -377,5 +380,6 @@
     "ShortKey": "Kratko"
   },
   "To": "do",
+  "Unknown": "neznano",
   "Water": "voda"
 }

@@ -490,7 +490,7 @@
         "TITLE": "Snežni profil"
       },
       "SNOW_SURFACE": {
-        "COMMENT_HEADER": "Opišite površino snežne odeje",
+        "COMMENT_HEADER": "Opišite snežno odejo",
         "COMMENT_PLACEHOLDER": "Kakšna je na splošno porazdelitev snega glede na višino in usmerjenost pobočij? Ali so opazne velike razlike na območju?",
         "HEIGHT_LIMIT_LAYERED_SNOW": "Višina, kjer se začne sneg v plasteh (m.n.v.)",
         "HIGHT_LIMIT_LAYERED_SNOW_PLACEHOLDER": "Do kod sega snežna odeja brez nevarnega plastenja",
@@ -501,7 +501,7 @@
         "SNOW_LINE": "Meja snega (m.n.v.)",
         "SNOW_SURFACE": "Trdnost snežne odeje",
         "SURFACE_WATER_CONTENT_REG": "Vlažnost snežne odeje",
-        "TITLE": "Površina snežne odeje"
+        "TITLE": "Snežna odeja"
       },
       "WEATHER": {
         "AIR_TEMPERATURE": "Temperatura zraka (C)",
