@@ -72,7 +72,7 @@
     },
     "AvalancheEvalProblem2": {
       "AvalancheExtTID": "Skredtype",
-      "AvalCauseAttributeLightTID": "Ugunstige egenskaper på det svake laget",
+      "AvalCauseAttributeLightTID": "Ugunstige egenskaper til det svake laget",
       "AvalCauseDepthTID": "Avstand fra overflaten til det svake laget",
       "AvalCauseTID": "Type svakt lag",
       "AvalProbabilityTID": "Sannsynlighet for skred",
@@ -125,11 +125,11 @@
       "HeigthStopZone": "Stoppområdet",
       "HeigthStopZoneText": "sluttet på",
       "ObsName": "Skredhendelse",
+      "StartLabel": "Skredet startet her",
+      "StopLabel": "Skredet stoppet her",
       "TerrainStartZoneTID": "Terreng i løsneområdet",
       "Trajectory": "Skredbanenavn",
-      "ValidExposition": "Eksposisjon",
-      "StartLabel": "Skredet startet her",
-      "StopLabel": "Skredet stoppet her"
+      "ValidExposition": "Eksposisjon"
     },
     "CompressionTest": {
       "Comment": "Kommentar",
@@ -382,5 +382,4 @@
   "To": "til",
   "Unknown": "ukjent",
   "Water": "vann"
-  
 }

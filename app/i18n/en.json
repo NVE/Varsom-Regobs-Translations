@@ -563,6 +563,12 @@
       }
     }
   },
+  "SET_NICK_ALERT": {
+    "ERROR": "Couldn't save nickname. Please try later.",
+    "HELP_TEXT": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations.",
+    "INPUT_TEXT": "Please type nickname",
+    "NICK": "Nick"
+  },
   "SETTINGS": {
     "ALLOW_ANALYTICS": "Allow sending app usage data",
     "ALLOW_ANALYTICS_DESCRIPTION": "Help us improve Varsom Regobs by letting us know how you use the application.",
@@ -589,12 +595,6 @@
     "UPDATE_DROPDOWNS": "Update dropdowns",
     "USE_IN_WORLD": "Outside Norway",
     "USE_RETINA_MAP": "Use high resolution maps"
-  },
-  "SET_NICK_ALERT": {
-    "ERROR": "Couldn't save nickname. Please try later.",
-    "HELP_TEXT": "You need a nickname to use Varsom Regobs. The nickname is shown on your observations.",
-    "INPUT_TEXT": "Please type nickname",
-    "NICK": "Nick"
   },
   "START_WIZARD": {
     "CHOOSE_COUNTRY": {
