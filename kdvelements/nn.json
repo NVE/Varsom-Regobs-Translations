@@ -6118,12 +6118,12 @@
     },
     "MarkingTypeKD_1": {
         "translation": "Spray",
-        "notes": "",
+        "notes": "Spray",
         "limit": "100"
     },
     "MarkingTypeKD_1_desc": {
         "translation": "Spray",
-        "notes": "",
+        "notes": "Spray",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {

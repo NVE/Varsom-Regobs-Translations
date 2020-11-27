@@ -6363,12 +6363,12 @@
     },
     "MarkingTypeKD_1": {
         "translation": "Spray",
-        "notes": "",
+        "notes": "Spray",
         "limit": "100"
     },
     "MarkingTypeKD_1_desc": {
         "translation": "Spray",
-        "notes": "",
+        "notes": "Spray",
         "limit": "1024"
     },
     "MarkingTypeKD_2": {
@@ -7053,12 +7053,12 @@
         "limit": "50"
     },
     "TripTypeKD_55": {
-        "translation": "Education trip",
+        "translation": "Education and course",
         "notes": "",
         "limit": "50"
     },
     "TripTypeKD_60": {
-        "translation": "Private",
+        "translation": "Private trip",
         "notes": "",
         "limit": "50"
     },
@@ -7431,5 +7431,25 @@
         "translation": "Hurricane force",
         "notes": "",
         "limit": "100"
+    },
+    "TripTypeKD_20": {
+        "translation": "Regular task for avalanche warning service",
+        "notes": "",
+        "limit": "50"
+    },
+    "TripTypeKD_30": {
+        "translation": "Extraordninary task for avalanche warning service",
+        "notes": "",
+        "limit": "50"
+    },
+    "TripTypeKD_40": {
+        "translation": "Ordered task for avalanche warning service",
+        "notes": "",
+        "limit": "50"
+    },
+    "TripTypeKD_70": {
+        "translation": "Guided trip",
+        "notes": "",
+        "limit": "50"
     }
 }
