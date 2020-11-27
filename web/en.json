@@ -166,7 +166,7 @@
     "HearFromYou": "We would like to hear from you and your user experiences with Regobs.",
     "IskartAbout": "Read the ice warnings prepared by NVE on the basis of available ice information and weather in winter.",
     "IskartAlt": "Logo for Iskart.no",
-    "NveVarsom": "Use the data and maps at your own risk. Errors and omissions may be present. Data on Regobs is produced by the users and is available “as is”. They may contain errors and omissions. NVE makes no warranties as to the currency of the information and does not take responsibility if the data results in incorrect or misleading information.",
+    "NveVarsom": "Use the data and maps at your own risk. Errors and omissions may be present. Data on Regobs is produced by the users and is available “as is”. NVE makes no warranties as to the currency of the information and does not take responsibility if the data results in incorrect or misleading information.",
     "OtherToolsHeader": "Other Tools",
     "ReadMoreAboutRegobs": "Read more about regObs",
     "RegObsContactEmail": "Kontaktepost@regobs.no",
@@ -322,7 +322,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Show all observations from last 7 days"
+      "ObservationsFromLastThreeDays": "Show all observations from last 3 days"
     },
     "Ice": {
       "RegisterObservation": "New ice observation",

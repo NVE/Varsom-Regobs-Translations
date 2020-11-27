@@ -256,7 +256,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Mostra tutte le osservazioni degli ultimi 7 giorni"
+      "ObservationsFromLastThreeDays": "Mostra tutte le osservazioni degli ultimi 3 giorni"
     },
     "Ice": {
       "RegisterObservation": "Nuova osservazione del ghiaccio",

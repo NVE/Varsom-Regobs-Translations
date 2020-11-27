@@ -257,7 +257,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Visa alla observationer från senaste 7 dagarna"
+      "ObservationsFromLastThreeDays": "Visa alla observationer från senaste 3 dagarna"
     },
     "Ice": {
       "RegisterObservation": "Ny isobservation",

@@ -167,7 +167,7 @@
     "HearFromYou": "Vi hører gjerne fra deg om dine brukeropplevelser.",
     "IskartAbout": "Les isvarslene utarbeidet av NVE på grunnlag av tilgjenglig isinformasjon og været i vinter.",
     "IskartAlt": "Logo for Iskart.no",
-    "NveVarsom": "Bruk observasjonene og kartene på eget ansvar. Det kan forekomme feil og mangler. Data på Regobs produseres av brukerne og foreligger ”som den er”. Den kan inneholde feil og utelatelser. NVE gir ingen garantier for informasjonens aktualitet og tar ikke ansvar for at data kan gi feil eller villedende informasjon.",
+    "NveVarsom": "Bruk observasjonene og kartene på eget ansvar. Det kan forekomme feil og mangler. Data på Regobs produseres av brukerne og foreligger ”som den er”. NVE gir ingen garantier for informasjonens aktualitet og tar ikke ansvar for at data kan gi feil eller villedende informasjon.",
     "OtherToolsHeader": "Andre verktøy",
     "ReadMoreAboutRegobs": "Les mer om regObs",
     "RegObsContactEmail": "Kontaktepost@regobs.no",
@@ -323,7 +323,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Vis alle observasjoner fra de siste 7 dager"
+      "ObservationsFromLastThreeDays": "Vis alle observasjoner fra de siste 3 dagene"
     },
     "Ice": {
       "RegisterObservation": "Ny isobservasjon",

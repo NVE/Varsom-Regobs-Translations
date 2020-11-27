@@ -298,7 +298,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Prikaži vsa opažanja zadnjih 7 dni"
+      "ObservationsFromLastThreeDays": "Prikaži vsa opažanja zadnjih 3 dni"
     },
     "Ice": {
       "RegisterObservation": "Novo opažanje ledu",

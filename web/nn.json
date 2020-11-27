@@ -1,4 +1,20 @@
 {
+  "About": {
+    "Para1": "Regobs gjer det moglig for alle å bidra med og bruke data, også via API. Regobs brukes av Snøskredvarslingen, Isvarslingen og Flom- og jordskredvarslingen ved NVE. Regobs brukes også av privatpersonar og andre organisasjonar som gjør farevurderinger.",
+    "Para2": "Regobs behandlar data som ferskvare. Når data er registrert så er observasjonene tilgjengeleg for alle å lese. Observasjonar kan kun endres eller slettes inntil 48 timar etter at de er registrert.",
+    "Para3": "Bruk observasjonane og kartene på eget ansvar. Det kan forekomme feil og manglar.",
+    "Para4": "Data på Regobs produserast av brukerne og foreligger 'som den er'. Den kan inneholde feil og utelatelser. NVE har ikke ansvar for feil, mangler og vurderinger som produseres av brukerne.",
+    "Para5": "Antall stjerner (1-5) beskriver kompetansenivået til den som leverer observasjonar. Uten stjerner er kompetansen ukjent eller lav.",
+    "Para6": "Kallenavn er eit navn som er synlig for alle og assosierer deg med observasjoner du gjør. Du kan velge deg et navn som tilkjennegir deg eller anonymiserer deg som du sjølv ønsker. Du kan når som helst endre kallenavnet ditt.",
+    "Para7": "Ein bruker kan slette seg på NVE-konto, i så fall endres kallenavnet på alle observasjonar lagt inn av brukeren til «anonym». Observasjonene forblir tilgjengelig i Regobs.",
+    "Para8": "Regobs data er lisensiert under Norsk lisens for offentlige data (NLOD) som er kompatibel med CC Navngivelse 4.0 Norge (CC BY 4.0). Lisensteksten finner du på ",
+    "License1": "data norge",
+    "Para9": " og ",
+    "License2": "creative commons.",
+    "Para10": "Navngivelse av data frå ein bestemt kilde (for eksempel eit bilde eller éin observasjon) henvises det til den aktuelle observatøren og Regobs.",
+    "Para11": "Les meir om vilkår for bruk ",
+    "Para12": "her."
+  },
   "AddObsDetails": {
     "Add": "Legg til",
     "HideHelptext": "Skjul hjelpeteksta"
@@ -38,11 +54,11 @@
   },
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
-    "AboutUseSecondParagraph": "Behandlingrunnlaget for dette er personvernforordinga artikkel 6 nr. 1 f, som tillet oss å behandle opplysingar som er naudsynt for å ta hand om ein interesse som veg tyngre enn omsynet til den enkelte sitt personvern. Den interessen er å få nettsidene våre til å fungere godt, slik at du får ei god brukaroppleving.",
-    "AboutUseThirdParagraph": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
+    "AboutUseSecondParagraph": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
     "CookiesDescription": "I tabellen under lister vi opp kva slags informasjonskapslar beta.regobs.no brukar, kva slags data som lagrast og kvifor nettstaden treng dei.",
     "Customize": "TIlpass sjølv",
-    "CustomizeDescription": "De fleste moderne nettleserar (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) er stilt inn på å akseptere informasjonskapslar automatisk, men du kan sjølv velje å endre innstillingane slik at informasjonskapslar ikkje blir akseptert. Vær merksam på at det kan føre til at regobs.no ikkje fungerar optimalt.",
+    "CustomizeDescription": "Som for innloggingstjenesten NVE-konto kan man også i Regobs tilpasse informasjonskapsler i nettlesere. Les mer ",
+    "CustomizeLink": "her.",
     "DataProcessorColumnLabel": "Databehandlar",
     "DescriptionColumnLabel": "Skildring",
     "Descriptions": {
@@ -136,27 +152,29 @@
     "LoadObservartionsError": "Noko galt skjedde ved lasting av observasjonar!"
   },
   "Footer": {
-    "AboutDataInRegObs": "Om data i Regobs",
-    "AboutRegObsHeader": "Om Regobs",
+    "AboutDataInRegObs": "Om data og vilkår for bruk",
+    "AboutRegObsHeader": "Om Varsom Regobs",
     "BeAwareThat": "Om det er ",
     "Collaboration": "Samarbeid",
     "ConditionOfUse": "Vilkår for bruk",
-    "ContactIndividual": "Ta då kontakt med varslingstjenesten som rettar seg best mot det du brukar regObs til.",
+    "ContactIndividual": "Faglige henvendelser kan tas med den enkelte ",
+    "ContactIndividual1": "varslingstjenesten",
+    "ContactIndividual2": " du bruker Regobs til.",
     "ContactUsHeader": "Kontakt oss",
-    "FeedbackForm1": "Du kan også bruke eit ",
-    "FeedbackForm2": "tilbakemeldingsskjema",
-    "FeedbackForm3": "for å gje oss tilbakemeldingar på tjenesten",
+    "FeedbackForm1": "Du kan benytte et ",
+    "FeedbackForm2": "skjema",
+    "FeedbackForm3": "for å gje oss tilbakemeldingar på tjenesten.",
     "GoTo": "Gå til",
-    "HearFromYou": "Vi høyrer gjerne frå deg om brukaropplevingar eller faglege henvendingar. ",
+    "HearFromYou": "Vi høyrer gjerne frå deg om dine brukaropplevingar.",
     "IskartAbout": "Les isvarsla som NVE har utarbeida på grunnlag av tilgjengeleg isinformasjon og vêret i vinter. ",
     "IskartAlt": "Logo for Iskart.no",
-    "NveVarsom": "Jordskredvarslinga og flaumvarslinga hjå NVE er ein del av fleire verkty vi har etablert saman med varsom.no.",
-    "OtherToolsHeader": "Andre verkty",
+    "NveVarsom": "Bruk observasjonane og kartene på eiget ansvar. Det kan forekomme feil og manglar. Data på Regobs produserast av brukerane og foreligger ”som den er”. NVE gir ingen garantier for informasjonens aktualitet og tar ikkje ansvar for at data kan gi feil eller villedende informasjon",
+    "OtherToolsHeader": "Andre verktøy",
     "ReadMoreAboutRegobs": "Les meir om regObs",
     "RegObsContactEmail": "Kontaktepost@regobs.no",
-    "RegObsCovers": "Den dekkjer snøskredsvarslinga, isvarslinga, jordskredvarslinga og flaumvarslinga.",
-    "RegObsFacebook": "Faggruppe regObs på Facebook",
-    "RegObsGatheringPlace": "regObs er ein samlingstad for observasjonar og hendelingar brukt i varsling og beredskapsarbeid.",
+    "RegObsCovers": "Regobs finnes både som ein mobil app og på www.regobs.no. Regobs er eit samarbeid mellom NVE, Statens vegvesen og Meteorologisk institutt.",
+    "RegObsFacebook": "Regobs faggruppe på Facebook",
+    "RegObsGatheringPlace": "Regobs er et verktøy i Varsom-plattformen for registrering og deling av observasjonar og hendelser. Dette er nyttig for beredskap, farevurderingar og varsling av snøskred-, jordskred-, is- og flaumfare.",
     "SeNorgeAbout": "seNorge er ein open portal, som viser oppdaterte kart over snø-, vêr- og vass- og klima tilhøve i Noreg.",
     "SeNorgeAlt": "Logo for Senorge.no",
     "VarsomAbout": "Varsom.no er ein tjeneste levert av NVE, i samarbeid med Meteorologisk institutt, Statens vegvesen og Bane NOR.",
@@ -306,7 +324,7 @@
   },
   "Navbar": {
     "All": {
-      "ObservationsFromLastSevenDays": "Vis alle observasjonane frå dei siste sju dagane"
+      "ObservationsFromLastThreeDays": "Vis alle observasjonane frå dei siste 3 dagane"
     },
     "Ice": {
       "RegisterObservation": "Ny isobservasjon",
