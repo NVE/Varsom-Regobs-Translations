@@ -271,7 +271,7 @@
   },
   "Menu": "Menu",
   "metersOverSeaLevel": "metrov nadmorske višine",
-  "MultipleRegistrations": "registracije",
+  "MultipleRegistrations": "vnosi",
   "MyPage": {
     "MyCompetence": "Moja usposobljenost",
     "MyGroups": "Moje skupine",
@@ -925,7 +925,7 @@
   "ShowSearchButtonName": "Prikaži iskalnik",
   "SignIn": "Prijava",
   "SignOut": "Odjava",
-  "SingleRegistration": "registracija",
+  "SingleRegistration": "vnos",
   "snø": "snega",
   "SortByName": "Razvrsti po:",
   "TableModes": {
