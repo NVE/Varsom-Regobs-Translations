@@ -538,6 +538,7 @@
       "LowerThanIceSurface": "lower than ice surface ",
       "ObsName": "Ice thickness",
       "OverIce": "Over ice",
+      "OnIce": "On ice",
       "OverWaterAfterDrilling": "over water after drilling",
       "OverWaterBeforeDrilling": "Water before drilling",
       "SlushSnowBeforeDrilling": "Slush before drilling (cm)",
