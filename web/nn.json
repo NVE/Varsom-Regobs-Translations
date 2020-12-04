@@ -522,7 +522,7 @@
       "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "skøyteforhold",
-      "ObsName": "Isdekningsgrad"
+      "ObsName": "Isdekning"
     },
     "IceThickness": {
       "AddIceLayer": "Legg til islag",
