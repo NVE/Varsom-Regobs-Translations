@@ -6118,12 +6118,12 @@
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
-    "notes": "Spray",
+    "notes": "",
     "limit": "100"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
-    "notes": "Spray",
+    "notes": "",
     "limit": "1024"
   },
   "MarkingTypeKD_2": {
@@ -7166,5 +7166,60 @@
     "translation": "Orkan",
     "notes": "",
     "limit": "100"
+  },
+  "AvalCauseKD_10_desc": {
+    "translation": "Nedføyka løs nysnø",
+    "notes": "Buried weak layer of new snow",
+    "limit": "1024"
+  },
+  "AvalCauseKD_11_desc": {
+    "translation": "Nedsnødd overflaterim",
+    "notes": "Buried weak layer of surface hoar",
+    "limit": "1024"
+  },
+  "AvalCauseKD_13_desc": {
+    "translation": "Nedsnødd kantkorna snø",
+    "notes": "Buried weak layer of faceted snow near surface",
+    "limit": "1024"
+  },
+  "AvalCauseKD_14_desc": {
+    "translation": "Dårleg binding mot skare",
+    "notes": "Poor bonding between crust and overlying snow",
+    "limit": "1024"
+  },
+  "AvalCauseKD_15_desc": {
+    "translation": "Dårleg binding i fokksnøen",
+    "notes": "Poor bonding between layers in wind deposited snow",
+    "limit": "1024"
+  },
+  "AvalCauseKD_16_desc": {
+    "translation": "Kantkorna snø ved bakken",
+    "notes": "Buried weak layer of faceted snow near the ground",
+    "limit": "1024"
+  },
+  "AvalCauseKD_18_desc": {
+    "translation": "Kantkorna snø over skare",
+    "notes": "Buried weak layer of faceted snow above a crust",
+    "limit": "1024"
+  },
+  "AvalCauseKD_19_desc": {
+    "translation": "Kantkorna snø under skare",
+    "notes": "Buried weak layer of faceted snow beneath a crust",
+    "limit": "1024"
+  },
+  "AvalCauseKD_20_desc": {
+    "translation": "Smelting frå bakken",
+    "notes": "Wet snow/melting near the ground",
+    "limit": "1024"
+  },
+  "AvalCauseKD_22_desc": {
+    "translation": "Opphoping av vatn over lag",
+    "notes": "Water pooling in/above snow layers",
+    "limit": "1024"
+  },
+  "AvalCauseKD_24_desc": {
+    "translation": "Ubunden snø",
+    "notes": "Loose snow",
+    "limit": "1024"
   }
 }
