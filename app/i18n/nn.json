@@ -490,7 +490,7 @@
         "TITLE": "Snøprofil"
       },
       "SNOW_SURFACE": {
-        "COMMENT_HEADER": "Skildr snødekket",
+        "COMMENT_HEADER": "Beskriv snødekket",
         "COMMENT_PLACEHOLDER": "Korleis er snøfordelinga generelt, men tanke på høgde og eksposisjon? Er det store skilnadar i regionen?",
         "HEIGHT_LIMIT_LAYERED_SNOW": "Øvre grense for snø utan lagdeling (moh)",
         "HIGHT_LIMIT_LAYERED_SNOW_PLACEHOLDER": "For snø utan farleg lagdeling",
@@ -507,7 +507,7 @@
         "AIR_TEMPERATURE": "Lufttemperatur (C)",
         "AIR_TEMPERATURE_PLACEHOLDER": "Kan skrivast med to desimalar",
         "CLOUD_COVER": "Skydekke (%)",
-        "COMMENT_HEADER": "Skildr vêret",
+        "COMMENT_HEADER": "Beskriv vêret",
         "COMMENT_PLACEHOLDER": "Korleis har vêret vore det siste døgnet? T.d.: Har det vore byger? Har det vore temperatuendringar? Kvar går nullisotermen?",
         "FROM_EAST": "A - frå aust",
         "FROM_NORTH": "N - frå nord",
@@ -530,7 +530,7 @@
       "DAMAGE": {
         "ADD_DAMAGE_LOCATION": "Legg til skadepunkt her",
         "CAN_YOU_SEE_DAMAGE": "Kan du sjå nokre skader?",
-        "COMMENT": "Skildr skada",
+        "COMMENT": "Beskriv skada",
         "COMMENT_PLACEHOLDER": "Her kan du skildre skada nøyare",
         "IMAGE_OF_DAMAGES": "Bilete av skaden/skadane",
         "TITLE": "Skadar",
@@ -541,8 +541,8 @@
         "ADD_NEW": "Legg til ny",
         "ADD_PICTURE": "Legg til bilete av",
         "CAN_YOU_SEE_WATER": "Kan du sjå vatn på avveie?",
-        "DESCRIBE": "Skildr",
-        "DESCRIBE_HEIGHT": "Skildr høgde",
+        "DESCRIBE": "Beskriv",
+        "DESCRIBE_HEIGHT": "Beskriv høgde",
         "DESCRIBE_SITUATION": "Korleis vil du skildre situasjonen?",
         "DT_REQUIRED_TEXT": "Tidspunkt er obligatorisk!",
         "HOW_DO_YOU_READ": "Korleis les du av vasstanden?",
@@ -707,7 +707,7 @@
     "STOPPED": "Tur stoppa og fullført"
   },
   "TRIP": {
-    "COMMENT_DESCRIPTION": "Her kand u skrive kva obstur du skal på, kva du ser etter, osb. ",
+    "COMMENT_DESCRIPTION": "Her kan du skrive kva obstur du skal på, kva du ser etter, osb. ",
     "END_ERROR": "Klarte ikkje å stoppe tur. Vennlegast prøv igjen seinare. Turen blir automatisk stoppa med midnatt. ",
     "ERROR": "Klarte ikkje starte tur. Vennlegast prøv igjen.",
     "ERROR_POSITION": "Kan ikkje starte tur utan GPS-posisjon.",
