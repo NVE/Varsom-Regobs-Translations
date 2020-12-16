@@ -720,7 +720,7 @@
     "limit": "100"
   },
   "AvalCauseKD_16_desc": {
-    "translation": "Kantkornet ved bakken",
+    "translation": "Kantkornet snø ved bakken",
     "notes": "Buried weak layer of faceted snow near the ground",
     "limit": "1024"
   },
@@ -730,7 +730,7 @@
     "limit": "100"
   },
   "AvalCauseKD_18_desc": {
-    "translation": "Kantkornet over skare",
+    "translation": "Kantkornet snø over skare",
     "notes": "Buried weak layer of faceted snow above a crust",
     "limit": "1024"
   },
@@ -740,7 +740,7 @@
     "limit": "100"
   },
   "AvalCauseKD_19_desc": {
-    "translation": "Kantkornet under skare",
+    "translation": "Kantkornet snø under skare",
     "notes": "Buried weak layer of faceted snow beneath a crust",
     "limit": "1024"
   },
@@ -6393,12 +6393,12 @@
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
-    "notes": "Spray",
+    "notes": "",
     "limit": "100"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
-    "notes": "Spray",
+    "notes": "",
     "limit": "1024"
   },
   "MarkingTypeKD_2": {
