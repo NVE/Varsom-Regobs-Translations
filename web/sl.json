@@ -329,7 +329,7 @@
   "NveAccountSignIn": "Vpis",
   "observation": " opažanja",
   "ObservationCard": {
-    "AboveSeaLevel": "m.n.v.",
+    "AboveSeaLevel": "M.N.V.",
     "Download": "Prenos",
     "ForecastRegion": "Opozorilno območje",
     "Forms": "Obrazci",
@@ -375,7 +375,7 @@
     "AvalancheEvalProblem2": {
       "AvalancheExtTID": "Vrsta",
       "AvalCauseAttributeLightTID": "Neugodne značilnosti šibke plasti",
-      "AvalCauseDepthTID": "Razdalja od površine do šibke plasti",
+      "AvalCauseDepthTID": "Višina snežne odeje med šibko plastjo in površjem",
       "AvalCauseTID": "Vrsta šibke plasti",
       "AvalProbabilityTID": "Verjetnost za plaz",
       "AvalTriggerSimpleTID": "Pričakovana obremenitev, ki bi sprožila plaz",
@@ -394,7 +394,8 @@
       "Comment": "Komentar plazovne napovedi",
       "Evaluation": "Ocena nevarnosti",
       "ObsName": "Ocena nevarnosti plazov",
-      "ValidExposition": "Izpostavljenost"
+      "ValidExposition": "Izpostavljenost",
+      "ForecastCorrect": "Ocena plazovne napovedi na varsom.no"
     },
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Stopnja nevarnosti",
@@ -461,7 +462,9 @@
     "DamageObs": {
       "Comment": "Komentar",
       "DamageTypeTID": "Vrsta",
-      "ObsName": "Opažanje škode"
+      "ObsName": "Opažanje škode",
+      "LocationDescription": "Navedite lokacijo škode, če jo poznate",
+      "LocationTitle": "Kje se škoda nahaja?"
     },
     "DangerObs": {
       "Area": "Območje",
@@ -516,7 +519,8 @@
       "SnowDepthBeforeDrilling": "Sneg pred vrtanjem (cm)",
       "Total": " skupaj",
       "TwoDecimalPlaces": "(cm, do dve decimalni mesti)",
-      "WaterSurfaceInHole": "Višina vode v luknji"
+      "WaterSurfaceInHole": "Višina vode v luknji",
+      "IceHeightAfterInputNo": "Globina od površja do vode v luknji (cm)"
     },
     "Incident": {
       "ActivityInfluencedTID": "Dejavnost",
@@ -582,7 +586,8 @@
       "ValidExposition": {
         "All": "Vse",
         "Title": "Usmerjenost pobočja"
-      }
+      },
+      "UnsentSummaryTitle": "Neoddani obrazec"
     },
     "SnowCover": {
       "CriticalLayer": "Šibka plast",
@@ -640,23 +645,27 @@
         "GrainFormSecondary": "Sekundarna oblika kristalov",
         "GrainSizeAvg": "Velikost kristalov (mm)",
         "GrainSizeAvgMax": "Največja velikost kristalov (mm)",
-        "Hardness": "Trdota",
+        "Hardness": "Trdnost",
         "Layer": "Plast",
         "MultipleObserved": "plasti",
         "NoPreviousLayersFound": "Ni najdenih plasti iz drugih profilov",
         "Observed": "plast",
-        "SelectLayers": "Izberite plasti",
+        "SelectLayers": "Izberi plasti",
         "ShowLess": "Pokaži manj možnosti",
         "ShowMore": "Pokaži več možnosti",
         "Thickness": "Debelina (mm)",
-        "Wetness": "Vodnatost"
+        "Wetness": "Vodnatost",
+        "HardnessBottom": "Trdnost na dnu",
+        "UseLayers": "Uporabi plasti"
       },
       "StratLayers": "Plasti",
       "SumOfAllLayers": "Vsota vseh plasti:",
       "Temperature": {
         "Add": "Dodaj temperaturo",
         "Placeholder": "Temperatura (°C)",
-        "TempProfile": "Temperaturni profil"
+        "TempProfile": "Temperaturni profil",
+        "MultipleObserved": "izmerjene temperature v točkah",
+        "Observed": "izmerjena temperatura v točki"
       },
       "Test": {
         "Add": "Dodaj",
@@ -676,7 +685,7 @@
       "HeightLimitLayeredSnow": "Višina, kjer se začne sneg v plasteh (m.n.v.)",
       "HightLimitLayeredSnowPlaceholder": "Za snežno odejo brez nevarnih plasti",
       "NewSnow": "nov sneg",
-      "NewSnowDepth24": "Višina snega v zadnjih 24 urah (cm)",
+      "NewSnowDepth24": "Nov sneg v zadnjih 24 urah (cm)",
       "NewSnowLine": "Meja novega snega (m.n.v.)",
       "ObsName": "Snežna odeja",
       "SnowDepth": "Višina snežne odeje (cm)",
@@ -724,7 +733,9 @@
       "WaterMarking": "Vodna oznaka",
       "WaterMeasurement": "Meritev vode",
       "WaterMeasurementValue": "Vrednost meritve vode",
-      "With": "z"
+      "With": "z",
+      "AddNewMarking": "Dodajte novo označevanje vodostaja",
+      "AddNewMeasurement": "Dodajte novo meritev vodostaja"
     },
     "WeatherObservation": {
       "AirTemperature": "Temperatura zraka (°C)",
@@ -793,7 +804,13 @@
     "SubmitFailedHeader": "Neuspešna oddaja",
     "SyncError": "Opažanja ni bilo mogoče sinhronizirati z Regobsom!",
     "SyncInProgress": "Sinhronizacija v teku:",
-    "YesDelete": "Da, izbriši!"
+    "YesDelete": "Da, izbriši!",
+    "BadRequest": "Nepravilen zahtevek",
+    "ContinueOnDraftButton": "Nadaljuj z osnutkom",
+    "FormInfo": "Izpolnite obrazce, ki ustrezajo vrsti opažanja, ki ste ga opazili. Dodati morate vsaj en obrazec za opažanje, ki ga želite zabeležiti.",
+    "MissingNetwork": "Ni povezave z omrežjem ali pa je povezava potekla. Čez nekaj časa bomo ponovno poskusili in upali, da se je povezava izboljšala.",
+    "SaveDraftMessage": "Niste dodali nobenih obrazcev in zato opažanja ne bomo objavili. Ali boste shranili kot osnutek in nadaljevali pozneje?",
+    "SyncErrorFormInfo": "Enega ali več predmetov v tem obrazcu ni bilo mogoče oddati."
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
