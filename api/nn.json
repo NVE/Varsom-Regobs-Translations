@@ -155,8 +155,8 @@
     "IceCoverObs": {
       "Comment": "Kommentar",
       "IceCapacityTName": "Bereevne",
-      "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
-      "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
+      "IceCoverAfterTName": "Isdekning etter observasjon",
+      "IceCoverBeforeTName": "Isdekning før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "Skøyteforhold",
       "ObsName": "Isdekning"

@@ -517,9 +517,9 @@
       "Description": "Skildring",
       "IceCapacityTName": "Bereevne",
       "IceCover": "Isdekning",
-      "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
+      "IceCoverAfterTName": "Isdekning etter observasjon",
       "IceCoverBeforeObservation": "Isdekning før observasjon",
-      "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
+      "IceCoverBeforeTName": "Isdekning før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "skøyteforhold",
       "ObsName": "Isdekning"
