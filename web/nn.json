@@ -847,6 +847,7 @@
     "MetersAboveSeaLevel": "Meter over havet",
     "Municipal": "Kommune",
     "Source": "Kjelde",
+    "UTMSource": "Posisjoneringskjelde",
     "WarningRegion": "Varslingsregion"
   },
   "RememberMe": "Hugs meg",

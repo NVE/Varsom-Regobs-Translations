@@ -845,6 +845,7 @@
     "MetersAboveSeaLevel": "Meters above sea level",
     "Municipal": "Municipal",
     "Source": "Source",
+    "UTMSource": "Source Positioning",
     "WarningRegion": "Warning region"
   },
   "RememberMe": "Remember me",

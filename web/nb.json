@@ -845,6 +845,7 @@
     "MetersAboveSeaLevel": "Meter over havet",
     "Municipal": "Kommune",
     "Source": "Kildeangivelse",
+    "UTMSource": "Posisjoneringskilde",
     "WarningRegion": "Varslingsregion"
   },
   "RememberMe": "Husk meg",
