@@ -254,9 +254,9 @@
       "PotentialHazards": "Potensielt skredfare"
     },
     "SupportClayZonesDescription": "Kvikkleire/jordskred",
-    "SupportClayZonesName": "Kvikkleire/jordskred",
+    "SupportClayZonesName": "Kvikkleireskred og aktsomhet løsmasseskred",
     "SupportFloodZonesDescription": "Flomsoner",
-    "SupportFloodZonesName": "Flomsoner",
+    "SupportFloodZonesName": "Faresoner flom",
     "SupportMap": "Støttekart: ",
     "SupportMaps": "Støttekart",
     "SupportSteepnessDescription": "Fargene angir brattheten i terrenget i grader",
@@ -345,7 +345,7 @@
     "Water": {
       "RegisterObservation": "Ny vannobservasjon",
       "SearchInObservation": "Rapportvisning for vann og jord",
-      "ShowObservationsInMap": "Vann-og jordobservasjoner og flomsonekart"
+      "ShowObservationsInMap": "Vann-og jordobservasjoner over farekart"
     }
   },
   "No": "Nei",
@@ -826,7 +826,7 @@
     "Discard": "Forkast",
     "Done": "Ferdig",
     "ErrorHasBeenLogged": "Feilmeldingen har blitt logget i systemet med referanse",
-    "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst ett skjema for at observasjonen skal bli registrert.",
+    "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst ett skjema for at observasjonen skal bli registrert. Observasjonen er synlig på regobs.no så fort skjema lagres.",
     "MissingNetwork": "Mangler nettverk eller innsending tok for lang tid. Vi prøver igjen etter en stund og håper at nettet har bedret seg.",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
