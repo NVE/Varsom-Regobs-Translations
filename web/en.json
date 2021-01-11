@@ -826,7 +826,7 @@
     "Discard": "Discard",
     "Done": "Done",
     "ErrorHasBeenLogged": "The error message has been logged in the system with reference id",
-    "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded.",
+    "FormInfo": "Fill out the forms that match the type of observation you have observed. You must add at least one form for the observation to be recorded. <strong>Observations are visible on regobs.no as soon as one form is saved.</strong>",
     "MissingNetwork": "Network is offlone or connection timed out. We will try again after a while and hope that the connection has improved.",
     "NoCancel": "No, cancel",
     "Retry": "Retry",

@@ -828,7 +828,7 @@
     "Discard": "Forkast",
     "Done": "Ferdig",
     "ErrorHasBeenLogged": "Feilmeldinga har blitt logga i systemet med referanse",
-    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast. Observasjonen er synlig på regobs.no så fort skjema lagres.",
+    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast. <strong>Observasjonen er synlig på regobs.no så fort skjema lagres.</strong>",
     "MissingNetwork": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
