@@ -810,7 +810,8 @@
   },
   "Register": "Registrer bruker",
   "RegistrationDetail": {
-    "EditInfo": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering."
+    "EditInfo": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering.",
+    "EditInfoAsModerator": "Som moderator har du høve til å redigere alle observasjonar med denne naturfaren."
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
