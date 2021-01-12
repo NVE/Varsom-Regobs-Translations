@@ -808,7 +808,8 @@
   },
   "Register": "Create User",
   "RegistrationDetail": {
-    "EditInfo": "You can edit your own observations or observations that is made in a group you belong to within 48 hours of registration."
+    "EditInfo": "You can edit your own observations or observations that is made in a group you belong to within 48 hours of registration.",
+    "EditInfoAsModerator": "As moderator you may edit all observations under this interest area."
   },
   "RegistrationEdit": {
     "AddForm": "Add form",
