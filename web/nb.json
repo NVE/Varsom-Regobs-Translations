@@ -809,7 +809,7 @@
   "Register": "Registrer bruker",
   "RegistrationDetail": {
     "EditInfo": "Du kan redigere din egen observasjon eller observasjoner som er i en gruppe du tilhører innen 48 timer etter registrering.",
-    "EditInfoAsModerator": "Som moderator har du mulighet til å redigere alle observasjoner med denne naturfaren."
+    "EditInfoAsModerator": "Som moderator kan du redigere alle observasjoner knytta til denne naturfaren."
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
