@@ -1001,5 +1001,8 @@
     "User": "BRUKER"
   },
   "vann": "vann",
-  "Yes": "Ja"
+  "Yes": "Ja",
+  "PageTitle": {
+    "Main": "Varsom Regobs – en tjeneste fra NVE, i samarbeid med Statens vegvesen og MET"
+  }
 }

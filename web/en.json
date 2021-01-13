@@ -1001,5 +1001,8 @@
     "User": "USER"
   },
   "vann": "flood",
-  "Yes": "Yes"
+  "Yes": "Yes",
+  "PageTitle": {
+    "Main": "Varsom Regobs – delivered by NVE, in collaboration with the Norwegian Public Roads Administration and Norwegian Meteorological Institute"
+  }
 }
