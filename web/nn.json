@@ -77,29 +77,6 @@
     "WEST": "Vest",
     "WEST_SHORT": "V"
   },
-  "Cookies": {
-    "AboutUseFirstParagraph": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
-    "AboutUseSecondParagraph": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
-    "CookiesDescription": "I tabellen under lister vi opp kva slags informasjonskapslar beta.regobs.no brukar, kva slags data som lagrast og kvifor nettstaden treng dei.",
-    "Customize": "TIlpass sjølv",
-    "CustomizeDescription": "Som for innloggingstjenesten NVE-konto kan man også i Regobs tilpasse informasjonskapsler i nettlesere. Les mer ",
-    "CustomizeLink": "her.",
-    "DataProcessorColumnLabel": "Databehandlar",
-    "DescriptionColumnLabel": "Skildring",
-    "Descriptions": {
-      "__utma": "Brukast for å skilje brukarar og økter.",
-      "__utmb": "Brukast for å bestemme nye økter / besøk.",
-      "__utmc": "Brukast for å hjelpe med å bestemme nye økter/besøk.",
-      "__utmt": "Brukast til å senke talet på førespørslar.",
-      "__utmz": "Brukast til å lagre korleis brukaren kom til nettstaden."
-    },
-    "DomainColumnLabel": "Domene",
-    "HowToAdminister": "forklarar korleis du sjølv kan administrere informasjonskapslar.",
-    "Label": "Informasjonskapslar",
-    "NameColumnLabel": "Kapsel",
-    "TheWebsite": "Nettsida",
-    "Title": "Om bruk av informasjonskapslar"
-  },
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Tal",
   "CreateAccount": "Opprett NVE-konto",

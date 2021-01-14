@@ -77,27 +77,6 @@
     "WEST": "Vest",
     "WEST_SHORT": "V"
   },
-  "Cookies": {
-    "AboutUseFirstParagraph": "Regobs benytter seg av såkalte informasjonskapsler eller cookies for å bedre din brukeropplevelse når du besøker nettsidene. En informasjonskapsel er en tekstfil som ved besøk på eller interaksjon med en nettside lagres på din datamaskin.",
-    "AboutUseSecondParagraph": "Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
-    "CookiesDescription": "I tabellen under lister vi opp hvilke informajsonskapsler beta.regobs.no bruker, hvilken data som lagres og hvorfor nettstedet trenger dem.",
-    "Customize": "Tilpass selv",
-    "CustomizeDescription": "Som for innloggingstjenesten NVE-konto kan man også i Regobs tilpasse informasjonskapsler i nettlesere. Les mer ",
-    "CustomizeLink": "her.",
-    "DataProcessorColumnLabel": "Databehandler",
-    "DescriptionColumnLabel": "Beskrivelse",
-    "Descriptions": {
-      "__utma": "Brukes for å skille brukere og økter.",
-      "__utmb": "Brukes for å bestemme nye økter/besøk.",
-      "__utmc": "Brukes for å hjelpe med å bestemme nye økter/besøk.",
-      "__utmt": "Brukes for å senke antall forespørsler.",
-      "__utmz": "Brukes for å lagre hvordan brukeren kom til siden."
-    },
-    "DomainColumnLabel": "Domene",
-    "Label": "Informasjonskapsler",
-    "NameColumnLabel": "Kapsel",
-    "Title": "Om bruk av informasjonskapsler"
-  },
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Antall",
   "CreateAccount": "Opprett NVE-konto",
