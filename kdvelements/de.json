@@ -5852,7 +5852,7 @@
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Messungen unterbrochen. Die Eisbedeckung aus früheren Beobachtungen ist wahrscheinlich nicht bis gestern gültig.",
-    "notes": "Break - Unknown until today",
+    "notes": "Unknown previous ice cover",
     "limit": "1024"
   },
   "IceCoverKD_0": {

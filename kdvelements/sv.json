@@ -5902,7 +5902,7 @@
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Avbrått i mätningarna. Isförhållandena från föregående mätning är troligtvis inte giltiga till igår.",
-    "notes": "Break - Unknown until today",
+    "notes": "Unknown previous ice cover",
     "limit": "1024"
   },
   "IceCoverKD_0": {

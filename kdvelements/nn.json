@@ -5796,13 +5796,13 @@
     "limit": "1024"
   },
   "IceCoverBeforeKD_99": {
-    "translation": "Brot - Ukjent før no",
+    "translation": "Ukjent istilhøve før no",
     "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
     "limit": "30"
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Brot i målingane. Istilhøve frå førre måling er neppe gyldige til i går.",
-    "notes": "Break - Unknown until today",
+    "notes": "Unknown previous ice cover",
     "limit": "1024"
   },
   "IceCoverKD_0": {
