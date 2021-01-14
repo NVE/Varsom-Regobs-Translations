@@ -630,7 +630,7 @@
     "limit": "1073741823"
   },
   "AvalCauseAttributFlags_8": {
-    "translation": "Veliki, prepoznavni kristali v šibki plasti.",
+    "translation": "Velika, prepoznavna zrna v šibki plasti.",
     "notes": "",
     "limit": "1073741823"
   },
@@ -1350,7 +1350,7 @@
     "limit": "1024"
   },
   "ComprTestFractureKD_0": {
-    "translation": "Ni določeno",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -2625,7 +2625,7 @@
     "limit": "30"
   },
   "DamageExtentKD_0": {
-    "translation": "Ni določeno",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -3076,7 +3076,7 @@
     "limit": "30"
   },
   "ForecastAccurateKD_0": {
-    "translation": "Ni določeno",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -5336,7 +5336,7 @@
     "limit": "1024"
   },
   "GeoHazardKD_0": {
-    "translation": "Ni določeno",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -6447,7 +6447,7 @@
     "limit": "1024"
   },
   "PrecipitationKD_0": {
-    "translation": "Ni opaziti",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -6588,7 +6588,7 @@
     "limit": "30"
   },
   "RegistrationKD_26": {
-    "translation": "Opažen snežni plaz",
+    "translation": "Snežni plaz",
     "notes": "",
     "limit": "30"
   },
@@ -6643,7 +6643,7 @@
     "limit": "30"
   },
   "RegistrationKD_81": {
-    "translation": "Plazovi in vzorci nevarnosti",
+    "translation": "Plazovi in znaki nevarnosti",
     "notes": "Grupperings type - Skred og faretegn",
     "limit": "30"
   },
@@ -6658,7 +6658,7 @@
     "limit": "30"
   },
   "SnowDriftKD_0": {
-    "translation": "Ni opaziti",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -6673,7 +6673,7 @@
     "limit": "30"
   },
   "SnowDriftKD_3": {
-    "translation": "Znatno napihanega snega",
+    "translation": "Znatno veliko napihanega snega",
     "notes": "",
     "limit": "30"
   },
@@ -6683,7 +6683,7 @@
     "limit": "30"
   },
   "SnowSurfaceKD_0": {
-    "translation": "Ni opaziti",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "100"
   },
@@ -6728,7 +6728,7 @@
     "limit": "100"
   },
   "SnowSurfaceKD_50": {
-    "translation": "Plast oglatih kristalov blizu površja snežne odeje",
+    "translation": "Plast oglatih zrn blizu površja snežne odeje",
     "notes": "",
     "limit": "100"
   },
@@ -6793,7 +6793,7 @@
     "limit": "30"
   },
   "SurfaceRoughnessKD_0": {
-    "translation": "Ni opaženo",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
@@ -6828,7 +6828,7 @@
     "limit": "30"
   },
   "SurfaceWaterContentKD_0": {
-    "translation": "Brez opažanja",
+    "translation": "Ni podano",
     "notes": "",
     "limit": "30"
   },
