@@ -45,7 +45,7 @@
   "Observations": {
     "AvalancheActivityObs": {
       "Aspect": "Usmerjenost pobočja",
-      "AvalancheTID": "Tip",
+      "AvalancheTID": "Vrsta",
       "AvalancheTriggerTID": "Sprožilec",
       "Comment": "Komentar",
       "DtAvalancheTime": "Čas",
@@ -55,8 +55,8 @@
       "ObsName": "Plazovna aktivnost"
     },
     "AvalancheActivityObs2": {
-      "AvalancheExtTID": "Tip",
-      "AvalancheTID": "Tip",
+      "AvalancheExtTID": "Vrsta",
+      "AvalancheTID": "Vrsta",
       "Comment": "Komentar",
       "DtAvalancheTime": "Čas",
       "DuringTheDay": "Čez dan",
@@ -67,14 +67,14 @@
     },
     "AvalancheDangerObs": {
       "Comment": "Komentar",
-      "DangerSignTID": "Tip",
+      "DangerSignTID": "Vrsta",
       "ObsName": "Znak plazovne nevarnosti"
     },
     "AvalancheEvalProblem2": {
-      "AvalancheExtTID": "Tip plazu",
+      "AvalancheExtTID": "Vrsta plazu",
       "AvalCauseAttributeLightTID": "Neugodne lastnosti šibke plasti",
       "AvalCauseDepthTID": "Višina snežne odeje med šibko plastjo in površjem",
-      "AvalCauseTID": "Tip šibke plasti",
+      "AvalCauseTID": "Vrsta šibke plasti",
       "AvalProbabilityTID": "Verjetnost proženja snežnih plazov",
       "AvalTriggerSimpleTID": "Pričakovana dodatna obremenitev, ki bi sprožila plazove",
       "Comment": "Komentar",
@@ -110,21 +110,21 @@
     },
     "AvalancheObs": {
       "Avalanche": "Plaz",
-      "AvalancheTID": "Tip plazu",
+      "AvalancheTID": "Vrsta",
       "AvalancheTriggerTID": "Sprožilec",
       "AvalCauseTID": "Šibka plast",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
       "DtAvalancheTime": "Čas",
       "Facing": "v smeri",
-      "Fracture": "Napoka",
+      "Fracture": "Razpoka",
       "FractureHeigth": "višina",
       "FractureWidth": "širina",
       "HeightStartZoneText": "začetna točka na",
       "HeigthStartZone": "Višina območja proženja",
       "HeigthStopZone": "Višina območja odlaganja",
       "HeigthStopZoneText": "najnižja točka na",
-      "ObsName": "Opažen snežni plaz",
+      "ObsName": "Snežni plaz",
       "StartLabel": "Začetna točka plazu",
       "StopLabel": "Končna točka plazu",
       "TerrainStartZoneTID": "Teren na območju proženja",
@@ -133,19 +133,19 @@
     },
     "CompressionTest": {
       "Comment": "Komentar",
-      "ObsName": "Test",
+      "ObsName": "Preizkus",
       "StabilityEvalTID": "Stabilnost",
-      "Test": "Test"
+      "Test": "Preizkus"
     },
     "DamageObs": {
       "Comment": "Komentar",
-      "DamageTypeTID": "Tip",
+      "DamageTypeTID": "Vrsta",
       "ObsName": "Opažena škoda",
       "PositionLabel": "Lokacija škode"
     },
     "DangerObs": {
       "Comment": "Komentar",
-      "DangerSignTName": "Tip",
+      "DangerSignTName": "Vrsta nevarnosti",
       "ObsName": "Opažena nevarnost"
     },
     "GeneralObservation": {
@@ -182,11 +182,11 @@
       "WaterSurfaceInHole": "Vodna gladina v luknji"
     },
     "Incident": {
-      "ActivityInfluencedTID": "Aktivnost",
+      "ActivityInfluencedTID": "Dejavnost",
       "Comment": "Komentar",
-      "DamageExtentTID": "Obseg",
-      "GeoHazardTID": "Tip opažanja",
-      "IncidentHeader": "Glava",
+      "DamageExtentTID": "Obseg škode",
+      "GeoHazardTID": "Vrsta opažanja",
+      "IncidentHeader": "Naslov",
       "IncidentIngress": "Uvod",
       "IncidentText": "Opis",
       "ObsName": "Incident",
@@ -200,7 +200,7 @@
       "DamageExtentTName": "Obseg škode",
       "ForecastAccurateTName": "Je bilo opozorilo na varsom.no točno?",
       "LandSlideSizeTName": "Velikost",
-      "LandSlideTName": "Tip plazu",
+      "LandSlideTName": "Vrsta plazu",
       "LandSlideTriggerTName": "Sprožilec",
       "ObsName": "Opažen zemeljski plaz",
       "Time": "Čas",
@@ -220,7 +220,7 @@
       "CriticalLayerFound": "Šibka plast opažena",
       "CriticalLayerLocation": "Lokacija",
       "CriticalLayerNotFound": "Ni bilo opažene šibke plasti.",
-      "CriticalLayerTID": "Tip",
+      "CriticalLayerTID": "Vrsta",
       "DepthHoar": "Globinski srež",
       "DepthHoarInSnowCover": "opažen globinski srež",
       "ObsName": "Snežni profil",
@@ -229,8 +229,8 @@
     },
     "SnowProfile": {
       "Comment": "Komentar",
-      "CompressionTest": "Testi",
-      "CompressionTests": "Testi",
+      "CompressionTest": "Preizkusi",
+      "CompressionTests": "Preizkusi",
       "CompressionTestsConnectedToProfile": "povezani s snežnim profilom",
       "LayersObserved": "opažene plasti",
       "ObsName": "Snežni profil",
@@ -247,15 +247,15 @@
       "Kommentar": "Komentar",
       "NewSnow": "nov sneg",
       "NewSnowDepth24": "Nov sneg v zadnjih 24 urah",
-      "NewSnowLine": "Nov sneg na višini do",
+      "NewSnowLine": "Meja novega snega",
       "ObsName": "Snežna odeja",
       "SnowDepth": "Višina snežne odeje",
       "SnowDriftTName": "Napihan sneg",
       "SnowLine": "Meja snega na",
       "SnowLines": "Meje snega",
-      "SnowSurfaceTName": "Trdnost snežne odeje",
-      "SurfaceRougnessTName": "Hrapavost površine",
-      "SurfaceWaterContentTName": "Vodnatost snega",
+      "SnowSurfaceTName": "Površje snežne odeje",
+      "SurfaceRougnessTName": "Hrapavost površja",
+      "SurfaceWaterContentTName": "Vlažnost snežne odeje",
       "Total": "skupaj"
     },
     "WaterLevel": {
@@ -290,7 +290,7 @@
       "Clouds": "oblaki",
       "Comment": "Komentar",
       "ObsName": "Vreme",
-      "PrecipitationTID": "Tip padavin",
+      "PrecipitationTID": "Vrsta padavin",
       "Wind": "Veter",
       "WindDirection": "iz smeri"
     }
@@ -311,7 +311,7 @@
         "Label": "Ostale države"
       },
       "ObservationTypes": {
-        "Label": "Tipi opažanj"
+        "Label": "Vrste opažanj"
       },
       "Observers": {
         "Label": "Opazovalci",
@@ -332,7 +332,7 @@
         "ObserverCompetence": "Usposobljenost opazovalca",
         "ObserverName": "Ime opazovalca",
         "Regions": "Območja",
-        "RegistrationTypes": "Tipi opažanj",
+        "RegistrationTypes": "Vrste opažanj",
         "Time": "Čas",
         "ToDate": "Do"
       },
