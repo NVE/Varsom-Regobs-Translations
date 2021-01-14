@@ -26,7 +26,7 @@
     "ConsentPopupAcceptButton": "Accept",
     "ConsentPopupSettingsButton": "Options",
     "AboutPageHeader": "Cookies",
-    "AboutPageText": "<h4>About the use of cookies</h4><p>Regobs uses cookies to improve your user experience when you visit this website. A cookie is a text file that, when visiting or interacting with a website, is stored in your browser's internal memory. Regobs does not use cookies to map individual users' usage patterns or other information that may violate user privacy.</p><h4>Your settings</h4><p>Most browsers are set to accept cookies automatically, but you can choose to change the settings so that cookies are not allowed. We point out that this may cause some of Regobs' functionality to malfunction. The website nettvett.no explains how you can manage cookies yourself.</p>",
+    "AboutPageText": "<h3>About the use of cookies</h3><p>Regobs uses cookies to improve your user experience when you visit this website. A cookie is a text file that, when visiting or interacting with a website, is stored in your browser's internal memory. Regobs does not use cookies to map individual users' usage patterns or other information that may violate user privacy.</p><h3>Your settings</h3><p>Most browsers are set to accept cookies automatically, but you can choose to change the settings so that cookies are not allowed. We point out that this may cause some of Regobs' functionality to malfunction. The website nettvett.no explains how you can manage cookies yourself.</p>",
     "AboutPageAcceptGoogleAnalytics": "Accept Google Analytics",
     "CookiesTableNameLabel": "Name",
     "CookiesTableDescriptionLabel": "Description",
