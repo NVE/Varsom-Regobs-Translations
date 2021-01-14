@@ -78,7 +78,7 @@
       "AvalProbabilityTID": "Sannsyn for skred",
       "AvalTriggerSimpleTID": "Sannsynleg last for å løyse ut skred",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Storleik på venta skred",
+      "DestructiveSizeTID": "Storleik på forventa skred",
       "ObsName": "Skredproblem",
       "PrevalenceArea": "Utbreiing losneområder"
     },
@@ -149,7 +149,7 @@
       "Comment": "Kommentar",
       "ObsComment": "Tekst",
       "ObsHeader": "Overskrift",
-      "ObsName": "Notatar",
+      "ObsName": "Notat",
       "Urls": "Lenker"
     },
     "IceCoverObs": {
@@ -214,9 +214,9 @@
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
-      "CriticalLayerFound": "Det finnast svakt lag",
+      "CriticalLayerFound": "Det finst svakt lag",
       "CriticalLayerLocation": "Plassering",
-      "CriticalLayerNotFound": "Det finnast ikkje svakt lag",
+      "CriticalLayerNotFound": "Det finst ikkje svakt lag",
       "CriticalLayerTID": "Type",
       "DepthHoar": "Begerkrystallar",
       "DepthHoarInSnowCover": "med begerkrystallar nedst i snødekke",
