@@ -154,6 +154,7 @@
     "LoadObservartionsError": "Something went wrong while loading observations!"
   },
   "Footer": {
+    "CookiesLink": "Informasjonskapsler",
     "AboutDataInRegObs": "About data and terms of service",
     "AboutRegObsHeader": "About Varsom Regobs",
     "BeAwareThat": "Vær oppmerksom på at ting som haster best tas med varslingstjeneste direkte eller på facebookgruppen.",

@@ -154,6 +154,7 @@
     "LoadObservartionsError": "Noko galt skjedde ved lasting av observasjonar!"
   },
   "Footer": {
+    "CookiesLink": "Informasjonskapsler",
     "AboutDataInRegObs": "Om data og vilkår for bruk",
     "AboutRegObsHeader": "Om Varsom Regobs",
     "BeAwareThat": "Om det er ",
