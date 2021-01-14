@@ -1,2622 +1,2622 @@
 {
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_110_desc": {
-    "translation": "20:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_120_desc": {
-    "translation": "22:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_20_desc": {
-    "translation": "09:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_30_desc": {
-    "translation": "10:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_40_desc": {
-    "translation": "11:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_50_desc": {
-    "translation": "12:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_60_desc": {
-    "translation": "13:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_70_desc": {
-    "translation": "14:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_80_desc": {
-    "translation": "15:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "AnticipatedObservationTimeKD_90_desc": {
-    "translation": "16:00",
-    "notes": "",
-    "limit": "1024"
-  },
-  "CompetenceLevelKD_100": {
-    "translation": "-",
-    "notes": "Unknown for snow.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_110": {
-    "translation": "*",
-    "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_115": {
-    "translation": "**",
-    "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_120": {
-    "translation": "***",
-    "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_130": {
-    "translation": "****",
-    "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_150": {
-    "translation": "*****",
-    "notes": "Observer is an avalanche forecaster.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_200": {
-    "translation": "-",
-    "notes": "Unknown competance.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_210": {
-    "translation": "*",
-    "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_220": {
-    "translation": "**",
-    "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_230": {
-    "translation": "***",
-    "notes": "Professional with several relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_240": {
-    "translation": "****",
-    "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_250": {
-    "translation": "*****",
-    "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_300": {
-    "translation": "-",
-    "notes": "Unknown competance.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_310": {
-    "translation": "*",
-    "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_320": {
-    "translation": "**",
-    "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_330": {
-    "translation": "***",
-    "notes": "Professional with several relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_340": {
-    "translation": "****",
-    "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_350": {
-    "translation": "*****",
-    "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_400": {
-    "translation": "-",
-    "notes": "Unknown competance.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_410": {
-    "translation": "*",
-    "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_420": {
-    "translation": "**",
-    "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_430": {
-    "translation": "***",
-    "notes": "Professional with several relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_440": {
-    "translation": "****",
-    "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_450": {
-    "translation": "*****",
-    "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_600": {
-    "translation": "-",
-    "notes": "Unknown competance.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_610": {
-    "translation": "*",
-    "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_620": {
-    "translation": "**",
-    "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_630": {
-    "translation": "***",
-    "notes": "Professional with several relevant observations.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_640": {
-    "translation": "****",
-    "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_650": {
-    "translation": "*****",
-    "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_700": {
-    "translation": "-",
-    "notes": "Unkown for ice.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_710": {
-    "translation": "*",
-    "notes": "Beginner.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_720": {
-    "translation": "**",
-    "notes": "Experienced observer.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_730": {
-    "translation": "***",
-    "notes": "Educated observer with field experience.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_740": {
-    "translation": "****",
-    "notes": "Educated personel.",
-    "limit": "30"
-  },
-  "CompetenceLevelKD_750": {
-    "translation": "*****",
-    "notes": "Educated personel in NVE or eqivalent.",
-    "limit": "30"
-  },
-  "ForecastRegionKD_0": {
-    "translation": "Not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1000": {
-    "translation": "Completely unknown SE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1001": {
-    "translation": "Treriksröset - Torne Träsk ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1002": {
-    "translation": "Riksgränsenfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1003": {
-    "translation": "Abisko, Torne Träsk ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1004": {
-    "translation": "Kebnekaise ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1005": {
-    "translation": "Västra Gällivarefjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1006": {
-    "translation": "Östra Gällivarefjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1007": {
-    "translation": "Västra Jokkmokksfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1008": {
-    "translation": "Östra Jokkmokksfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1009": {
-    "translation": "Västra Arjeplogsfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1010": {
-    "translation": "Östra Arjeplogsfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1011": {
-    "translation": "Västra Vindel- och Tärnafjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1012": {
-    "translation": "Östra Vindel- och Tärnafjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1013": {
-    "translation": "Stekenjokksfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1014": {
-    "translation": "Marsfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1015": {
-    "translation": "Hotagen-Frostviken ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1016": {
-    "translation": "Flatruet, Helags, Sylarna, Storlien",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1017": {
-    "translation": "Åre, Vålådalen, Oviksfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1018": {
-    "translation": "Ljungdalen, Funäsdalen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1019": {
-    "translation": "Klövsjö, Vemdalen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1020": {
-    "translation": "Idre, Grövelsjön ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_1021": {
-    "translation": "Sälenfjällen ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_200": {
-    "translation": "County not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2001": {
-    "translation": "HALDENVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2002": {
-    "translation": "GLOMMAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2003": {
-    "translation": "MOSSEVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2004": {
-    "translation": "HØLENELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2005": {
-    "translation": "NESODDEN OG BUNNEFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2006": {
-    "translation": "NORDMARKVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2007": {
-    "translation": "LYSAKERELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2008": {
-    "translation": "SANDVIKSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2009": {
-    "translation": "ÅROSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2010": {
-    "translation": "HURUMLANDET ØST OG SØR",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2011": {
-    "translation": "LIERELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2012": {
-    "translation": "DRAMMENSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2013": {
-    "translation": "SANDEVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2014": {
-    "translation": "AULIVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2015": {
-    "translation": "NUMEDALSLÅGEN OG SILJANVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2016": {
-    "translation": "SKIENSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2017": {
-    "translation": "KRAGERØVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2018": {
-    "translation": "VEGÅRSVASSDRAGET OG GJERSTADVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2019": {
-    "translation": "ARENDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2020": {
-    "translation": "TOVDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2021": {
-    "translation": "OTRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2022": {
-    "translation": "MANDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2023": {
-    "translation": "AUDNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2024": {
-    "translation": "LYGNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2025": {
-    "translation": "KVINA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2026": {
-    "translation": "SIRA OG SOKNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2027": {
-    "translation": "BJERKREIMVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2028": {
-    "translation": "FIGGJO",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2029": {
-    "translation": "STAVANGER OG SANDNES KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_203": {
-    "translation": "Oslo",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2030": {
-    "translation": "FRAFJORDELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2031": {
-    "translation": "LYSEVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2032": {
-    "translation": "JØRPELANDSÅNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2033": {
-    "translation": "ÅRDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2034": {
-    "translation": "RYFYLKEØYANE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2035": {
-    "translation": "ULLA OG FØRREELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2036": {
-    "translation": "SULDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2037": {
-    "translation": "SAUDAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2038": {
-    "translation": "VIKEDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2039": {
-    "translation": "KYST NEDSTRAND-HAUGESUND-TITTELSNES",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2040": {
-    "translation": "KARMØY",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2041": {
-    "translation": "ETNEVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2042": {
-    "translation": "BLÅELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2043": {
-    "translation": "BØMLO",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2044": {
-    "translation": "STORDØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2045": {
-    "translation": "HARDANGERFJORDEN ØST: SUNDE-ÆNES",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2046": {
-    "translation": "MAURANGERFJORDEN OG SILDEFJORDEN ØST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2047": {
-    "translation": "SAMLAFJORDEN SØR OG JONDAL KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2048": {
-    "translation": "OPO",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2049": {
-    "translation": "TYSSO",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2050": {
-    "translation": "EIDFJORDVASSDRAGET, KINSO OG SIMA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2051": {
-    "translation": "OSAFJORDEN, ULVIKFJORDEN OG EIDFJORDEN NORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2052": {
-    "translation": "GRANVINFJORDEN OG SAMLAFJORDEN NORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2053": {
-    "translation": "SÆVAREIDELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2054": {
-    "translation": "TYSNES OG AUSTEVOLL KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2055": {
-    "translation": "SAMNANGERVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2056": {
-    "translation": "BERGEN OG OMEGN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2057": {
-    "translation": "SOTRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2058": {
-    "translation": "ØYGARDEN KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2059": {
-    "translation": "ASKØYA OG HOLSNØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2060": {
-    "translation": "OSTERØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2061": {
-    "translation": "BERGSDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2062": {
-    "translation": "VOSSOVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2063": {
-    "translation": "EKSINGEDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2064": {
-    "translation": "STEINSLANDSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2065": {
-    "translation": "LINDÅSHALVØYA, SEIMSFJORDEN OG AUSTFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2066": {
-    "translation": "FOSNØYA, RADØYA OG FEDJE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2067": {
-    "translation": "MASFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2068": {
-    "translation": "SOGNESJØEN SØR",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2069": {
-    "translation": "YTRE SOGNEFJORDEN SØR: RUTLEDAL-VARMRÅK",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2070": {
-    "translation": "VIKSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2071": {
-    "translation": "NÆRØYELVI",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2072": {
-    "translation": "AURLANDSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2073": {
-    "translation": "LÆRDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2074": {
-    "translation": "ÅRDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2075": {
-    "translation": "FORTUNVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2076": {
-    "translation": "JOSTEDØLA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2077": {
-    "translation": "ÅRØYVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2078": {
-    "translation": "VETLEFJORDEN OG FJÆRLANDSFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2079": {
-    "translation": "HØYANGERVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2080": {
-    "translation": "YTRE SOGNEFJORDEN NORD: KYRKJEBØ-RISNES",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2081": {
-    "translation": "SOLUND KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2082": {
-    "translation": "GUDDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2083": {
-    "translation": "GAULARVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2084": {
-    "translation": "JØLSTRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2085": {
-    "translation": "OSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2086": {
-    "translation": "GJENGEDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2087": {
-    "translation": "BREIMSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2088": {
-    "translation": "STRYNVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2089": {
-    "translation": "HORNINDALVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2090": {
-    "translation": "BREMANGERLANDET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2091": {
-    "translation": "SILDEGAPET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2092": {
-    "translation": "GUSDALELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2093": {
-    "translation": "ROVDEFJORDEN SØR OG SYVDEFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2094": {
-    "translation": "STIGEDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2095": {
-    "translation": "ØRSTAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2096": {
-    "translation": "HAREIDLANDET OG GURSKØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2097": {
-    "translation": "STORFJORDEN SØR, HJØRUNDFJORDEN OG SYKKYLVSFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2098": {
-    "translation": "STORFJORDEN SØR, SUNNYLVSFJORDEN OG GEIRANGERFJORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2099": {
-    "translation": "TAFJORDVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2100": {
-    "translation": "VALLDØLA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2101": {
-    "translation": "ÅLESUND OG OMEGN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2102": {
-    "translation": "MIDTFJORDEN SØR OG ROMSDALSFJORDEN VEST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2103": {
-    "translation": "RAUMA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2104": {
-    "translation": "EIRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2105": {
-    "translation": "GUSJÅVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2106": {
-    "translation": "AUKRA, MISUND OG SANDØY KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2107": {
-    "translation": "FRÆNFJORDEN, JULSUNDET OG HUSTADVIKA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2108": {
-    "translation": "KORNSTADFJORDEN OG BATNFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2109": {
-    "translation": "DRIVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_211": {
-    "translation": "Rogaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2110": {
-    "translation": "AVERØY, FREI OG KRISTIANDSUND KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2111": {
-    "translation": "KYST TINGVOLLFJORDEN-SURNADALSFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2112": {
-    "translation": "SURNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2113": {
-    "translation": "FJELNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2114": {
-    "translation": "TUSTNA KOMMUNE OG ERTVÅGØY",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2115": {
-    "translation": "SMØLA KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2116": {
-    "translation": "RØSTA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2117": {
-    "translation": "HITRA KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2118": {
-    "translation": "FRØYA KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2119": {
-    "translation": "TRONDHEIMSLEIA ØST: STAMNES-AGDENES FYR",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2120": {
-    "translation": "YTRE TRONDHEIMSFJORDEN: AGDENES FYR-GEITANESET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2121": {
-    "translation": "ORKLA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2122": {
-    "translation": "GAULA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2123": {
-    "translation": "NIDELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2124": {
-    "translation": "STJØRDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2125": {
-    "translation": "ÅSENFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2126": {
-    "translation": "TRONDHEIMSFJORDEN ØST: FROSTA-VERDALSØRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2127": {
-    "translation": "VERDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2128": {
-    "translation": "SNÅSAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2129": {
-    "translation": "FOLLAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2130": {
-    "translation": "VERRANSUNDET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2131": {
-    "translation": "TRONDHEIMSFJORDEN VEST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2132": {
-    "translation": "SKAUDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2133": {
-    "translation": "STJØRNFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2134": {
-    "translation": "TEKSDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2135": {
-    "translation": "STORDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2136": {
-    "translation": "HOFSTADELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2137": {
-    "translation": "OSEN OG FLATANGER KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2138": {
-    "translation": "ÅRGÅRDSVASSDRAGET OG BOGNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2139": {
-    "translation": "NAMSEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2140": {
-    "translation": "SALSVATNVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2141": {
-    "translation": "OPPLØYVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2142": {
-    "translation": "INDRE FOLDA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2143": {
-    "translation": "VIKNA OG KYST FOLDFJORDEN-BINDALSFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2144": {
-    "translation": "ÅBJØRA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2145": {
-    "translation": "BINDALSFJORDEN NORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2146": {
-    "translation": "KYST RØYINGEN-VELFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2147": {
-    "translation": "VEGA KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2148": {
-    "translation": "LOMSDALSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2149": {
-    "translation": "VISTEN, HALSFJORDEN OG YTRE VEFSNFJORDEN ØST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_215": {
-    "translation": "Møre og Romsdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2150": {
-    "translation": "ALSTEN OG TJØTTA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2151": {
-    "translation": "VEFSNA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2152": {
-    "translation": "FUSTA OG DREVJA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2153": {
-    "translation": "LEIRFJORD KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2154": {
-    "translation": "DØNNA OG HERØY KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2155": {
-    "translation": "RØSSÅGA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2156": {
-    "translation": "RANAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2157": {
-    "translation": "KYST UTSKARPEN-NESNA-TONNES",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2158": {
-    "translation": "ØYER I NESNA, LURØY OG TRÆNA KOMMUNER",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2159": {
-    "translation": "VESTRE SVARTISEN OG RØDØY KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2160": {
-    "translation": "FYKANÅGA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2161": {
-    "translation": "BEIARELVA, MORSDALSFJORDEN OG NORDFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2162": {
-    "translation": "SALTFJORDEN: NORDFJORDEN-SKJERSTAD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2163": {
-    "translation": "SALTELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2164": {
-    "translation": "SULITJELMAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2165": {
-    "translation": "KYST SALTSTRAUMEN-BODØ-TÅRNVIKFJELLET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2166": {
-    "translation": "FAGERBAKKVASSDRAGET OG LAKSÅGA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2167": {
-    "translation": "KOBBELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2168": {
-    "translation": "NORDFOLDA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2169": {
-    "translation": "YTRE DEL AV STEIGEN KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2170": {
-    "translation": "SAGELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2171": {
-    "translation": "HELLEMOVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2172": {
-    "translation": "FORSÅVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2173": {
-    "translation": "SKJOMAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2174": {
-    "translation": "INDRE OFOTFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2175": {
-    "translation": "OFOTFJORDEN NORD: TANGVIK-BOGEN-SELNES",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2176": {
-    "translation": "TJELDØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2177": {
-    "translation": "ØSTRE HINNØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2178": {
-    "translation": "VESTRE HINNØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2179": {
-    "translation": "VÅGAN KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_218": {
-    "translation": "Nordland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2180": {
-    "translation": "VESTVÅGØY KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2181": {
-    "translation": "FLAKSTADØYA OG MOSKENESØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2182": {
-    "translation": "VÆRØY KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2183": {
-    "translation": "RØST KOMMUNE",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2184": {
-    "translation": "HADSELØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2185": {
-    "translation": "LANGØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2186": {
-    "translation": "ANDØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2187": {
-    "translation": "GRYTØYA, BJARKØYA OG SANDSØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2188": {
-    "translation": "ROLLA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2189": {
-    "translation": "SKODDEBERGVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2190": {
-    "translation": "GRATANGEN OG LAVANGEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2191": {
-    "translation": "SALANGSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2192": {
-    "translation": "ANDØRJA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2193": {
-    "translation": "SKØELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2194": {
-    "translation": "LAKSELVA OG LYSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2195": {
-    "translation": "SENJA VEST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2196": {
-    "translation": "MÅLSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2197": {
-    "translation": "KVALØYA OG TROMSØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2198": {
-    "translation": "NORDKJOSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2199": {
-    "translation": "TROMSØYSUNDET OG GRØTSUNDET ØST, REINØYA OG KARLSØ",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2200": {
-    "translation": "RINGVASSØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2201": {
-    "translation": "REBBENESØYA, GRYTØYA, NORD-KVALØYA OG HELGØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2202": {
-    "translation": "VANNA OG NORD-FUGLØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2203": {
-    "translation": "LAKSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2204": {
-    "translation": "SIGNALDALSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2205": {
-    "translation": "SKIBOTNVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2206": {
-    "translation": "KÅFJORDVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2207": {
-    "translation": "ARNØYA OG LAUKØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2208": {
-    "translation": "REISAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2209": {
-    "translation": "KVÆNANGSVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_221": {
-    "translation": "Svalbard",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2210": {
-    "translation": "STORELVA/KVÆNANGEN NORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2211": {
-    "translation": "LOPPA KOMMUNE OG LANGFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2212": {
-    "translation": "ALTAVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2213": {
-    "translation": "REPPARFJORDVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2214": {
-    "translation": "STJERNØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2215": {
-    "translation": "SEILAND",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2216": {
-    "translation": "SØRØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2217": {
-    "translation": "KVALØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2218": {
-    "translation": "RUSSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2219": {
-    "translation": "INGØYA OG ROLVSØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2220": {
-    "translation": "NORDRE PORSANGERHALVØYA, MÅSØYA OG HJELMSØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2221": {
-    "translation": "MAGERØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2222": {
-    "translation": "VESTRE PORSANGEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2223": {
-    "translation": "STABBURSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2224": {
-    "translation": "LAKSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2225": {
-    "translation": "BØRSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2226": {
-    "translation": "ØSTRE PORSANGEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2227": {
-    "translation": "YTRE LAKSEFJORDEN VEST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2228": {
-    "translation": "STORELVA/INDRE LAKSEFJORDEN VEST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2229": {
-    "translation": "ADAMSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2230": {
-    "translation": "YTRE LAKSEFJORDEN ØST",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2231": {
-    "translation": "NORDKINNHALVØYA NORD",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2232": {
-    "translation": "HOPSFJORDEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2233": {
-    "translation": "LANGFJORDVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2234": {
-    "translation": "TANA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2235": {
-    "translation": "STORDALSELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2236": {
-    "translation": "KONGSFJORDVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2237": {
-    "translation": "VESTERELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2238": {
-    "translation": "SANDFJORDELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2239": {
-    "translation": "KOMAGELVA OG SKALLELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2240": {
-    "translation": "VESTRE JAKOBSELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2241": {
-    "translation": "BERGEBYELVA OG VESTERELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2242": {
-    "translation": "REPPENELVA OG NYELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2243": {
-    "translation": "KLOKKERELVVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2244": {
-    "translation": "NEIDENVASSDRAGET",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2245": {
-    "translation": "SKOGERØYA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2246": {
-    "translation": "PASVIKELVA",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2247": {
-    "translation": "GRENSE JAKOBSELV",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_230": {
-    "translation": "Viken",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2301": {
-    "translation": "KEMIJOKI",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2302": {
-    "translation": "TORNEELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2303": {
-    "translation": "LULEELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2304": {
-    "translation": "PITEELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2305": {
-    "translation": "SKELLEFTEELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2306": {
-    "translation": "UMEELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2307": {
-    "translation": "ÅNGERMANELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2308": {
-    "translation": "INDALSELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2309": {
-    "translation": "LJUSNAN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2310": {
-    "translation": "DALELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2311": {
-    "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT KLARAELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2312": {
-    "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT NORSELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2313": {
-    "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT BYELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2314": {
-    "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT UPPERUDSELVEN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2315": {
-    "translation": "STRØMSÅN",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_234": {
-    "translation": "Innlandet",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_238": {
-    "translation": "Vestfold og Telemark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_242": {
-    "translation": "Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_246": {
-    "translation": "Vestland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_250": {
-    "translation": "Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_254": {
-    "translation": "Troms og Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2800": {
-    "translation": "Østlandet",
-    "notes": "Østlandet gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2801": {
-    "translation": "Rogaland – Agder",
-    "notes": "Rogaland - Agder gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2802": {
-    "translation": "Sogn og Fjordane – Hordaland",
-    "notes": "Sogn og Fjordane – Hordaland gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2803": {
-    "translation": "Trøndelag – Møre og Romsdal",
-    "notes": "Trøndelag - Møre og Romsdal gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2804": {
-    "translation": "Nordland",
-    "notes": "Nordland gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2805": {
-    "translation": "Troms",
-    "notes": "Troms gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2806": {
-    "translation": "Finnmark",
-    "notes": "Finnmark gruppering",
-    "limit": "50"
-  },
-  "ForecastRegionKD_2999": {
-    "translation": "Unknown",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_300": {
-    "translation": "County not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3000": {
-    "translation": "Region not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3001": {
-    "translation": "Svalbard øst",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3002": {
-    "translation": "Svalbard vest",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3003": {
-    "translation": "Nordenskiöld Land",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3004": {
-    "translation": "Svalbard sør",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3005": {
-    "translation": "Øst-Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3006": {
-    "translation": "Finnmarkskysten",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3007": {
-    "translation": "Vest-Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3008": {
-    "translation": "Finnmarksvidda",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3009": {
-    "translation": "Nord-Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_301": {
-    "translation": "Østfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3010": {
-    "translation": "Lyngen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3011": {
-    "translation": "Tromsø",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3012": {
-    "translation": "Sør-Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3013": {
-    "translation": "Indre Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3014": {
-    "translation": "Lofoten og Vesterålen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3015": {
-    "translation": "Ofoten",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3016": {
-    "translation": "Salten",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3017": {
-    "translation": "Svartisen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3018": {
-    "translation": "Helgeland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3019": {
-    "translation": "Nord-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_302": {
-    "translation": "Akershus",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3020": {
-    "translation": "Sør-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3021": {
-    "translation": "Ytre Nordmøre",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3022": {
-    "translation": "Trollheimen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3023": {
-    "translation": "Romsdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3024": {
-    "translation": "Sunnmøre",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3025": {
-    "translation": "Nord-Gudbrandsdalen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3026": {
-    "translation": "Ytre Fjordane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3027": {
-    "translation": "Indre Fjordane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3028": {
-    "translation": "Jotunheimen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3029": {
-    "translation": "Indre Sogn",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_303": {
-    "translation": "Oslo",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3030": {
-    "translation": "Ytre Sogn",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3031": {
-    "translation": "Voss",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3032": {
-    "translation": "Hallingdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3033": {
-    "translation": "Hordalandskysten",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3034": {
-    "translation": "Hardanger",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3035": {
-    "translation": "Vest-Telemark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3036": {
-    "translation": "Rogalandskysten",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3037": {
-    "translation": "Heiane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3038": {
-    "translation": "Agder sør",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3039": {
-    "translation": "Telemark sør",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_304": {
-    "translation": "Hedmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3040": {
-    "translation": "Vestfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3041": {
-    "translation": "Buskerud sør",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3042": {
-    "translation": "Oppland sør",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3043": {
-    "translation": "Hedmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3044": {
-    "translation": "Akershus",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3045": {
-    "translation": "Oslo",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3046": {
-    "translation": "Østfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_305": {
-    "translation": "Oppland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_306": {
-    "translation": "Buskerud",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_307": {
-    "translation": "Vestfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_308": {
-    "translation": "Telemark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_309": {
-    "translation": "Aust-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_310": {
-    "translation": "Vest-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_311": {
-    "translation": "Rogaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_312": {
-    "translation": "Hordaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_314": {
-    "translation": "Sogn og Fjordane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_315": {
-    "translation": "Møre og Romsdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_316": {
-    "translation": "Sør-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_317": {
-    "translation": "Nord-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_318": {
-    "translation": "Nordland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_319": {
-    "translation": "Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_320": {
-    "translation": "Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_321": {
-    "translation": "Svalbard",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_322": {
-    "translation": "Jan Mayen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_323": {
-    "translation": "Kontinentalsokkelen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3500": {
-    "translation": "Svalbard",
-    "notes": "Svalbard hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3501": {
-    "translation": "Troms og Finnmark",
-    "notes": "Troms og Finnmark hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3502": {
-    "translation": "Nordland",
-    "notes": "Nordland hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3503": {
-    "translation": "Nord-vestlandet",
-    "notes": "Nord-vestlandet hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3504": {
-    "translation": "Vestlandet",
-    "notes": "Vestlandet hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3505": {
-    "translation": "Langfjellan",
-    "notes": "Langfjellan hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3506": {
-    "translation": "Sør-Norge",
-    "notes": "Sør-Norge hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_3507": {
-    "translation": "Østlandet",
-    "notes": "Østlandet hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_399": {
-    "translation": "Unknown",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_400": {
-    "translation": "County not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_401": {
-    "translation": "Østfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_402": {
-    "translation": "Akershus",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_403": {
-    "translation": "Oslo",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_404": {
-    "translation": "Hedmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_405": {
-    "translation": "Oppland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_406": {
-    "translation": "Buskerud",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_407": {
-    "translation": "Vestfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_408": {
-    "translation": "Telemark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_409": {
-    "translation": "Aust-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_410": {
-    "translation": "Vest-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_411": {
-    "translation": "Rogaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_412": {
-    "translation": "Hordaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_414": {
-    "translation": "Sogn og Fjordane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_415": {
-    "translation": "Møre og Romsdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_416": {
-    "translation": "Sør-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_417": {
-    "translation": "Nord-Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_418": {
-    "translation": "Nordland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_419": {
-    "translation": "Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_420": {
-    "translation": "Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_421": {
-    "translation": "Svalbard",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_422": {
-    "translation": "Jan Mayen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_423": {
-    "translation": "Kontinentalsokkelen",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_499": {
-    "translation": "Unknown",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_700": {
-    "translation": "County not given",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_701": {
-    "translation": "Østfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_702": {
-    "translation": "Akershus",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_703": {
-    "translation": "Oslo",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_704": {
-    "translation": "Hedmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_705": {
-    "translation": "Oppland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_706": {
-    "translation": "Buskerud",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_707": {
-    "translation": "Vestfold",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_708": {
-    "translation": "Telemark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_709": {
-    "translation": "Aust-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_710": {
-    "translation": "Vest-Agder",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_711": {
-    "translation": "Rogaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_712": {
-    "translation": "Hordaland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_714": {
-    "translation": "Sogn og Fjordane",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_715": {
-    "translation": "Møre og Romsdal",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_718": {
-    "translation": "Nordland",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_719": {
-    "translation": "Troms",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_720": {
-    "translation": "Finnmark",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_721": {
-    "translation": "Svalbard",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_750": {
-    "translation": "Trøndelag",
-    "notes": "",
-    "limit": "50"
-  },
-  "ForecastRegionKD_801": {
-    "translation": "Trøndelag - Møre og Romsdal",
-    "notes": "Trøndelag - Møre og Romsdal hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_802": {
-    "translation": "Sogn og Fjordane – Hordaland",
-    "notes": "Sogn og Fjordane – Hordaland hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_803": {
-    "translation": "Rogaland – Agder",
-    "notes": "Rogaland – Agder hoved-region",
-    "limit": "50"
-  },
-  "ForecastRegionKD_804": {
-    "translation": "Østlandet",
-    "notes": "Østlandet hoved-region",
-    "limit": "50"
-  },
-  "MarkingReferenceKD_4": {
-    "translation": "sur la bâtiment",
-    "notes": "Building",
-    "limit": "100"
-  },
-  "MarkingReferenceKD_4_desc": {
-    "translation": "Bâtiment",
-    "notes": "on building",
-    "limit": "1024"
-  },
-  "MarkingReferenceKD_5": {
-    "translation": "Sur le pieu",
-    "notes": "Pole",
-    "limit": "100"
-  },
-  "MarkingReferenceKD_5_desc": {
-    "translation": "Sur le pieu",
-    "notes": "Pole",
-    "limit": "1024"
-  },
-  "MarkingReferenceKD_6": {
-    "translation": "sur autre chose",
-    "notes": "other",
-    "limit": "100"
-  },
-  "MarkingReferenceKD_6_desc": {
-    "translation": "sur autre chose",
-    "notes": "other",
-    "limit": "1024"
-  },
-  "MarkingTypeKD_2": {
-    "translation": "Marqueur",
-    "notes": "Marker",
-    "limit": "100"
-  },
-  "MarkingTypeKD_2_desc": {
-    "translation": "Marqueur",
-    "notes": "Marker",
-    "limit": "1024"
-  },
-  "MarkingTypeKD_3": {
-    "translation": "Clou",
-    "notes": "Nail",
-    "limit": "100"
-  },
-  "MarkingTypeKD_3_desc": {
-    "translation": "Clou",
-    "notes": "Nail",
-    "limit": "1024"
-  },
-  "MarkingTypeKD_4": {
-    "translation": "Gravé",
-    "notes": "Carving",
-    "limit": "100"
-  },
-  "MarkingTypeKD_4_desc": {
-    "translation": "Gravé",
-    "notes": "Carving",
-    "limit": "1024"
-  },
-  "MarkingTypeKD_5": {
-    "translation": "D'autre",
-    "notes": "Other",
-    "limit": "100"
-  },
-  "MarkingTypeKD_5_desc": {
-    "translation": "D'autre",
-    "notes": "Other",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_0": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_0_desc": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_1": {
-    "translation": "Sol",
-    "notes": "Ground",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_1_desc": {
-    "translation": "Sol",
-    "notes": "Ground",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_2": {
-    "translation": "Digue de protection",
-    "notes": "Flood embankment",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_2_desc": {
-    "translation": "Digue de protection",
-    "notes": "Flood embankment",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_3": {
-    "translation": "Sol",
-    "notes": "Floor",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_3_desc": {
-    "translation": "Sol",
-    "notes": "Floor",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_4": {
-    "translation": "Pont",
-    "notes": "Bridge",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_4_desc": {
-    "translation": "Pont",
-    "notes": "Bridge",
-    "limit": "1024"
-  },
-  "MeasurementReferenceKD_5": {
-    "translation": "D'autre",
-    "notes": "Other",
-    "limit": "100"
-  },
-  "MeasurementReferenceKD_5_desc": {
-    "translation": "D'autre",
-    "notes": "Other",
-    "limit": "1024"
-  },
-  "MeasurementTypeKD_0": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "100"
-  },
-  "MeasurementTypeKD_0_desc": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "1024"
-  },
-  "MeasurementTypeKD_1": {
-    "translation": "Relativement à la marque",
-    "notes": "Relative to marking",
-    "limit": "100"
-  },
-  "MeasurementTypeKD_2": {
-    "translation": "Bâton de mesure",
-    "notes": "measuring stick",
-    "limit": "100"
-  },
-  "MeasurementTypeKD_2_desc": {
-    "translation": "Bâton de mesure",
-    "notes": "Measuring stick",
-    "limit": "1024"
-  },
-  "MeasurementTypeKD_3": {
-    "translation": "Instrument de mesure",
-    "notes": "measuring tool",
-    "limit": "100"
-  },
-  "MeasurementTypeKD_3_desc": {
-    "translation": "Instrument de mesure",
-    "notes": "Measuring tool",
-    "limit": "1024"
-  },
-  "ObservationTimingKD_0": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "100"
-  },
-  "ObservationTimingKD_0_desc": {
-    "translation": "Inconnu",
-    "notes": "Unknown",
-    "limit": "1024"
-  },
-  "ObservationTimingKD_1": {
-    "translation": "Trace de l'eau précédemment",
-    "notes": "Earlier water trace",
-    "limit": "100"
-  },
-  "ObservationTimingKD_1_desc": {
-    "translation": "Trace de l'eau précédemment",
-    "notes": "Trace of earlier water level",
-    "limit": "1024"
-  },
-  "ObservationTimingKD_2": {
-    "translation": "Niveau d'eau courant",
-    "notes": "Current water level",
-    "limit": "100"
-  },
-  "ObservationTimingKD_2_desc": {
-    "translation": "Niveau d'eau courant",
-    "notes": "Current water level",
-    "limit": "1024"
-  },
-  "PrecipitationKD_0": {
-    "translation": "Pas observé",
-    "notes": "",
-    "limit": "30"
-  },
-  "PrecipitationKD_1": {
-    "translation": "Pas de précipitation",
-    "notes": "",
-    "limit": "30"
-  },
-  "PrecipitationKD_2": {
-    "translation": "Bruine",
-    "notes": "",
-    "limit": "30"
-  },
-  "PrecipitationKD_3": {
-    "translation": "Pluie",
-    "notes": "",
-    "limit": "30"
-  }
+    "AnticipatedObservationTimeKD_10_desc": {
+        "translation": "08:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_100_desc": {
+        "translation": "18:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_110_desc": {
+        "translation": "20:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_120_desc": {
+        "translation": "22:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_20_desc": {
+        "translation": "09:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_30_desc": {
+        "translation": "10:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_40_desc": {
+        "translation": "11:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_50_desc": {
+        "translation": "12:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_60_desc": {
+        "translation": "13:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_70_desc": {
+        "translation": "14:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_80_desc": {
+        "translation": "15:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "AnticipatedObservationTimeKD_90_desc": {
+        "translation": "16:00",
+        "notes": "",
+        "limit": "1024"
+    },
+    "CompetenceLevelKD_100": {
+        "translation": "-",
+        "notes": "Unknown for snow.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_110": {
+        "translation": "*",
+        "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_115": {
+        "translation": "**",
+        "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_120": {
+        "translation": "***",
+        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_130": {
+        "translation": "****",
+        "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_150": {
+        "translation": "*****",
+        "notes": "Observer is an avalanche forecaster.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_200": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_210": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_220": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_230": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_240": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_250": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_300": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_310": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_320": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_330": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_340": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_350": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_400": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_410": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_420": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_430": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_440": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_450": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_600": {
+        "translation": "-",
+        "notes": "Unknown competance.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_610": {
+        "translation": "*",
+        "notes": "Observer has submitted relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_620": {
+        "translation": "**",
+        "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_630": {
+        "translation": "***",
+        "notes": "Professional with several relevant observations.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_640": {
+        "translation": "****",
+        "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_650": {
+        "translation": "*****",
+        "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_700": {
+        "translation": "-",
+        "notes": "Unkown for ice.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_710": {
+        "translation": "*",
+        "notes": "Beginner.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_720": {
+        "translation": "**",
+        "notes": "Experienced observer.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_730": {
+        "translation": "***",
+        "notes": "Educated observer with field experience.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_740": {
+        "translation": "****",
+        "notes": "Educated personel.",
+        "limit": "30"
+    },
+    "CompetenceLevelKD_750": {
+        "translation": "*****",
+        "notes": "Educated personel in NVE or eqivalent.",
+        "limit": "30"
+    },
+    "ForecastRegionKD_0": {
+        "translation": "Not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1000": {
+        "translation": "Completely unknown SE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1001": {
+        "translation": "Treriksröset - Torne Träsk ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1002": {
+        "translation": "Riksgränsenfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1003": {
+        "translation": "Abisko, Torne Träsk ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1004": {
+        "translation": "Kebnekaise ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1005": {
+        "translation": "Västra Gällivarefjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1006": {
+        "translation": "Östra Gällivarefjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1007": {
+        "translation": "Västra Jokkmokksfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1008": {
+        "translation": "Östra Jokkmokksfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1009": {
+        "translation": "Västra Arjeplogsfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1010": {
+        "translation": "Östra Arjeplogsfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1011": {
+        "translation": "Västra Vindel- och Tärnafjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1012": {
+        "translation": "Östra Vindel- och Tärnafjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1013": {
+        "translation": "Stekenjokksfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1014": {
+        "translation": "Marsfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1015": {
+        "translation": "Hotagen-Frostviken ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1016": {
+        "translation": "Flatruet, Helags, Sylarna, Storlien",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1017": {
+        "translation": "Åre, Vålådalen, Oviksfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1018": {
+        "translation": "Ljungdalen, Funäsdalen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1019": {
+        "translation": "Klövsjö, Vemdalen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1020": {
+        "translation": "Idre, Grövelsjön ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_1021": {
+        "translation": "Sälenfjällen ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_200": {
+        "translation": "County not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2001": {
+        "translation": "HALDENVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2002": {
+        "translation": "GLOMMAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2003": {
+        "translation": "MOSSEVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2004": {
+        "translation": "HØLENELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2005": {
+        "translation": "NESODDEN OG BUNNEFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2006": {
+        "translation": "NORDMARKVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2007": {
+        "translation": "LYSAKERELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2008": {
+        "translation": "SANDVIKSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2009": {
+        "translation": "ÅROSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2010": {
+        "translation": "HURUMLANDET ØST OG SØR",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2011": {
+        "translation": "LIERELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2012": {
+        "translation": "DRAMMENSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2013": {
+        "translation": "SANDEVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2014": {
+        "translation": "AULIVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2015": {
+        "translation": "NUMEDALSLÅGEN OG SILJANVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2016": {
+        "translation": "SKIENSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2017": {
+        "translation": "KRAGERØVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2018": {
+        "translation": "VEGÅRSVASSDRAGET OG GJERSTADVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2019": {
+        "translation": "ARENDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2020": {
+        "translation": "TOVDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2021": {
+        "translation": "OTRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2022": {
+        "translation": "MANDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2023": {
+        "translation": "AUDNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2024": {
+        "translation": "LYGNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2025": {
+        "translation": "KVINA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2026": {
+        "translation": "SIRA OG SOKNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2027": {
+        "translation": "BJERKREIMVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2028": {
+        "translation": "FIGGJO",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2029": {
+        "translation": "STAVANGER OG SANDNES KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_203": {
+        "translation": "Oslo",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2030": {
+        "translation": "FRAFJORDELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2031": {
+        "translation": "LYSEVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2032": {
+        "translation": "JØRPELANDSÅNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2033": {
+        "translation": "ÅRDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2034": {
+        "translation": "RYFYLKEØYANE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2035": {
+        "translation": "ULLA OG FØRREELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2036": {
+        "translation": "SULDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2037": {
+        "translation": "SAUDAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2038": {
+        "translation": "VIKEDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2039": {
+        "translation": "KYST NEDSTRAND-HAUGESUND-TITTELSNES",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2040": {
+        "translation": "KARMØY",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2041": {
+        "translation": "ETNEVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2042": {
+        "translation": "BLÅELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2043": {
+        "translation": "BØMLO",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2044": {
+        "translation": "STORDØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2045": {
+        "translation": "HARDANGERFJORDEN ØST: SUNDE-ÆNES",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2046": {
+        "translation": "MAURANGERFJORDEN OG SILDEFJORDEN ØST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2047": {
+        "translation": "SAMLAFJORDEN SØR OG JONDAL KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2048": {
+        "translation": "OPO",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2049": {
+        "translation": "TYSSO",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2050": {
+        "translation": "EIDFJORDVASSDRAGET, KINSO OG SIMA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2051": {
+        "translation": "OSAFJORDEN, ULVIKFJORDEN OG EIDFJORDEN NORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2052": {
+        "translation": "GRANVINFJORDEN OG SAMLAFJORDEN NORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2053": {
+        "translation": "SÆVAREIDELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2054": {
+        "translation": "TYSNES OG AUSTEVOLL KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2055": {
+        "translation": "SAMNANGERVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2056": {
+        "translation": "BERGEN OG OMEGN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2057": {
+        "translation": "SOTRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2058": {
+        "translation": "ØYGARDEN KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2059": {
+        "translation": "ASKØYA OG HOLSNØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2060": {
+        "translation": "OSTERØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2061": {
+        "translation": "BERGSDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2062": {
+        "translation": "VOSSOVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2063": {
+        "translation": "EKSINGEDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2064": {
+        "translation": "STEINSLANDSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2065": {
+        "translation": "LINDÅSHALVØYA, SEIMSFJORDEN OG AUSTFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2066": {
+        "translation": "FOSNØYA, RADØYA OG FEDJE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2067": {
+        "translation": "MASFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2068": {
+        "translation": "SOGNESJØEN SØR",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2069": {
+        "translation": "YTRE SOGNEFJORDEN SØR: RUTLEDAL-VARMRÅK",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2070": {
+        "translation": "VIKSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2071": {
+        "translation": "NÆRØYELVI",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2072": {
+        "translation": "AURLANDSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2073": {
+        "translation": "LÆRDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2074": {
+        "translation": "ÅRDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2075": {
+        "translation": "FORTUNVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2076": {
+        "translation": "JOSTEDØLA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2077": {
+        "translation": "ÅRØYVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2078": {
+        "translation": "VETLEFJORDEN OG FJÆRLANDSFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2079": {
+        "translation": "HØYANGERVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2080": {
+        "translation": "YTRE SOGNEFJORDEN NORD: KYRKJEBØ-RISNES",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2081": {
+        "translation": "SOLUND KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2082": {
+        "translation": "GUDDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2083": {
+        "translation": "GAULARVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2084": {
+        "translation": "JØLSTRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2085": {
+        "translation": "OSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2086": {
+        "translation": "GJENGEDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2087": {
+        "translation": "BREIMSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2088": {
+        "translation": "STRYNVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2089": {
+        "translation": "HORNINDALVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2090": {
+        "translation": "BREMANGERLANDET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2091": {
+        "translation": "SILDEGAPET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2092": {
+        "translation": "GUSDALELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2093": {
+        "translation": "ROVDEFJORDEN SØR OG SYVDEFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2094": {
+        "translation": "STIGEDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2095": {
+        "translation": "ØRSTAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2096": {
+        "translation": "HAREIDLANDET OG GURSKØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2097": {
+        "translation": "STORFJORDEN SØR, HJØRUNDFJORDEN OG SYKKYLVSFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2098": {
+        "translation": "STORFJORDEN SØR, SUNNYLVSFJORDEN OG GEIRANGERFJORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2099": {
+        "translation": "TAFJORDVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2100": {
+        "translation": "VALLDØLA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2101": {
+        "translation": "ÅLESUND OG OMEGN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2102": {
+        "translation": "MIDTFJORDEN SØR OG ROMSDALSFJORDEN VEST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2103": {
+        "translation": "RAUMA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2104": {
+        "translation": "EIRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2105": {
+        "translation": "GUSJÅVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2106": {
+        "translation": "AUKRA, MISUND OG SANDØY KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2107": {
+        "translation": "FRÆNFJORDEN, JULSUNDET OG HUSTADVIKA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2108": {
+        "translation": "KORNSTADFJORDEN OG BATNFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2109": {
+        "translation": "DRIVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_211": {
+        "translation": "Rogaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2110": {
+        "translation": "AVERØY, FREI OG KRISTIANDSUND KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2111": {
+        "translation": "KYST TINGVOLLFJORDEN-SURNADALSFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2112": {
+        "translation": "SURNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2113": {
+        "translation": "FJELNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2114": {
+        "translation": "TUSTNA KOMMUNE OG ERTVÅGØY",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2115": {
+        "translation": "SMØLA KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2116": {
+        "translation": "RØSTA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2117": {
+        "translation": "HITRA KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2118": {
+        "translation": "FRØYA KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2119": {
+        "translation": "TRONDHEIMSLEIA ØST: STAMNES-AGDENES FYR",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2120": {
+        "translation": "YTRE TRONDHEIMSFJORDEN: AGDENES FYR-GEITANESET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2121": {
+        "translation": "ORKLA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2122": {
+        "translation": "GAULA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2123": {
+        "translation": "NIDELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2124": {
+        "translation": "STJØRDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2125": {
+        "translation": "ÅSENFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2126": {
+        "translation": "TRONDHEIMSFJORDEN ØST: FROSTA-VERDALSØRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2127": {
+        "translation": "VERDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2128": {
+        "translation": "SNÅSAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2129": {
+        "translation": "FOLLAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2130": {
+        "translation": "VERRANSUNDET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2131": {
+        "translation": "TRONDHEIMSFJORDEN VEST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2132": {
+        "translation": "SKAUDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2133": {
+        "translation": "STJØRNFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2134": {
+        "translation": "TEKSDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2135": {
+        "translation": "STORDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2136": {
+        "translation": "HOFSTADELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2137": {
+        "translation": "OSEN OG FLATANGER KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2138": {
+        "translation": "ÅRGÅRDSVASSDRAGET OG BOGNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2139": {
+        "translation": "NAMSEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2140": {
+        "translation": "SALSVATNVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2141": {
+        "translation": "OPPLØYVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2142": {
+        "translation": "INDRE FOLDA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2143": {
+        "translation": "VIKNA OG KYST FOLDFJORDEN-BINDALSFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2144": {
+        "translation": "ÅBJØRA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2145": {
+        "translation": "BINDALSFJORDEN NORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2146": {
+        "translation": "KYST RØYINGEN-VELFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2147": {
+        "translation": "VEGA KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2148": {
+        "translation": "LOMSDALSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2149": {
+        "translation": "VISTEN, HALSFJORDEN OG YTRE VEFSNFJORDEN ØST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_215": {
+        "translation": "Møre og Romsdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2150": {
+        "translation": "ALSTEN OG TJØTTA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2151": {
+        "translation": "VEFSNA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2152": {
+        "translation": "FUSTA OG DREVJA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2153": {
+        "translation": "LEIRFJORD KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2154": {
+        "translation": "DØNNA OG HERØY KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2155": {
+        "translation": "RØSSÅGA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2156": {
+        "translation": "RANAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2157": {
+        "translation": "KYST UTSKARPEN-NESNA-TONNES",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2158": {
+        "translation": "ØYER I NESNA, LURØY OG TRÆNA KOMMUNER",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2159": {
+        "translation": "VESTRE SVARTISEN OG RØDØY KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2160": {
+        "translation": "FYKANÅGA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2161": {
+        "translation": "BEIARELVA, MORSDALSFJORDEN OG NORDFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2162": {
+        "translation": "SALTFJORDEN: NORDFJORDEN-SKJERSTAD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2163": {
+        "translation": "SALTELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2164": {
+        "translation": "SULITJELMAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2165": {
+        "translation": "KYST SALTSTRAUMEN-BODØ-TÅRNVIKFJELLET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2166": {
+        "translation": "FAGERBAKKVASSDRAGET OG LAKSÅGA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2167": {
+        "translation": "KOBBELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2168": {
+        "translation": "NORDFOLDA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2169": {
+        "translation": "YTRE DEL AV STEIGEN KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2170": {
+        "translation": "SAGELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2171": {
+        "translation": "HELLEMOVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2172": {
+        "translation": "FORSÅVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2173": {
+        "translation": "SKJOMAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2174": {
+        "translation": "INDRE OFOTFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2175": {
+        "translation": "OFOTFJORDEN NORD: TANGVIK-BOGEN-SELNES",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2176": {
+        "translation": "TJELDØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2177": {
+        "translation": "ØSTRE HINNØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2178": {
+        "translation": "VESTRE HINNØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2179": {
+        "translation": "VÅGAN KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_218": {
+        "translation": "Nordland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2180": {
+        "translation": "VESTVÅGØY KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2181": {
+        "translation": "FLAKSTADØYA OG MOSKENESØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2182": {
+        "translation": "VÆRØY KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2183": {
+        "translation": "RØST KOMMUNE",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2184": {
+        "translation": "HADSELØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2185": {
+        "translation": "LANGØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2186": {
+        "translation": "ANDØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2187": {
+        "translation": "GRYTØYA, BJARKØYA OG SANDSØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2188": {
+        "translation": "ROLLA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2189": {
+        "translation": "SKODDEBERGVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2190": {
+        "translation": "GRATANGEN OG LAVANGEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2191": {
+        "translation": "SALANGSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2192": {
+        "translation": "ANDØRJA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2193": {
+        "translation": "SKØELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2194": {
+        "translation": "LAKSELVA OG LYSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2195": {
+        "translation": "SENJA VEST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2196": {
+        "translation": "MÅLSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2197": {
+        "translation": "KVALØYA OG TROMSØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2198": {
+        "translation": "NORDKJOSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2199": {
+        "translation": "TROMSØYSUNDET OG GRØTSUNDET ØST, REINØYA OG KARLSØ",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2200": {
+        "translation": "RINGVASSØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2201": {
+        "translation": "REBBENESØYA, GRYTØYA, NORD-KVALØYA OG HELGØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2202": {
+        "translation": "VANNA OG NORD-FUGLØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2203": {
+        "translation": "LAKSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2204": {
+        "translation": "SIGNALDALSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2205": {
+        "translation": "SKIBOTNVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2206": {
+        "translation": "KÅFJORDVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2207": {
+        "translation": "ARNØYA OG LAUKØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2208": {
+        "translation": "REISAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2209": {
+        "translation": "KVÆNANGSVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_221": {
+        "translation": "Svalbard",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2210": {
+        "translation": "STORELVA/KVÆNANGEN NORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2211": {
+        "translation": "LOPPA KOMMUNE OG LANGFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2212": {
+        "translation": "ALTAVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2213": {
+        "translation": "REPPARFJORDVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2214": {
+        "translation": "STJERNØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2215": {
+        "translation": "SEILAND",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2216": {
+        "translation": "SØRØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2217": {
+        "translation": "KVALØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2218": {
+        "translation": "RUSSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2219": {
+        "translation": "INGØYA OG ROLVSØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2220": {
+        "translation": "NORDRE PORSANGERHALVØYA, MÅSØYA OG HJELMSØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2221": {
+        "translation": "MAGERØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2222": {
+        "translation": "VESTRE PORSANGEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2223": {
+        "translation": "STABBURSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2224": {
+        "translation": "LAKSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2225": {
+        "translation": "BØRSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2226": {
+        "translation": "ØSTRE PORSANGEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2227": {
+        "translation": "YTRE LAKSEFJORDEN VEST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2228": {
+        "translation": "STORELVA/INDRE LAKSEFJORDEN VEST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2229": {
+        "translation": "ADAMSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2230": {
+        "translation": "YTRE LAKSEFJORDEN ØST",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2231": {
+        "translation": "NORDKINNHALVØYA NORD",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2232": {
+        "translation": "HOPSFJORDEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2233": {
+        "translation": "LANGFJORDVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2234": {
+        "translation": "TANA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2235": {
+        "translation": "STORDALSELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2236": {
+        "translation": "KONGSFJORDVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2237": {
+        "translation": "VESTERELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2238": {
+        "translation": "SANDFJORDELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2239": {
+        "translation": "KOMAGELVA OG SKALLELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2240": {
+        "translation": "VESTRE JAKOBSELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2241": {
+        "translation": "BERGEBYELVA OG VESTERELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2242": {
+        "translation": "REPPENELVA OG NYELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2243": {
+        "translation": "KLOKKERELVVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2244": {
+        "translation": "NEIDENVASSDRAGET",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2245": {
+        "translation": "SKOGERØYA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2246": {
+        "translation": "PASVIKELVA",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2247": {
+        "translation": "GRENSE JAKOBSELV",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_230": {
+        "translation": "Viken",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2301": {
+        "translation": "KEMIJOKI",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2302": {
+        "translation": "TORNEELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2303": {
+        "translation": "LULEELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2304": {
+        "translation": "PITEELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2305": {
+        "translation": "SKELLEFTEELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2306": {
+        "translation": "UMEELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2307": {
+        "translation": "ÅNGERMANELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2308": {
+        "translation": "INDALSELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2309": {
+        "translation": "LJUSNAN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2310": {
+        "translation": "DALELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2311": {
+        "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT KLARAELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2312": {
+        "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT NORSELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2313": {
+        "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT BYELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2314": {
+        "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT UPPERUDSELVEN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2315": {
+        "translation": "STRØMSÅN",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_234": {
+        "translation": "Innlandet",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_238": {
+        "translation": "Vestfold og Telemark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_242": {
+        "translation": "Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_246": {
+        "translation": "Vestland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_250": {
+        "translation": "Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_254": {
+        "translation": "Troms og Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2800": {
+        "translation": "Østlandet",
+        "notes": "Østlandet gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2801": {
+        "translation": "Rogaland – Agder",
+        "notes": "Rogaland - Agder gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2802": {
+        "translation": "Sogn og Fjordane – Hordaland",
+        "notes": "Sogn og Fjordane – Hordaland gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2803": {
+        "translation": "Trøndelag – Møre og Romsdal",
+        "notes": "Trøndelag - Møre og Romsdal gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2804": {
+        "translation": "Nordland",
+        "notes": "Nordland gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2805": {
+        "translation": "Troms",
+        "notes": "Troms gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2806": {
+        "translation": "Finnmark",
+        "notes": "Finnmark gruppering",
+        "limit": "50"
+    },
+    "ForecastRegionKD_2999": {
+        "translation": "Unknown",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_300": {
+        "translation": "County not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3000": {
+        "translation": "Region not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3001": {
+        "translation": "Svalbard øst",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3002": {
+        "translation": "Svalbard vest",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3003": {
+        "translation": "Nordenskiöld Land",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3004": {
+        "translation": "Svalbard sør",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3005": {
+        "translation": "Øst-Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3006": {
+        "translation": "Finnmarkskysten",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3007": {
+        "translation": "Vest-Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3008": {
+        "translation": "Finnmarksvidda",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3009": {
+        "translation": "Nord-Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_301": {
+        "translation": "Østfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3010": {
+        "translation": "Lyngen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3011": {
+        "translation": "Tromsø",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3012": {
+        "translation": "Sør-Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3013": {
+        "translation": "Indre Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3014": {
+        "translation": "Lofoten og Vesterålen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3015": {
+        "translation": "Ofoten",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3016": {
+        "translation": "Salten",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3017": {
+        "translation": "Svartisen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3018": {
+        "translation": "Helgeland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3019": {
+        "translation": "Nord-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_302": {
+        "translation": "Akershus",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3020": {
+        "translation": "Sør-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3021": {
+        "translation": "Ytre Nordmøre",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3022": {
+        "translation": "Trollheimen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3023": {
+        "translation": "Romsdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3024": {
+        "translation": "Sunnmøre",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3025": {
+        "translation": "Nord-Gudbrandsdalen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3026": {
+        "translation": "Ytre Fjordane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3027": {
+        "translation": "Indre Fjordane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3028": {
+        "translation": "Jotunheimen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3029": {
+        "translation": "Indre Sogn",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_303": {
+        "translation": "Oslo",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3030": {
+        "translation": "Ytre Sogn",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3031": {
+        "translation": "Voss",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3032": {
+        "translation": "Hallingdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3033": {
+        "translation": "Hordalandskysten",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3034": {
+        "translation": "Hardanger",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3035": {
+        "translation": "Vest-Telemark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3036": {
+        "translation": "Rogalandskysten",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3037": {
+        "translation": "Heiane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3038": {
+        "translation": "Agder sør",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3039": {
+        "translation": "Telemark sør",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_304": {
+        "translation": "Hedmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3040": {
+        "translation": "Vestfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3041": {
+        "translation": "Buskerud sør",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3042": {
+        "translation": "Oppland sør",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3043": {
+        "translation": "Hedmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3044": {
+        "translation": "Akershus",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3045": {
+        "translation": "Oslo",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3046": {
+        "translation": "Østfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_305": {
+        "translation": "Oppland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_306": {
+        "translation": "Buskerud",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_307": {
+        "translation": "Vestfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_308": {
+        "translation": "Telemark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_309": {
+        "translation": "Aust-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_310": {
+        "translation": "Vest-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_311": {
+        "translation": "Rogaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_312": {
+        "translation": "Hordaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_314": {
+        "translation": "Sogn og Fjordane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_315": {
+        "translation": "Møre og Romsdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_316": {
+        "translation": "Sør-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_317": {
+        "translation": "Nord-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_318": {
+        "translation": "Nordland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_319": {
+        "translation": "Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_320": {
+        "translation": "Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_321": {
+        "translation": "Svalbard",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_322": {
+        "translation": "Jan Mayen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_323": {
+        "translation": "Kontinentalsokkelen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3500": {
+        "translation": "Svalbard",
+        "notes": "Svalbard hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3501": {
+        "translation": "Troms og Finnmark",
+        "notes": "Troms og Finnmark hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3502": {
+        "translation": "Nordland",
+        "notes": "Nordland hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3503": {
+        "translation": "Nord-vestlandet",
+        "notes": "Nord-vestlandet hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3504": {
+        "translation": "Vestlandet",
+        "notes": "Vestlandet hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3505": {
+        "translation": "Langfjellan",
+        "notes": "Langfjellan hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3506": {
+        "translation": "Sør-Norge",
+        "notes": "Sør-Norge hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_3507": {
+        "translation": "Østlandet",
+        "notes": "Østlandet hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_399": {
+        "translation": "Unknown",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_400": {
+        "translation": "County not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_401": {
+        "translation": "Østfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_402": {
+        "translation": "Akershus",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_403": {
+        "translation": "Oslo",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_404": {
+        "translation": "Hedmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_405": {
+        "translation": "Oppland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_406": {
+        "translation": "Buskerud",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_407": {
+        "translation": "Vestfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_408": {
+        "translation": "Telemark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_409": {
+        "translation": "Aust-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_410": {
+        "translation": "Vest-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_411": {
+        "translation": "Rogaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_412": {
+        "translation": "Hordaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_414": {
+        "translation": "Sogn og Fjordane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_415": {
+        "translation": "Møre og Romsdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_416": {
+        "translation": "Sør-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_417": {
+        "translation": "Nord-Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_418": {
+        "translation": "Nordland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_419": {
+        "translation": "Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_420": {
+        "translation": "Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_421": {
+        "translation": "Svalbard",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_422": {
+        "translation": "Jan Mayen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_423": {
+        "translation": "Kontinentalsokkelen",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_499": {
+        "translation": "Unknown",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_700": {
+        "translation": "County not given",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_701": {
+        "translation": "Østfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_702": {
+        "translation": "Akershus",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_703": {
+        "translation": "Oslo",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_704": {
+        "translation": "Hedmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_705": {
+        "translation": "Oppland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_706": {
+        "translation": "Buskerud",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_707": {
+        "translation": "Vestfold",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_708": {
+        "translation": "Telemark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_709": {
+        "translation": "Aust-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_710": {
+        "translation": "Vest-Agder",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_711": {
+        "translation": "Rogaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_712": {
+        "translation": "Hordaland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_714": {
+        "translation": "Sogn og Fjordane",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_715": {
+        "translation": "Møre og Romsdal",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_718": {
+        "translation": "Nordland",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_719": {
+        "translation": "Troms",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_720": {
+        "translation": "Finnmark",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_721": {
+        "translation": "Svalbard",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_750": {
+        "translation": "Trøndelag",
+        "notes": "",
+        "limit": "50"
+    },
+    "ForecastRegionKD_801": {
+        "translation": "Trøndelag - Møre og Romsdal",
+        "notes": "Trøndelag - Møre og Romsdal hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_802": {
+        "translation": "Sogn og Fjordane – Hordaland",
+        "notes": "Sogn og Fjordane – Hordaland hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_803": {
+        "translation": "Rogaland – Agder",
+        "notes": "Rogaland – Agder hoved-region",
+        "limit": "50"
+    },
+    "ForecastRegionKD_804": {
+        "translation": "Østlandet",
+        "notes": "Østlandet hoved-region",
+        "limit": "50"
+    },
+    "MarkingReferenceKD_4": {
+        "translation": "sur la bâtiment",
+        "notes": "Building",
+        "limit": "100"
+    },
+    "MarkingReferenceKD_4_desc": {
+        "translation": "Bâtiment",
+        "notes": "on building",
+        "limit": "1024"
+    },
+    "MarkingReferenceKD_5": {
+        "translation": "Sur le pieu",
+        "notes": "Pole",
+        "limit": "100"
+    },
+    "MarkingReferenceKD_5_desc": {
+        "translation": "Sur le pieu",
+        "notes": "Pole",
+        "limit": "1024"
+    },
+    "MarkingReferenceKD_6": {
+        "translation": "sur autre chose",
+        "notes": "other",
+        "limit": "100"
+    },
+    "MarkingReferenceKD_6_desc": {
+        "translation": "sur autre chose",
+        "notes": "other",
+        "limit": "1024"
+    },
+    "MarkingTypeKD_2": {
+        "translation": "Marqueur",
+        "notes": "Marker",
+        "limit": "100"
+    },
+    "MarkingTypeKD_2_desc": {
+        "translation": "Marqueur",
+        "notes": "Marker",
+        "limit": "1024"
+    },
+    "MarkingTypeKD_3": {
+        "translation": "Clou",
+        "notes": "Nail",
+        "limit": "100"
+    },
+    "MarkingTypeKD_3_desc": {
+        "translation": "Clou",
+        "notes": "Nail",
+        "limit": "1024"
+    },
+    "MarkingTypeKD_4": {
+        "translation": "Gravé",
+        "notes": "Carving",
+        "limit": "100"
+    },
+    "MarkingTypeKD_4_desc": {
+        "translation": "Gravé",
+        "notes": "Carving",
+        "limit": "1024"
+    },
+    "MarkingTypeKD_5": {
+        "translation": "D'autre",
+        "notes": "Other",
+        "limit": "100"
+    },
+    "MarkingTypeKD_5_desc": {
+        "translation": "D'autre",
+        "notes": "Other",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_0": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_0_desc": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_1": {
+        "translation": "Sol",
+        "notes": "Ground",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_1_desc": {
+        "translation": "Sol",
+        "notes": "Ground",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_2": {
+        "translation": "Digue de protection",
+        "notes": "Flood embankment",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_2_desc": {
+        "translation": "Digue de protection",
+        "notes": "Flood embankment",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_3": {
+        "translation": "Sol",
+        "notes": "Floor",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_3_desc": {
+        "translation": "Sol",
+        "notes": "Floor",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_4": {
+        "translation": "Pont",
+        "notes": "Bridge",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_4_desc": {
+        "translation": "Pont",
+        "notes": "Bridge",
+        "limit": "1024"
+    },
+    "MeasurementReferenceKD_5": {
+        "translation": "D'autre",
+        "notes": "Other",
+        "limit": "100"
+    },
+    "MeasurementReferenceKD_5_desc": {
+        "translation": "D'autre",
+        "notes": "Other",
+        "limit": "1024"
+    },
+    "MeasurementTypeKD_0": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "100"
+    },
+    "MeasurementTypeKD_0_desc": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "1024"
+    },
+    "MeasurementTypeKD_1": {
+        "translation": "Relativement à la marque",
+        "notes": "Relative to marking",
+        "limit": "100"
+    },
+    "MeasurementTypeKD_2": {
+        "translation": "Bâton de mesure",
+        "notes": "measuring stick",
+        "limit": "100"
+    },
+    "MeasurementTypeKD_2_desc": {
+        "translation": "Bâton de mesure",
+        "notes": "Measuring stick",
+        "limit": "1024"
+    },
+    "MeasurementTypeKD_3": {
+        "translation": "Instrument de mesure",
+        "notes": "measuring tool",
+        "limit": "100"
+    },
+    "MeasurementTypeKD_3_desc": {
+        "translation": "Instrument de mesure",
+        "notes": "Measuring tool",
+        "limit": "1024"
+    },
+    "ObservationTimingKD_0": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "100"
+    },
+    "ObservationTimingKD_0_desc": {
+        "translation": "Inconnu",
+        "notes": "Unknown",
+        "limit": "1024"
+    },
+    "ObservationTimingKD_1": {
+        "translation": "Trace de l'eau précédemment",
+        "notes": "Earlier water trace",
+        "limit": "100"
+    },
+    "ObservationTimingKD_1_desc": {
+        "translation": "Trace de l'eau précédemment",
+        "notes": "Trace of earlier water level",
+        "limit": "1024"
+    },
+    "ObservationTimingKD_2": {
+        "translation": "Niveau d'eau courant",
+        "notes": "Current water level",
+        "limit": "100"
+    },
+    "ObservationTimingKD_2_desc": {
+        "translation": "Niveau d'eau courant",
+        "notes": "Current water level",
+        "limit": "1024"
+    },
+    "PrecipitationKD_0": {
+        "translation": "Pas observé",
+        "notes": "",
+        "limit": "30"
+    },
+    "PrecipitationKD_1": {
+        "translation": "Pas de précipitation",
+        "notes": "",
+        "limit": "30"
+    },
+    "PrecipitationKD_2": {
+        "translation": "Bruine",
+        "notes": "",
+        "limit": "30"
+    },
+    "PrecipitationKD_3": {
+        "translation": "Pluie",
+        "notes": "",
+        "limit": "30"
+    }
 }
