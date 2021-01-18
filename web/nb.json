@@ -1,6 +1,11 @@
 {
   "About": {
+    "License1": "data norge",
+    "License2": "creative commons.",
     "Para1": "Regobs gjør det mulig for alle å bidra med og bruke data, også via API. Regobs brukes av Snøskredvarslingen, Isvarslingen og Flom- og jordskredvarslingen ved NVE. Regobs brukes også av privatpersoner og andre organisasjoner som gjør farevurderinger.",
+    "Para10": "Navngivelse av data fra en bestemt kilde (for eksempel et bilde eller én observasjon) henvises det til den aktuelle observatøren og Regobs.",
+    "Para11": "Les mer om vilkår for bruk ",
+    "Para12": "her.",
     "Para2": "Regobs behandler data som ferskvare. Når data er registrert så er observasjonene tilgjengelig for alle å lese. Observasjoner kan kun endres eller slettes inntil 48 timer etter at de er registrert.",
     "Para3": "Bruk observasjonene og kartene på eget ansvar. Det kan forekomme feil og mangler.",
     "Para4": "Data på Regobs produseres av brukerne og foreligger 'som den er'. Den kan inneholde feil og utelatelser. NVE har ikke ansvar for feil, mangler og vurderinger som produseres av brukerne.",
@@ -8,41 +13,36 @@
     "Para6": "Kallenavn er et navn som er synlig for alle og assosierer deg med observasjoner du gjør. Du kan velge deg et navn som tilkjennegir deg eller anonymiserer deg som du selv ønsker. Du kan når som helst endre kallenavnet ditt.",
     "Para7": "En bruker kan slette seg på NVE-konto, i så fall endres kallenavnet på alle observasjoner lagt inn av brukeren til «anonym». Observasjonene forblir tilgjengelig i Regobs.",
     "Para8": "Regobs data er lisensiert under Norsk lisens for offentlige data (NLOD) som er kompatibel med CC Navngivelse 4.0 Norge (CC BY 4.0). Lisensteksten finner du på ",
-    "License1": "data norge",
-    "Para9": " og ",
-    "License2": "creative commons.",
-    "Para10": "Navngivelse av data fra en bestemt kilde (for eksempel et bilde eller én observasjon) henvises det til den aktuelle observatøren og Regobs.",
-    "Para11": "Les mer om vilkår for bruk ",
-    "Para12": "her."
+    "Para9": " og "
   },
   "AddObsDetails": {
     "Add": "Legg til",
     "HideHelptext": "Skjul hjelpeteksten"
   },
   "Analytics": {
-    "ConsentPopupHeader": "Informasjonskapsler (cookies)",
-    "ConsentPopupDescription": "Vi bruker informasjonskapsler på denne nettsiden for statistikkformål. Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
-    "ConsentPopupReadMoreLink": "Les mer om hvordan du kan tilpasse bruken.",
-    "ConsentPopupAcceptButton": "Godta",
-    "ConsentPopupSettingsButton": "Mine valg",
+    "AboutPageAcceptGoogleAnalytics": "Aksepter Google Analytics",
+    "AboutPageGetMoreInformation": "Få mer informasjon om dette i <a href=\"https://www.nve.no/nves-personvernerklaering/\">NVEs personvernerklærling</a>",
     "AboutPageHeader": "Informasjonskapsler",
     "AboutPageText": "<h3>Om bruk av informasjonskapsler</h3><p>Regobs benytter seg av såkalte informasjonskapsler eller cookies for å bedre din brukeropplevelse når du besøker nettsidene. En informasjonskapsel er en tekstfil som ved besøk på eller interaksjon med en nettside legges i din nettlesers internminne. Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.</p><h3>Tilpass selv</h3><p>De fleste nettlesere er innstilt på å akseptere informasjonskapsler automatisk, men du kan selv velge å endre innstillingene slik at informasjonskapsler ikke blir akseptert. Vi gjør oppmerksom på at dette vil kunne føre til at Regobs ikke vil fungere optimalt. Nettsiden nettvett.no forklarer hvordan du selv kan administrere informasjonskapsler.</p>",
-    "AboutPageAcceptGoogleAnalytics": "Aksepter Google Analytics",
-    "CookiesTableNameLabel": "Navn",
+    "ConsentPopupAcceptButton": "Godta",
+    "ConsentPopupDescription": "Vi bruker informasjonskapsler på denne nettsiden for statistikkformål. Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
+    "ConsentPopupHeader": "Informasjonskapsler (cookies)",
+    "ConsentPopupReadMoreLink": "Les mer om hvordan du kan tilpasse bruken.",
+    "ConsentPopupSettingsButton": "Mine valg",
+    "CookieEndOfSessionExpirationTime": "Sesjonslutt",
+    "CookieOneDayExpirationTime": "24 timer",
+    "CookieRequiredForLogin": "Nødvendig for innlogging",
+    "CookiesTableDataProcessorLabel": "Databehandler",
     "CookiesTableDescriptionLabel": "Bruk",
     "CookiesTableDomainLabel": "Domene",
-    "CookiesTableDataProcessorLabel": "Databehandler",
-    "CookiesTableSavedTimeLabel": "Varighet",
+    "CookiesTableNameLabel": "Navn",
     "CookiesTableNonEssentialLabel": "Frivillig",
-    "AboutPageGetMoreInformation": "Få mer informasjon om dette i <a href=\"https://www.nve.no/nves-personvernerklaering/\">NVEs personvernerklærling</a>",
+    "CookiesTableSavedTimeLabel": "Varighet",
+    "CookieTwoYearsExpirationTime": "2 år",
     "GoogleAnalyticsCookieDescription": "Skiller mellom brukere i Google Analytics. Brukes til å beregne statistikk for bruk av nettsiden.",
     "GoogleAnalyticsSessionCookieDescription": "Skiller mellom brukersesjoner i Google Analytics. Brukes til å beregne statistikk for bruk av nettsiden.",
-    "NveAccountSSOCookieDescription": "Brukes til å opprettholde SSO-sesjonen.",
     "NveAccountCRSFCookieDescription": "\"Cross-Site Request Forgery token\" til CRSF beskyttelse.",
-    "CookieEndOfSessionExpirationTime": "Sesjonslutt",
-    "CookieTwoYearsExpirationTime": "2 år",
-    "CookieOneDayExpirationTime": "24 timer",
-    "CookieRequiredForLogin": "Nødvendig for innlogging"
+    "NveAccountSSOCookieDescription": "Brukes til å opprettholde SSO-sesjonen."
   },
   "AppearanceName": "Utseende:",
   "Attachment": {
@@ -76,6 +76,12 @@
     "SOUTH_WEST_SHORT": "SV",
     "WEST": "Vest",
     "WEST_SHORT": "V"
+  },
+  "Cookies": {
+    "AboutUseFirstParagraph": "Regobs benytter seg av såkalte informasjonskapsler eller cookies for å bedre din brukeropplevelse når du besøker nettsidene. En informasjonskapsel er en tekstfil som ved besøk på eller interaksjon med en nettside lagres på din datamaskin.",
+    "AboutUseSecondParagraph": "Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
+    "CustomizeDescription": "Som for innloggingstjenesten NVE-konto kan man også i Regobs tilpasse informasjonskapsler i nettlesere. Les mer ",
+    "CustomizeLink": "her."
   },
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Antall",
@@ -154,7 +160,6 @@
     "LoadObservartionsError": "Noe galt skjedde ved lasting av observasjoner!"
   },
   "Footer": {
-    "CookiesLink": "Informasjonskapsler",
     "AboutDataInRegObs": "Om data og vilkår for bruk",
     "AboutRegObsHeader": "Om Varsom Regobs",
     "BeAwareThat": "Vær oppmerksom på at ting som haster best tas med varslingstjeneste direkte eller på facebookgruppen.",
@@ -164,6 +169,7 @@
     "ContactIndividual1": "varslingstjenesten",
     "ContactIndividual2": " du bruker Regobs til.",
     "ContactUsHeader": "Kontakt oss",
+    "CookiesLink": "Informasjonskapsler",
     "FeedbackForm1": "Du kan benytte et ",
     "FeedbackForm2": "skjema",
     "FeedbackForm3": " for å gi oss tilbakemeldinger på tjenesten.",
@@ -269,14 +275,14 @@
     "SupportWeakenedIceDescription": "Støttekartet viser deler av vassdrag som oppfører seg uforutsigbart gjennom vinteren grunnet reguleringer for kraftproduksjon",
     "SupportWeakenedIceName": "Svekket is",
     "Water": {
-      "10YearFlood": "10-årsflom",
-      "20YearFlood": "20-årsflom",
-      "50YearFlood": "50-årsflom",
+      "1000YearFlood": "1000-årsflom",
       "100YearFlood": "100-årsflom",
+      "10YearFlood": "10-årsflom",
       "200YearFlood": "200-årsflom",
       "200YearFloodClimate": "200-årsflom (klima)",
+      "20YearFlood": "20-årsflom",
       "500YearFlood": "500-årsflom",
-      "1000YearFlood": "1000-årsflom",
+      "50YearFlood": "50-årsflom",
       "AjourRecognized": "Ajourført",
       "Current": "Gjeldende",
       "ForReview": "Til ny vurdering",
@@ -542,8 +548,8 @@
       "IsEqualToIceSurface": "er likt med isoverflaten",
       "LowerThanIceSurface": "lavere enn isoverflaten ",
       "ObsName": "Istykkelse",
-      "OverIce": "Over isen ",
       "OnIce": "Oppå isen",
+      "OverIce": "Over isen ",
       "OverWaterAfterDrilling": "Overvann etter boring",
       "OverWaterBeforeDrilling": "Overvann før boring",
       "SlushSnowBeforeDrilling": "Sørpe før boring (cm)",
@@ -794,6 +800,9 @@
   },
   "Of": "av",
   "Ok": "Ok",
+  "PageTitle": {
+    "Main": "Varsom Regobs – en tjeneste fra NVE, i samarbeid med Statens vegvesen og MET"
+  },
   "Password": "Passord",
   "picture": "bilde",
   "PictureCarousel": {
@@ -1006,8 +1015,5 @@
     "User": "BRUKER"
   },
   "vann": "vann",
-  "Yes": "Ja",
-  "PageTitle": {
-    "Main": "Varsom Regobs – en tjeneste fra NVE, i samarbeid med Statens vegvesen og MET"
-  }
+  "Yes": "Ja"
 }

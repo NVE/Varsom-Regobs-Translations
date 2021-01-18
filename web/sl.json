@@ -1,14 +1,56 @@
 {
+  "About": {
+    "License1": "norveški podatki",
+    "License2": "Creative Commons (CC).",
+    "Para1": "Regobs je orodje na platformi Varsom, ki olajša vnos in izmenjavo opažanj, tudi prek API-ja. Regobs se na Norveškem uporablja v sistemih za opozarjanje na snežne plazove, zemeljske plazove, ledne razmere in poplave. Regobs uporabljajo zasebne osebe in organizacije, ki izvajajo ocene nevarnosti.",
+    "Para10": "Avtorstvo za posamezne podatke (npr. sliko ali posamezno opažanje) se pripiše opazovalcu in regobs.no. Z oddajo opažanj na Regobs potrjujete, da se vaši podatki ponovno uporabijo pod zgoraj navedenimi pogoji.",
+    "Para11": "Preberite več o pogojih uporabe ",
+    "Para12": "tukaj.",
+    "Para2": "Opažanja v Regobsu se obravnavajo kot sveži podatki. Po opravljenem vnosu je opažanje na voljo vsem. Opažanja je mogoče urediti ali izbrisati v 48 urah po vnosu.",
+    "Para3": "Uporaba opažanj in zemljevidov v aplikaciji Regobs je na lastno odgovornost.",
+    "Para4": "Podatki na Varsom Regobs so pridobljeni s strani uporabnikov aplikacije Regobs in so dostopni, »takšni, kot so«. Informacije lahko vsebujejo napake in opustitve. NVE (Norwegian Water Resources and Energy Directorate) ne jamči za kvaliteto ali točnost informacij, ki so dostopne na Regobs in ne prevzema odgovornosti za podatke, ki so nepravilni ali zavajajoči.",
+    "Para5": "Število zvezdic ob uporabniškem imenu (1-5) nakazuje nivo usposobljenosti osebe, ki je prispevala opažanje. Brez zvezdic je nivo usposobljenosti neznan ali nizek.",
+    "Para6": "Vaše uporabniško ime je vidno vsem in vas poveže z opažanjem, ki ga vnašate. Od vas je odvisno ali vaše uporabniško ime razkrije kdo ste ali pa izberete uporabniško ime, zaradi katerega ste anonimni. Uporabniško ime lahko kadar koli spremenite.",
+    "Para7": "Uporabnik lahko izbriše svoj NVE-račun. Če to stori, se uporabniško ime pri opažanjih, ki jih je vnesel, spremeni v \"anonimni\". Opažanja bodo na voljo v Regobsu.",
+    "Para8": "Regobs podatki se distribuirajo po norveški licenci za javne podatke (NLOD), ki je združljiva z licenco Creative Commons s pripisom avtorstva (CC BY 4.0). Licenčno besedilo je na voljo na ",
+    "Para9": " in "
+  },
   "AddObsDetails": {
     "Add": "Dodaj",
     "HideHelptext": "Skrij pomoč"
   },
+  "Analytics": {
+    "AboutPageAcceptGoogleAnalytics": "Sprejmi Google Analytics",
+    "AboutPageGetMoreInformation": "Več informacij najdete v <a href=\"https://www.nve.no/nves-personvernerklaering/\"> Izjavi o zasebnosti podjetja NVE </a> (v norveščini).",
+    "AboutPageHeader": "Piškotki",
+    "AboutPageText": "<h3> O uporabi piškotkov </h3> <p> Regobs uporablja piškotke za izboljšanje uporabniške izkušnje, ko obiščete spletno stran. Piškotek je besedilna datoteka, ki se ob obisku ali interakciji s spletnim mestom shrani v notranji pomnilnik vašega brskalnika. Regobs ne uporablja piškotkov za beleženje vzorcev uporabe posameznih uporabnikov ali drugih informacij, ki bi lahko kršile njihovo zasebnost. </p> <h3> Vaše nastavitve </h3> <p> Večina brskalnikov je nastavljenih na samodejno sprejemanje piškotkov, vendar lahko nastavitve spremenite tako, da piškotki niso dovoljeni. Poudarjamo, da bi to lahko povzročilo okvare nekaterih funkcij Regobsa. Spletno mesto nettvett.no pojasnjuje, kako lahko piškotke upravljate sami. </p>",
+    "ConsentPopupAcceptButton": "Sprejmi",
+    "ConsentPopupDescription": "Na tej spletni strani uporabljamo piškotke za analitične namene. Regobs ne uporablja piškotkov za beleženje vzorcev uporabe posameznih uporabnikov ali drugih informacij, ki bi lahko kršile njihovo zasebnost.",
+    "ConsentPopupHeader": "Piškotki",
+    "ConsentPopupReadMoreLink": "Preberite več o tem, kako prilagoditi nastavitve.",
+    "ConsentPopupSettingsButton": "Možnosti",
+    "CookieEndOfSessionExpirationTime": "Konec seje brskalnika",
+    "CookieOneDayExpirationTime": "24 ur",
+    "CookieRequiredForLogin": "Obvezno polje za prijavo",
+    "CookiesTableDataProcessorLabel": "Obdelovalec podatkov",
+    "CookiesTableDescriptionLabel": "Opis",
+    "CookiesTableDomainLabel": "Domena",
+    "CookiesTableNameLabel": "Ime",
+    "CookiesTableNonEssentialLabel": "Neobvezno",
+    "CookiesTableSavedTimeLabel": "Čas izteka",
+    "CookieTwoYearsExpirationTime": "2 leti",
+    "GoogleAnalyticsCookieDescription": "Distinguishes users in google analytics. Used for usage statistics.",
+    "GoogleAnalyticsSessionCookieDescription": "Persists session state in google analytics. Used for usage statistics.",
+    "NveAccountCRSFCookieDescription": "Cross-Site Request Forgery token used for CRSF protection.",
+    "NveAccountSSOCookieDescription": "Used for maintaining the SSO session."
+  },
   "AppearanceName": "Izgled:",
   "Attachment": {
-    "Attachment": "Priponka",
-    "DropzoneText": "Povlecite in spustite datoteke za prenos ali kliknite, da izberete.",
-    "InvalidAttachmentType": "Neveljavna priloga. Dovoljene vrste datotek so:",
+    "Attachment": "Slika",
+    "DropzoneText": "Povlecite in spustite slike, da jih naložite, ali kliknite, da jih izberete",
+    "InvalidAttachmentType": "Neveljavna slika. Dovoljene vrste datotek so:",
     "NoDescription": "Brez opisa",
+    "UploadErrorMessage": "Slike ni bilo mogoče naložiti. Poskusite znova ali izberite drugo sliko.",
     "Uploading": "Nalaganje"
   },
   "Cancel": "Prekliči",
@@ -36,27 +78,10 @@
     "WEST_SHORT": "Z"
   },
   "Cookies": {
-    "AboutUseFirstParagraph": "Regobs uporablja piškotke za izboljšanje vaše uporabniške izkušnje, ko obiščete spletno stran. Piškotek je besedilna datoteka, ki se med obiskom ali ob interakciji s spletno stranjo vstavi v notranji pomnilnik vašega brskalnika.",
-    "AboutUseSecondParagraph": "Osnova za to je 6. člen (1) (f) Pravilnika o zasebnosti, ki nam omogoča obdelavo informacij, ki so potrebne za zaščito interesa, ki odtehta zasebnost posameznikov. Ta interes je dobro delovanje strani, ki vam omogoča dobro uporabniško izkušnjo.",
-    "AboutUseThirdParagraph": "Regobs ne uporablja piškotkov za beleženje vzorcev uporabe posameznih uporabnikov ali drugih informacij, ki bi lahko kršile njihovo zasebnost.",
-    "CookiesDescription": "V spodnji tabeli navajamo, katere piškotke uporablja beta.regobs.no, kateri podatki se shranjujejo in zakaj jih spletna stran potrebuje.",
-    "Customize": "Prilagodi",
-    "CustomizeDescription": "Večina sodobnih brskalnikov (Google Chrome, Internet Explorer, Firefox, Safari, Opera itd.) je nastavljena tako, da samodejno sprejemajo piškotke, vendar lahko spremenite svoje nastavitve tako, da piškotki ne bodo sprejeti. Upoštevajte, da to lahko povzroči, da regobs.no ne bo deloval optimalno.",
-    "DataProcessorColumnLabel": "Obdelovalec podatkov",
-    "DescriptionColumnLabel": "Opis",
-    "Descriptions": {
-      "__utma": "Uporablja se za razločevanje uporabnikov in sej.",
-      "__utmb": "Uporablja se za določanje novih sej/obiskov.",
-      "__utmc": "Uporablja se pri določanju novih sej/obiskov.",
-      "__utmt": "Uporablja se za zmanjšanje števila zahtev.",
-      "__utmz": "Uporablja se za shranjevanje, kako je uporabnik prišel na stran."
-    },
-    "DomainColumnLabel": "Domena",
-    "HowToAdminister": "pojasni, kako lahko sami upravljate piškotke.",
-    "Label": "Piškotki",
-    "NameColumnLabel": "Piškotek",
-    "TheWebsite": "Spletna stran",
-    "Title": "Uporaba piškotkov"
+    "AboutUseFirstParagraph": "Regobs uporablja piškotke za izboljšanje uporabniške izkušnje, ko obiščete spletno stran. Piškotek je besedilna datoteka, ki se ob obisku ali interakciji s spletnim mestom shrani v notranji pomnilnik vašega brskalnika.",
+    "AboutUseSecondParagraph": "NVE-račun ne uporablja piškotkov za beleženje vzorcev uporabe posameznih uporabnikov ali drugih informacij, ki bi lahko kršile njihovo zasebnost.",
+    "CustomizeDescription": "Za prijavno storitev \"NVE-račun\" lahko v brskalniku spremenite nastavitve piškotkov. Preberite več ",
+    "CustomizeLink": "tukaj."
   },
   "CopiedToClipboard": "Povezava do opažanja skopirana v odložišče.",
   "CountOf": "Število",
@@ -79,6 +104,8 @@
       "DescriptionMobile": "Na zemljevidu označite, kje je bilo opravljeno opažanje.",
       "EditName": "Nastavite ime lokacije",
       "EditNameLabel": "Ime lokacije",
+      "EditNameToolTip": "Nastavite ime lokacije, da ustvarite opazovalno točko, ki jo lahko uporabite za izdelavo časovnega niza",
+      "EditNameUpdated": "Spremenite ime lokacije",
       "Title": "Kje je bilo opravljeno opažanje?"
     },
     "NickName": {
@@ -127,6 +154,11 @@
     "W": "Z"
   },
   "Email": "E-pošta",
+  "ErrorMessages": {
+    "AuthRequestError": "Ni bilo mogoče vzpostaviti povezave s storitvijo za potrditev NVE-računa. Poskusite znova pozneje ali se obrnite na podporo, če težava ne izgine.",
+    "Error": "Napaka",
+    "LoadObservartionsError": "Med nalaganjem opažanj je prišlo do napake!"
+  },
   "Footer": {
     "AboutDataInRegObs": "O podatkih v regObs",
     "AboutRegObsHeader": "O Regobs",
@@ -135,12 +167,13 @@
     "ConditionOfUse": "Pogoji uporabe",
     "ContactIndividual": "Stopite v stik s posamezno službo za opozarjanje, ki najbolj ustreza temu, za kar uporabljate regObs.",
     "ContactUsHeader": "Pišite nam",
+    "CookiesLink": "Informasjonskapsler",
     "FeedbackForm1": "Uporabite lahko tudi ",
     "FeedbackForm2": "obrazec za povratne informacije",
     "FeedbackForm3": " za sporočanje povratnih informacij o tej storitvi.",
     "GoTo": "Pojdi na",
     "HearFromYou": "Veseli bomo vaših izkušenj pri uporabi regObs ali strokovnih poizvedb.",
-    "IskartAbout": "Preberite opozorila o ledu, ki jih pripravlja NVE na podlagi razpoložljivih informacij o ledu in vremenskih razmerah.",
+    "IskartAbout": "Preberite opozorila o ledu, ki jih pripravlja pristojna služba na podlagi razpoložljivih informacij o ledu in vremenskih razmerah.",
     "IskartAlt": "Logotip za Iskart.no",
     "NveVarsom": "Opozorila o plazovih in poplavah na NVE so del več orodij, ki smo jih vzpostavili skupaj z varsom.no.",
     "OtherToolsHeader": "Druga orodja",
@@ -151,7 +184,7 @@
     "RegObsGatheringPlace": "regObs je zbirališče za opažanja in dogodkov, ki se uporabljajo za opozarjanje in pripravljenost na izredne razmere.",
     "SeNorgeAbout": "seNorge je odprt spletni portal, na katerem so prikazani podosobljeni zemljevidi snežnih, vremenskih in vodnih razmer ter podnebja na Norveškem.",
     "SeNorgeAlt": "Logotip za Senorge.no",
-    "VarsomAbout": "Varsom.no je storitev, ki jo zagotavlja NVE v sodelovanju z Meteorološkim inštitutom, Norveško upravo za javne ceste in Bane NOR.",
+    "VarsomAbout": "Varsom.no je storitev, ki jo zagotavlja NVE (Norwegian Water Resources and Energy Directorate) v sodelovanju z Meteorološkim inštitutom, Norveško upravo za javne ceste in Bane NOR.",
     "VarsomAlt": "Logotip za Varsom.no",
     "XGeoAbout": "xGeo je orodje, ki se uporablja za opozarjanje na izredne razmere in spremljanje ter opozarjanje na poplave, zemeljske in snežne plazove.",
     "XGeoAlt": "Logotip za Xgeo.no"
@@ -325,7 +358,7 @@
     }
   },
   "No": "Ne",
-  "Now": "zdaj",
+  "Now": "sedaj",
   "NveAccountSignIn": "Vpis",
   "observation": " opažanja",
   "ObservationCard": {
@@ -365,12 +398,12 @@
       "MetersOverSeaLevel": "metrov nadmorske višine",
       "NumberAndSizeAndTrigger": "Število, velikost in sprožilec",
       "ObsName": "Plazovna aktivnost",
-      "Prevalence": "Razširjenost"
+      "Prevalence": "Razširjenost nevarnosti"
     },
     "AvalancheDangerObs": {
       "Comment": "Komentar",
       "DangerSignTID": "Vrsta",
-      "ObsName": "Opažanje nevarnosti za snežni plaz"
+      "ObsName": "Znak plazovne nevarnosti"
     },
     "AvalancheEvalProblem2": {
       "AvalancheExtTID": "Vrsta",
@@ -382,7 +415,7 @@
       "Comment": "Comment",
       "DestructiveSizeTID": "Pričakovana velikost plazu",
       "ObsName": "Ocena plazovnega problema",
-      "PrevalenceArea": "Razširjenost problema"
+      "PrevalenceArea": "Razširjenost nevarnosti"
     },
     "AvalancheEvaluation": {
       "AvalancheDangerTID": "Stopnja nevarnosti",
@@ -393,9 +426,9 @@
       "AvalancheProblemTID3": "Plazovni problem 3",
       "Comment": "Komentar plazovne napovedi",
       "Evaluation": "Ocena nevarnosti",
+      "ForecastCorrect": "Ocena plazovne napovedi v plazovnem biltenu",
       "ObsName": "Ocena nevarnosti plazov",
-      "ValidExposition": "Izpostavljenost",
-      "ForecastCorrect": "Ocena plazovne napovedi na varsom.no"
+      "ValidExposition": "Usmerjenost pobočja"
     },
     "AvalancheEvaluation2": {
       "AvalancheDangerTID": "Stopnja nevarnosti",
@@ -416,31 +449,31 @@
     "AvalancheObs": {
       "AvalancheTID": "Vrsta",
       "AvalancheTriggerTID": "Sprožilec plazu",
-      "AvalancheType": "Tip plazu",
+      "AvalancheType": "Vrsta plazu",
       "AvalCauseTID": "Šibka plast",
       "Comment": "Komentar",
       "DestructiveSizeTID": "Velikost",
       "DtAvalancheTime": "Čas sprožitve (obvezno)",
-      "FractureHeight": "Višina napoke (cm)",
-      "FractureWidth": "Širina napoke (m)",
+      "FractureHeight": "Višina razpoke (cm)",
+      "FractureWidth": "Širina razpoke (m)",
       "HeigthStartZone": "Območje začetka",
       "HeigthStopZone": "Območje konca",
       "IncidentDescription": "Nesreča ali poškodba",
       "IncidentPlaceholder": "Je plaz povzročil kakšno škodo, nesrečo ali skorajšnjo nesrečo? Zakaj in kako se je zgodil? Se bi bilo situaciji mogoče izogniti?",
-      "ObsName": "Opažanje plazu",
+      "ObsName": "Snežni plaz",
       "Position": "Lokacija plazu",
       "PositionDescription": "Določite začetno in končno točko plazu.",
       "SetStartPosition": "Določite začetno točko",
       "SetStopPosition": "Določite končno točko",
-      "TerrainStartZoneTID": "Tip terena na območju proženja",
+      "TerrainStartZoneTID": "Vrsta terena na območju proženja",
       "TrajectoryName": "Pot plazu",
-      "ValidExposition": "Izpostavljenost"
+      "ValidExposition": "Usmerjenost pobočja"
     },
     "AvalancheProblem": {
       "AvalancheDestructiveSize": "Pričakovana velikost plazu",
       "AvalancheProbability": "Možnost proženja snežnih plazov",
       "AvalancheTriggerProbability": "Stabilnost snežne odeje",
-      "AvalancheType": "Tip plazu",
+      "AvalancheType": "Vrsta plazu",
       "Comment": "Komentar",
       "NoWeakLayers": "Ni šibkih plasti",
       "Propagation": "Prostorska porazdelitev",
@@ -449,29 +482,29 @@
     },
     "CompressionTest": {
       "Comment": "Komentar",
-      "DistanceFromTop": "Oddaljenost od vrha (cm)",
-      "FractureType": "Tip razpoke",
+      "DistanceFromTop": "Razdalja od površja snežne odeje (cm)",
+      "FractureType": "Vrsta porušitve",
       "Include": "Vključi v snežni profil",
       "NumberOfHits": "Število udarcev",
-      "ObsName": "Tlačni test",
+      "ObsName": "Tlačni preizkus",
       "Stability": "Stabilnost",
       "StabilityEvalTID": "Stabilnost",
-      "Test": "Test",
-      "Type": "Tip testa"
+      "Test": "Preizkus",
+      "Type": "Vrsta preizkusa"
     },
     "DamageObs": {
       "Comment": "Komentar",
       "DamageTypeTID": "Vrsta",
-      "ObsName": "Opažanje škode",
       "LocationDescription": "Navedite lokacijo škode, če jo poznate",
-      "LocationTitle": "Kje se škoda nahaja?"
+      "LocationTitle": "Kje se škoda nahaja?",
+      "ObsName": "Opažanje škode"
     },
     "DangerObs": {
       "Area": "Območje",
       "Comment": "Komentar",
       "DangerSignTName": "Vrsta nevarnosti",
       "NewDangerSign": "Dodaj znak nevarnosti",
-      "NoDamageSign": "Brez znaka nevarnosti",
+      "NoDamageSign": "Ni znakov nevarnosti",
       "ObsName": "Opažanje nevarnosti",
       "Title": "Znak nevarnosti"
     },
@@ -503,6 +536,7 @@
       "AddIceThicknessLayer": "Dodaj plast ledu",
       "Comment": "Komentar",
       "IceHeightAfterInput": "Debelina površinske vode (cm)",
+      "IceHeightAfterInputNo": "Globina od površja do vode v luknji (cm)",
       "IceHeightBeforeInput": "Debelina površinske vode (cm)",
       "IceLayer": "Plast ledu",
       "IceLayerThickness": "Debelina plasti ledu (cm)",
@@ -512,6 +546,7 @@
       "IsEqualToIceSurface": "enako visoko kot ledena površina",
       "LowerThanIceSurface": "nižje od ledene površine ",
       "ObsName": "Debelina ledu",
+      "OnIce": "Na ledu",
       "OverIce": "Nad ledom",
       "OverWaterAfterDrilling": "nad vodo po vrtanju",
       "OverWaterBeforeDrilling": "površinske vode pred vrtanjem",
@@ -519,8 +554,7 @@
       "SnowDepthBeforeDrilling": "Sneg pred vrtanjem (cm)",
       "Total": " skupaj",
       "TwoDecimalPlaces": "(cm, do dve decimalni mesti)",
-      "WaterSurfaceInHole": "Višina vode v luknji",
-      "IceHeightAfterInputNo": "Globina od površja do vode v luknji (cm)"
+      "WaterSurfaceInHole": "Višina vode v luknji"
     },
     "Incident": {
       "ActivityInfluencedTID": "Dejavnost",
@@ -529,9 +563,9 @@
       "Description": "Zakaj se je to zgodilo? Se je dobro končalo? Se bi bilo situaciji mogoče izogniti?",
       "GeoHazardTID": "Vrsta opažanja",
       "IncidentHeader": "Naslov",
-      "IncidentIngress": "Vstop",
+      "IncidentIngress": "Uvod",
       "IncidentText": "Opis",
-      "ObsName": "Nesreča/dogodek",
+      "ObsName": "Incident",
       "Urls": "Povezave"
     },
     "InCm": "V centimetrih",
@@ -552,10 +586,10 @@
       "LandslideTime": "Čas plazu",
       "LandSlideTName": "Vrsta zemeljskega plazu",
       "LandSlideTriggerTName": "Sprožilec",
-      "LandslideType": "Tip plazu",
-      "ObsName": "Opažanje zemeljskega plazu",
+      "LandslideType": "Vrsta plazu",
+      "ObsName": "Zemeljski plaz",
       "Position": "Lokacija plazu",
-      "PositionDescription": "Če ju poznate, določite začetno in končno točko plazu.",
+      "PositionDescription": "Določite začetno in končno točko plazu.",
       "Required": "Obvezno",
       "SetLandslidePosition": "Določite lokacijo plazu",
       "SetStartPosition": "Določite začetno točko",
@@ -583,11 +617,11 @@
         "Title": "Izpostavljena višina"
       },
       "UnsentDescription": "Obrazec ni shranjen v Regobs.",
+      "UnsentSummaryTitle": "Neoddani obrazec",
       "ValidExposition": {
         "All": "Vse",
         "Title": "Usmerjenost pobočja"
-      },
-      "UnsentSummaryTitle": "Neoddani obrazec"
+      }
     },
     "SnowCover": {
       "CriticalLayer": "Šibka plast",
@@ -605,10 +639,10 @@
       "AddLayerBottom": "Dodaj novo plast na dnu",
       "AddLayers": "Dodaj plasti",
       "AddLayerTop": "Dodaj novo plast na vrhu",
-      "AddTests": "Dodaj teste",
+      "AddTests": "Dodaj preizkuse",
       "Cm": "cm",
       "Comment": "Komentar",
-      "CompressionTest": "Tlačni testi",
+      "CompressionTest": "Tlačni preizkusi",
       "CompresstionTestConnectedToProfile": "tlačni testi povezani s snežnim profilom",
       "Density": {
         "AddDensity": "Dodaj gostoto",
@@ -641,11 +675,12 @@
         "DeleteLayer": "Izbriši plast",
         "GetLayers": "Pridobi plasti iz drugih profilov",
         "GetLayersFromOtherObsInfo": "Lahko kopirate plast iz katerega izmed prejšnjih profilov, ki je bil vnešen v preteklih 14 dneh v radiju 100 km.",
-        "GrainFormPrimary": "0blika kristalov",
-        "GrainFormSecondary": "Sekundarna oblika kristalov",
-        "GrainSizeAvg": "Velikost kristalov (mm)",
-        "GrainSizeAvgMax": "Največja velikost kristalov (mm)",
-        "Hardness": "Trdnost",
+        "GrainFormPrimary": "0blika zrn",
+        "GrainFormSecondary": "Sekundarna oblika zrn",
+        "GrainSizeAvg": "Velikost zrn (mm)",
+        "GrainSizeAvgMax": "Največja velikost zrn (mm)",
+        "Hardness": "Trdota",
+        "HardnessBottom": "Trdota na dnu",
         "Layer": "Plast",
         "MultipleObserved": "plasti",
         "NoPreviousLayersFound": "Ni najdenih plasti iz drugih profilov",
@@ -654,27 +689,26 @@
         "ShowLess": "Pokaži manj možnosti",
         "ShowMore": "Pokaži več možnosti",
         "Thickness": "Debelina (mm)",
-        "Wetness": "Vodnatost",
-        "HardnessBottom": "Trdnost na dnu",
-        "UseLayers": "Uporabi plasti"
+        "UseLayers": "Uporabi plasti",
+        "Wetness": "Vlažnost"
       },
       "StratLayers": "Plasti",
       "SumOfAllLayers": "Vsota vseh plasti:",
       "Temperature": {
         "Add": "Dodaj temperaturo",
-        "Placeholder": "Temperatura (°C)",
-        "TempProfile": "Temperaturni profil",
         "MultipleObserved": "izmerjene temperature v točkah",
-        "Observed": "izmerjena temperatura v točki"
+        "Observed": "izmerjena temperatura v točki",
+        "Placeholder": "Temperatura (°C)",
+        "TempProfile": "Temperaturni profil"
       },
       "Test": {
         "Add": "Dodaj",
-        "AddTest": "Dodaj test",
-        "AttachedToProfile": "testi, povezani s profilom",
-        "AttachedToProfileTooltip": "Test je povezan s snežnim profilom",
-        "Tests": "testi",
-        "TestsWillAppearHere": "Testi, ki ste jih dodali, se bodo pojavili tukaj",
-        "Update": "Posodobi test"
+        "AddTest": "Dodaj preizkus",
+        "AttachedToProfile": "preizkusi, povezani s profilom",
+        "AttachedToProfileTooltip": "Preizkus je povezan s snežnim profilom",
+        "Tests": "preizkusi",
+        "TestsWillAppearHere": "Preizkusi, ki ste jih dodali, se bodo pojavili tukaj",
+        "Update": "Posodobi preizkus"
       }
     },
     "SnowSurfaceObservation": {
@@ -683,8 +717,8 @@
       "CommentPlaceholder": "Kakšna je na splošno porazdelitev snega glede na višino in usmerjenost pobočij? Ali so opazne velike razlike na območju?",
       "FootPenetration": "Ugrez pri hoji",
       "HeightLimitLayeredSnow": "Višina, kjer se začne sneg v plasteh (m.n.v.)",
-      "HightLimitLayeredSnowPlaceholder": "Za snežno odejo brez nevarnih plasti",
-      "NewSnow": "nov sneg",
+      "HightLimitLayeredSnowPlaceholder": "Do kod sega snežna odeja brez nevarnega plastenja",
+      "NewSnow": "novega snega",
       "NewSnowDepth24": "Nov sneg v zadnjih 24 urah (cm)",
       "NewSnowLine": "Meja novega snega (m.n.v.)",
       "ObsName": "Snežna odeja",
@@ -692,8 +726,8 @@
       "SnowDriftTName": "Napihan sneg",
       "SnowLine": "Meja snega (m.n.v.)",
       "SnowLines": "Meje snega",
-      "SnowSurfaceTName": "Snežna odeja",
-      "SurfaceRougnessTName": "Hrapavost površine",
+      "SnowSurfaceTName": "Površje snežne odeje",
+      "SurfaceRougnessTName": "Hrapavost površja",
       "SurfaceWaterContentTName": "Vlažnost snežne odeje",
       "Total": "skupaj"
     },
@@ -709,6 +743,8 @@
       "WaterLevelValue": "Vrednost"
     },
     "WaterLevel2": {
+      "AddNewMarking": "Dodajte novo označevanje vodostaja",
+      "AddNewMeasurement": "Dodajte novo meritev vodostaja",
       "Comment": "Komentar",
       "DescribeSituationQuestion": "Kako bi opisali situacijo?",
       "MarkingComment": "Opišite oznako",
@@ -733,9 +769,7 @@
       "WaterMarking": "Vodna oznaka",
       "WaterMeasurement": "Meritev vode",
       "WaterMeasurementValue": "Vrednost meritve vode",
-      "With": "z",
-      "AddNewMarking": "Dodajte novo označevanje vodostaja",
-      "AddNewMeasurement": "Dodajte novo meritev vodostaja"
+      "With": "z"
     },
     "WeatherObservation": {
       "AirTemperature": "Temperatura zraka (°C)",
@@ -756,7 +790,7 @@
       "ObsName": "Vremensko opažanje",
       "OnlyFullPercentage": "Odstotki brez decimalk",
       "Precipitation": "Padavine",
-      "PrecipitationTID": "Tip padavin",
+      "PrecipitationTID": "Vrsta padavin",
       "Wind": "Vetrovne razmere",
       "WindDirection": "Smer vetra",
       "WindSpeed": "Hitrost vetra (m/s)"
@@ -764,6 +798,9 @@
   },
   "Of": "od",
   "Ok": "Ok",
+  "PageTitle": {
+    "Main": "Varsom Regobs je storitev, ki jo zagotavlja NVE (Norwegian Water Resources and Energy Directorate) v sodelovanju z Meteorološkim inštitutom in Norveško upravo za javne ceste."
+  },
   "Password": "Geslo",
   "picture": "slika",
   "PictureCarousel": {
@@ -783,34 +820,37 @@
   },
   "Register": "Registracija novega uporabnika",
   "RegistrationDetail": {
-    "EditInfo": "Svoja opažanja ali opažanja skupine, ki ji pripadate, lahko urejate 48 ur po vnosu."
+    "EditInfo": "Svoja opažanja ali opažanja skupine, ki ji pripadate, lahko urejate 48 ur po vnosu.",
+    "EditInfoAsModerator": "Kot moderator lahko urejate vsa opažanja na tem področju."
   },
   "RegistrationEdit": {
     "AddForm": "Dodaj obrazec",
+    "BadRequest": "Nepravilen zahtevek",
     "ConfirmDelete": "Ali ste prepričani, da želite izbrisati to opažanje?",
+    "ConfirmDeleteFormWithPictures": "Če izbrišete ta obrazec, bodo izbrisane tudi slike. Ali ste prepričani?",
     "ContinueOnDraft": "Nadaljujte z osnutkom",
+    "ContinueOnDraftButton": "Nadaljuj z osnutkom",
     "ContinueOnDraftCancelButton": "Novo opažanje",
     "ContinueOnDraftMessage": "Imate osnutek iz",
     "ContinueOnDraftQuestion": "Ali želite nadaljevati s tem osnutkom?",
     "DeleteError": "Opažanja ni bilo mogoče izbrisati!",
+    "DeleteFormWithPictures": "Izbrišite obrazec in slike",
     "DeleteObservation": "Izbriši opažanje",
     "Discard": "Zavrzi",
     "Done": "Končano",
     "ErrorHasBeenLogged": "Sporočilo o napaki je bilo zabeleženo v sistemu z referenčnim ID-jem",
+    "FormInfo": "Izpolnite obrazce, ki ustrezajo vrsti opažanja, ki ste ga opazili. Dodati morate vsaj en obrazec za opažanje, ki ga želite zabeležiti. <strong>Opažanja so vidna na regobs.no takoj, ko je shranjen vsaj en obrazec.</strong>",
+    "MissingNetwork": "Ni povezave z omrežjem ali pa je povezava potekla. Čez nekaj časa bomo ponovno poskusili in upali, da se je povezava izboljšala.",
     "NoCancel": "Ne, prekliči",
     "Retry": "Poskusite znova",
     "SaveAsDraft": "Shraniti kot osnutek?",
     "SaveDraft": "Shrani osnutek",
+    "SaveDraftMessage": "Niste dodali nobenih obrazcev in zato opažanja ne bomo objavili. Ali boste shranili kot osnutek in nadaljevali pozneje?",
     "SubmitFailedHeader": "Neuspešna oddaja",
     "SyncError": "Opažanja ni bilo mogoče sinhronizirati z Regobsom!",
+    "SyncErrorFormInfo": "Enega ali več predmetov v tem obrazcu ni bilo mogoče oddati.",
     "SyncInProgress": "Sinhronizacija v teku:",
-    "YesDelete": "Da, izbriši!",
-    "BadRequest": "Nepravilen zahtevek",
-    "ContinueOnDraftButton": "Nadaljuj z osnutkom",
-    "FormInfo": "Izpolnite obrazce, ki ustrezajo vrsti opažanja, ki ste ga opazili. Dodati morate vsaj en obrazec za opažanje, ki ga želite zabeležiti.",
-    "MissingNetwork": "Ni povezave z omrežjem ali pa je povezava potekla. Čez nekaj časa bomo ponovno poskusili in upali, da se je povezava izboljšala.",
-    "SaveDraftMessage": "Niste dodali nobenih obrazcev in zato opažanja ne bomo objavili. Ali boste shranili kot osnutek in nadaljevali pozneje?",
-    "SyncErrorFormInfo": "Enega ali več predmetov v tem obrazcu ni bilo mogoče oddati."
+    "YesDelete": "Da, izbriši!"
   },
   "RegistrationKeyInfo": {
     "Accuracy": "Natančnost",
@@ -818,6 +858,7 @@
     "MetersAboveSeaLevel": "Nadmorska višina",
     "Municipal": "Občina",
     "Source": "Vir",
+    "UTMSource": "Pozicioniranje vira",
     "WarningRegion": "Območje opozorila"
   },
   "RememberMe": "Zapomni si me",
@@ -855,7 +896,7 @@
         "MyObservations": "Moja opažanja",
         "ObserverNickNamePlaceholder": "Iskanje po uporabniškem imenu opazovalca",
         "SearchInCompetences": "Išči po usposobljenosti opazovalca: ",
-        "SearchNickName": "Iskanje po uporabniškegem imenu"
+        "SearchNickName": "Iskanje po uporabniškem imenu"
       },
       "QuickSearch": {
         "Label": "Hitro iskanje"
@@ -953,6 +994,10 @@
   "Time": "čas",
   "to": "do",
   "Unknown": "Neznano",
+  "Update": {
+    "NewVersionAvailableDescription": "Stran se mora osvežiti. Ali želite posodobiti zdaj?",
+    "NewVersionAvailableTitle": "Na voljo je nova različica"
+  },
   "Url": {
     "Add": "Dodaj spletno povezavo",
     "Description": "Opis",
