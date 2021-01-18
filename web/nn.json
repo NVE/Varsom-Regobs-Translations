@@ -1,6 +1,11 @@
 {
   "About": {
+    "License1": "data norge",
+    "License2": "creative commons.",
     "Para1": "Regobs gjer det moglig for alle å bidra med og bruke data, også via API. Regobs brukes av Snøskredvarslingen, Isvarslingen og Flom- og jordskredvarslingen ved NVE. Regobs brukes også av privatpersonar og andre organisasjonar som gjør farevurderinger.",
+    "Para10": "Navngivelse av data frå ein bestemt kilde (for eksempel eit bilde eller éin observasjon) henvises det til den aktuelle observatøren og Regobs.",
+    "Para11": "Les meir om vilkår for bruk ",
+    "Para12": "her.",
     "Para2": "Regobs behandlar data som ferskvare. Når data er registrert så er observasjonene tilgjengeleg for alle å lese. Observasjonar kan kun endres eller slettes inntil 48 timar etter at de er registrert.",
     "Para3": "Bruk observasjonane og kartene på eget ansvar. Det kan forekomme feil og manglar.",
     "Para4": "Data på Regobs produserast av brukerne og foreligger 'som den er'. Den kan inneholde feil og utelatelser. NVE har ikke ansvar for feil, mangler og vurderinger som produseres av brukerne.",
@@ -8,41 +13,11 @@
     "Para6": "Kallenavn er eit navn som er synlig for alle og assosierer deg med observasjoner du gjør. Du kan velge deg et navn som tilkjennegir deg eller anonymiserer deg som du sjølv ønsker. Du kan når som helst endre kallenavnet ditt.",
     "Para7": "Ein bruker kan slette seg på NVE-konto, i så fall endres kallenavnet på alle observasjonar lagt inn av brukeren til «anonym». Observasjonene forblir tilgjengelig i Regobs.",
     "Para8": "Regobs data er lisensiert under Norsk lisens for offentlige data (NLOD) som er kompatibel med CC Navngivelse 4.0 Norge (CC BY 4.0). Lisensteksten finner du på ",
-    "License1": "data norge",
-    "Para9": " og ",
-    "License2": "creative commons.",
-    "Para10": "Navngivelse av data frå ein bestemt kilde (for eksempel eit bilde eller éin observasjon) henvises det til den aktuelle observatøren og Regobs.",
-    "Para11": "Les meir om vilkår for bruk ",
-    "Para12": "her."
+    "Para9": " og "
   },
   "AddObsDetails": {
     "Add": "Legg til",
     "HideHelptext": "Skjul hjelpeteksta"
-  },
-  "Analytics": {
-    "ConsentPopupHeader": "Informasjonskapsler (cookies)",
-    "ConsentPopupDescription": "Vi bruker informasjonskapsler på denne nettsiden for statistikkformål. Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.",
-    "ConsentPopupReadMoreLink": "Les mer om hvordan du kan tilpasse bruken.",
-    "ConsentPopupAcceptButton": "Godta",
-    "ConsentPopupSettingsButton": "Mine valg",
-    "AboutPageHeader": "Informasjonskapsler",
-    "AboutPageText": "<h3>Om bruk av informasjonskapsler</h3><p>Regobs benytter seg av såkalte informasjonskapsler eller cookies for å bedre din brukeropplevelse når du besøker nettsidene. En informasjonskapsel er en tekstfil som ved besøk på eller interaksjon med en nettside legges i din nettlesers internminne. Regobs benytter ikke informasjonskapslene til å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.</p><h3>Tilpass selv</h3><p>De fleste nettlesere er innstilt på å akseptere informasjonskapsler automatisk, men du kan selv velge å endre innstillingene slik at informasjonskapsler ikke blir akseptert. Vi gjør oppmerksom på at dette vil kunne føre til at Regobs ikke vil fungere optimalt. Nettsiden nettvett.no forklarer hvordan du selv kan administrere informasjonskapsler.</p>",
-    "AboutPageAcceptGoogleAnalytics": "Aksepter Google Analytics",
-    "CookiesTableNameLabel": "Navn",
-    "CookiesTableDescriptionLabel": "Bruk",
-    "CookiesTableDomainLabel": "Domene",
-    "CookiesTableDataProcessorLabel": "Databehandler",
-    "CookiesTableSavedTimeLabel": "Varighet",
-    "CookiesTableNonEssentialLabel": "Frivillig",
-    "AboutPageGetMoreInformation": "Få mer informasjon om dette i <a href=\"https://www.nve.no/nves-personvernerklaering/\">NVEs personvernerklærling</a>",
-    "GoogleAnalyticsCookieDescription": "Skiller mellom brukere i Google Analytics. Brukes til å beregne statistikk for bruk av nettsiden.",
-    "GoogleAnalyticsSessionCookieDescription": "Skiller mellom brukersesjoner i Google Analytics. Brukes til å beregne statistikk for bruk av nettsiden.",
-    "NveAccountSSOCookieDescription": "Brukes til å opprettholde SSO-sesjonen.",
-    "NveAccountCRSFCookieDescription": "\"Cross-Site Request Forgery token\" til CRSF beskyttelse.",
-    "CookieEndOfSessionExpirationTime": "Sesjonslutt",
-    "CookieTwoYearsExpirationTime": "2 år",
-    "CookieOneDayExpirationTime": "24 timer",
-    "CookieRequiredForLogin": "Nødvendig for innlogging"
   },
   "AppearanceName": "Utsjånad:",
   "Attachment": {
@@ -76,6 +51,12 @@
     "SOUTH_WEST_SHORT": "SV",
     "WEST": "Vest",
     "WEST_SHORT": "V"
+  },
+  "Cookies": {
+    "AboutUseFirstParagraph": "Regobs nyttar såkalla informasjonskapslar eller cookies for å betre brukeropplevinga når du vitjar nettsidene. En informasjonskapsel er ei tekstfil som leggast i nettlesaren sitt internminne når du besøker eller samhandlar med ei nettside.",
+    "AboutUseSecondParagraph": "Regobs nyttar ikkje informasjonskapslane til å kartlegge bruksmønster til den enkelte brukar, eller anna informasjon som kan krenke personvernet.",
+    "CustomizeDescription": "Som for innloggingstjenesten NVE-konto kan man også i Regobs tilpasse informasjonskapsler i nettlesere. Les mer ",
+    "CustomizeLink": "her."
   },
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Tal",
@@ -154,7 +135,6 @@
     "LoadObservartionsError": "Noko galt skjedde ved lasting av observasjonar!"
   },
   "Footer": {
-    "CookiesLink": "Informasjonskapsler",
     "AboutDataInRegObs": "Om data og vilkår for bruk",
     "AboutRegObsHeader": "Om Varsom Regobs",
     "BeAwareThat": "Om det er ",
@@ -259,9 +239,9 @@
       "PotentialHazards": "Potensielt skredfare"
     },
     "SupportClayZonesDescription": "Kvikkleire/Jordskred",
-    "SupportClayZonesName": "Kvikkleireskred og aktsomhet løsmasseskred",
+    "SupportClayZonesName": "Kvikkleire/Jordskred",
     "SupportFloodZonesDescription": "Flaumsoner",
-    "SupportFloodZonesName": "Faresoner flaum",
+    "SupportFloodZonesName": "Flaumsoner",
     "SupportMap": "Støttekart:",
     "SupportMaps": "Støttekart",
     "SupportSteepnessDescription": "Fargar gir hellingen til terrenget (grader):",
@@ -350,7 +330,7 @@
     "Water": {
       "RegisterObservation": "Ny vassobservasjon",
       "SearchInObservation": "Rapportvising for vatn og jord",
-      "ShowObservationsInMap": "Vass- og jordobservasjonar over farekart"
+      "ShowObservationsInMap": "Vass- og jordobservasjonar og flaumsonekart"
     }
   },
   "No": "Nei",
@@ -409,7 +389,7 @@
       "AvalProbabilityTID": "Sannsyn for skred",
       "AvalTriggerSimpleTID": "Sannsynleg last for å løyse ut skred",
       "Comment": "Kommentar",
-      "DestructiveSizeTID": "Storleik på venta skred",
+      "DestructiveSizeTID": "Storleik på forventa skred",
       "ObsName": "Skredproblem",
       "PrevalenceArea": "Utbreiing losneområde"
     },
@@ -466,12 +446,12 @@
       "ValidExposition": "Eksposisjon"
     },
     "AvalancheProblem": {
-      "AvalancheDestructiveSize": "Storleik på venta skred",
+      "AvalancheDestructiveSize": "Storleik på forventa skred",
       "AvalancheProbability": "Moglegheit for skred",
       "AvalancheTriggerProbability": "Skredutløysar",
       "AvalancheType": "Skredtype",
       "Comment": "Kommentar",
-      "NoWeakLayers": "Det finnast ikkje svake lag",
+      "NoWeakLayers": "Det finst ikkje svake lag",
       "Propagation": "Utbreiing",
       "WeakLayer": "Svakt lag",
       "WeakLayerDepth": "Djupn til det svake laget"
@@ -507,7 +487,7 @@
     "GeneralObservation": {
       "Comment": "Kommentar",
       "NoObservationsFound": "Ingen observasjonar funne",
-      "Notes": "Notatar",
+      "Notes": "Notat",
       "NotesForObservation": "Notat frå observasjonen",
       "ObsComment": "Tekst",
       "ObsHeader": "Overskrift",
@@ -520,9 +500,9 @@
       "Description": "Skildring",
       "IceCapacityTName": "Bereevne",
       "IceCover": "Isdekning",
-      "IceCoverAfterTName": "Isdekning etter observasjon",
+      "IceCoverAfterTName": "Isdekningsgrad etter observasjon",
       "IceCoverBeforeObservation": "Isdekning før observasjon",
-      "IceCoverBeforeTName": "Isdekning før observasjon",
+      "IceCoverBeforeTName": "Isdekningsgrad før observasjon",
       "IceCoverTName": "Isdekning",
       "IceSkateabilityTName": "skøyteforhold",
       "ObsName": "Isdekning"
@@ -542,8 +522,8 @@
       "IsEqualToIceSurface": "er likt med isoverflata",
       "LowerThanIceSurface": "Lavare enn isoverflata",
       "ObsName": "Istjukkleik",
-      "OverIce": "Over isen ",
       "OnIce": "Oppå isen",
+      "OverIce": "Over isen ",
       "OverWaterAfterDrilling": "Overvatn etter boring",
       "OverWaterBeforeDrilling": "Overvatn før boring",
       "SlushSnowBeforeDrilling": "Sørpe før boring (cm)",
@@ -609,8 +589,8 @@
       "Description": "Skildring",
       "ExposedHeight": {
         "Height": "Høgde",
-        "LowerHeight": "Nedre høgde",
-        "Title": "Utsett høgde"
+        "LowerHeight": "Nedre høgd",
+        "Title": "Utsett høgd"
       },
       "UnsentDescription": "Skjema er ikkje synkronisert med Regobs.",
       "UnsentSummaryTitle": "Usendt skjema",
@@ -621,9 +601,9 @@
     },
     "SnowCover": {
       "CriticalLayer": "Svakt lag",
-      "CriticalLayerFound": "Svakt lag finnast",
+      "CriticalLayerFound": "Svakt lag finst",
       "CriticalLayerLocation": "Plassering",
-      "CriticalLayerNotFound": "Det finnast ikkje svakt lag",
+      "CriticalLayerNotFound": "Det finst ikkje svakt lag",
       "CriticalLayerTID": "Skredtype",
       "DepthHoar": "Begerkrystallar",
       "DepthHoarInSnowCover": "med begerkrystallar nedst i snødekke",
@@ -813,8 +793,7 @@
   },
   "Register": "Registrer bruker",
   "RegistrationDetail": {
-    "EditInfo": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering.",
-    "EditInfoAsModerator": "Som moderator kan du redigere alle observasjonar knytta til denne naturfaren."
+    "EditInfo": "Du kan redigere din eigen observasjon eller observasjonar som er i ei gruppe du tilhøyrar, inntil 48 timer etter registrering."
   },
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
@@ -832,7 +811,7 @@
     "Discard": "Forkast",
     "Done": "Ferdig",
     "ErrorHasBeenLogged": "Feilmeldinga har blitt logga i systemet med referanse",
-    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast. <strong>Observasjonen er synlig på regobs.no så fort skjema lagres.</strong>",
+    "FormInfo": "Fyll ut skjemaene som passar med typen observasjon du har gjort. Du må legge til minst eitt skjema for at observasjonen skal registrerast.",
     "MissingNetwork": "Manglar nettverk eller innsending tok for lang tid. Vi prøvar igjen om ei stund og håper nettverket har betra seg. ",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
@@ -851,7 +830,6 @@
     "MetersAboveSeaLevel": "Meter over havet",
     "Municipal": "Kommune",
     "Source": "Kjelde",
-    "UTMSource": "Posisjoneringskjelde",
     "WarningRegion": "Varslingsregion"
   },
   "RememberMe": "Hugs meg",

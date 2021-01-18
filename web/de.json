@@ -1,4 +1,20 @@
 {
+  "About": {
+    "License1": "Daten Norwegen",
+    "License2": "Creative Commons (cc).",
+    "Para1": "Regobs ist ein Tool in der Varsom-Plattform, das das Registrieren und Austauschen von Beobachtungen auch über die API erleichtert. Regobs wird bei NVE für die Schneelawinen-, Erdrutsch-, Seeeis- und Hochwasserwarnsysteme eingesetzt. Regobs wird von Privatpersonen und für Organisationen verwendet, die Gefährdungsbeurteilungen durchführen.",
+    "Para10": "Die Zuordnung einzelner Daten (z. B. eines Bildes oder einer einzelnen Beobachtung) umfasst den Namen des Beobachters und regobs.no. Indem Sie Beobachtungen an Regobs senden, akzeptieren Sie, dass Ihre Daten unter den oben genannten Bedingungen wiederverwendet werden.",
+    "Para11": "Lesen Sie mehr über die Nutzungsbedingungen ",
+    "Para12": "hier.",
+    "Para2": "Die Regobs-Beobachtungen werden als frische Daten behandelt. Nachdem eine Beobachtung registriert wurde, steht sie allen zum Lesen zur Verfügung. Beobachtungen können innerhalb von 48 Stunden nach ihrer Registrierung bearbeitet oder gelöscht werden.",
+    "Para3": "Die Verwendung der Beobachtungen und Karten in Regobs erfolgt auf eigene Gefahr.",
+    "Para4": "Daten zu Varsom Regobs werden von den Benutzern von Regobs erstellt und sind \"wie sie sind\" verfügbar. Sie können Fehler und Auslassungen enthalten. NVE übernimmt keine Garantie für die Währung der Informationen und übernimmt keine Verantwortung, wenn die Daten zu falschen oder irreführenden Informationen führen.",
+    "Para5": "Die Anzahl der Sterne (1–5) beschreibt das Kompetenzniveau der beobachtenden Person. Ohne Sterne ist die Kompetenz unbekannt oder gering.",
+    "Para6": "Ihr Nickname ist für alle sichtbar und verknüpft Sie mit der Beobachtung, die Sie registrieren. Es liegt an Ihnen, ob Ihr Nickname verrät, wer Sie sind, oder ob Sie einen Nicknamen auswählen, der Sie anonym macht. Sie können Ihren Nicknamen jederzeit ändern.",
+    "Para7": "Ein Benutzer kann sein NVE-Konto löschen. In diesem Fall wird der Nickname der von diesem Benutzer registrierten Beobachtungen in \"anonym\" geändert. Die Beobachtungen bleiben in Regobs verfügbar.",
+    "Para8": "Regobs-Daten werden unter der norwegischen Lizenz für öffentliche Daten (NLOD) verteilt, die mit der Creative Commons-Freigabe durch Namensnennung (CC BY 4.0) kompatibel ist. Lizenztext finden Sie auf ",
+    "Para9": " und "
+  },
   "AddObsDetails": {
     "Add": "Hinzufügen",
     "HideHelptext": "Hilfetext ausblenden"
@@ -7,7 +23,9 @@
   "Attachment": {
     "Attachment": "Anhang",
     "DropzoneText": "Ziehen Sie Dateien zum Hochladen hierher oder klicken Sie zur Auswahl",
-    "NoDescription": "Keine Beschreibung"
+    "InvalidAttachmentType": "Ungültiges Bild. Zulässige Dateitypen sind:",
+    "NoDescription": "Keine Beschreibung",
+    "UploadErrorMessage": "Bild konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut oder wählen Sie ein anderes Bild aus."
   },
   "Cancel": "Cancel",
   "ChangePassword": "Passwort ändern",
@@ -36,28 +54,12 @@
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs verwendet Cookies, um Ihre Benutzererfahrung beim Besuch der Website zu verbessern. Ein Cookie ist eine Textdatei, die beim Besuch oder bei der Interaktion mit einer Website im internen Speicher Ihres Browsers abgelegt wird.",
     "AboutUseSecondParagraph": "Grundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f der Datenschutzrichtlinie, der es uns ermöglicht, Informationen zu verarbeiten, die zur Wahrung eines Interesses erforderlich sind, das die Privatsphäre des Einzelnen überwiegt. Es ist daher wichtig, dass unsere Website gut funktioniert, damit Sie eine gute Benutzererfahrung erzielen.",
-    "AboutUseThirdParagraph": "Regobs verwendet keine Cookies, um die Nutzungsmuster einzelner Benutzer oder andere Informationen abzubilden, die ihre Privatsphäre verletzen könnten.",
-    "CookiesDescription": "In der folgenden Tabelle ist aufgeführt, welche Cookies beta.regobs.no verwendet, welche Daten gespeichert werden und warum die Website sie benötigt.",
-    "Customize": "Anpassen",
     "CustomizeDescription": "Die meisten modernen Browser (Google Chrome, Internet Explorer, Firefox, Safari, Opera usw.) akzeptieren Cookies automatisch. Sie können jedoch Ihre Einstellungen so ändern, dass Cookies nicht akzeptiert werden. Wir weisen darauf hin, dass dies dazu führen kann, dass regobs.no nicht optimal funktioniert.",
-    "DataProcessorColumnLabel": "Datenprozessor",
-    "DescriptionColumnLabel": "Beschreibung",
-    "Descriptions": {
-      "__utma": "Wird zur Unterscheidung von Benutzern und Sitzungen verwendet.",
-      "__utmb": "Wird verwendet, um neue Sitzungen / Besuche zu bestimmen.",
-      "__utmc": "Wird zur Bestimmung neuer Sitzungen / Besuche verwendet.",
-      "__utmt": "Wird verwendet, um Anforderungen zu drosseln.",
-      "__utmz": "Wird verwendet, um zu speichern, wie der Benutzer auf die Site gelangt ist."
-    },
-    "DomainColumnLabel": "Domain",
-    "HowToAdminister": "erklärt, wie Sie Cookies selbst verwalten können.",
-    "Label": "Cookies",
-    "NameColumnLabel": "Cookie",
-    "TheWebsite": "Die Webseite",
-    "Title": "Verwendung von Cookies"
+    "CustomizeLink": "hier."
   },
   "CopiedToClipboard": "Hyperlink zur Beobachtung in die Zwischenablage kopiert.",
   "CountOf": "Anzahl",
+  "CreateAccount": "NVE-Konto erstellen",
   "CreateObservation": "Beobachtung erstellen",
   "Date": "Datum",
   "Delete": "Löschen",
@@ -72,7 +74,17 @@
       "DescriptionMobile": "Markieren Sie die Beobachtung auf der Karte.",
       "EditName": "Standortnamen festlegen",
       "EditNameLabel": "Standortname",
+      "EditNameToolTip": "Legen Sie den Standortnamen fest, um einen Beobachtungspunkt zu erstellen, mit dem eine Zeitreihe erstellt werden kann",
+      "EditNameUpdated": "Standortname änder",
       "Title": "Wo wurde die Beobachtung gemacht?"
+    },
+    "SaveSearch": {
+      "Description": "Die Suche wird in Ihrem Browser gespeichert und nicht geräteübergreifend synchronisiert. Sie können maximal 5 Suchvorgänge pro Geo-Gefahr speichern.",
+      "DialogTitle": "Suche speichern",
+      "ExpansionPanelTitle": "Gespeicherte Suchergebnisse",
+      "FailedSave": "Suche konnte nicht gespeichert werden",
+      "InputLabel": "Name suchen",
+      "SaveButton": "Suche speichern"
     },
     "Time": {
       "AdditionalInformation": "Zusätzliche Information",
@@ -93,6 +105,11 @@
     "W": "W"
   },
   "Email": "Email",
+  "ErrorMessages": {
+    "AuthRequestError": "Es konnte keine Verbindung zum NVE-Konto-Authentifizierungsdienst hergestellt werden. Bitte versuchen Sie es später erneut oder wenden Sie sich an den Support, wenn das Problem weiterhin besteht.",
+    "Error": "Fehler",
+    "LoadObservartionsError": "Beim Laden der Beobachtungen ist ein Fehler aufgetreten!"
+  },
   "Footer": {
     "AboutDataInRegObs": "Über Daten in regObs",
     "AboutRegObsHeader": "Über Regobs",
@@ -100,6 +117,7 @@
     "Collaboration": "Zusammenarbeit",
     "ConditionOfUse": "Nutzungsbedingungen",
     "ContactIndividual": "Wenden Sie sich an den Warndienst, der zu Ihrer Verwendung von regObs passt.",
+    "ContactIndividual1": "Varsom-Warndienste",
     "ContactUsHeader": "Kontaktiere uns",
     "FeedbackForm1": "Verwenden Sie auch das ",
     "FeedbackForm2": "Rückmeldeformular",
@@ -131,6 +149,13 @@
     "Soil": "Boden",
     "Water": "Wasser",
     "WaterSoil": "Wasser und Boden"
+  },
+  "GeoLocation": {
+    "PositionError": {
+      "PermissionDenied": "Um Ihren Standort zu ermitteln, müssen Sie Ihre Browsereinstellungen ändern",
+      "PositionUnavailable": "Ihre Position kann nicht festgestellt werden",
+      "Timeout": "Es hat zu lange gedauert, um Ihre Position festzustellen"
+    }
   },
   "GoBack": "Zurück",
   "GoToObservation": "Zur Beobachtung",
@@ -199,14 +224,14 @@
     "SupportWeakenedIceDescription": "Die Unterstützungskarte zeigt Teile von Wasserläufen, die sich im Winter aufgrund von Vorschriften zur Stromerzeugung unvorhersehbar verhalten",
     "SupportWeakenedIceName": "Schwacheis",
     "Water": {
-      "10YearFlood": "10-jährliches Hochwasser",
-      "20YearFlood": "20-jährliches Hochwasser",
-      "50YearFlood": "50-jährliches Hochwasser",
+      "1000YearFlood": "1000-jährliches Hochwasser",
       "100YearFlood": "100-jährliches Hochwasser",
+      "10YearFlood": "10-jährliches Hochwasser",
       "200YearFlood": "200-jährliches Hochwasser",
       "200YearFloodClimate": "200-jährliches Hochwasser (Klima)",
+      "20YearFlood": "20-jährliches Hochwasser",
       "500YearFlood": "500-jährliches Hochwasser",
-      "1000YearFlood": "1000-jährliches Hochwasser",
+      "50YearFlood": "50-jährliches Hochwasser",
       "AjourRecognized": "Aktuell erkannt",
       "Current": "Derzeitig",
       "ForReview": "Zur Überprüfung",
@@ -236,9 +261,12 @@
     "MyObservations": {
       "Competence": "Kompetenz",
       "ContactQuestion": "Bei Fragen zur Kompetenz können Sie sich gerne an uns wenden.",
+      "HighestCompetence": "HÖCHSTE KOMPETENZ",
       "MyCompetences": "Meine Kompetenzen",
+      "MyNveAccount": "Mein NVE-Konto",
       "NoCompetence": "Sie haben Ihrem Regobs-Benutzer keine Kompetenz hinzugefügt.",
-      "Title": "Meine Beobachtungen"
+      "Title": "Meine Beobachtungen",
+      "UnknownCompetence": "UNBEKANNTE KOMPETENZ"
     },
     "MyPage": "Meine Seite",
     "MyPlaces": "Meine Orte",
@@ -257,7 +285,6 @@
     "SearchInObservation": "Suche in Beobachtungen",
     "ShowObservationsInMap": "Beobachtungen in Karte anzeigen",
     "Snow": {
-      "RegisteredTrips": "Tour eintragen",
       "RegisterObservation": "Neuschnee Beobachtung",
       "SearchInObservation": "Schneebericht",
       "ShowObservationsInMap": "Schneebeobachtungen und Hangneigungskarte"
@@ -275,6 +302,7 @@
   },
   "No": "Nein",
   "Now": "Jetzt",
+  "NveAccountSignIn": "Anmelden",
   "observation": " Beobachtungen",
   "ObservationCard": {
     "AboveSeaLevel": "m ü. A.",
@@ -437,6 +465,8 @@
       "AddIceLayer": "Eisschicht hinzufügen",
       "AddIceThicknessLayer": "Eisschicht hinzufügen",
       "Comment": "Kommentar",
+      "IceHeightAfterInput": "Mächtigkeit des Oberflächenwassers (cm)",
+      "IceHeightBeforeInput": "Mächtigkeit des Oberflächenwassers (cm)",
       "IceLayer": "Eisschicht",
       "IceLayerThickness": "Eisschichtdicke",
       "IceThicknessLayers": "Schichten (von oben nach unten)",
@@ -445,6 +475,7 @@
       "IsEqualToIceSurface": "ist gleich zur Eisfläche",
       "LowerThanIceSurface": "niedriger als Eisfläche ",
       "ObsName": "Eisdicke",
+      "OnIce": "Auf Eis",
       "OverIce": "Über dem Eis",
       "OverWaterAfterDrilling": "nach dem Bohren über Wasser",
       "OverWaterBeforeDrilling": "Wasser vor dem Bohren",
@@ -651,6 +682,8 @@
   "Register": "Benutzer erstellen",
   "RegistrationEdit": {
     "AddForm": "Formular hinzufügen",
+    "ConfirmDeleteFormWithPictures": "Durch Löschen dieses Formulars werden auch die Bilder gelöscht. Bist du sicher?",
+    "DeleteFormWithPictures": "Formular und Bilder löschen",
     "DeleteObservation": "Beobachtung löschen",
     "Discard": "Verwerfen",
     "Done": "Fertig",
@@ -682,6 +715,7 @@
       "Area": {
         "Label": "Gebiete",
         "List": "Regionen",
+        "Norway": "Norwegen",
         "Search": "In der Nähe"
       },
       "Country": {
@@ -799,6 +833,10 @@
   "Time": "Zeitpunkt",
   "to": "bis",
   "Unknown": "Unbekannt",
+  "Update": {
+    "NewVersionAvailableDescription": "Die Seite muss aktualisiert werden. Möchten Sie jetzt aktualisieren?",
+    "NewVersionAvailableTitle": "Eine neue Version ist verfügbar"
+  },
   "Url": {
     "Add": "Web-URL hinzufügen",
     "Description": "Beschreibung",

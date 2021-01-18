@@ -36,25 +36,7 @@
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs använder så kallade cookies för att förbättra din användarupplevelse när du besöker webbplatsen. En cookie är en textfil som, när du besöker eller interagerar med en webbplats, placeras i webbläsarens interna minne.",
     "AboutUseSecondParagraph": "Grunden för detta är artikel 6 nr 1 f i sekretessförordningen, som tillåter oss att behandla information som är nödvändig för att skydda ett intresse som uppväger den enskildas integritet. Detta intresse är att få vår webbplats att fungera bra så att du får en bra användarupplevelse.",
-    "AboutUseThirdParagraph": "Regobs använder inte cookies för att kartlägga enskilda användares användningsmönster eller annan information som kan kränka deras integritet.",
-    "CookiesDescription": "I tabellen nedan listar vi vilken information som cookies på beta.regobs.no använder, vilka data som lagras och varför webbplatsen behöver dem.",
-    "Customize": "Anpassa",
-    "CustomizeDescription": "De flesta moderna webbläsare (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) är inställda på att automatiskt acceptera cookies, men du kan välja att ändra inställningarna själv så att cookies inte accepteras. Notera att detta kan leda till att regobs.no inte fungerar optimalt.",
-    "DataProcessorColumnLabel": "Datahanterare",
-    "DescriptionColumnLabel": "Beskrivning",
-    "Descriptions": {
-      "__utma": "Används för att skilja användare och sessioner.",
-      "__utmb": "Används för att bestämma nya sessioner / besök.",
-      "__utmc": "Används som hjälp vid bestämmande av nya sessioner / besök.",
-      "__utmt": "Används för att minska förfrågningar.",
-      "__utmz": "Används för att lagra hur användaren kom till webbplatsen."
-    },
-    "DomainColumnLabel": "Domän",
-    "HowToAdminister": "förklarar hur du själv hanterar cookies.",
-    "Label": "Cookies",
-    "NameColumnLabel": "Cookie",
-    "TheWebsite": "Webbplats",
-    "Title": "Om Cookies"
+    "CustomizeDescription": "De flesta moderna webbläsare (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) är inställda på att automatiskt acceptera cookies, men du kan välja att ändra inställningarna själv så att cookies inte accepteras. Notera att detta kan leda till att regobs.no inte fungerar optimalt."
   },
   "CopiedToClipboard": "Länk till observationen kopierad till urklipp.",
   "CountOf": "Antal",
@@ -268,7 +250,6 @@
     "SearchInObservation": "Sök observationer",
     "ShowObservationsInMap": "Visa observationer i kartan",
     "Snow": {
-      "RegisteredTrips": "Se registrerade turer",
       "RegisterObservation": "Ny snöobservation",
       "SearchInObservation": "Rapport snöobservationer",
       "ShowObservationsInMap": "Snöobservationer och lutningskarta"

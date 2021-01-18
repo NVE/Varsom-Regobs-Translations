@@ -38,25 +38,7 @@
   "Cookies": {
     "AboutUseFirstParagraph": "Regobs utilizza i cookie per migliorare la tua esperienza utente quando visiti il sito Web. Un cookie è un file di testo che, durante la visita o l'interazione con un sito Web, viene inserito nella memoria interna del browser.",
     "AboutUseSecondParagraph": "La base di ciò è l'articolo 6, paragrafo 1, lettera f), della politica sulla privacy, che ci consente di elaborare le informazioni necessarie per salvaguardare un interesse che superi la privacy della persona. L'interesse è far funzionare bene il nostro sito Web in modo da ottenere una buona esperienza utente.",
-    "AboutUseThirdParagraph": "Regobs non fa uso di cookies per la mappa di singoli utenti, modelli di utilizzo o altre informazioni che possono violare la loro privacy.",
-    "CookiesDescription": "Nella tabella seguente elenchiamo quali cookie beta.regobs.no utilizza, quali dati vengono memorizzati e perché il sito ne ha bisogno.",
-    "Customize": "Personalizza",
-    "CustomizeDescription": "I browser più moderni (Google Chrome, Internet Explorer, Firefox, Safari, Opera, ecc.) Sono impostati per accettare automaticamente i cookie, ma puoi scegliere di modificare le tue impostazioni in modo che i cookie non vengano accettati. Notiamo che questo potrebbe portare a regobs.no non funzionare in modo ottimale.",
-    "DataProcessorColumnLabel": "Processore di dati",
-    "DescriptionColumnLabel": "Descrizione",
-    "Descriptions": {
-      "__utma": "Utilizzato per distinguere utenti e sessioni.",
-      "__utmb": "Utilizzato per determinare nuove sessioni / visite.",
-      "__utmc": "Utilizzato per determinare nuove sessioni / visite.",
-      "__utmt": "Utilizzato per limitare le richieste.",
-      "__utmz": "Utilizzato per memorizzare il modo in cui l'utente è arrivato al sito."
-    },
-    "DomainColumnLabel": "Dominio",
-    "HowToAdminister": "spiega come è possibile amministrare i cookie.",
-    "Label": "Cookies",
-    "NameColumnLabel": "Cookie",
-    "TheWebsite": "Il sito web",
-    "Title": "Utilizzo dei cookie"
+    "CustomizeDescription": "I browser più moderni (Google Chrome, Internet Explorer, Firefox, Safari, Opera, ecc.) Sono impostati per accettare automaticamente i cookie, ma puoi scegliere di modificare le tue impostazioni in modo che i cookie non vengano accettati. Notiamo che questo potrebbe portare a regobs.no non funzionare in modo ottimale."
   },
   "CopiedToClipboard": "Ipercollegamento all'osservazione copiata negli appunti.",
   "CountOf": "Numero di",
@@ -209,14 +191,14 @@
     "SupportWeakenedIceDescription": "La mappa a supporto mostra vie d'acqua che si comportano in modo poco prevedibile perchè sono regolate per la produzione di elettricità",
     "SupportWeakenedIceName": "Ghiaccio indebolito",
     "Water": {
-      "10YearFlood": "Alluivione a 10 anni",
-      "20YearFlood": "Alluivione a 20 anni",
-      "50YearFlood": "Alluivione a 50 anni",
+      "1000YearFlood": "Alluivione a 1000 anni",
       "100YearFlood": "Alluivione a 100 anni",
+      "10YearFlood": "Alluivione a 10 anni",
       "200YearFlood": "Alluivione a 200 anni",
       "200YearFloodClimate": "Alluivione a 200 anni (clima)",
+      "20YearFlood": "Alluivione a 20 anni",
       "500YearFlood": "Alluivione a 500 anni",
-      "1000YearFlood": "Alluivione a 1000 anni",
+      "50YearFlood": "Alluivione a 50 anni",
       "AjourRecognized": "Ajour riconosciuto",
       "Current": "Attuale",
       "ForReview": "In revisione",
@@ -267,7 +249,6 @@
     "SearchInObservation": "Cerca nelle osservazioni",
     "ShowObservationsInMap": "Mostra osservazioni nella mappa",
     "Snow": {
-      "RegisteredTrips": "Uscite registrate",
       "RegisterObservation": "Nuova osservazione sulla neve",
       "SearchInObservation": "Rapporto neve",
       "ShowObservationsInMap": "Osservazioni sulla neve e mappa delle pendenze"
