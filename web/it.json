@@ -748,7 +748,7 @@
     "Done": "Fatto",
     "ErrorHasBeenLogged": "Il messaggio di errore è stato registrato nel sistema con l'ID di riferimento",
     "FormInfo": "Compila i moduli che corrispondono al tipo di osservazione che hai fatto. È necessario aggiungere almeno un modulo per registrate l'osservazione.",
-    "MissingNetwork": "Errore di rete o timeout. Riproviamo in un'attimo e speriamo che la rete sia migliore.",
+    "MissingNetwork": "Errore di rete o timeout.",
     "NoCancel": "No, annulla",
     "Retry": "Riprova",
     "SaveAsDraft": "Salva come bozza?",

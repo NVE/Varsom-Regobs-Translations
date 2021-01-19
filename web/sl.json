@@ -808,7 +808,7 @@
     "BadRequest": "Nepravilen zahtevek",
     "ContinueOnDraftButton": "Nadaljuj z osnutkom",
     "FormInfo": "Izpolnite obrazce, ki ustrezajo vrsti opažanja, ki ste ga opazili. Dodati morate vsaj en obrazec za opažanje, ki ga želite zabeležiti.",
-    "MissingNetwork": "Ni povezave z omrežjem ali pa je povezava potekla. Čez nekaj časa bomo ponovno poskusili in upali, da se je povezava izboljšala.",
+    "MissingNetwork": "Ni povezave z omrežjem ali pa je povezava potekla.",
     "SaveDraftMessage": "Niste dodali nobenih obrazcev in zato opažanja ne bomo objavili. Ali boste shranili kot osnutek in nadaljevali pozneje?",
     "SyncErrorFormInfo": "Enega ali več predmetov v tem obrazcu ni bilo mogoče oddati."
   },

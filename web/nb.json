@@ -833,7 +833,7 @@
     "Done": "Ferdig",
     "ErrorHasBeenLogged": "Feilmeldingen har blitt logget i systemet med referanse",
     "FormInfo": "Fyll ut skjemaene som passer til den typen observasjon du har observert. Du må legge til minst ett skjema for at observasjonen skal bli registrert. <strong>Observasjonen er synlig på regobs.no så fort skjema lagres.</strong>",
-    "MissingNetwork": "Mangler nettverk eller innsending tok for lang tid. Vi prøver igjen etter en stund og håper at nettet har bedret seg.",
+    "MissingNetwork": "Mangler nettverk eller innsending tok for lang tid. Sjekk nettverket og prøv på nytt.",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
     "SaveAsDraft": "Lagre som kladd?",
