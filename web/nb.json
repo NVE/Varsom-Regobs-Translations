@@ -359,6 +359,7 @@
   "observation": "observasjoner",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
+    "Competence": "Ukjent kompetanse",
     "Download": "Last ned",
     "ForecastRegion": "Varslingsregion",
     "Forms": "Skjemaer",

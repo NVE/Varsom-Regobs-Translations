@@ -359,6 +359,7 @@
   "observation": " observations",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
+    "Competence": "Unknown competence",
     "Download": "Download",
     "ForecastRegion": "Forecast region",
     "Forms": "Forms",
