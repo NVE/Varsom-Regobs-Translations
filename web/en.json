@@ -997,6 +997,7 @@
     "Description": "Description",
     "Edit": "Edit",
     "EditUrl": "Edit web URL",
+    "Http": "Must include http",
     "Url": "URL",
     "WebUrl": "Web URL"
   },
