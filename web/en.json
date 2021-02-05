@@ -820,6 +820,7 @@
   "RegistrationEdit": {
     "AddForm": "Add form",
     "BadRequest": "Bad request.",
+    "CancelMyChanges": "Cancel my changes",
     "ConfirmDelete": "Are you sure you want to delete this observation?",
     "ConfirmDeleteFormWithPictures": "Deleting this form will also delete the pictures. Are you sure?",
     "ContinueOnDraft": "Continue on draft",
@@ -837,6 +838,7 @@
     "MissingNetwork": "Network is offline or connection timed out. Please check your network and retry.",
     "NoCancel": "No, cancel",
     "Retry": "Retry",
+    "SaveAndReplace": "Save and replace",
     "SaveAsDraft": "Save as draft?",
     "SaveDraft": "Save draft",
     "SaveDraftMessage": "You have not added any forms and therefore the observation will not be published, will you save as draft and continue later?",
@@ -844,6 +846,7 @@
     "SyncError": "Could not sync observation with Regobs!",
     "SyncErrorFormInfo": "One or more objects on this form could not be submitted.",
     "SyncInProgress": "Sync in progress:",
+    "VersionConflict": "A new version was saved while you worked. Would you like to cancel your work and load the new version or save your version and overwrite?",
     "YesDelete": "Yes, delete!"
   },
   "RegistrationKeyInfo": {
