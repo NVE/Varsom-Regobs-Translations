@@ -820,6 +820,7 @@
   "RegistrationEdit": {
     "AddForm": "Legg til skjema",
     "BadRequest": "Ugyldig skjema.",
+    "CancelMyChanges": "Forkast mine endringer",
     "ConfirmDelete": "Er du sikker på at du vil slette denne observasjonen?",
     "ConfirmDeleteFormWithPictures": "Sletting av skjemaet vil også slette bildene. Er du sikker?",
     "ContinueOnDraft": "Fortsett på kladd",
@@ -837,6 +838,7 @@
     "MissingNetwork": "Mangler nettverk eller innsending tok for lang tid. Sjekk nettverket og prøv på nytt.",
     "NoCancel": "Nei, avbryt",
     "Retry": "Prøv på nytt",
+    "SaveAndReplace": "Lagre og erstatt",
     "SaveAsDraft": "Lagre som kladd?",
     "SaveDraft": "Lagre kladd",
     "SaveDraftMessage": "Du har ikke lagt til noen skjemaer og observasjonen vil derfor ikke publiseres, vil du lagre som kladd og fortsette senere?",
@@ -844,6 +846,7 @@
     "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
     "SyncErrorFormInfo": "Ett eller flere objekter på dette skjemaet kunne ikke sendes inn.",
     "SyncInProgress": "Synkronisering pågår:",
+    "VersionConflict": "Mens du jobbet har ett eller flere skjemaer blitt endret et annet sted. Vil du forkaste dine endringer og hente den nyeste versjonen eller vil du erstatte den nyeste versjonen med dine endringer?",
     "YesDelete": "Ja, slett!"
   },
   "RegistrationKeyInfo": {
