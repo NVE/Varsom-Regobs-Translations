@@ -109,7 +109,8 @@
     "ABOVE_SEA_LEVEL": "masl",
     "COPIED_TO_CLIPBOARD": "Copied to clipboard",
     "EAST_SHORT": "E",
-    "NORTH_SHORT": "N"
+    "NORTH_SHORT": "N",
+    "AWAY_FROM": "away"
   },
   "MAP_ITEM_BAR": {
     "AWAY": "Away",
