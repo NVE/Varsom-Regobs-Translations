@@ -109,7 +109,8 @@
     "ABOVE_SEA_LEVEL": "moh",
     "COPIED_TO_CLIPBOARD": "Kopiert til utklippstavlen",
     "EAST_SHORT": "Ø",
-    "NORTH_SHORT": "N"
+    "NORTH_SHORT": "N",
+    "AWAY_FROM": "unna"
   },
   "MAP_ITEM_BAR": {
     "AWAY": "Unna",
