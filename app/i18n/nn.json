@@ -100,7 +100,7 @@
     "LOGOUT": "Logg ut",
     "MY_PROFILE": "Min profil",
     "PASSWORD": "Passord",
-    "SERVICE_UNAVAILABLE": "Det er problem med å nå tjenesten. Har du nett? Gi den nokre minutt å prøv igjen.",
+    "SERVICE_UNAVAILABLE": "Det er problem med å nå tjenesten. Har du nett? Det kan hende at serverapplikasjonen må vakne og treng ein sterk kopp kaffe først. Gi den nokre minutt å prøv igjen.",
     "TITLE": "Logg inn",
     "UNAUTHORIZED": "Feil brukernavn eller passord. Fyll inn felta på nytt og prøv igjen.",
     "UNKNOWN_ERROR": "Det oppsto ein feil under innlogging. Melding frå server:"
@@ -109,8 +109,7 @@
     "ABOVE_SEA_LEVEL": "moh",
     "COPIED_TO_CLIPBOARD": "Kopiert til utklippstavla",
     "EAST_SHORT": "A",
-    "NORTH_SHORT": "N",
-    "AWAY_FROM": "unna"
+    "NORTH_SHORT": "N"
   },
   "MAP_ITEM_BAR": {
     "AWAY": "Unna",
@@ -166,9 +165,7 @@
     "NO_OBSERVATIONS": "Del dine observasjonar!",
     "NO_OBSERVATIONS_TEXT": "Her ligg observasjonar du sjølv har gjort. Med Varsom Regobs er det lett å dele observasjonar, bilete og vurderingar med andre. ",
     "SENT_SUBTITLE": "Desse observasjonane er sendt inn og lagra i Regobs. ",
-    "TITLE": "Mine observasjonar",
-    "MAX_COUNT_REACHED_HEADER": "Ingen fleire observasjonar",
-    "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjonar her. Du kan sjå fleire på <a target=\"_blank\" href=\"{{ myObservationsUrl }}/\">di side på web</a>"
+    "TITLE": "Mine observasjonar"
   },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "Alle observasjonar",
@@ -177,9 +174,7 @@
     "IN_MAP_VIEW": "Observasjonar i kartutsnittet",
     "NO_OBSERVATIONS": "Ingen observasjonar",
     "NO_OBSERVATIONS_TEXT": "Det er ingen observasjonar i kartutsnittet. Prøv å endre utsnittet eller forleng perioda du vil sjå observasjonar frå.",
-    "OBSERVATIONS": "Observasjonar",
-    "MAX_COUNT_REACHED_HEADER": "Ingen fleire observasjonar",
-    "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjonar her. Hvis du ikkje fann det du leita etter, prøv å zoome inn i kartet eller snevre inn perioden du vil se observasjoner fra."
+    "OBSERVATIONS": "Observasjonar"
   },
   "OFFLINE_MAP": {
     "TITLE": "Offline kart"
@@ -271,7 +266,7 @@
       "DESCRIPTION": "Her kan du laste opp bilete av område eller andre relevante observasjonar,",
       "SUBTITLE": "Bilete av observasjonen",
       "TAKE_NEW_PHOTO": "Ta eit nytt bilete",
-      "TITLE": "Notatar"
+      "TITLE": "Notat"
     },
     "GROUP": {
       "SUBTITLE": "Del observasjon med",
@@ -395,17 +390,17 @@
         "ADD_NEW": "Legg til nytt skredproblem",
         "ALL": "Alle",
         "AVAL_PROBABILITY": "Sannsyn for skred",
-        "AVALANCHE_DESTRUCTIVE_SIZE": "Storleik på venta skred",
+        "AVALANCHE_DESTRUCTIVE_SIZE": "Storleik på forventa skred",
         "AVALANCHE_PROBABILITY": "Moglegheit for skred",
         "AVALANCHE_PROPAGATION_HEADER": "Utbreiing av skredproblemet",
         "AVALANCHE_TRIGGER_PROBABILITY": "Utløysbarheit",
         "AVALANCHE_TYPE": "Skredtype",
         "BOTTOM": "Nedst",
-        "EXPOSED_HEIGHT_COMBO": "Utsett høgde",
+        "EXPOSED_HEIGHT_COMBO": "Utsett høgd",
         "EXPOSED_HEIGHT1": "Høgde",
-        "EXPOSED_HEIGHT2": "Nedre høgde",
+        "EXPOSED_HEIGHT2": "Nedre høgd",
         "MIDDLE": "i midten",
-        "NO_WEAK_LAYERS": "Det finnast ikkje svake lag",
+        "NO_WEAK_LAYERS": "Det finst ikkje svake lag",
         "PROPAGATION": "Utbreiing",
         "TITLE": "Skredproblem",
         "TOP": "Øvst",
@@ -750,7 +745,7 @@
     "NO_FAVOURITES": "Vel dine favorittvarsel",
     "NO_FAVOURITES_TEXT": "Sveip varselet du ynskjer å favorittmarkere til venstre, så vil du finne det her.",
     "NO_WARNINGS": "Ingen varsel",
-    "NO_WARNINGS_TEXT": "Det finnast ikkje varsel for området du er i. Når det finnast varsel, vil dei visast her. ",
+    "NO_WARNINGS_TEXT": "Det finst ikkje varsel for området du er i. Når det finst varsel, vil dei visast her. ",
     "OTHER_RELEVANT": "Andre aktuelle",
     "RELEVANT": "Aktuelle",
     "REMOVED_FROM_FAVOURITES": "fjerna frå favorittar",
