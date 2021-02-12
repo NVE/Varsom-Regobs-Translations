@@ -846,7 +846,7 @@
     "SyncError": "Klarte ikke synkronisere observasjon med Regobs!",
     "SyncErrorFormInfo": "Ett eller flere objekter på dette skjemaet kunne ikke sendes inn.",
     "SyncInProgress": "Synkronisering pågår:",
-    "VersionConflict": "Mens du jobbet har ett eller flere skjemaer blitt endret et annet sted. Vil du forkaste dine endringer og hente den nyeste versjonen eller vil du erstatte den nyeste versjonen med dine endringer?",
+    "VersionConflict": "Mens du jobbet har ett eller flere skjemaer blitt endret et annet sted. Vil du forkaste dine endringer som du har lagt inn her og hente den andre versjonen, eller vil du lagre endringene du gjorde her?",
     "YesDelete": "Ja, slett!"
   },
   "RegistrationKeyInfo": {
