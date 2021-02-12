@@ -166,7 +166,9 @@
     "NO_OBSERVATIONS": "Del dine observasjonar!",
     "NO_OBSERVATIONS_TEXT": "Her ligg observasjonar du sjølv har gjort. Med Varsom Regobs er det lett å dele observasjonar, bilete og vurderingar med andre. ",
     "SENT_SUBTITLE": "Desse observasjonane er sendt inn og lagra i Regobs. ",
-    "TITLE": "Mine observasjonar"
+    "TITLE": "Mine observasjonar",
+    "MAX_COUNT_REACHED_HEADER": "Ingen fleire observasjonar",
+    "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjonar her. Du kan sjå fleire på <a target=\"_blank\" href=\"{{ myObservationsUrl }}/\">di side på web</a>"
   },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "Alle observasjonar",
@@ -175,7 +177,9 @@
     "IN_MAP_VIEW": "Observasjonar i kartutsnittet",
     "NO_OBSERVATIONS": "Ingen observasjonar",
     "NO_OBSERVATIONS_TEXT": "Det er ingen observasjonar i kartutsnittet. Prøv å endre utsnittet eller forleng perioda du vil sjå observasjonar frå.",
-    "OBSERVATIONS": "Observasjonar"
+    "OBSERVATIONS": "Observasjonar",
+    "MAX_COUNT_REACHED_HEADER": "Ingen fleire observasjonar",
+    "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjonar her. Hvis du ikkje fann det du leita etter, prøv å zoome inn i kartet eller snevre inn perioden du vil sjå observasjonar frå."
   },
   "OFFLINE_MAP": {
     "TITLE": "Offline kart"
