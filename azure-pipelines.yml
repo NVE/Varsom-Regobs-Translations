@@ -20,6 +20,29 @@ steps:
   inputs:
     command: 'custom'
     customCommand: 'run build'
+
+- powershell: |
+   git switch -c master
+   git config --global user.email "regobs@nve.no"
+   git config --global user.name "Azure DevOps Pipeline"
+  displayName: 'PowerShell Script'
+- task: Npm@1
+  displayName: 'npm version patch'
+  inputs:
+    command: custom
+    verbose: false
+    customCommand: 'version patch --force -m "[skip ci] AzurePipeline Release (CI)"'
+
+- script: |
+   git push --folow-tags origin master   
+  displayName: 'Command Line Script'
+
+- task: GitHubRelease@1
+  displayName: 'GitHub release (create)'
+  inputs:
+    gitHubConnection: 'Github Service Connection'
+    releaseNotesSource: inline
+    releaseNotesInline: 'Azure Pipelines CI Release'
 - task: CopyFiles@2
   inputs:
     Contents: |
