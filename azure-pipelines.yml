@@ -34,15 +34,9 @@ steps:
     customCommand: 'version patch --force -m "[skip ci] AzurePipeline Release (CI)"'
 
 - script: |
-   git push --folow-tags origin master   
-  displayName: 'Command Line Script'
+   git push --follow-tags origin master   
+  displayName: 'Git push new package version and tags'
 
-- task: GitHubRelease@1
-  displayName: 'GitHub release (create)'
-  inputs:
-    gitHubConnection: 'Github Service Connection'
-    releaseNotesSource: inline
-    releaseNotesInline: 'Azure Pipelines CI Release'
 - task: CopyFiles@2
   inputs:
     Contents: |
@@ -58,4 +52,11 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'Container'
+
+- task: GitHubRelease@1
+  displayName: 'GitHub release (create)'
+  inputs:
+    gitHubConnection: 'Github Service Connection'
+    releaseNotesSource: inline
+    releaseNotesInline: 'Azure Pipelines CI Release'
 
