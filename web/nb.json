@@ -154,7 +154,7 @@
     "LoadObservartionsError": "Noe galt skjedde ved lasting av observasjoner!",
     "InvalidRegistration": "Ugyldig registrering",
     "InvalidRegText": "Vi finner dessverre ikke registreringen du ber om",
-    "RouterError": "Vi fant dessverre ikke {{router.url}}, men det er ikke for sent å snu"
+    "RouterError": "Vi fant dessverre ikke siden du leter etter, men det er ikke for sent å snu"
   },
   "Footer": {
     "CookiesLink": "Informasjonskapsler",

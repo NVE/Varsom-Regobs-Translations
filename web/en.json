@@ -154,7 +154,7 @@
     "LoadObservartionsError": "Something went wrong while loading observations!",
     "InvalidRegistration": "Invalid registration",
     "InvalidRegText": "We can't find the registration you're asking for",
-    "RouterError": "We couldn't find {{router.url}}, but it's never too late to turn around"
+    "RouterError": "We couldn't find the page you're looking for, but it's never too late to turn around"
 
   },
   "Footer": {
