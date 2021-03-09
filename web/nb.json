@@ -152,7 +152,7 @@
     "AuthRequestError": "Klarte ikke kontakte NVE-konto for pålogging. Vennligst prøv igjen senere eller ta kontakt med oss dersom feilen vedvarer.",
     "Error": "Feil",
     "LoadObservartionsError": "Noe galt skjedde ved lasting av observasjoner!",
-    "InvalidRegistration": "Ugyldig registrering",
+    "InvalidRegistration": "Ukjent registrerings-ID",
     "InvalidRegText": "Vi finner dessverre ikke registreringen du ber om",
     "RouterError": "Vi fant dessverre ikke siden du leter etter, men det er ikke for sent å snu"
   },
