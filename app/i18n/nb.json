@@ -186,7 +186,7 @@
   },
   "PERMISSION": {
     "LOCATION_DENIED_HEADER": "Tilgang til posisjon nektet",
-    "LOCATION_DENIED_MESSAGE": "Kan ikke vise posisjonen din i kartet uten app-godkjenning for bruk av lokasjon."
+    "LOCATION_DENIED_MESSAGE": "Kan ikke vise posisjonen din i kartet uten godkjenning for bruk av lokasjon."
   },
   "POPUP_DISCLAMER": {
     "ABOUT_OBSERVATIONS": {
