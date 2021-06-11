@@ -78,6 +78,13 @@
   "GEOLOCATION_SERVICE": {
     "NOTIFICATION_TITLE": "Tur pågår"
   },
+  "GEOLOCATION": {
+    "POSITION_ERROR": {
+      "PermissionDenied": "For å hente posisjonen din må du endre innstillinger i nettleseren",
+      "PositionUnavailable": "Får ikke tak i posisjonen din",
+      "Timeout": "Det tok for lang tid å få tak i posisjonen din"
+    }
+  },
   "HELP": {
     "TITLE": "Hjelp"
   },
