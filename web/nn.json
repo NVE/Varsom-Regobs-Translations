@@ -343,7 +343,7 @@
       "ShowObservationsInMap": "Snøobservasjon og brattleikkart"
     },
     "Soil": {
-      "RegisterObservation": "Ny isobservasjon",
+      "RegisterObservation": "Ny jordobservasjon",
       "SearchInObservation": "Rapportvising for jord og vatn",
       "ShowObservationsInMap": "Jord- og vassobservasjonar og skredutsett terreng"
     },
