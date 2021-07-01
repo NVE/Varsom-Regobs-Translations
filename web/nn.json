@@ -575,6 +575,7 @@
       "DamageExtent": "Skadeomfang",
       "DamageExtentTName": "Omfang",
       "DtLandSlideTime": "Kva er tidlegaste tidspunktet skredet kan ha gått?",
+      "DtLandSlideTimeWarning": "Ein eller fleire datoer er forskjellig frå observasjonstidspunkt",
       "DtLandSlideTimeEnd": "Kva er siste tid skredet kunne gått?",
       "ForecastAccurateTName": "Stemte varselet på varsom.no?",
       "InMap": "i kart",
