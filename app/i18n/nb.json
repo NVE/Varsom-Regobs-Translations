@@ -178,6 +178,12 @@
     "MAX_COUNT_REACHED_HEADER": "Ingen flere observasjoner",
     "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjoner her. Du kan se flere på <a target=\"_blank\" href=\"{{ myObservationsUrl }}/\">din side på web</a>"
   },
+  "MY_PROFILE": {
+    "MY_PICTURES": "Mine bilder",
+    "COPYRIGHT": "Opphavsrett",
+    "PHOTOGRAPHER": "Fotograf",
+    "SAVE": "Lagre"
+  },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "Alle observasjoner",
     "FORMS": "Skjemaer",
