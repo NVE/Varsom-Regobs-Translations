@@ -197,6 +197,9 @@
   },
   "OFFLINE_MAP": {
     "TITLE": "Offline kart"
+    "DISKSPACE_ERROR_MESSAGE": "Beklager, du har ikke nok plass tilgjengelig på telefonen til å lagre kartpakken. Vennligst frigjør plass og prøv på nytt.",
+    "TITLE": "Offline kart",
+    "UNZIP_ERROR_MESSAGE": "Klarte ikke laste ned kartpakke. Er du sikker på at det er nok plass tilgjengelig?"
   },
   "PERMISSION": {
     "LOCATION_DENIED_HEADER": "Tilgang til posisjon nektet",
