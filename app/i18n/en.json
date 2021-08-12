@@ -180,9 +180,18 @@
   },
   "MY_PROFILE": {
     "MY_PICTURES": "My pictures",
+    "NICKNAME": "My nickname",
+    "NICKNAME_TEXT": "Your nickname is visible to everyone on the observations you make",
     "COPYRIGHT": "Copyright",
     "PHOTOGRAPHER": "Photographer",
-    "SAVE": "Save"
+    "PUBLISH_PHOTOS": "All published photos are licensed under NLOD and can be reused. <a href=\"https://data.norge.no/nlod/no/\">Read more about data</a>",
+    "SAVE": "Save",
+    "EDIT": "Edit",
+    "USER": "User",
+    "MY_COMPETENCE": "My competence",
+    "COMPETENCE": "<a href=\"https://varsom.no/regobs/kompetanse/\">Read more about competence</a>",
+    "MY_GROUPS": "My groups",
+    "MY_GROUPS_TEXT": "You can edit observations in a group for up to 48 hours after registration. <a href=\"mailto:regobs@nve.no\">Please contact us</a> to change group name, group description and members"
   },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "All observations",
@@ -196,7 +205,7 @@
     "MAX_COUNT_REACHED_TEXT": "We show max {{ maxCount }} observations here. If you didn't find what you looked for you may try to zoom in or narrow the period you want to see observations from."
   },
   "OFFLINE_MAP": {
-    "TITLE": "Offline Map"
+    "TITLE": "Offline Map",
     "DISKSPACE_ERROR_MESSAGE": "Not enough disk space available to store offline map package. Please free up some disk space and try again.",
     "TITLE": "Offline Map",
     "UNZIP_ERROR_MESSAGE": "Could not download map package. Are you sure there is enough disk space?"
