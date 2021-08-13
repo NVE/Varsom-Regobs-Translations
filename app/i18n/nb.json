@@ -179,6 +179,8 @@
     "MAX_COUNT_REACHED_TEXT": "Vi viser maks {{ maxCount }} observasjoner her. Du kan se flere på <a target=\"_blank\" href=\"{{ myObservationsUrl }}/\">din side på web</a>"
   },
   "MY_PROFILE": {
+    "TITLE": "Min side",
+    "MY_NVE_ACCOUNT": "Min NVE-konto",
     "MY_PICTURES": "Mine bilder",
     "NICKNAME": "Mitt kallenavn",
     "NICKNAME_TEXT": "Kallenavn er et navn som er synlig for alle og vises sammen med observasjoner du gjør",
@@ -191,7 +193,8 @@
     "MY_COMPETENCE": "Min kompetanse",
     "COMPETENCE": "<a href=\"https://varsom.no/regobs/kompetanse/\">Les mer om kompetanse</a>",
     "MY_GROUPS": "Mine grupper",
-    "MY_GROUPS_TEXT": "Du kan redigere en observasjon i en gruppe 48 timer etter den er innsendt. <a href=\"mailto:regobs@nve.no\">Ta kontakt</a> for å endre gruppenavn, gruppebeskrivelse og medlemmer"
+    "MY_GROUPS_TEXT": "Du kan redigere en observasjon i en gruppe 48 timer etter den er innsendt. <a href=\"mailto:regobs@nve.no\">Ta kontakt</a> for å endre gruppenavn, gruppebeskrivelse og medlemmer",
+    "NO_GROUPS": "Du er ikke medlem av noen grupper"
   },
   "OBSERVATION_LIST": {
     "ALL_OBSERVATIONS": "Alle observasjoner",
