@@ -213,7 +213,8 @@
     "TITLE": "Offline Map",
     "DISKSPACE_ERROR_MESSAGE": "Not enough disk space available to store offline map package. Please free up some disk space and try again.",
     "TITLE": "Offline Map",
-    "UNZIP_ERROR_MESSAGE": "Could not download map package. Are you sure there is enough disk space?"
+    "UNZIP_ERROR_MESSAGE": "Could not save map package to disk. Are you sure there is enough disk space?",
+	"DOWNLOAD_ERROR_MESSAGE": "Could not download map package. Make sure you have a stable internet connection."
   },
   "PERMISSION": {
     "LOCATION_DENIED_HEADER": "Permission to location denied",
