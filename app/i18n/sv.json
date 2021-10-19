@@ -190,7 +190,7 @@
     },
     "ABOUT_SUPPORT_MAPS": {
       "HEADER": "Om kartor",
-      "MESSAGE": "Använd kartorna på egen risk och gör alltid din egen utvärdering. Kartorna kan innehålla fel och utelämnanden."
+      "MESSAGE": "Använd kartorna på egen risk och gör alltid din egen utvärdering. Kartorna kan innehålla fel och utelämnanden. Endast vissa temakartor är inkluderade i offlinekartorna."
     },
     "OK_I_UNDERSTAND": "OK, jag förstår"
   },
@@ -676,7 +676,7 @@
     "READ_MORE": "Lär mer om kartorna",
     "STEEPNESS_COLOR_INFO": "Färger anger branthet i terrängen",
     "STEEPNESS_MAP_DESCRIPTION": "Lutningskarta",
-    "STEEPNESS_MAP_DISCLAMER": "<i>Endast</i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng visas inte.",
+    "STEEPNESS_MAP_DISCLAMER": "<i>Endast</i> för turplanering. Kartan produceras automatiskt och kan ha fel och information kan saknas, t.ex. brant terräng visas inte. Den här temakartan saknas i offlinekartorna.",
     "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Kort utloppszon (50% av lavinerna når längre)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Medel utloppszon (25% oav lavinerna når längre)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Lång utloppszon (5% av lavinerna når längre)\nVissa laviner kan ha längre utloppszon än vad som visas på kartan.",

@@ -227,7 +227,7 @@
     },
     "ABOUT_SUPPORT_MAPS": {
       "HEADER": "About maps",
-      "MESSAGE": "Use the maps at your own risk and always make your own evaluation. The maps may contain errors and omissions."
+      "MESSAGE": "Use the maps at your own risk and always make your own evaluation. The maps may contain errors and omissions. Not all support maps are included in the offline map packages."
     },
     "OK_I_UNDERSTAND": "OK, I understand"
   },
@@ -702,6 +702,7 @@
     "FLOOD_LEGEND_TEXT_9": "100-year flood",
     "FLOOD_LEGEND_TEXT_YEAR": "Flooded at",
     "FLOOD_ZONES_MAP_DESCRIPTION": "Flood zones",
+    "FLOOD_MAP_DISCLAMER": "This ",
     "HIGH": "High",
     "ICE_LEGEND_TEXT_1": "Fractured ice along the shore",
     "ICE_LEGEND_TEXT_2": "Significantly weakened ice",
@@ -719,7 +720,7 @@
     "READ_MORE": "Read more about maps",
     "STEEPNESS_COLOR_INFO": "Colors indicate the slope angle of the terrain",
     "STEEPNESS_MAP_DESCRIPTION": "Slope angle shading map",
-    "STEEPNESS_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain not displayed.",
+    "STEEPNESS_MAP_DISCLAMER": "For trip planning <i>only</i>. The map is automatically produced and may have errors and omissions, e.g. steep terrain not displayed. This map is not downloaded with the offline map packages.",
     "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Short runouts (50% of the avalanches reach farther)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Medium runouts (25% of the avalanches reach farther)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Long runouts (5% of the avalanches reach farther)\nSome avalanches may have longer runouts than displayed as runout zones in the map.",
