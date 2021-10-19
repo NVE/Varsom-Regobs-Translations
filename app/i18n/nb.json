@@ -227,7 +227,7 @@
     },
     "ABOUT_SUPPORT_MAPS": {
       "HEADER": "Om kart",
-      "MESSAGE": "Bruk kartene på eget ansvar og gjør alltid dine egne vurderinger. Kartene kan inneholde feil og mangler."
+      "MESSAGE": "Bruk kartene på eget ansvar og gjør alltid dine egne vurderinger. Kartene kan inneholde feil og mangler. Kun enkelte temakart er inkluderte i offline-kartpakkene."
     },
     "OK_I_UNDERSTAND": "OK, jeg skjønner"
   },
@@ -719,7 +719,7 @@
     "READ_MORE": "Les mer om støttekart",
     "STEEPNESS_COLOR_INFO": "Farger på terrengets bratthet i grader:",
     "STEEPNESS_MAP_DESCRIPTION": "Bratthetskart",
-    "STEEPNESS_MAP_DISCLAMER": "<i>Kun</i> for turplanlegging. Kartet er automatisk generert og kan ha feil og mangler, f.eks. bratte heng som ikke vises.",
+    "STEEPNESS_MAP_DISCLAMER": "<i>Kun</i> for turplanlegging. Kartet er automatisk generert og kan ha feil og mangler, f.eks. bratte heng som ikke vises. Dette kartlaget er ikke inkludert i offline-kartpakkene.",
     "STEEPNESS_OUTLET_LEGEND_TEXT_1": "Korte utløp (50% av skred stopper innen denne grensen)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_2": "Middels utløp (25% av skredene går lenger)",
     "STEEPNESS_OUTLET_LEGEND_TEXT_3": "Lange utløp (5% av skredene går lenger)\nNoen skred kan ha utløp som ikke er vist på kartet.",
