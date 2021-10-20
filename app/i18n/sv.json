@@ -633,6 +633,7 @@
   "SUPPORT_MAP": {
     "ABOUT": "Om kartorna",
     "CAUTION_AREA": "Varningsområde",
+    "CLAY_MAP_DISCLAMER": "Den här temakartan saknas i offlinekartorna.",
     "CLAY_DANGER_ZONE": "Faranivå för lerområden",
     "CLAY_LEGEND_TEXT_1": "Kvicklera-punkt (SVV)",
     "CLAY_LEGEND_TEXT_2": "Kvicklera-område (SVV)",
@@ -644,6 +645,7 @@
     "CLAY_LEGEND_TEXT_8": "Utloppsområde",
     "CLAY_LEGEND_TEXT_9": "Potentiell lavinfara",
     "CLAY_ZONES_MAP_DESCRIPTION": "Kvicklera/Jordskred",
+    "FLOOD_MAP_DISCLAMER": "Den här temakartan saknas i offlinekartorna.",
     "FLOOD_LEGEND_TEXT_1": "Aktuella",
     "FLOOD_LEGEND_TEXT_10": "200-årsöversvämning",
     "FLOOD_LEGEND_TEXT_11": "500-årsöversvämning",

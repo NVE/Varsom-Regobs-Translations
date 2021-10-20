@@ -676,6 +676,7 @@
   "SUPPORT_MAP": {
     "ABOUT": "About maps",
     "CAUTION_AREA": "Caution area",
+    "CLAY_MAP_DISCLAMER": "This map is not downloaded with the offline map packages.",
     "CLAY_DANGER_ZONE": "Danger level for clay zone",
     "CLAY_LEGEND_TEXT_1": "Quick clay point (SVV)",
     "CLAY_LEGEND_TEXT_2": "Quick clay area (SVV)",
@@ -687,6 +688,7 @@
     "CLAY_LEGEND_TEXT_8": "Discharge area",
     "CLAY_LEGEND_TEXT_9": "Potential avalanche danger",
     "CLAY_ZONES_MAP_DESCRIPTION": "Clay zones",
+    "FLOOD_MAP_DISCLAMER": "This map is not downloaded with the offline map packages.",
     "FLOOD_LEGEND_TEXT_1": "Current",
     "FLOOD_LEGEND_TEXT_10": "200-year flood",
     "FLOOD_LEGEND_TEXT_11": "500-year flood",
@@ -702,7 +704,6 @@
     "FLOOD_LEGEND_TEXT_9": "100-year flood",
     "FLOOD_LEGEND_TEXT_YEAR": "Flooded at",
     "FLOOD_ZONES_MAP_DESCRIPTION": "Flood zones",
-    "FLOOD_MAP_DISCLAMER": "This ",
     "HIGH": "High",
     "ICE_LEGEND_TEXT_1": "Fractured ice along the shore",
     "ICE_LEGEND_TEXT_2": "Significantly weakened ice",

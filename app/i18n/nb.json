@@ -676,6 +676,7 @@
   "SUPPORT_MAP": {
     "ABOUT": "Om kartene",
     "CAUTION_AREA": "Aktsomhetsområde",
+    "CLAY_MAP_DISCLAMER": "Dette kartlaget er ikke inkludert i offline-kartpakkene.",
     "CLAY_DANGER_ZONE": "Faregrad for kvikkleiresone",
     "CLAY_LEGEND_TEXT_1": "Kvikkleirepunkt (SVV)",
     "CLAY_LEGEND_TEXT_2": "Kvikkleireområde (SVV)",
@@ -687,6 +688,7 @@
     "CLAY_LEGEND_TEXT_8": "Utløpsområde",
     "CLAY_LEGEND_TEXT_9": "Potensiell skredfare",
     "CLAY_ZONES_MAP_DESCRIPTION": "Kvikkleire/Jordskred",
+    "FLOOD_MAP_DISCLAMER": "Dette kartlaget er ikke inkludert i offline-kartpakkene.",
     "FLOOD_LEGEND_TEXT_1": "Gjeldende",
     "FLOOD_LEGEND_TEXT_10": "200-årsflom",
     "FLOOD_LEGEND_TEXT_11": "500-årsflom",
