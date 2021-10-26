@@ -229,6 +229,10 @@
       "HEADER": "About maps",
       "MESSAGE": "Use the maps at your own risk and always make your own evaluation. The maps may contain errors and omissions. Not all support maps are included in the offline map packages."
     },
+    "ABOUT_OFFLINE_SUPPORT_MAPS": {
+      "HEADER": "Offline maps",
+      "MESSAGE": "The chosen support map is only available online and may not work in areas with limited coverage."
+    },
     "OK_I_UNDERSTAND": "OK, I understand"
   },
   "REGISTRATION": {
