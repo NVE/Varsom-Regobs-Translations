@@ -192,6 +192,10 @@
       "HEADER": "Om kartor",
       "MESSAGE": "Använd kartorna på egen risk och gör alltid din egen utvärdering. Kartorna kan innehålla fel och utelämnanden. Endast vissa temakartor är inkluderade i offlinekartorna."
     },
+    "ABOUT_OFFLINE_SUPPORT_MAPS": {
+      "HEADER": "Offline-kartor",
+      "MESSAGE": "Den valda kartan är endast tillgänglig online och kan fungera dåligt i områden med bristfällig täckning."
+    },
     "OK_I_UNDERSTAND": "OK, jag förstår"
   },
   "REGISTRATION": {
