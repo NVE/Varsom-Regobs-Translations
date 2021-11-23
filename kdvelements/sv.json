@@ -2,7364 +2,7364 @@
   "ActivityInfluencedKD_0": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_100": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_111": {
     "translation": "Topptur",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_112": {
     "translation": "Skidåkning i anläggning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_113": {
     "translation": "Offpistskidåkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_114": {
     "translation": "Turskidåkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_115": {
     "translation": "Längdskidåkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_116": {
     "translation": "Klättring",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_117": {
     "translation": "Vandring",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_120": {
     "translation": "Väg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_130": {
     "translation": "Snöskoteråkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_140": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_160": {
     "translation": "Hus",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_190": {
     "translation": "Annat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_200": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_211": {
     "translation": "Människor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_220": {
     "translation": "Väg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_240": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_251": {
     "translation": "Skogs- och jordbruksareal",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_260": {
     "translation": "Bebyggelse",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_290": {
     "translation": "Annat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_300": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_311": {
     "translation": "Människor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_320": {
     "translation": "Väg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_340": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_351": {
     "translation": "Skogs- och jordbruksareal",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_360": {
     "translation": "Bebyggelse",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_390": {
     "translation": "Övrig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_400": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_411": {
     "translation": "Människor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_420": {
     "translation": "veg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_440": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_451": {
     "translation": "Skogs- och jordbruksareal",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_460": {
     "translation": "Bebyggelse",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_490": {
     "translation": "Övrig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_500": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_600": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_610": {
     "translation": "Fritidsaktivitet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_615": {
     "translation": "Instrumentering",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_620": {
     "translation": "Väg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_640": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_660": {
     "translation": "Bebyggelse",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_690": {
     "translation": "Annat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_700": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_710": {
     "translation": "Till fots",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_711": {
     "translation": "Skridskoåkare",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_712": {
     "translation": "Cross country ski",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_713": {
     "translation": "Kiteskidåkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_714": {
     "translation": "Isfiskare",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_715": {
     "translation": "Ridning / vagnar / släde",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_716": {
     "translation": "Hundspann",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_717": {
     "translation": "Rädda ett djur",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_719": {
     "translation": "Person skadad av islossning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_720": {
     "translation": "Snöskoter på isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_721": {
     "translation": "Bil på isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_722": {
     "translation": "ATV",
     "notes": "All Terrain Vehicle",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_722_desc": {
     "translation": "All Terrain Vehicle",
     "notes": "ATV",
-    "limit": "1024"
+    "limit": 1024
   },
   "ActivityInfluencedKD_723": {
     "translation": "Cykel",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_724": {
     "translation": "Motorcykel",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_725": {
     "translation": "Sparkstötting",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_730": {
     "translation": "Traktor på isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_731": {
     "translation": "Grävmaskin etc. på isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_732": {
     "translation": "Snow groomer / Belt wagon",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_735": {
     "translation": "Flygplan / helikopter",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_772": {
     "translation": "Isdrift",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_773": {
     "translation": "Svallis/ovan isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_774": {
     "translation": "Drivis",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ActivityInfluencedKD_790": {
     "translation": "Annat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AnticipatedObservationTimeKD_0_desc": {
     "translation": "Ej specificerat",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_10_desc": {
     "translation": "08:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_100_desc": {
     "translation": "18:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_110_desc": {
     "translation": "20:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_120_desc": {
     "translation": "22:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_20_desc": {
     "translation": "09:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_30_desc": {
     "translation": "10:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_40_desc": {
     "translation": "11:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_50_desc": {
     "translation": "12:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_60_desc": {
     "translation": "13:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_70_desc": {
     "translation": "14:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_80_desc": {
     "translation": "15:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AnticipatedObservationTimeKD_90_desc": {
     "translation": "16:00",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "AreaUsageKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_10": {
     "translation": "Friluftsområde",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_20": {
     "translation": "Väg",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_30": {
     "translation": "Skoterspår",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_40": {
     "translation": "Järnväg",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_50": {
     "translation": "Bebyggelse",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_90": {
     "translation": "Övrig",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AreaUsageKD_99": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "AvalancheDangerKD_0": {
     "translation": "0 Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheDangerKD_1": {
     "translation": "1 Liten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheDangerKD_2": {
     "translation": "2 Måttlig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheDangerKD_3": {
     "translation": "3 Betydande",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheDangerKD_4": {
     "translation": "4 Stor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheDangerKD_5": {
     "translation": "5 Extrem",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheExtKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_10": {
     "translation": "Torr lössnölavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_15": {
     "translation": "Våt lössnölavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_20": {
     "translation": "Torr flaklavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_25": {
     "translation": "Våt flaklavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_27": {
     "translation": "Glid lavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_30": {
     "translation": "Slask lavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheExtKD_40": {
     "translation": "Hängdriva",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_11": {
     "translation": "Våt lössnölavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_12": {
     "translation": "Torr lössnölavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_21": {
     "translation": "Våt flaklavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_22": {
     "translation": "Torr flaklavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_27": {
     "translation": "Glid lavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_30": {
     "translation": "Slasklavin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_40": {
     "translation": "Hängdriva",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheKD_99": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_10": {
     "translation": "Naturligt utlöst",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_22": {
     "translation": "Fjärrutlöst",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_23": {
     "translation": "Lavin utlöst på testsluttning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_25": {
     "translation": "Utlöst med sprängämnen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_26": {
     "translation": "Mänskligt utlöst",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_27": {
     "translation": "Utlöst av snöskoter",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTriggerKD_99": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalancheTypeKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheTypeKD_10": {
     "translation": "Flaklavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalancheTypeKD_20": {
     "translation": "Lössnölavin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "Det svaga lagret kollapsar lätt och rent (sprickutbredning sker lätt).",
     "notes": "",
-    "limit": "1073741823"
+    "limit": 1073741823
   },
   "AvalCauseAttributFlags_2": {
     "translation": "Det kollapsande svaga lagret är tunt <3 cm.",
     "notes": "",
-    "limit": "1073741823"
+    "limit": 1073741823
   },
   "AvalCauseAttributFlags_4": {
     "translation": "Det överliggande lagret är mjuk",
     "notes": "",
-    "limit": "1073741823"
+    "limit": 1073741823
   },
   "AvalCauseAttributFlags_8": {
     "translation": "En stor och identifierbar kristall i det svaga skiktet.",
     "notes": "",
-    "limit": "1073741823"
+    "limit": 1073741823
   },
   "AvalCauseDepthKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalCauseDepthKD_1": {
     "translation": "Inom en halv meter",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalCauseDepthKD_2": {
     "translation": "Inom en meter",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalCauseDepthKD_3": {
     "translation": "Över en meter",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalCauseKD_0": {
     "translation": "Ej angivet",
     "notes": "Not given",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_0_desc": {
     "translation": "Ej angivet",
     "notes": "Not given",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_10": {
     "translation": "Svagt lager av nysnö",
     "notes": "Weak layer of new snow",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_10_desc": {
     "translation": "Svagt lager av nysnö",
     "notes": "Buried weak layer of new snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_11": {
     "translation": "Svagt lager av rimfrost",
     "notes": "Weak layer of surface hoar",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_11_desc": {
     "translation": "Svagt lager av rimfrost",
     "notes": "Buried weak layer of surface hoar",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_13": {
     "translation": "Svagt skikt av facetterad snö",
     "notes": "Weak layer of faceted snow",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_13_desc": {
     "translation": "Svagt skikt av fasetterad snö",
     "notes": "Buried weak layer of faceted snow near surface",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_14": {
     "translation": "Svaga bindningar mot skare",
     "notes": "Poor bonding to crust",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_14_desc": {
     "translation": "Svaga bindningar mot skare",
     "notes": "Poor bonding between crust and overlying snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_15": {
     "translation": "Svaga bindningar i drevsnön",
     "notes": "Poor bonding within windslab",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_15_desc": {
     "translation": "Svaga bindningar i drevsnön",
     "notes": "Poor bonding between layers in wind deposited snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_16": {
     "translation": "Facetterad snö nära marken",
     "notes": "Faceted snow near the ground",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_16_desc": {
     "translation": "Facetterad snö nära marken",
     "notes": "Buried weak layer of faceted snow near the ground",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_18": {
     "translation": "Facetterad snö över skare",
     "notes": "Faceted snow above a crust",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_18_desc": {
     "translation": "Facetterad snö över skare",
     "notes": "Buried weak layer of faceted snow above a crust",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_19": {
     "translation": "Fasetterad snö under skare",
     "notes": "Faceted snow beneath a crust",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_19_desc": {
     "translation": "Fasetterad snö under skare",
     "notes": "Buried weak layer of faceted snow beneath a crust",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_20": {
     "translation": "Smälter nära marken",
     "notes": "Melting near the ground",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_20_desc": {
     "translation": "Smälter nära marken",
     "notes": "Wet snow/melting near the ground",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_22": {
     "translation": "Ackumulering av vatten över lager",
     "notes": "Water pooling above snow layers",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_22_desc": {
     "translation": "Ackumulering av vatten över lager",
     "notes": "Water pooling in/above snow layers",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalCauseKD_24": {
     "translation": "Obunden snö",
     "notes": "Loose snow",
-    "limit": "100"
+    "limit": 100
   },
   "AvalCauseKD_24_desc": {
     "translation": "Obunden snö",
     "notes": "Loose snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalProbabilityKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalProbabilityKD_2": {
     "translation": "Osannolikt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalProbabilityKD_3": {
     "translation": "Möjligt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalProbabilityKD_5": {
     "translation": "Trolig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalProbabilityKD_7": {
     "translation": "Mycket trolig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalPropagationKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalPropagationKD_1": {
     "translation": "Isolerade branta sluttningar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalPropagationKD_2": {
     "translation": "Specifika branta sluttningar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalPropagationKD_3": {
     "translation": "Utbredda branta sluttningar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "AvalReleaseHeightKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_1": {
     "translation": "I den nya snön",
     "notes": "Avalanches will release in the new snow.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_1_desc": {
     "translation": "Laviner kommer att gå in den nya snön.",
     "notes": "In the new snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_2": {
     "translation": "Mellan gammal och ny snö",
     "notes": "Avalanches will release between old and new snow.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_2_desc": {
     "translation": "Laviner kommer att gå mellan gammal och nysnö.",
     "notes": "Between old and new snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_3": {
     "translation": "Vid marken",
     "notes": "Avalanches will release at the ground.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_3_desc": {
     "translation": "Laviner kommer att gå vid marken.",
     "notes": "At the ground",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_4": {
     "translation": "I den gamla snön",
     "notes": "Avalanches will release in the old snow.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_4_desc": {
     "translation": "Laviner kommer att gå i den gamla snön (under nysnön).",
     "notes": "In the old snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_6": {
     "translation": "Fuktigt hela vägen till marken",
     "notes": "The whole snow cover is moist and unstable.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_6_desc": {
     "translation": "Hela snötäcket är fuktigt och instabilt.",
     "notes": "The snow cover is moist",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_7": {
     "translation": "Snön är övermättad med vatten",
     "notes": "The whole snow cover is over saturated with water and unstable.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_7_desc": {
     "translation": "Laviner startat antagligen på grund av att det översta skiktet är genomblött av vatten, bindningarna i detta skikt har smält och skiktet blir således instabilt.",
     "notes": "Saturated with water",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalReleaseHeightKD_8": {
     "translation": "Endast i gammal snö",
     "notes": "Avalanches will release in the old snow.",
-    "limit": "30"
+    "limit": 30
   },
   "AvalReleaseHeightKD_8_desc": {
     "translation": "Laviner kommer förmodligen att starta i den gamla snön.",
     "notes": "Only old snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "AvalTriggerSimpleKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalTriggerSimpleKD_22": {
     "translation": "Naturligt utlöst",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalTriggerSimpleKD_30": {
     "translation": "Mycket svårt att utlösa",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalTriggerSimpleKD_40": {
     "translation": "Svårt att utlösa",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalTriggerSimpleKD_50": {
     "translation": "Lätt att utlösa",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "AvalTriggerSimpleKD_60": {
     "translation": "Mycket lätt att utlösa",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CloudCoverKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CloudCoverKD_10": {
     "translation": "Klart väder",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CloudCoverKD_20": {
     "translation": "Delvis molnigt",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CloudCoverKD_30": {
     "translation": "Molnigt",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CompetenceLevelKD_0": {
     "translation": "Okänd",
     "notes": "Unknown competance.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_0_desc": {
     "translation": "Okänd kompetens.",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_100": {
     "translation": "-",
     "notes": "Unknown for snow.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_100_desc": {
     "translation": "Okänd kompetens om snö.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_105": {
     "translation": "A",
     "notes": "Automatic service",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_105_desc": {
     "translation": "Automatiserad service.",
     "notes": "A",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_110": {
     "translation": "*",
     "notes": "The observer has basic skills to assess avalanche danger. The observer is not educated in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_110_desc": {
     "translation": "Observatören har grundläggande färdigheter för att bedöma lavinfaran. Observatören är inte utbildad i hur regObs och Varsom kommunicerar lavinfara.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_115": {
     "translation": "**",
     "notes": "Experienced observer but is not educated in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_115_desc": {
     "translation": "Erfaren observatör utan kurs. Observatören har erfarenhet av att bedöma lavinfara. Observatören är inte utbildad i hur regObs och Varsom kommunicerar lavinfara.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_120": {
     "translation": "***",
     "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has a basic course in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_120_desc": {
     "translation": "Observatören är utbildad och har avancerade färdigheter i att bedöma lavinfara. Observatören har en grundläggande kurs i hur regObs och Varsom kommunicerar lavinfara",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_130": {
     "translation": "****",
     "notes": "The observer is educated and has advanced skills in assessing avalanche danger. The observer has an extended course in how regObs and Varsom communicates avalanche danger.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_130_desc": {
     "translation": "Observatör med avancerad observatörskurs. Observatören har mycket erfarenhet av att bedöma lavinrisk. Observatören har avancerade kurser eller liknande erfarenheter avseende användning av regObs och Varsom.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_150": {
     "translation": "*****",
     "notes": "Observer is an avalanche forecaster.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_150_desc": {
     "translation": "Observatören tillhör en varningstjänst.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_200": {
     "translation": "-",
     "notes": "Unknown competance.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_200_desc": {
     "translation": "Okänd kompetens.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_210": {
     "translation": "*",
     "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_210_desc": {
     "translation": "Observatören har lämnat relevanta observationer.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_220": {
     "translation": "**",
     "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_220_desc": {
     "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_230": {
     "translation": "***",
     "notes": "Professional with several relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_230_desc": {
     "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_240": {
     "translation": "****",
     "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_240_desc": {
     "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_250": {
     "translation": "*****",
     "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_250_desc": {
     "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_300": {
     "translation": "-",
     "notes": "Unknown competance.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_300_desc": {
     "translation": "Okänd kompetens.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_310": {
     "translation": "*",
     "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_310_desc": {
     "translation": "Observatören har lämnat relevanta observationer.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_320": {
     "translation": "**",
     "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_320_desc": {
     "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_330": {
     "translation": "***",
     "notes": "Professional with several relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_330_desc": {
     "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_340": {
     "translation": "****",
     "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_340_desc": {
     "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_350": {
     "translation": "*****",
     "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_350_desc": {
     "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_400": {
     "translation": "-",
     "notes": "Unknown competance.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_400_desc": {
     "translation": "Okänd kompetens.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_410": {
     "translation": "*",
     "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_410_desc": {
     "translation": "Observatören har lämnat relevanta observationer.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_420": {
     "translation": "**",
     "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_420_desc": {
     "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_430": {
     "translation": "***",
     "notes": "Professional with several relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_430_desc": {
     "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_440": {
     "translation": "****",
     "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_440_desc": {
     "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_450": {
     "translation": "*****",
     "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_450_desc": {
     "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_600": {
     "translation": "-",
     "notes": "Unknown competance.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_600_desc": {
     "translation": "Okänd kompetens.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_610": {
     "translation": "*",
     "notes": "Observer has submitted relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_610_desc": {
     "translation": "Observatören har lämnat relevanta observationer.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_620": {
     "translation": "**",
     "notes": "Observer has submitted relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_620_desc": {
     "translation": "Observatören har lämnat in relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_630": {
     "translation": "***",
     "notes": "Professional with several relevant observations.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_630_desc": {
     "translation": "Professionell observatören som lämnat flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_640": {
     "translation": "****",
     "notes": "Experienced professional with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_640_desc": {
     "translation": "Erfaren professionell observatör med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_650": {
     "translation": "*****",
     "notes": "Professional from NVE or equivalent with several relevant observations with correct use of the Regobs forms.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_650_desc": {
     "translation": "Professionell observatör från NVE eller motsvarande med flera relevanta observationer med korrekt användning av Regobs-formulär.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_700": {
     "translation": "-",
     "notes": "Unkown for ice.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_700_desc": {
     "translation": "Okänd på is.",
     "notes": "-",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_710": {
     "translation": "*",
     "notes": "Beginner.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_710_desc": {
     "translation": "Nybörjare.",
     "notes": "*",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_720": {
     "translation": "**",
     "notes": "Experienced observer.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_720_desc": {
     "translation": "Erfaren observatör.",
     "notes": "**",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_730": {
     "translation": "***",
     "notes": "Educated observer with field experience.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_730_desc": {
     "translation": "Utbildad observatör med fält erfarenhet.",
     "notes": "***",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_740": {
     "translation": "****",
     "notes": "Educated personel.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_740_desc": {
     "translation": "Utbildad personal.",
     "notes": "****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompetenceLevelKD_750": {
     "translation": "*****",
     "notes": "Educated personel in NVE or eqivalent.",
-    "limit": "30"
+    "limit": 30
   },
   "CompetenceLevelKD_750_desc": {
     "translation": "Utbildad personal vid NV eller motsvarande.",
     "notes": "*****",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompressionTestKD_0": {
     "translation": "N/A",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CompressionTestKD_1": {
     "translation": "CT",
     "notes": "Coloumn test",
-    "limit": "30"
+    "limit": 30
   },
   "CompressionTestKD_1_desc": {
     "translation": "Kompressionstest",
     "notes": "CT",
-    "limit": "1024"
+    "limit": 1024
   },
   "CompressionTestKD_2": {
     "translation": "ECT",
     "notes": "Extended coloumn test",
-    "limit": "30"
+    "limit": 30
   },
   "CompressionTestKD_2_desc": {
     "translation": "Utvidgat kompressionstest",
     "notes": "ECT",
-    "limit": "1024"
+    "limit": 1024
   },
   "ComprTestFractureKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ComprTestFractureKD_1": {
     "translation": "Q1",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ComprTestFractureKD_2": {
     "translation": "Q2",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ComprTestFractureKD_3": {
     "translation": "Q3",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CountryKD_0": {
     "translation": "Not given",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_10": {
     "translation": "Antarctica",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_100": {
     "translation": "Bulgaria",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_104": {
     "translation": "Burma",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_108": {
     "translation": "Burundi",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_112": {
     "translation": "Belarus",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_116": {
     "translation": "Cambodia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_12": {
     "translation": "Algeria",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_120": {
     "translation": "Cameroon",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_124": {
     "translation": "Canada",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_132": {
     "translation": "Cape Verde",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_136": {
     "translation": "Cayman Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_140": {
     "translation": "Central African Republic",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_144": {
     "translation": "Sri Lanka",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_148": {
     "translation": "Chad",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_152": {
     "translation": "Chile",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_156": {
     "translation": "China",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_158": {
     "translation": "Taiwan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_16": {
     "translation": "American Samoa",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_162": {
     "translation": "Christmas Island",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_166": {
     "translation": "Cocos (Keeling) Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_170": {
     "translation": "Colombia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_174": {
     "translation": "Comoros",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_175": {
     "translation": "Mayotte",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_178": {
     "translation": "Congo",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_180": {
     "translation": "Democratic Republic of the Congo",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_184": {
     "translation": "Cook Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_188": {
     "translation": "Costa Rica",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_191": {
     "translation": "Croatia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_192": {
     "translation": "Cuba",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_196": {
     "translation": "Cyprus",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_20": {
     "translation": "Andorra",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_203": {
     "translation": "Czech Republic",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_204": {
     "translation": "Benin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_208": {
     "translation": "Denmark",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_212": {
     "translation": "Dominica",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_214": {
     "translation": "Dominican Republic",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_218": {
     "translation": "Ecuador",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_222": {
     "translation": "El Salvador",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_226": {
     "translation": "Equatorial Guinea",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_231": {
     "translation": "Ethiopia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_232": {
     "translation": "Eritrea",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_233": {
     "translation": "Estonia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_234": {
     "translation": "Faroe Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_238": {
     "translation": "Falkland Islands (Malvinas)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_239": {
     "translation": "South Georgia South Sandwich Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_24": {
     "translation": "Angola",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_242": {
     "translation": "Fiji",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_246": {
     "translation": "Finland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_248": {
     "translation": "Åland Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_250": {
     "translation": "France",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_254": {
     "translation": "French Guiana",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_258": {
     "translation": "French Polynesia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_260": {
     "translation": "French Southern and Antarctic Lands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_262": {
     "translation": "Djibouti",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_266": {
     "translation": "Gabon",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_268": {
     "translation": "Georgia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_270": {
     "translation": "Gambia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_275": {
     "translation": "Palestine",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_276": {
     "translation": "Germany",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_28": {
     "translation": "Antigua and Barbuda",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_288": {
     "translation": "Ghana",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_292": {
     "translation": "Gibraltar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_296": {
     "translation": "Kiribati",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_300": {
     "translation": "Greece",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_304": {
     "translation": "Greenland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_308": {
     "translation": "Grenada",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_31": {
     "translation": "Azerbaijan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_312": {
     "translation": "Guadeloupe",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_316": {
     "translation": "Guam",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_32": {
     "translation": "Argentina",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_320": {
     "translation": "Guatemala",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_324": {
     "translation": "Guinea",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_328": {
     "translation": "Guyana",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_332": {
     "translation": "Haiti",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_334": {
     "translation": "Heard Island and McDonald Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_336": {
     "translation": "Holy See (Vatican City)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_340": {
     "translation": "Honduras",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_344": {
     "translation": "Hong Kong",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_348": {
     "translation": "Hungary",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_352": {
     "translation": "Iceland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_356": {
     "translation": "India",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_36": {
     "translation": "Australia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_360": {
     "translation": "Indonesia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_364": {
     "translation": "Iran (Islamic Republic of)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_368": {
     "translation": "Iraq",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_372": {
     "translation": "Ireland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_376": {
     "translation": "Israel",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_380": {
     "translation": "Italy",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_384": {
     "translation": "Cote d'Ivoire",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_388": {
     "translation": "Jamaica",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_392": {
     "translation": "Japan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_398": {
     "translation": "Kazakhstan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_4": {
     "translation": "Afghanistan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_40": {
     "translation": "Austria",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_400": {
     "translation": "Jordan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_404": {
     "translation": "Kenya",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_408": {
     "translation": "Korea, Democratic People's Republic of",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_410": {
     "translation": "Korea, Republic of",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_414": {
     "translation": "Kuwait",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_417": {
     "translation": "Kyrgyzstan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_418": {
     "translation": "Lao People's Democratic Republic",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_422": {
     "translation": "Lebanon",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_426": {
     "translation": "Lesotho",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_428": {
     "translation": "Latvia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_430": {
     "translation": "Liberia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_434": {
     "translation": "Libyan Arab Jamahiriya",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_438": {
     "translation": "Liechtenstein",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_44": {
     "translation": "Bahamas",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_440": {
     "translation": "Lithuania",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_442": {
     "translation": "Luxembourg",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_446": {
     "translation": "Macau",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_450": {
     "translation": "Madagascar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_454": {
     "translation": "Malawi",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_458": {
     "translation": "Malaysia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_462": {
     "translation": "Maldives",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_466": {
     "translation": "Mali",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_470": {
     "translation": "Malta",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_474": {
     "translation": "Martinique",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_478": {
     "translation": "Mauritania",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_48": {
     "translation": "Bahrain",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_480": {
     "translation": "Mauritius",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_484": {
     "translation": "Mexico",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_492": {
     "translation": "Monaco",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_496": {
     "translation": "Mongolia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_498": {
     "translation": "Republic of Moldova",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_499": {
     "translation": "Montenegro",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_50": {
     "translation": "Bangladesh",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_500": {
     "translation": "Montserrat",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_504": {
     "translation": "Morocco",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_508": {
     "translation": "Mozambique",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_51": {
     "translation": "Armenia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_512": {
     "translation": "Oman",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_516": {
     "translation": "Namibia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_52": {
     "translation": "Barbados",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_520": {
     "translation": "Nauru",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_524": {
     "translation": "Nepal",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_528": {
     "translation": "Netherlands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_530": {
     "translation": "Netherlands Antilles",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_533": {
     "translation": "Aruba",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_540": {
     "translation": "New Caledonia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_548": {
     "translation": "Vanuatu",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_554": {
     "translation": "New Zealand",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_558": {
     "translation": "Nicaragua",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_56": {
     "translation": "Belgium",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_562": {
     "translation": "Niger",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_566": {
     "translation": "Nigeria",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_570": {
     "translation": "Niue",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_574": {
     "translation": "Norfolk Island",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_578": {
     "translation": "Norway",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_580": {
     "translation": "Northern Mariana Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_581": {
     "translation": "United States Minor Outlying Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_583": {
     "translation": "Micronesia, Federated States of",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_584": {
     "translation": "Marshall Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_585": {
     "translation": "Palau",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_586": {
     "translation": "Pakistan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_591": {
     "translation": "Panama",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_598": {
     "translation": "Papua New Guinea",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_60": {
     "translation": "Bermuda",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_600": {
     "translation": "Paraguay",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_604": {
     "translation": "Peru",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_608": {
     "translation": "Philippines",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_612": {
     "translation": "Pitcairn Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_616": {
     "translation": "Poland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_620": {
     "translation": "Portugal",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_624": {
     "translation": "Guinea-Bissau",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_626": {
     "translation": "Timor-Leste",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_630": {
     "translation": "Puerto Rico",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_634": {
     "translation": "Qatar",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_638": {
     "translation": "Reunion",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_64": {
     "translation": "Bhutan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_642": {
     "translation": "Romania",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_643": {
     "translation": "Russia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_646": {
     "translation": "Rwanda",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_652": {
     "translation": "Saint Barthelemy",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_654": {
     "translation": "Saint Helena",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_659": {
     "translation": "Saint Kitts and Nevis",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_660": {
     "translation": "Anguilla",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_662": {
     "translation": "Saint Lucia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_663": {
     "translation": "Saint Martin",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_666": {
     "translation": "Saint Pierre and Miquelon",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_670": {
     "translation": "Saint Vincent and the Grenadines",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_674": {
     "translation": "San Marino",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_678": {
     "translation": "Sao Tome and Principe",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_68": {
     "translation": "Bolivia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_682": {
     "translation": "Saudi Arabia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_686": {
     "translation": "Senegal",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_688": {
     "translation": "Serbia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_690": {
     "translation": "Seychelles",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_694": {
     "translation": "Sierra Leone",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_70": {
     "translation": "Bosnia and Herzegovina",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_702": {
     "translation": "Singapore",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_703": {
     "translation": "Slovakia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_704": {
     "translation": "Viet Nam",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_705": {
     "translation": "Slovenia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_706": {
     "translation": "Somalia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_710": {
     "translation": "South Africa",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_716": {
     "translation": "Zimbabwe",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_72": {
     "translation": "Botswana",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_724": {
     "translation": "Spain",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_732": {
     "translation": "Western Sahara",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_736": {
     "translation": "Sudan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_74": {
     "translation": "Bouvet Island",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_740": {
     "translation": "Suriname",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_744": {
     "translation": "Svalbard",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_748": {
     "translation": "Swaziland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_752": {
     "translation": "Sweden",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_756": {
     "translation": "Switzerland",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_76": {
     "translation": "Brazil",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_760": {
     "translation": "Syrian Arab Republic",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_762": {
     "translation": "Tajikistan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_764": {
     "translation": "Thailand",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_768": {
     "translation": "Togo",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_772": {
     "translation": "Tokelau",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_776": {
     "translation": "Tonga",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_780": {
     "translation": "Trinidad and Tobago",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_784": {
     "translation": "United Arab Emirates",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_788": {
     "translation": "Tunisia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_792": {
     "translation": "Turkey",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_795": {
     "translation": "Turkmenistan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_796": {
     "translation": "Turks and Caicos Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_798": {
     "translation": "Tuvalu",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_8": {
     "translation": "Albania",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_800": {
     "translation": "Uganda",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_804": {
     "translation": "Ukraine",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_807": {
     "translation": "The former Yugoslav Republic of Macedonia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_818": {
     "translation": "Egypt",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_826": {
     "translation": "United Kingdom",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_831": {
     "translation": "Guernsey",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_832": {
     "translation": "Jersey",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_833": {
     "translation": "Isle of Man",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_834": {
     "translation": "United Republic of Tanzania",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_84": {
     "translation": "Belize",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_840": {
     "translation": "United States",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_850": {
     "translation": "United States Virgin Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_854": {
     "translation": "Burkina Faso",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_858": {
     "translation": "Uruguay",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_86": {
     "translation": "British Indian Ocean Territory",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_860": {
     "translation": "Uzbekistan",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_862": {
     "translation": "Venezuela",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_876": {
     "translation": "Wallis and Futuna Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_882": {
     "translation": "Samoa",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_887": {
     "translation": "Yemen",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_894": {
     "translation": "Zambia",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_90": {
     "translation": "Solomon Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_92": {
     "translation": "British Virgin Islands",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CountryKD_96": {
     "translation": "Brunei Darussalam",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "CriticalLayerKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CriticalLayerKD_11": {
     "translation": "Övre delen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CriticalLayerKD_12": {
     "translation": "Nedre delen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "CriticalLayerKD_13": {
     "translation": "Hela lagret",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_0": {
     "translation": "Ej specificerat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_10": {
     "translation": "Ingen påverkan",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_13": {
     "translation": "Initierad sökning och räddning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_15": {
     "translation": "Trafiken hindras",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_20": {
     "translation": "Endast materiell skada",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_25": {
     "translation": "Evakuering",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_27": {
     "translation": "Ingen begravd, men nära",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_28": {
     "translation": "Person begravd, utan skador",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_30": {
     "translation": "Personer skadade",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_40": {
     "translation": "Personer omkomna",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageExtentKD_99": {
     "translation": "Annat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DamageTypeKD_0": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_1": {
     "translation": "Byggnader och ägodelar",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_2": {
     "translation": "Infrastruktur",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_3": {
     "translation": "Odlad mark",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_4": {
     "translation": "Annan mark",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_5": {
     "translation": "Person/personer",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_6": {
     "translation": "Annat",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DamageTypeKD_7": {
     "translation": "Ingen skada observerad",
     "notes": "",
-    "limit": "1024"
+    "limit": 1024
   },
   "DangerSignKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_1": {
     "translation": "Inga tecken på fara observerad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_2": {
     "translation": "Färska laviner",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_200": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_201": {
     "translation": "Inga tecken på fara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_202": {
     "translation": "Kraftigt regn",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_203": {
     "translation": "Intensiv snösmältning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_204": {
     "translation": "Ytvatten i terrängen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_205": {
     "translation": "Otillräcklig dränering",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_206": {
     "translation": "Högt vattenflöde",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_207": {
     "translation": "Jordfärgade bäckar/älvar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_208": {
     "translation": "Sprickor/krypning i terräng",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_209": {
     "translation": "Observerat jordskred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_212": {
     "translation": "Snötäcke med mycket vatten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_214": {
     "translation": "Bäckar hittar nya vägar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_222": {
     "translation": "Rörelse i jordskredskanten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_223": {
     "translation": "\"Lutande träd\"",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_223_desc": {
     "translation": "Träd som böjs",
     "notes": "Leaning trees",
-    "limit": "1024"
+    "limit": 1024
   },
   "DangerSignKD_230": {
     "translation": "Erosion längs bäckar/älvar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_299": {
     "translation": "Andra tecken på fara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_3": {
     "translation": "Whumpf-ljud",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_4": {
     "translation": "Färska sprickor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_5": {
     "translation": "Stort snöfall",
     "notes": "Brukes i elrapp",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_5_desc": {
     "translation": "Används i elrapp",
     "notes": "Large snowfall",
-    "limit": "1024",
+    "limit": 1024,
     "context": "elrapp is a norwegian app for the public road administration that has an integration against regobs."
   },
   "DangerSignKD_600": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_601": {
     "translation": "Inga tecken på fara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_611": {
     "translation": "Is blockerad vattendrag",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_612": {
     "translation": "Sediment blockerar vattendrag",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_621": {
     "translation": "Måttlig vattennivåökning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_622": {
     "translation": "Kraftig vattennivåökning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_623": {
     "translation": "Hög vattennivå/översvämning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_699": {
     "translation": "Annat (skriv kommentar)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_7": {
     "translation": "Snabb temperaturökning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_700": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_701": {
     "translation": "Inga tecken på fara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_705": {
     "translation": "Tunn isbeläggning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_711": {
     "translation": "Isen har lossnat från land",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_712": {
     "translation": "Inloppet är isfritt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_713": {
     "translation": "Utloppet är isfritt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_714": {
     "translation": "Stora sprickor eller råkar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_720": {
     "translation": "Kraftigt översvämmad is",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_730": {
     "translation": "Ökat vattenflöde",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_799": {
     "translation": "Annat (skriv kommentar)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_8": {
     "translation": "Mycket vatten i snön",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_9": {
     "translation": "Färsk drevsnö",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DangerSignKD_99": {
     "translation": "Annat (skriv kommentar)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_1": {
     "translation": "1 - Små",
     "notes": "Minimal danger of burying (danger of falling)",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_1_desc": {
     "translation": "Minimal fara för att begrava en människa (risk för att falla)",
     "notes": "1 - Small",
-    "limit": "1024"
+    "limit": 1024
   },
   "DestructiveSizeKD_2": {
     "translation": "2 - Medel",
     "notes": "Could bury, injure or kill a person",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_2_desc": {
     "translation": "Kan begrava, skada eller döda en människa",
     "notes": "2 - Medium",
-    "limit": "1024"
+    "limit": 1024
   },
   "DestructiveSizeKD_3": {
     "translation": "3 - Stor",
     "notes": "Could bury and destroy a car, damage a truck; destroy a small building or break a few trees",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_3_desc": {
     "translation": "Kan begrava och förstöra bilar, förstöra hus eller bryta träd",
     "notes": "3 - Large",
-    "limit": "1024"
+    "limit": 1024
   },
   "DestructiveSizeKD_4": {
     "translation": "4 - Mycket stor",
     "notes": "Could bury and destroy a railway car, large truck, several buildings or a piece of forest",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_4_desc": {
     "translation": "Kan förstöra tåg, flera hus eller skog",
     "notes": "4 - Very large",
-    "limit": "1024"
+    "limit": 1024
   },
   "DestructiveSizeKD_5": {
     "translation": "5 - Extremt stor",
     "notes": "Could gouge the landscape; disastrous damage potential",
-    "limit": "30"
+    "limit": 30
   },
   "DestructiveSizeKD_5_desc": {
     "translation": "Stor potential för skador. Kan ändra landskap, förstöra bebyggelse och skogar",
     "notes": "5 - Extremely large",
-    "limit": "1024"
+    "limit": 1024
   },
   "DestructiveSizeKD_9": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_1": {
     "translation": "Ingen lavinaktivitet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_2": {
     "translation": "En (1)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_3": {
     "translation": "Få (2-5)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_4": {
     "translation": "Flera (6-10)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "EstimatedNumKD_5": {
     "translation": "Många (10 eller mer)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedClimateKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedClimateKD_1": {
     "translation": "På/nära fastlandet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedClimateKD_2": {
     "translation": "Havsnära",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedHeightComboKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedHeightComboKD_1": {
     "translation": "Vitt i botten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedHeightComboKD_2": {
     "translation": "Svart i botten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedHeightComboKD_3": {
     "translation": "Vitt i mitten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ExposedHeightComboKD_4": {
     "translation": "Svart i mitten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_0": {
     "translation": "Ej specificerat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_1": {
     "translation": "Ingen prognos utfärdad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_2": {
     "translation": "Prognos för låg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_3": {
     "translation": "Prognos stämmer",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_4": {
     "translation": "Prognos för hög",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastAccurateKD_9": {
     "translation": "Varningen är inte känd",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastCorrectKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastCorrectKD_1": {
     "translation": "Prognosen är korrekt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastCorrectKD_2": {
     "translation": "Prognosen är för låg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastCorrectKD_3": {
     "translation": "Prognosen är för hög",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "ForecastRegionKD_0": {
     "translation": "Ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1000": {
     "translation": "Ingen varslingsregion SE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1001": {
     "translation": "Treriksröset - Torne Träsk ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1002": {
     "translation": "Riksgränsenfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1003": {
     "translation": "Abisko, Torne Träsk ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1004": {
     "translation": "Kebnekaise ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1005": {
     "translation": "Västra Gällivarefjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1006": {
     "translation": "Östra Gällivarefjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1007": {
     "translation": "Västra Jokkmokksfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1008": {
     "translation": "Östra Jokkmokksfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1009": {
     "translation": "Västra Arjeplogsfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1010": {
     "translation": "Östra Arjeplogsfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1011": {
     "translation": "Västra Vindel- och Tärnafjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1012": {
     "translation": "Östra Vindel- och Tärnafjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1013": {
     "translation": "Stekenjokksfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1014": {
     "translation": "Marsfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1015": {
     "translation": "Hotagen-Frostviken ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1016": {
     "translation": "Flatruet, Helags, Sylarna, Storlien",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1017": {
     "translation": "Åre, Vålådalen, Oviksfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1018": {
     "translation": "Ljungdalen, Funäsdalen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1019": {
     "translation": "Klövsjö, Vemdalen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1020": {
     "translation": "Idre, Grövelsjön ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_1021": {
     "translation": "Sälenfjällen ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_200": {
     "translation": "Fylke ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2001": {
     "translation": "HALDENVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2002": {
     "translation": "GLOMMAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2003": {
     "translation": "MOSSEVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2004": {
     "translation": "HØLENELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2005": {
     "translation": "NESODDEN OG BUNNEFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2006": {
     "translation": "NORDMARKVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2007": {
     "translation": "LYSAKERELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2008": {
     "translation": "SANDVIKSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2009": {
     "translation": "ÅROSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2010": {
     "translation": "HURUMLANDET ØST OG SØR",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2011": {
     "translation": "LIERELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2012": {
     "translation": "DRAMMENSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2013": {
     "translation": "SANDEVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2014": {
     "translation": "AULIVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2015": {
     "translation": "NUMEDALSLÅGEN OG SILJANVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2016": {
     "translation": "SKIENSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2017": {
     "translation": "KRAGERØVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2018": {
     "translation": "VEGÅRSVASSDRAGET OG GJERSTADVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2019": {
     "translation": "ARENDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2020": {
     "translation": "TOVDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2021": {
     "translation": "OTRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2022": {
     "translation": "MANDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2023": {
     "translation": "AUDNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2024": {
     "translation": "LYGNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2025": {
     "translation": "KVINA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2026": {
     "translation": "SIRA OG SOKNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2027": {
     "translation": "BJERKREIMVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2028": {
     "translation": "FIGGJO",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2029": {
     "translation": "STAVANGER OG SANDNES KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_203": {
     "translation": "Oslo",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2030": {
     "translation": "FRAFJORDELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2031": {
     "translation": "LYSEVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2032": {
     "translation": "JØRPELANDSÅNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2033": {
     "translation": "ÅRDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2034": {
     "translation": "RYFYLKEØYANE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2035": {
     "translation": "ULLA OG FØRREELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2036": {
     "translation": "SULDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2037": {
     "translation": "SAUDAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2038": {
     "translation": "VIKEDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2039": {
     "translation": "KYST NEDSTRAND-HAUGESUND-TITTELSNES",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2040": {
     "translation": "KARMØY",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2041": {
     "translation": "ETNEVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2042": {
     "translation": "BLÅELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2043": {
     "translation": "BØMLO",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2044": {
     "translation": "STORDØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2045": {
     "translation": "HARDANGERFJORDEN ØST: SUNDE-ÆNES",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2046": {
     "translation": "MAURANGERFJORDEN OG SILDEFJORDEN ØST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2047": {
     "translation": "SAMLAFJORDEN SØR OG JONDAL KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2048": {
     "translation": "OPO",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2049": {
     "translation": "TYSSO",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2050": {
     "translation": "EIDFJORDVASSDRAGET, KINSO OG SIMA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2051": {
     "translation": "OSAFJORDEN, ULVIKFJORDEN OG EIDFJORDEN NORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2052": {
     "translation": "GRANVINFJORDEN OG SAMLAFJORDEN NORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2053": {
     "translation": "SÆVAREIDELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2054": {
     "translation": "TYSNES OG AUSTEVOLL KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2055": {
     "translation": "SAMNANGERVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2056": {
     "translation": "BERGEN OG OMEGN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2057": {
     "translation": "SOTRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2058": {
     "translation": "ØYGARDEN KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2059": {
     "translation": "ASKØYA OG HOLSNØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2060": {
     "translation": "OSTERØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2061": {
     "translation": "BERGSDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2062": {
     "translation": "VOSSOVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2063": {
     "translation": "EKSINGEDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2064": {
     "translation": "STEINSLANDSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2065": {
     "translation": "LINDÅSHALVØYA, SEIMSFJORDEN OG AUSTFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2066": {
     "translation": "FOSNØYA, RADØYA OG FEDJE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2067": {
     "translation": "MASFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2068": {
     "translation": "SOGNESJØEN SØR",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2069": {
     "translation": "YTRE SOGNEFJORDEN SØR: RUTLEDAL-VARMRÅK",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2070": {
     "translation": "VIKSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2071": {
     "translation": "NÆRØYELVI",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2072": {
     "translation": "AURLANDSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2073": {
     "translation": "LÆRDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2074": {
     "translation": "ÅRDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2075": {
     "translation": "FORTUNVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2076": {
     "translation": "JOSTEDØLA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2077": {
     "translation": "ÅRØYVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2078": {
     "translation": "VETLEFJORDEN OG FJÆRLANDSFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2079": {
     "translation": "HØYANGERVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2080": {
     "translation": "YTRE SOGNEFJORDEN NORD: KYRKJEBØ-RISNES",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2081": {
     "translation": "SOLUND KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2082": {
     "translation": "GUDDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2083": {
     "translation": "GAULARVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2084": {
     "translation": "JØLSTRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2085": {
     "translation": "OSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2086": {
     "translation": "GJENGEDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2087": {
     "translation": "BREIMSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2088": {
     "translation": "STRYNVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2089": {
     "translation": "HORNINDALVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2090": {
     "translation": "BREMANGERLANDET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2091": {
     "translation": "SILDEGAPET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2092": {
     "translation": "GUSDALELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2093": {
     "translation": "ROVDEFJORDEN SØR OG SYVDEFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2094": {
     "translation": "STIGEDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2095": {
     "translation": "ØRSTAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2096": {
     "translation": "HAREIDLANDET OG GURSKØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2097": {
     "translation": "STORFJORDEN SØR, HJØRUNDFJORDEN OG SYKKYLVSFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2098": {
     "translation": "STORFJORDEN SØR, SUNNYLVSFJORDEN OG GEIRANGERFJORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2099": {
     "translation": "TAFJORDVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2100": {
     "translation": "VALLDØLA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2101": {
     "translation": "ÅLESUND OG OMEGN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2102": {
     "translation": "MIDTFJORDEN SØR OG ROMSDALSFJORDEN VEST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2103": {
     "translation": "RAUMA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2104": {
     "translation": "EIRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2105": {
     "translation": "GUSJÅVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2106": {
     "translation": "AUKRA, MISUND OG SANDØY KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2107": {
     "translation": "FRÆNFJORDEN, JULSUNDET OG HUSTADVIKA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2108": {
     "translation": "KORNSTADFJORDEN OG BATNFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2109": {
     "translation": "DRIVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_211": {
     "translation": "Rogaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2110": {
     "translation": "AVERØY, FREI OG KRISTIANDSUND KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2111": {
     "translation": "KYST TINGVOLLFJORDEN-SURNADALSFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2112": {
     "translation": "SURNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2113": {
     "translation": "FJELNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2114": {
     "translation": "TUSTNA KOMMUNE OG ERTVÅGØY",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2115": {
     "translation": "SMØLA KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2116": {
     "translation": "RØSTA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2117": {
     "translation": "HITRA KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2118": {
     "translation": "FRØYA KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2119": {
     "translation": "TRONDHEIMSLEIA ØST: STAMNES-AGDENES FYR",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2120": {
     "translation": "YTRE TRONDHEIMSFJORDEN: AGDENES FYR-GEITANESET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2121": {
     "translation": "ORKLA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2122": {
     "translation": "GAULA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2123": {
     "translation": "NIDELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2124": {
     "translation": "STJØRDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2125": {
     "translation": "ÅSENFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2126": {
     "translation": "TRONDHEIMSFJORDEN ØST: FROSTA-VERDALSØRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2127": {
     "translation": "VERDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2128": {
     "translation": "SNÅSAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2129": {
     "translation": "FOLLAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2130": {
     "translation": "VERRANSUNDET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2131": {
     "translation": "TRONDHEIMSFJORDEN VEST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2132": {
     "translation": "SKAUDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2133": {
     "translation": "STJØRNFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2134": {
     "translation": "TEKSDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2135": {
     "translation": "STORDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2136": {
     "translation": "HOFSTADELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2137": {
     "translation": "OSEN OG FLATANGER KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2138": {
     "translation": "ÅRGÅRDSVASSDRAGET OG BOGNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2139": {
     "translation": "NAMSEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2140": {
     "translation": "SALSVATNVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2141": {
     "translation": "OPPLØYVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2142": {
     "translation": "INDRE FOLDA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2143": {
     "translation": "VIKNA OG KYST FOLDFJORDEN-BINDALSFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2144": {
     "translation": "ÅBJØRA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2145": {
     "translation": "BINDALSFJORDEN NORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2146": {
     "translation": "KYST RØYINGEN-VELFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2147": {
     "translation": "VEGA KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2148": {
     "translation": "LOMSDALSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2149": {
     "translation": "VISTEN, HALSFJORDEN OG YTRE VEFSNFJORDEN ØST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_215": {
     "translation": "Møre og Romsdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2150": {
     "translation": "ALSTEN OG TJØTTA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2151": {
     "translation": "VEFSNA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2152": {
     "translation": "FUSTA OG DREVJA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2153": {
     "translation": "LEIRFJORD KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2154": {
     "translation": "DØNNA OG HERØY KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2155": {
     "translation": "RØSSÅGA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2156": {
     "translation": "RANAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2157": {
     "translation": "KYST UTSKARPEN-NESNA-TONNES",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2158": {
     "translation": "ØYER I NESNA, LURØY OG TRÆNA KOMMUNER",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2159": {
     "translation": "VESTRE SVARTISEN OG RØDØY KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2160": {
     "translation": "FYKANÅGA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2161": {
     "translation": "BEIARELVA, MORSDALSFJORDEN OG NORDFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2162": {
     "translation": "SALTFJORDEN: NORDFJORDEN-SKJERSTAD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2163": {
     "translation": "SALTELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2164": {
     "translation": "SULITJELMAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2165": {
     "translation": "KYST SALTSTRAUMEN-BODØ-TÅRNVIKFJELLET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2166": {
     "translation": "FAGERBAKKVASSDRAGET OG LAKSÅGA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2167": {
     "translation": "KOBBELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2168": {
     "translation": "NORDFOLDA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2169": {
     "translation": "YTRE DEL AV STEIGEN KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2170": {
     "translation": "SAGELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2171": {
     "translation": "HELLEMOVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2172": {
     "translation": "FORSÅVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2173": {
     "translation": "SKJOMAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2174": {
     "translation": "INDRE OFOTFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2175": {
     "translation": "OFOTFJORDEN NORD: TANGVIK-BOGEN-SELNES",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2176": {
     "translation": "TJELDØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2177": {
     "translation": "ØSTRE HINNØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2178": {
     "translation": "VESTRE HINNØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2179": {
     "translation": "VÅGAN KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_218": {
     "translation": "Nordland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2180": {
     "translation": "VESTVÅGØY KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2181": {
     "translation": "FLAKSTADØYA OG MOSKENESØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2182": {
     "translation": "VÆRØY KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2183": {
     "translation": "RØST KOMMUNE",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2184": {
     "translation": "HADSELØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2185": {
     "translation": "LANGØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2186": {
     "translation": "ANDØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2187": {
     "translation": "GRYTØYA, BJARKØYA OG SANDSØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2188": {
     "translation": "ROLLA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2189": {
     "translation": "SKODDEBERGVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2190": {
     "translation": "GRATANGEN OG LAVANGEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2191": {
     "translation": "SALANGSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2192": {
     "translation": "ANDØRJA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2193": {
     "translation": "SKØELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2194": {
     "translation": "LAKSELVA OG LYSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2195": {
     "translation": "SENJA VEST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2196": {
     "translation": "MÅLSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2197": {
     "translation": "KVALØYA OG TROMSØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2198": {
     "translation": "NORDKJOSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2199": {
     "translation": "TROMSØYSUNDET OG GRØTSUNDET ØST, REINØYA OG KARLSØ",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2200": {
     "translation": "RINGVASSØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2201": {
     "translation": "REBBENESØYA, GRYTØYA, NORD-KVALØYA OG HELGØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2202": {
     "translation": "VANNA OG NORD-FUGLØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2203": {
     "translation": "LAKSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2204": {
     "translation": "SIGNALDALSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2205": {
     "translation": "SKIBOTNVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2206": {
     "translation": "KÅFJORDVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2207": {
     "translation": "ARNØYA OG LAUKØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2208": {
     "translation": "REISAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2209": {
     "translation": "KVÆNANGSVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_221": {
     "translation": "Svalbard",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2210": {
     "translation": "STORELVA/KVÆNANGEN NORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2211": {
     "translation": "LOPPA KOMMUNE OG LANGFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2212": {
     "translation": "ALTAVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2213": {
     "translation": "REPPARFJORDVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2214": {
     "translation": "STJERNØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2215": {
     "translation": "SEILAND",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2216": {
     "translation": "SØRØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2217": {
     "translation": "KVALØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2218": {
     "translation": "RUSSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2219": {
     "translation": "INGØYA OG ROLVSØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2220": {
     "translation": "NORDRE PORSANGERHALVØYA, MÅSØYA OG HJELMSØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2221": {
     "translation": "MAGERØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2222": {
     "translation": "VESTRE PORSANGEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2223": {
     "translation": "STABBURSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2224": {
     "translation": "LAKSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2225": {
     "translation": "BØRSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2226": {
     "translation": "ØSTRE PORSANGEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2227": {
     "translation": "YTRE LAKSEFJORDEN VEST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2228": {
     "translation": "STORELVA/INDRE LAKSEFJORDEN VEST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2229": {
     "translation": "ADAMSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2230": {
     "translation": "YTRE LAKSEFJORDEN ØST",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2231": {
     "translation": "NORDKINNHALVØYA NORD",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2232": {
     "translation": "HOPSFJORDEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2233": {
     "translation": "LANGFJORDVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2234": {
     "translation": "TANA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2235": {
     "translation": "STORDALSELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2236": {
     "translation": "KONGSFJORDVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2237": {
     "translation": "VESTERELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2238": {
     "translation": "SANDFJORDELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2239": {
     "translation": "KOMAGELVA OG SKALLELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2240": {
     "translation": "VESTRE JAKOBSELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2241": {
     "translation": "BERGEBYELVA OG VESTERELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2242": {
     "translation": "REPPENELVA OG NYELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2243": {
     "translation": "KLOKKERELVVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2244": {
     "translation": "NEIDENVASSDRAGET",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2245": {
     "translation": "SKOGERØYA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2246": {
     "translation": "PASVIKELVA",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2247": {
     "translation": "GRENSE JAKOBSELV",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_230": {
     "translation": "Viken",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2301": {
     "translation": "KEMIJOKI",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2302": {
     "translation": "TORNEELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2303": {
     "translation": "LULEELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2304": {
     "translation": "PITEELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2305": {
     "translation": "SKELLEFTEELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2306": {
     "translation": "UMEELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2307": {
     "translation": "ÅNGERMANELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2308": {
     "translation": "INDALSELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2309": {
     "translation": "LJUSNAN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2310": {
     "translation": "DALELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2311": {
     "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT KLARAELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2312": {
     "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT NORSELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2313": {
     "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT BYELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2314": {
     "translation": "VANERN-GØTA ELV'S SIDENEDBØRFELT UPPERUDSELVEN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2315": {
     "translation": "STRØMSÅN",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_234": {
     "translation": "Innlandet",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_238": {
     "translation": "Vestfold og Telemark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_242": {
     "translation": "Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_246": {
     "translation": "Vestland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_250": {
     "translation": "Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_254": {
     "translation": "Troms og Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2800": {
     "translation": "Østlandet",
     "notes": "Østlandet gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2801": {
     "translation": "Rogaland – Agder",
     "notes": "Rogaland - Agder gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2802": {
     "translation": "Sogn og Fjordane – Hordaland",
     "notes": "Sogn og Fjordane – Hordaland gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2803": {
     "translation": "Trøndelag – Møre og Romsdal",
     "notes": "Trøndelag - Møre og Romsdal gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2804": {
     "translation": "Nordland",
     "notes": "Nordland gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2805": {
     "translation": "Troms",
     "notes": "Troms gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2806": {
     "translation": "Finnmark",
     "notes": "Finnmark gruppering",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_2999": {
     "translation": "Ukjent",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_300": {
     "translation": "Fylke ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3000": {
     "translation": "Varslingsregion ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3001": {
     "translation": "Svalbard øst",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3002": {
     "translation": "Svalbard vest",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3003": {
     "translation": "Nordenskiöld Land",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3004": {
     "translation": "Svalbard sør",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3005": {
     "translation": "Øst-Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3006": {
     "translation": "Finnmarkskysten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3007": {
     "translation": "Vest-Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3008": {
     "translation": "Finnmarksvidda",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3009": {
     "translation": "Nord-Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_301": {
     "translation": "Østfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3010": {
     "translation": "Lyngen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3011": {
     "translation": "Tromsø",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3012": {
     "translation": "Sør-Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3013": {
     "translation": "Indre Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3014": {
     "translation": "Lofoten og Vesterålen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3015": {
     "translation": "Ofoten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3016": {
     "translation": "Salten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3017": {
     "translation": "Svartisen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3018": {
     "translation": "Helgeland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3019": {
     "translation": "Nord-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_302": {
     "translation": "Akershus",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3020": {
     "translation": "Sør-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3021": {
     "translation": "Ytre Nordmøre",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3022": {
     "translation": "Trollheimen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3023": {
     "translation": "Romsdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3024": {
     "translation": "Sunnmøre",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3025": {
     "translation": "Nord-Gudbrandsdalen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3026": {
     "translation": "Ytre Fjordane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3027": {
     "translation": "Indre Fjordane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3028": {
     "translation": "Jotunheimen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3029": {
     "translation": "Indre Sogn",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_303": {
     "translation": "Oslo",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3030": {
     "translation": "Ytre Sogn",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3031": {
     "translation": "Voss",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3032": {
     "translation": "Hallingdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3033": {
     "translation": "Hordalandskysten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3034": {
     "translation": "Hardanger",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3035": {
     "translation": "Vest-Telemark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3036": {
     "translation": "Rogalandskysten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3037": {
     "translation": "Heiane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3038": {
     "translation": "Agder sør",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3039": {
     "translation": "Telemark sør",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_304": {
     "translation": "Hedmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3040": {
     "translation": "Vestfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3041": {
     "translation": "Buskerud sør",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3042": {
     "translation": "Oppland sør",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3043": {
     "translation": "Hedmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3044": {
     "translation": "Akershus",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3045": {
     "translation": "Oslo",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3046": {
     "translation": "Østfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_305": {
     "translation": "Oppland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_306": {
     "translation": "Buskerud",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_307": {
     "translation": "Vestfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_308": {
     "translation": "Telemark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_309": {
     "translation": "Aust-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_310": {
     "translation": "Vest-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_311": {
     "translation": "Rogaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_312": {
     "translation": "Hordaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_314": {
     "translation": "Sogn og Fjordane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_315": {
     "translation": "Møre og Romsdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_316": {
     "translation": "Sør-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_317": {
     "translation": "Nord-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_318": {
     "translation": "Nordland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_319": {
     "translation": "Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_320": {
     "translation": "Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_321": {
     "translation": "Svalbard",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_322": {
     "translation": "Jan Mayen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_323": {
     "translation": "Kontinentalsokkelen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3500": {
     "translation": "Svalbard",
     "notes": "Svalbard hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3501": {
     "translation": "Troms og Finnmark",
     "notes": "Troms og Finnmark hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3502": {
     "translation": "Nordland",
     "notes": "Nordland hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3503": {
     "translation": "Nord-vestlandet",
     "notes": "Nord-vestlandet hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3504": {
     "translation": "Vestlandet",
     "notes": "Vestlandet hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3505": {
     "translation": "Langfjella",
     "notes": "Langfjellan hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3506": {
     "translation": "Sør-Norge",
     "notes": "Sør-Norge hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_3507": {
     "translation": "Østlandet",
     "notes": "Østlandet hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_399": {
     "translation": "Ukjent",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_400": {
     "translation": "Fylke ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_401": {
     "translation": "Østfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_402": {
     "translation": "Akershus",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_403": {
     "translation": "Oslo",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_404": {
     "translation": "Hedmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_405": {
     "translation": "Oppland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_406": {
     "translation": "Buskerud",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_407": {
     "translation": "Vestfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_408": {
     "translation": "Telemark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_409": {
     "translation": "Aust-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_410": {
     "translation": "Vest-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_411": {
     "translation": "Rogaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_412": {
     "translation": "Hordaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_414": {
     "translation": "Sogn og Fjordane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_415": {
     "translation": "Møre og Romsdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_416": {
     "translation": "Sør-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_417": {
     "translation": "Nord-Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_418": {
     "translation": "Nordland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_419": {
     "translation": "Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_420": {
     "translation": "Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_421": {
     "translation": "Svalbard",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_422": {
     "translation": "Jan Mayen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_423": {
     "translation": "Kontinentalsokkelen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_499": {
     "translation": "Ukjent",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_700": {
     "translation": "Fylke ikke gitt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_701": {
     "translation": "Østfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_702": {
     "translation": "Akershus",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_703": {
     "translation": "Oslo",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_704": {
     "translation": "Hedmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_705": {
     "translation": "Oppland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_706": {
     "translation": "Buskerud",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_707": {
     "translation": "Vestfold",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_708": {
     "translation": "Telemark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_709": {
     "translation": "Aust-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_710": {
     "translation": "Vest-Agder",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_711": {
     "translation": "Rogaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_712": {
     "translation": "Hordaland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_714": {
     "translation": "Sogn og Fjordane",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_715": {
     "translation": "Møre og Romsdal",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_718": {
     "translation": "Nordland",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_719": {
     "translation": "Troms",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_720": {
     "translation": "Finnmark",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_721": {
     "translation": "Svalbard",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_750": {
     "translation": "Trøndelag",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_801": {
     "translation": "Trøndelag - Møre og Romsdal",
     "notes": "Trøndelag - Møre og Romsdal hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_802": {
     "translation": "Sogn og Fjordane – Hordaland",
     "notes": "Sogn og Fjordane – Hordaland hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_803": {
     "translation": "Rogaland – Agder",
     "notes": "Rogaland – Agder hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionKD_804": {
     "translation": "Østlandet",
     "notes": "Østlandet hoved-region",
-    "limit": "50"
+    "limit": 50
   },
   "ForecastRegionTypeKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "ForecastRegionTypeKD_10": {
     "translation": "A",
     "notes": "A region",
-    "limit": "100"
+    "limit": 100
   },
   "ForecastRegionTypeKD_10_desc": {
     "translation": "A region",
     "notes": "A",
-    "limit": "1024"
+    "limit": 1024
   },
   "ForecastRegionTypeKD_20": {
     "translation": "B",
     "notes": "B region",
-    "limit": "100"
+    "limit": 100
   },
   "ForecastRegionTypeKD_20_desc": {
     "translation": "B region",
     "notes": "B",
-    "limit": "1024"
+    "limit": 1024
   },
   "ForecastRegionTypeKD_30": {
     "translation": "C",
     "notes": "County region",
-    "limit": "100"
+    "limit": 100
   },
   "ForecastRegionTypeKD_30_desc": {
     "translation": "Länsregion",
     "notes": "C",
-    "limit": "1024"
+    "limit": 1024
   },
   "ForecastRegionTypeKD_90": {
     "translation": "H",
     "notes": "H region",
-    "limit": "100"
+    "limit": 100
   },
   "ForecastRegionTypeKD_90_desc": {
     "translation": "H region",
     "notes": "H",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_0": {
     "translation": "Ej specificerat",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_10": {
     "translation": "Snö",
     "notes": "Avalanche",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_10_desc": {
     "translation": "Lavin",
     "notes": "Snow",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_100": {
     "translation": "Händelse på glaciärer",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_110": {
     "translation": "Jökellopp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_20": {
     "translation": "Jord",
     "notes": "Earth slide",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_20_desc": {
     "translation": "Jordskred",
     "notes": "Soil",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_200": {
     "translation": "Torka",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_30": {
     "translation": "Våt jord",
     "notes": "Flood slide",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_30_desc": {
     "translation": "Översvämningskred",
     "notes": "Wet soil",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_33": {
     "translation": "Lera",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_36": {
     "translation": "Slask",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_40": {
     "translation": "Sten",
     "notes": "Rock fall",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_40_desc": {
     "translation": "Stenslag",
     "notes": "Rock",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_50": {
     "translation": "Isras",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_60": {
     "translation": "Vatten",
     "notes": "Flooding",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_60_desc": {
     "translation": "Översvämning",
     "notes": "Water",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_70": {
     "translation": "Is",
     "notes": "Weak ice",
-    "limit": "30"
+    "limit": 30
   },
   "GeoHazardKD_70_desc": {
     "translation": "Försvagad is",
     "notes": "Ice",
-    "limit": "1024"
+    "limit": 1024
   },
   "GeoHazardKD_999": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_0": {
     "translation": " - ",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_1": {
     "translation": "PP",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_10": {
     "translation": "PPrm",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_11": {
     "translation": "MM",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_12": {
     "translation": "MMrp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_13": {
     "translation": "MMci",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_14": {
     "translation": "DF",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_15": {
     "translation": "DFdc",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_16": {
     "translation": "DFbk",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_17": {
     "translation": "RG",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_18": {
     "translation": "RGsr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_19": {
     "translation": "RGlr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_2": {
     "translation": "PPco",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_20": {
     "translation": "RGwp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_21": {
     "translation": "RGxf",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_22": {
     "translation": "FC",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_23": {
     "translation": "FCso",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_24": {
     "translation": "FCsf",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_25": {
     "translation": "FCxr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_26": {
     "translation": "DH",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_27": {
     "translation": "DHcp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_28": {
     "translation": "DHpr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_29": {
     "translation": "DHch",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_3": {
     "translation": "PPnd",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_30": {
     "translation": "DHla",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_31": {
     "translation": "DHxr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_32": {
     "translation": "SH",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_33": {
     "translation": "SHsu",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_34": {
     "translation": "SHcv",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_35": {
     "translation": "SHxr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_36": {
     "translation": "MF",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_37": {
     "translation": "MFcl",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_38": {
     "translation": "MFpc",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_39": {
     "translation": "MFsl",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_4": {
     "translation": "PPpl",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_40": {
     "translation": "MFcr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_41": {
     "translation": "IF",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_42": {
     "translation": "IFil",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_43": {
     "translation": "IFic",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_44": {
     "translation": "IFbi",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_45": {
     "translation": "IFrc",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_46": {
     "translation": "IFsc",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_5": {
     "translation": "PPsd",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_6": {
     "translation": "PPir",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_7": {
     "translation": "PPgp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_8": {
     "translation": "PPhl",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "GrainFormKD_9": {
     "translation": "PPip",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_0": {
     "translation": " - ",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_1": {
     "translation": "F-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_10": {
     "translation": "1F",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_11": {
     "translation": "1F+",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_12": {
     "translation": "1F-P",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_13": {
     "translation": "P-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_14": {
     "translation": "P",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_15": {
     "translation": "P+",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_16": {
     "translation": "P-K",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_17": {
     "translation": "K-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_18": {
     "translation": "K",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_19": {
     "translation": "K+",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_2": {
     "translation": "F",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_20": {
     "translation": "K-I",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_21": {
     "translation": "I",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_3": {
     "translation": "F+",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_4": {
     "translation": " F-4F",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_5": {
     "translation": "4F-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_6": {
     "translation": "4F",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_7": {
     "translation": "4F+",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_8": {
     "translation": "4F-1F",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "HardnessKD_9": {
     "translation": "1F-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCapacityKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCapacityKD_10": {
     "translation": "Liten fara att gå igenom",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCapacityKD_20": {
     "translation": "Normal fara att gå igenom",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCapacityKD_30": {
     "translation": "Stor fara att gå igenom",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCapacityKD_40": {
     "translation": "Isen håller inte för en person",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverAfterKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverAfterKD_10": {
     "translation": "Isfritt resten av vintern",
     "notes": "Used to tell that this season has a confirmed end.",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverAfterKD_10_desc": {
     "translation": "Används för att säkerställa att den här säsongen är komplett i avslutningsfasen",
     "notes": "No ice after this date",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverAfterKD_4": {
     "translation": "Gradvis hel isbeläggning",
     "notes": "Used at stations giving \"Ice build up\", but not \"Completely ice covered\"",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverAfterKD_4_desc": {
     "translation": "Används på stationer som bara anger \"isbeläggning\" utan något datum för helt isbelagt, men vanligtvis isbeläggs det fort.",
     "notes": "Gradually complete ice cover",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverAfterKD_5": {
     "translation": "Gradvis islossning",
     "notes": "Used at stations giving \"Ice break-up\", but not \"Free of ice\"",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverAfterKD_5_desc": {
     "translation": "Används på stationer som bara anger \"Islossning\" men inte när den var isfri.",
     "notes": "Gradually ice break-up",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverAfterKD_99": {
     "translation": "Okända förhållanden efter dett",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_1": {
     "translation": "Isfritt, nu först vid mätplats",
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_1_desc": {
     "translation": "Ingen is på mätplatsen före idag. Det kan ha varit is längs stranden. Mätplatsen är vanligtvis något ute på vattnet.",
     "notes": "No ice, now first ice at site",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverBeforeKD_10": {
     "translation": "Sista obs giltig tills igår",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_10_desc": {
     "translation": "Kontinuerliga observationer. Vi kan anta att istäcket från tidigare observationer är giltigt fram till idag. Idag är ett nytt värde (eller samma istäcke)",
     "notes": "Last obs valid until yesterday",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverBeforeKD_2": {
     "translation": "Förr ingen is, nu vid stranden",
     "notes": "No ice along the shore before today.",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_2_desc": {
     "translation": "Ingen is hittills den här säsongen. Idag är längs land.",
     "notes": "No ice, now first ice at shore",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverBeforeKD_3": {
     "translation": "Förr ingen is, så även idag",
     "notes": "No ice this winter season, not even today.",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_3_desc": {
     "translation": "Ingen is hittills den här säsongen, även i dag är den isfri.",
     "notes": "No ice so far, including today",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverBeforeKD_99": {
     "translation": "Avbrott - Okänd tills nu",
     "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Avbrått i mätningarna. Isförhållandena från föregående mätning är troligtvis inte giltiga till igår.",
     "notes": "Unknown previous ice cover",
-    "limit": "1024"
+    "limit": 1024
   },
   "IceCoverKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_1": {
     "translation": "Isfritt vid mätpunkten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_10": {
     "translation": "Islossning längs land",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_11": {
     "translation": "Is längs land",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_2": {
     "translation": "Delvis istäckt vid mätpunkten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_20": {
     "translation": "Hela sjön isfri",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_21": {
     "translation": "Hela sjön istäckt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_3": {
     "translation": "Helt istäckt vid mätpunkten",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_40": {
     "translation": "Isrörelse i älv",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "When large pieces of ice breaks up and follows the currents. This can create ice dams."
   },
   "IceCoverKD_41": {
     "translation": "Drivande kravis på älven",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceCoverKD_99": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_1": {
     "translation": "Kärnis",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_11": {
     "translation": "Kärnis under nedbrytning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_13": {
     "translation": "Stöpis under nedbrytning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_14": {
     "translation": "Pipis (våris)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_3": {
     "translation": "Stöpis",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_5": {
     "translation": "Vatten/issörja (mellan lager)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_7": {
     "translation": "Troligtvis stöpis + kärnis",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_9": {
     "translation": "Kravis",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceLayerKD_99": {
     "translation": "Annat (specificera)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_10": {
     "translation": "Drivis/ispropp",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_20": {
     "translation": "Svallis/ovan isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_30": {
     "translation": "Isdammar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_40": {
     "translation": "Kravis fryser på inloppsgaller",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_50": {
     "translation": "Kravis samlas under isen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceProblemKD_99": {
     "translation": "Annat (skriv kommentar)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_10": {
     "translation": "Ej åkbar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_20": {
     "translation": "Tvivelaktiga förhållanden",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_30": {
     "translation": "Normala förhållanden",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_40": {
     "translation": "Mycket goda förhållanden",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "IceSkateabilityKD_50": {
     "translation": "Drömförhållanden",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_1": {
     "translation": "Utglidning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_10": {
     "translation": "Kvicklera-skred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_11": {
     "translation": "Stenras",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_2": {
     "translation": "Jordskred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_4": {
     "translation": "Vattenskred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_6": {
     "translation": "Stenslag",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_7": {
     "translation": "Slaskflöde",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideKD_8": {
     "translation": "Lerskred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideSizeKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideSizeKD_1": {
     "translation": "<100 m3",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideSizeKD_2": {
     "translation": "100 - 10000 m3",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideSizeKD_3": {
     "translation": ">10000 m3",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideSizeKD_9": {
     "translation": "Okänd storlek",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideTriggerKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideTriggerKD_1": {
     "translation": "Naturlig utlöst",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideTriggerKD_2": {
     "translation": "Grävning i området",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideTriggerKD_3": {
     "translation": "Dräneringsfel",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LandSlideTriggerKD_9": {
     "translation": "Annat (skriv kommentar)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LayerOfConcernKD_0": {
     "translation": "-",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LayerOfConcernKD_1": {
     "translation": "Övre delen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LayerOfConcernKD_2": {
     "translation": "Nedre delen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "LayerOfConcernKD_3": {
     "translation": "Hela lagret",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "MarkingReferenceKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_1": {
     "translation": "i terrängen",
     "notes": "Terrain",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_1_desc": {
     "translation": "terrängen",
     "notes": "in terrain",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_2": {
     "translation": "på bro",
     "notes": "Bridge",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_2_desc": {
     "translation": "Bro",
     "notes": "on bridge",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_3": {
     "translation": "på översvämningsbank",
     "notes": "Flood support",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_3_desc": {
     "translation": "Översvämningsbank",
     "notes": "on flood support",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_4": {
     "translation": "på byggnad",
     "notes": "Building",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_4_desc": {
     "translation": "Byggnad",
     "notes": "on building",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_5": {
     "translation": "på påle",
     "notes": "Pole",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_5_desc": {
     "translation": "Påle",
     "notes": "Pole",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingReferenceKD_6": {
     "translation": "på något annat",
     "notes": "other",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingReferenceKD_6_desc": {
     "translation": "på något annat",
     "notes": "other",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_2": {
     "translation": "Märke",
     "notes": "Marker",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Märke",
     "notes": "Marker",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_3": {
     "translation": "Spikar",
     "notes": "Nail",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Spikar",
     "notes": "Nail",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_4": {
     "translation": "Inristning",
     "notes": "Carving",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Inristning",
     "notes": "Carving",
-    "limit": "1024"
+    "limit": 1024
   },
   "MarkingTypeKD_5": {
     "translation": "Annat",
     "notes": "Other",
-    "limit": "100"
+    "limit": 100
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Annat",
     "notes": "Other",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_1": {
     "translation": "Marken",
     "notes": "Ground",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_1_desc": {
     "translation": "Marken",
     "notes": "Ground",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_2": {
     "translation": "Översvämningsbank",
     "notes": "Flood embankment",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_2_desc": {
     "translation": "Översvämningsbank",
     "notes": "Flood embankment",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_3": {
     "translation": "Golv",
     "notes": "Floor",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_3_desc": {
     "translation": "Golv",
     "notes": "Floor",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_4": {
     "translation": "Bro",
     "notes": "Bridge",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_4_desc": {
     "translation": "Bro",
     "notes": "Bridge",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementReferenceKD_5": {
     "translation": "Annat",
     "notes": "Other",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementReferenceKD_5_desc": {
     "translation": "Annat",
     "notes": "Other",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementTypeKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementTypeKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementTypeKD_1": {
     "translation": "I förhållande till märkning",
     "notes": "Relative to marking",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementTypeKD_1_desc": {
     "translation": "I förhållande till märkning",
     "notes": "Relative to marking",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementTypeKD_2": {
     "translation": "Mätsticka",
     "notes": "measuring stick",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementTypeKD_2_desc": {
     "translation": "Mätsticka",
     "notes": "Measuring stick",
-    "limit": "1024"
+    "limit": 1024
   },
   "MeasurementTypeKD_3": {
     "translation": "Mätinstrument",
     "notes": "measuring tool",
-    "limit": "100"
+    "limit": 100
   },
   "MeasurementTypeKD_3_desc": {
     "translation": "Mätinstrument",
     "notes": "Measuring tool",
-    "limit": "1024"
+    "limit": 1024
   },
   "ObservationTimingKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "ObservationTimingKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "ObservationTimingKD_1": {
     "translation": "Spår av tidigare vattennivå",
     "notes": "Earlier water trace",
-    "limit": "100"
+    "limit": 100
   },
   "ObservationTimingKD_1_desc": {
     "translation": "Spår av tidigare vattennivå",
     "notes": "Trace of earlier water level",
-    "limit": "1024"
+    "limit": 1024
   },
   "ObservationTimingKD_2": {
     "translation": "Nuvarande vattennivå",
     "notes": "Current water level",
-    "limit": "100"
+    "limit": 100
   },
   "ObservationTimingKD_2_desc": {
     "translation": "Nuvarande vattennivå",
     "notes": "Current water level",
-    "limit": "1024"
+    "limit": 1024
   },
   "PrecipitationKD_0": {
     "translation": "Ej observerad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_1": {
     "translation": "Ingen nederbörd",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_2": {
     "translation": "Duggregn",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_3": {
     "translation": "Regn",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_4": {
     "translation": "Snöblandat regn",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_5": {
     "translation": "Snö",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_6": {
     "translation": "Hagel",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PrecipitationKD_8": {
     "translation": "Underkylt regn",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "PropagationKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_11": {
     "translation": "CTV",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_12": {
     "translation": "CTE",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_13": {
     "translation": "CTM",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_14": {
     "translation": "CTH",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_15": {
     "translation": "CTN",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_21": {
     "translation": "ECTPV",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_22": {
     "translation": "ECTP",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_23": {
     "translation": "ECTN",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_24": {
     "translation": "ECTX",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_5": {
     "translation": "LBT",
     "notes": "",
-    "limit": "30",
+    "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "RegistrationKD_10": {
     "translation": "Anteckningar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_11": {
     "translation": "Olycka / tillbud",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_13": {
     "translation": "Tecken på fara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_14": {
     "translation": "Skador",
     "notes": "Gjelder alle geohazard. Brukes kun av vann foreløpig.",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_14_desc": {
     "translation": "Gäller alla geohazards. Används bara för vatten för närvarande.",
     "notes": "Damages",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_21": {
     "translation": "Väder",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_22": {
     "translation": "Snötäcke",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_25": {
     "translation": "Test",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_26": {
     "translation": "Lavinaktivitet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_31": {
     "translation": "Bedömning av lavinfara",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_32": {
     "translation": "Lavinproblem",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_33": {
     "translation": "Lavinaktivitet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_36": {
     "translation": "Snöprofil",
     "notes": "SnowProfile top-node",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_36_desc": {
     "translation": "Snöprofil",
     "notes": "Snow Profile",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_50": {
     "translation": "istjocklek",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_51": {
     "translation": "Istäckningsgrad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_62": {
     "translation": "Vattennivå",
     "notes": "new waterlevel observation for flood database project",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_62_desc": {
     "translation": "Ny vattennivå för översvämningsdatabasprojekt",
     "notes": "Water Level",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_71": {
     "translation": "Jordskred",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_80": {
     "translation": "Händelser",
     "notes": "Grupperings type - Hendelser",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_80_desc": {
     "translation": "Händelser",
     "notes": "Incidents",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_81": {
     "translation": "Laviner och tecken på fara",
     "notes": "Grupperings type - Skred og faretegn",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_81_desc": {
     "translation": "Laviner och tecken på fara",
     "notes": "Avalanches and Danger Signs",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_82": {
     "translation": "Snötäcke och väder",
     "notes": "Grupperings type - Snødekke og vær",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_82_desc": {
     "translation": "Snötäcke och väder",
     "notes": "Snow Cover and Weather",
-    "limit": "1024"
+    "limit": 1024
   },
   "RegistrationKD_83": {
     "translation": "Bedömningar och problem",
     "notes": "Grupperings type - Vurderinger og problemer",
-    "limit": "30"
+    "limit": 30
   },
   "RegistrationKD_83_desc": {
     "translation": "Bedömningar och problem",
     "notes": "Evaluations and Problems",
-    "limit": "1024"
+    "limit": 1024
   },
   "SnowDriftKD_0": {
     "translation": "Ej observerad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SnowDriftKD_1": {
     "translation": "Inget snödrev",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SnowDriftKD_2": {
     "translation": "Svagt snödrev",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SnowDriftKD_3": {
     "translation": "Måttligt snödrev",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SnowDriftKD_4": {
     "translation": "Kraftigt snödrev",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SnowSurfaceKD_0": {
     "translation": "Ej observerad",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_101": {
     "translation": "Väldigt mycket lös snö (> 30 cm)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_102": {
     "translation": "Mycket lös snö (10-30 cm)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_103": {
     "translation": "Viss lös snö (10-30 cm)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_104": {
     "translation": "Våt lössnö",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_105": {
     "translation": "Vindflak (hårt)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_106": {
     "translation": "Stormflak (mjukt)",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_107": {
     "translation": "Skare",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_108": {
     "translation": "Annat",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_50": {
     "translation": "Ytliga facetter",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_61": {
     "translation": "Frostkristaller på hård yta",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SnowSurfaceKD_62": {
     "translation": "Fostkristaller på mjuk yta",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "SourceKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "SourceKD_10": {
     "translation": "Jag har sett detta",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "SourceKD_20": {
     "translation": "Jag har hört detta",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "SourceKD_21": {
     "translation": "Jag har läst i nyheterna",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "SourceKD_22": {
     "translation": "Jag har sett bild/webkamera",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "SourceKD_23": {
     "translation": "Antagen/simulerad",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "StabilityEvalKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "StabilityEvalKD_1": {
     "translation": "God",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "StabilityEvalKD_2": {
     "translation": "Medel",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "StabilityEvalKD_3": {
     "translation": "Dålig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_0": {
     "translation": "Inte observerad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_1": {
     "translation": "Ingen snö",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_2": {
     "translation": "Slät",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_3": {
     "translation": "Vågig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_4": {
     "translation": "Eroderad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_5": {
     "translation": "Solpåverkad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceRoughnessKD_6": {
     "translation": "Smältrillor",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_0": {
     "translation": "Ej observerad",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_1": {
     "translation": "Ingen snö",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_2": {
     "translation": "Torr",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_3": {
     "translation": "Fuktig",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_4": {
     "translation": "Våt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_5": {
     "translation": "Mycket våt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "SurfaceWaterContentKD_6": {
     "translation": "Slask",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_10": {
     "translation": "Brant sluttning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_20": {
     "translation": "Läsida",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_30": {
     "translation": "Nära rygg",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_40": {
     "translation": "I ränna eller försänkning",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_50": {
     "translation": "Stenhäll",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_60": {
     "translation": "Skålformation",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_70": {
     "translation": "I skogen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_75": {
     "translation": "Kalhygge",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_95": {
     "translation": "Överallt i terrängen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TerrainStartZoneKD_99": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "TripTypeKD_0": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_20": {
     "translation": "Vanligt uppdrag för lavinvarningstjänsten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_30": {
     "translation": "Ytterligare uppdrag för lavinvarningstjänsten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_40": {
     "translation": "Beställt uppdrag för lavinvarningstjänsten",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_50": {
     "translation": "Uppdrag för arbetsgivaren",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_55": {
     "translation": "Undervisning och kurser",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_60": {
     "translation": "Privat tur",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "TripTypeKD_70": {
     "translation": "Guidning",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UsageFlagKD_0": {
     "translation": "Ingen flagga ges",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_1": {
     "translation": "Redo för historisk db",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_10": {
     "translation": "Godkänd av datahanteraren",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_101": {
     "translation": "För administrativt bruk",
     "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_101_desc": {
     "translation": "Observation eller grupp har en admin-funktion. Det är dold som om det raderades.",
     "notes": "For administarive purpose",
-    "limit": "1024"
+    "limit": 1024
   },
   "UsageFlagKD_2": {
     "translation": "Skickad till historisk db",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_51": {
     "translation": "Raderad av användaren",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_52": {
     "translation": "Raderad av admin",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UsageFlagKD_61": {
     "translation": "Underkänd av datahanteraren",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "UTMSourceKD_0": {
     "translation": "Okänt",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_10": {
     "translation": "Läst från GPS",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_20": {
     "translation": "Läst från kartan",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_30": {
     "translation": "Klicka på kartan på regObs",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_35": {
     "translation": "Klicka på kartan i regObs-appen",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_40": {
     "translation": "GPS i smartphone",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_45": {
     "translation": "Gammal position i smartphone",
     "notes": "Position from smart phone storage. Is used when current position isn't available.",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_45_desc": {
     "translation": "Position från lagrad i smartphone. Används när aktuell position inte är tillgänglig",
     "notes": "Old position in smartPhone",
-    "limit": "150"
+    "limit": 150
   },
   "UTMSourceKD_50": {
     "translation": "NVDB",
     "notes": "National roads databank",
-    "limit": "50"
+    "limit": 50
   },
   "UTMSourceKD_50_desc": {
     "translation": "Nationell vägdatabas",
     "notes": "NVDB",
-    "limit": "150"
+    "limit": 150
   },
   "UTMSourceKD_60": {
     "translation": "HydraII",
     "notes": "",
-    "limit": "50"
+    "limit": 50
   },
   "WaterAstrayKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "WaterAstrayKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterAstrayKD_1": {
     "translation": "Ja",
     "notes": "Yes",
-    "limit": "100"
+    "limit": 100
   },
   "WaterAstrayKD_1_desc": {
     "translation": "Ja",
     "notes": "Yes",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterAstrayKD_2": {
     "translation": "Nej",
     "notes": "No",
-    "limit": "100"
+    "limit": 100
   },
   "WaterAstrayKD_2_desc": {
     "translation": "Nej",
     "notes": "No",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelMethodKD_0": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelMethodKD_0_desc": {
     "translation": "Okänt",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelMethodKD_1": {
     "translation": "Vattennivåmarkering",
     "notes": "Water level marking",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelMethodKD_1_desc": {
     "translation": "Vattennivåmarkering",
     "notes": "Water level marking",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelMethodKD_2": {
     "translation": "Vattennivåmätning",
     "notes": "water level measurement",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelMethodKD_2_desc": {
     "translation": "Vattennivåmätning",
     "notes": "Water level measurement",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelRefKD_100": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_110": {
     "translation": "Skala på vattennivåmätare",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_120": {
     "translation": "Känt landmärke (ange)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_130": {
     "translation": "Märke tidigare översvämningar",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_140": {
     "translation": "Visas i bifogad bild",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_200": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_210": {
     "translation": "Skala på vattennivåmätare",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_211": {
     "translation": "Måttstock",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_212": {
     "translation": "Max/min-märke för regleringen",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_220": {
     "translation": "Känt landmärke (ange)",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_221": {
     "translation": "Översvämningsstötta",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelRefKD_240": {
     "translation": "Visas i bifogad bild",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WaterLevelStateKD_0": {
     "translation": "Okänt",
     "notes": "unknown water level",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelStateKD_0_desc": {
     "translation": "Okänd vattennivå",
     "notes": "Unknown",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelStateKD_1": {
     "translation": "Vattennivån är sjunkande",
     "notes": "Water level is decreasing",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelStateKD_1_desc": {
     "translation": "Vattennivån är sjunkande",
     "notes": "Water level is decreasing",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelStateKD_2": {
     "translation": "Vattennivån är stigande",
     "notes": "Water level is increasing",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelStateKD_2_desc": {
     "translation": "Vattennivå är stigande",
     "notes": "Water level is increasing",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelStateKD_3": {
     "translation": "Vattennivån är stabil",
     "notes": "Water level is stable",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelStateKD_3_desc": {
     "translation": "Vattennivån är stabil",
     "notes": "Water level is stable",
-    "limit": "1024"
+    "limit": 1024
   },
   "WaterLevelStateKD_4": {
     "translation": "Vattennivån kan inte fastställas",
     "notes": "Can not determine that now",
-    "limit": "100"
+    "limit": 100
   },
   "WaterLevelStateKD_4_desc": {
     "translation": "Det kan jag inte avgöra nu",
     "notes": "Cannot determine water level",
-    "limit": "1024"
+    "limit": 1024
   },
   "WetnessKD_0": {
     "translation": " - ",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_1": {
     "translation": "D",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_2": {
     "translation": "D-M",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_3": {
     "translation": "M",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_4": {
     "translation": "M-W",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_5": {
     "translation": "W",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_6": {
     "translation": "W-V",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_7": {
     "translation": "V",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_8": {
     "translation": "V-S",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WetnessKD_9": {
     "translation": "S",
     "notes": "",
-    "limit": "30"
+    "limit": 30
   },
   "WindSpeedKD_0": {
     "translation": "Ej angivet",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_10": {
     "translation": "Lätt bris",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_20": {
     "translation": "Frisk bris",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_30": {
     "translation": "Styv bris",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_40": {
     "translation": "Hård Bris",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_50": {
     "translation": "Styv kuling",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_60": {
     "translation": "Hård Kuling",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_70": {
     "translation": "Halv storm",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_80": {
     "translation": "Storm",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   },
   "WindSpeedKD_90": {
     "translation": "Orkanstyrka",
     "notes": "",
-    "limit": "100"
+    "limit": 100
   }
 }
