@@ -334,6 +334,16 @@
     "notes": "",
     "limit": 30
   },
+  "ActivityInfluencedKD_775": {
+    "translation": "Anchor ice dam",
+    "notes": "",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_776": {
+    "translation": "Frazil ice plugging",
+    "notes": "Frazil ice beneath the ice plugs the river.",
+    "limit": 30
+  },
   "ActivityInfluencedKD_790": {
     "translation": "Drugo",
     "notes": "",
@@ -5897,7 +5907,7 @@
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Napaka pri meritvah. Opažen obseg ledene površine s prejšnjega opažanja verjetno ne predstavlja dejanskega stanja do včeraj.",
-    "notes": "Break - Unknown until today",
+    "notes": "Unknown previous ice cover",
     "limit": 1024
   },
   "IceCoverKD_0": {

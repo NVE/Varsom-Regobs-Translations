@@ -334,6 +334,21 @@
     "notes": "",
     "limit": 30
   },
+  "ActivityInfluencedKD_775": {
+    "translation": "Anchor ice dam",
+    "notes": "",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_776": {
+    "translation": "Frazil ice plugging",
+    "notes": "Frazil ice beneath the ice plugs the river.",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_776_desc": {
+    "translation": "Frazil ice beneath the ice plugs the river.",
+    "notes": "Frazil ice plugging",
+    "limit": 1024
+  },
   "ActivityInfluencedKD_790": {
     "translation": "Other",
     "notes": "",

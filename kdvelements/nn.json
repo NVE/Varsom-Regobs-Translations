@@ -334,6 +334,31 @@
     "notes": "",
     "limit": 30
   },
+  "ActivityInfluencedKD_774_desc": {
+    "translation": "Is på innsjøar som løsnar og driv avgarde. Kan øydelegge langs land.",
+    "notes": "Drift ice",
+    "limit": 1024
+  },
+  "ActivityInfluencedKD_775": {
+    "translation": "Botnis dam",
+    "notes": "",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_775_desc": {
+    "translation": "Isdam som vert laga når drivande sarr festar seg på elvebotnen. Kan gi overfløyming.",
+    "notes": "Anchor ice dam",
+    "limit": 1024
+  },
+  "ActivityInfluencedKD_776": {
+    "translation": "Sarr/is tettar elveløpet",
+    "notes": "Frazil ice beneath the ice plugs the river.",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_776_desc": {
+    "translation": "Drivande sarr og isflak samlar seg under eit isdekke og snevrar inn elveløpet slik at vatn må renne på oversida av isdekket. Gir ofte skadar langs land eller på elvebotnen.",
+    "notes": "Frazil ice plugging",
+    "limit": 1024
+  },
   "ActivityInfluencedKD_790": {
     "translation": "Anna",
     "notes": "",
@@ -2631,6 +2656,16 @@
   },
   "DangerSignKD_1": {
     "translation": "Ingen fareteikn observert",
+    "notes": "",
+    "limit": 30
+  },
+  "DangerSignKD_14": {
+    "translation": "Skytande sprekkar",
+    "notes": "",
+    "limit": 30
+  },
+  "DangerSignKD_15": {
+    "translation": "Ferske glidesprekkar",
     "notes": "",
     "limit": 30
   },
@@ -5816,12 +5851,12 @@
     "limit": 30
   },
   "IceCoverKD_10": {
-    "translation": "Isløysing langs land",
+    "translation": "Isløysing langs land, is utpå",
     "notes": "",
     "limit": 30
   },
   "IceCoverKD_11": {
-    "translation": "Islegging langs land",
+    "translation": "Islegging ved land, ope utpå",
     "notes": "",
     "limit": 30
   },
