@@ -1335,7 +1335,7 @@
     "limit": 30
   },
   "CompetenceLevelKD_750_desc": {
-    "translation": "Educated personel in NVE or eqivalent.",
+    "translation": "Educated personnel in NVE or equivalent.",
     "notes": "*****",
     "limit": 1024
   },
@@ -1380,7 +1380,7 @@
     "limit": 30
   },
   "CompressionTestKD_2_desc": {
-    "translation": "Extended coloumn test",
+    "translation": "Extended column test",
     "notes": "ECT",
     "limit": 1024
   },
@@ -2861,17 +2861,17 @@
     "limit": 30
   },
   "DangerSignKD_611": {
-    "translation": "Blocked waterway due to ice",
+    "translation": "Blocked gutters due to ice",
     "notes": "",
     "limit": 30
   },
   "DangerSignKD_612": {
-    "translation": "Waterway clogged by sediments",
+    "translation": "Gutters clogged by sediments",
     "notes": "",
     "limit": 30
   },
   "DangerSignKD_621": {
-    "translation": "Moderat raise of water level",
+    "translation": "Moderate raise of water level",
     "notes": "",
     "limit": 30
   },
@@ -6127,7 +6127,7 @@
     "limit": 30
   },
   "IceProblemKD_20": {
-    "translation": "Bulk ice",
+    "translation": "Aufeis (icings)",
     "notes": "",
     "limit": 30
   },
@@ -6369,62 +6369,74 @@
   "MarkingTypeKD_0": {
     "translation": "Unknown",
     "notes": "Unknown",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Unknown",
     "notes": "Unknown",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2": {
     "translation": "Marker",
     "notes": "Marker",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Marker",
     "notes": "Marker",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3": {
     "translation": "Nail",
     "notes": "Nail",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Nail",
     "notes": "Nail",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4": {
     "translation": "Carving",
     "notes": "Carving",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Carving",
     "notes": "Carving",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5": {
     "translation": "Other",
     "notes": "Other",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Other",
     "notes": "Other",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MeasurementReferenceKD_0": {
     "translation": "Unknown",

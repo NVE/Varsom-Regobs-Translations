@@ -1340,17 +1340,17 @@
     "limit": 30
   },
   "ComprTestFractureKD_1": {
-    "translation": "Q1 - čist,gladek,hiter prelom",
+    "translation": "Q1 (čist,gladek, hiter prelom)",
     "notes": "",
     "limit": 30
   },
   "ComprTestFractureKD_2": {
-    "translation": "Q2 - večinoma gladek prelom",
+    "translation": "Q2 (večinoma gladek prelom)",
     "notes": "",
     "limit": 30
   },
   "ComprTestFractureKD_3": {
-    "translation": "Q3 - nepravilen, hrapav prelom",
+    "translation": "Q3 (nepravilen, hrapav prelom)",
     "notes": "",
     "limit": 30
   },
@@ -5451,7 +5451,7 @@
     "limit": 30
   },
   "GrainFormKD_1": {
-    "translation": "nov sneg (PP)",
+    "translation": "PP",
     "notes": "",
     "limit": 30
   },
@@ -5476,7 +5476,7 @@
     "limit": 30
   },
   "GrainFormKD_14": {
-    "translation": "polsten sneg (DF)",
+    "translation": "DF",
     "notes": "",
     "limit": 30
   },
@@ -5491,7 +5491,7 @@
     "limit": 30
   },
   "GrainFormKD_17": {
-    "translation": "zrnat sneg (RG)",
+    "translation": "RG",
     "notes": "",
     "limit": 30
   },
@@ -5521,7 +5521,7 @@
     "limit": 30
   },
   "GrainFormKD_22": {
-    "translation": "robata zrna med sreženjem (FC)",
+    "translation": "FC",
     "notes": "",
     "limit": 30
   },
@@ -5536,12 +5536,12 @@
     "limit": 30
   },
   "GrainFormKD_25": {
-    "translation": "robata zrna med zrnjenjem FCxr",
+    "translation": "FCxr",
     "notes": "",
     "limit": 30
   },
   "GrainFormKD_26": {
-    "translation": "globinski srež (DH)",
+    "translation": "DH",
     "notes": "",
     "limit": 30
   },
@@ -5576,7 +5576,7 @@
     "limit": 30
   },
   "GrainFormKD_32": {
-    "translation": "površinski srež (SH)",
+    "translation": "SH",
     "notes": "",
     "limit": 30
   },
@@ -5596,7 +5596,7 @@
     "limit": 30
   },
   "GrainFormKD_36": {
-    "translation": "staljen sneg (MF)",
+    "translation": "MF",
     "notes": "",
     "limit": 30
   },
@@ -5621,12 +5621,12 @@
     "limit": 30
   },
   "GrainFormKD_40": {
-    "translation": "osrenica (MFcr)",
+    "translation": "MFcr",
     "notes": "",
     "limit": 30
   },
   "GrainFormKD_41": {
-    "translation": "ledena plast (IF)",
+    "translation": "IF",
     "notes": "",
     "limit": 30
   },
@@ -5666,7 +5666,7 @@
     "limit": 30
   },
   "GrainFormKD_7": {
-    "translation": "sodra, babje pšeno (PPgp)",
+    "translation": "PPgp",
     "notes": "",
     "limit": 30
   },
@@ -5686,107 +5686,107 @@
     "limit": 30
   },
   "HardnessKD_1": {
-    "translation": "pest (PE) -",
+    "translation": "pest- (F-)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_10": {
-    "translation": "en prst (1P)",
+    "translation": "en prst (1F)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_11": {
-    "translation": "en prst (1P) +",
+    "translation": "en prst+ (1F+)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_12": {
-    "translation": "1P-S",
+    "translation": "en prst-svinčnik (1F-P)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_13": {
-    "translation": "svinčnik (S) -",
+    "translation": "svinčnik- (P-)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_14": {
-    "translation": "svinčnik (S)",
+    "translation": "svinčnik (P)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_15": {
-    "translation": "svinčnik (S) +",
+    "translation": "svinčnik+ (P+)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_16": {
-    "translation": "S-N",
+    "translation": "svinčnik-nož (P-K)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_17": {
-    "translation": "nož (N) -",
+    "translation": "nož- (K-)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_18": {
-    "translation": "nož (N)",
+    "translation": "nož (K)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_19": {
-    "translation": "nož (N) +",
+    "translation": "nož+ (K+)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_2": {
-    "translation": "pest (PE)",
+    "translation": "pest (F)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_20": {
-    "translation": "N-L",
+    "translation": "nož-led (K-I)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_21": {
-    "translation": "led (L)",
+    "translation": "led (I)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_3": {
-    "translation": "pest (PE) +",
+    "translation": "pest+ (F+)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_4": {
-    "translation": "PE-4P",
+    "translation": "pest-štirje prsti (F-4F)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_5": {
-    "translation": "štirje prsti (4P) -",
+    "translation": "štirje prsti- (4F-)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_6": {
-    "translation": "štirje prsti (4P)",
+    "translation": "štirje prsti (4F)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_7": {
-    "translation": "štirje prsti (4P) +",
+    "translation": "štirje prsti+ (4F+)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_8": {
-    "translation": "4P-1P",
+    "translation": "štirje prsti-en prst (4F-1F)",
     "notes": "",
     "limit": 30
   },
   "HardnessKD_9": {
-    "translation": "en prst (1P) -",
+    "translation": "en prst- (1F-)",
     "notes": "",
     "limit": 30
   },
@@ -5891,7 +5891,7 @@
     "limit": 1024
   },
   "IceCoverBeforeKD_3": {
-    "translation": "Brez ledu, tudi danes",
+    "translation": "Brez ledu do sedaj, tudi danes",
     "notes": "No ice this winter season, not even today.",
     "limit": 30
   },
@@ -5901,7 +5901,7 @@
     "limit": 1024
   },
   "IceCoverBeforeKD_99": {
-    "translation": "Luknja - neznano do danes",
+    "translation": "Neznano predhodno stanje ledu",
     "notes": "Break in measurements. The ice cover from previous observation is probably not valid until yeaterday.",
     "limit": 30
   },
@@ -6269,62 +6269,74 @@
   "MarkingTypeKD_0": {
     "translation": "Neznano",
     "notes": "Unknown",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Neznano",
     "notes": "Unknown",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1": {
     "translation": "Razpršilo",
     "notes": "Spray",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Razpršilo",
     "notes": "Spray",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2": {
     "translation": "Znak",
     "notes": "Marker",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Znak",
     "notes": "Marker",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3": {
     "translation": "Žebelj",
     "notes": "Nail",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Žebelj",
     "notes": "Nail",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4": {
     "translation": "Klesanje",
     "notes": "Carving",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Klesanje",
     "notes": "Carving",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5": {
     "translation": "Drugo",
     "notes": "Other",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Drugo",
     "notes": "Other",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MeasurementReferenceKD_0": {
     "translation": "Neznano",
@@ -6503,55 +6515,55 @@
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_11": {
-    "translation": "CT0 - porušitev med pripravo",
+    "translation": "CTV(porušitev med pripravo)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_12": {
-    "translation": "CTE - porušitev ob udarcu 1-10",
+    "translation": "CTE(porušitev, lahki udarci)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_13": {
-    "translation": "CTM -porušitev ob udarcu 11-20",
+    "translation": "CTM(porušitev, zmerni udarci)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_14": {
-    "translation": "CTH -porušitev ob udarcu 21-30",
+    "translation": "CTH(porušitev, močni udarci)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_15": {
-    "translation": "CTN - ni porušitve",
+    "translation": "CTN(ni porušitve)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_21": {
-    "translation": "ECT0 - porušitev med pripravo",
+    "translation": "ECTPV(porušitev med pripravo)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_22": {
-    "translation": "ECTP - razpoka, ki napreduje",
+    "translation": "ECTP(razpoka napreduje)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_23": {
-    "translation": "ECTN - razpoka,ki ne napreduje",
+    "translation": "ECTN(razpoka ne napreduje)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_24": {
-    "translation": "ECTX - ni porušitve",
+    "translation": "ECTX(ni porušitve)",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
@@ -6853,22 +6865,22 @@
     "limit": 30
   },
   "SurfaceWaterContentKD_3": {
-    "translation": "Vlažna",
+    "translation": "Rahlo vlažna",
     "notes": "",
     "limit": 30
   },
   "SurfaceWaterContentKD_4": {
-    "translation": "Mokra",
+    "translation": "Vlažna",
     "notes": "",
     "limit": 30
   },
   "SurfaceWaterContentKD_5": {
-    "translation": "Zelo mokra",
+    "translation": "Mokra",
     "notes": "",
     "limit": 30
   },
   "SurfaceWaterContentKD_6": {
-    "translation": "Plundra",
+    "translation": "Zelo mokra",
     "notes": "",
     "limit": 30
   },
@@ -7243,47 +7255,47 @@
     "limit": 30
   },
   "WetnessKD_1": {
-    "translation": "suh sneg",
+    "translation": "suh sneg (D)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_2": {
-    "translation": "suh - rahlo vlažen sneg",
+    "translation": "suh - rahlo vlažen sneg (D-M)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_3": {
-    "translation": "rahlo vlažen sneg",
+    "translation": "rahlo vlažen sneg (M)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_4": {
-    "translation": "rahlo vlažen - vlažen sneg",
+    "translation": "rahlo vlažen - vlažen (M-W)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_5": {
-    "translation": "vlažen sneg",
+    "translation": "vlažen sneg (W)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_6": {
-    "translation": "vlažen - moker sneg",
+    "translation": "vlažen - moker sneg (W-V)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_7": {
-    "translation": "moker sneg",
+    "translation": "moker sneg (V)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_8": {
-    "translation": "moker - zelo moker sneg",
+    "translation": "moker - zelo moker sneg (V-S)",
     "notes": "",
     "limit": 30
   },
   "WetnessKD_9": {
-    "translation": "zelo moker sneg",
+    "translation": "zelo moker sneg (S)",
     "notes": "",
     "limit": 30
   },

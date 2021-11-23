@@ -6224,62 +6224,74 @@
   "MarkingTypeKD_0": {
     "translation": "Unbekannt",
     "notes": "Unknown",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Unbekannt",
     "notes": "Unknown",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2": {
     "translation": "Marker",
     "notes": "Marker",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Marker",
     "notes": "Marker",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3": {
     "translation": "Nagel",
     "notes": "Nail",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Nagel",
     "notes": "Nail",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4": {
     "translation": "Schnitzerei",
     "notes": "Carving",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Schnitzerei",
     "notes": "Carving",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5": {
     "translation": "Andere",
     "notes": "Other",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Andere",
     "notes": "Other",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MeasurementReferenceKD_0": {
     "translation": "Unbekannt",

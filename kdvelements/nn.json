@@ -5376,7 +5376,7 @@
     "limit": 30
   },
   "GrainFormKD_0": {
-    "translation": "-",
+    "translation": " - ",
     "notes": "",
     "limit": 30
   },
@@ -5576,7 +5576,7 @@
     "limit": 30
   },
   "GrainFormKD_45": {
-    "translation": "Ifrc",
+    "translation": "IFrc",
     "notes": "",
     "limit": 30
   },
@@ -6199,62 +6199,74 @@
   "MarkingTypeKD_0": {
     "translation": "Ukjent",
     "notes": "Unknown",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Ukjent",
     "notes": "Unknown",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spray",
     "notes": "Spray",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2": {
     "translation": "Tusj",
     "notes": "Marker",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Tusj",
     "notes": "Marker",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3": {
     "translation": "Spiker",
     "notes": "Nail",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Spiker",
     "notes": "Nail",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4": {
     "translation": "Innriss",
     "notes": "Carving",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Innriss",
     "notes": "Carving",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5": {
     "translation": "Anna",
     "notes": "Other",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Anna",
     "notes": "Other",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MeasurementReferenceKD_0": {
     "translation": "Ukjent",

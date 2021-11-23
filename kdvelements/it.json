@@ -5791,7 +5791,7 @@
   },
   "IceCoverBeforeKD_99_desc": {
     "translation": "Interruzione delle misurazioni. La copertura di ghiaccio della precedente osservazione non è probabilmente valida fino a ieri.",
-    "notes": "Break - Unknown until today",
+    "notes": "Unknown previous ice cover",
     "limit": 1024
   },
   "IceCoverKD_0": {
@@ -6153,62 +6153,74 @@
   "MarkingTypeKD_0": {
     "translation": "Sconosciuto",
     "notes": "Unknown",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_0_desc": {
     "translation": "Sconosciuto",
     "notes": "Unknown",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1": {
     "translation": "Spruzzo",
     "notes": "Spray",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_1_desc": {
     "translation": "Spruzzo",
     "notes": "Spray",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2": {
     "translation": "Marcatore",
     "notes": "Marker",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_2_desc": {
     "translation": "Marcatore",
     "notes": "Marker",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3": {
     "translation": "Chiodo",
     "notes": "Nail",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_3_desc": {
     "translation": "Chiodo",
     "notes": "Nail",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4": {
     "translation": "Intaglio",
     "notes": "Carving",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_4_desc": {
     "translation": "Intaglio",
     "notes": "Carving",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5": {
     "translation": "Altro",
     "notes": "Other",
-    "limit": 100
+    "limit": 100,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MarkingTypeKD_5_desc": {
     "translation": "Altro",
     "notes": "Other",
-    "limit": 1024
+    "limit": 1024,
+    "context": "Used to indicate how water level measurements are marked in the terrain / river"
   },
   "MeasurementReferenceKD_0": {
     "translation": "Sconosciuto",
