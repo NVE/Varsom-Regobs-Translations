@@ -344,13 +344,13 @@
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },
@@ -443,176 +443,6 @@
     "translation": "Sconosciuto",
     "notes": "",
     "limit": 50
-  },
-  "AvalancheDangerKD_0": {
-    "translation": "0 Non dato",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_1": {
-    "translation": "1 Debole",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_2": {
-    "translation": "2 Moderato",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_3": {
-    "translation": "3 Marcato",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_4": {
-    "translation": "4 Forte",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_5": {
-    "translation": "5 Molto forte",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheExtKD_0": {
-    "translation": "non dato",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_10": {
-    "translation": "Valanga di neve sciolta secca",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_15": {
-    "translation": "Neve sciolta bagnata",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_20": {
-    "translation": "Valanga a lastroni asciutti",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_25": {
-    "translation": "Valanga a lastroni bagnati",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_27": {
-    "translation": "Valaga di slittamento",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_30": {
-    "translation": "Valanga di neve bagnata",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_40": {
-    "translation": "Cornice",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheKD_0": {
-    "translation": "non dato",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_11": {
-    "translation": "Neve sciolta bagnata",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_12": {
-    "translation": "Valanga di neve sciolta secca",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_21": {
-    "translation": "Valanga a lastroni bagnati",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_22": {
-    "translation": "Valanga a lastroni asciutti",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_27": {
-    "translation": "Valaga di slittamento",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_30": {
-    "translation": "Valanga di neve bagnata",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_40": {
-    "translation": "Caduta cornice",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_99": {
-    "translation": "Sconosciuto",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_0": {
-    "translation": "non dato",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_10": {
-    "translation": "Distacco naturale",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_22": {
-    "translation": "Distacco a distanza",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_23": {
-    "translation": "Distacco pendio di test",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_25": {
-    "translation": "Distacco da esplosivi",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_26": {
-    "translation": "Distacco causa umano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_27": {
-    "translation": "Distacco causa motoslitta",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_99": {
-    "translation": "Sconosciuto",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTypeKD_0": {
-    "translation": "non dato",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_10": {
-    "translation": "Valanga di lastra",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_20": {
-    "translation": "Valanga di neve sciolta",
-    "notes": "",
-    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "Lo strato debole si frattura facilmente e con superfici pulite.",
@@ -833,6 +663,176 @@
     "translation": "Molto facile a distaccare",
     "notes": "",
     "limit": 30
+  },
+  "AvalancheDangerKD_0": {
+    "translation": "0 Non dato",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_1": {
+    "translation": "1 Debole",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_2": {
+    "translation": "2 Moderato",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_3": {
+    "translation": "3 Marcato",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_4": {
+    "translation": "4 Forte",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_5": {
+    "translation": "5 Molto forte",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheExtKD_0": {
+    "translation": "non dato",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_10": {
+    "translation": "Valanga di neve sciolta secca",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_15": {
+    "translation": "Neve sciolta bagnata",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_20": {
+    "translation": "Valanga a lastroni asciutti",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_25": {
+    "translation": "Valanga a lastroni bagnati",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_27": {
+    "translation": "Valaga di slittamento",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_30": {
+    "translation": "Valanga di neve bagnata",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_40": {
+    "translation": "Cornice",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheKD_0": {
+    "translation": "non dato",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_11": {
+    "translation": "Neve sciolta bagnata",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_12": {
+    "translation": "Valanga di neve sciolta secca",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_21": {
+    "translation": "Valanga a lastroni bagnati",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_22": {
+    "translation": "Valanga a lastroni asciutti",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_27": {
+    "translation": "Valaga di slittamento",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_30": {
+    "translation": "Valanga di neve bagnata",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_40": {
+    "translation": "Caduta cornice",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_99": {
+    "translation": "Sconosciuto",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_0": {
+    "translation": "non dato",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_10": {
+    "translation": "Distacco naturale",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_22": {
+    "translation": "Distacco a distanza",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_23": {
+    "translation": "Distacco pendio di test",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_25": {
+    "translation": "Distacco da esplosivi",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_26": {
+    "translation": "Distacco causa umano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_27": {
+    "translation": "Distacco causa motoslitta",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_99": {
+    "translation": "Sconosciuto",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTypeKD_0": {
+    "translation": "non dato",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_10": {
+    "translation": "Valanga di lastra",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_20": {
+    "translation": "Valanga di neve sciolta",
+    "notes": "",
+    "limit": 100
   },
   "CloudCoverKD_0": {
     "translation": "non dato",
@@ -1234,21 +1234,6 @@
     "notes": "*****",
     "limit": 1024
   },
-  "CompressionTestKD_0": {
-    "translation": "N/D",
-    "notes": "",
-    "limit": 30
-  },
-  "CompressionTestKD_1": {
-    "translation": "CT",
-    "notes": "Coloumn test",
-    "limit": 30
-  },
-  "CompressionTestKD_2": {
-    "translation": "ECT",
-    "notes": "Extended coloumn test",
-    "limit": 30
-  },
   "ComprTestFractureKD_0": {
     "translation": "Non specificato",
     "notes": "",
@@ -1267,6 +1252,21 @@
   "ComprTestFractureKD_3": {
     "translation": "Q3",
     "notes": "",
+    "limit": 30
+  },
+  "CompressionTestKD_0": {
+    "translation": "N/D",
+    "notes": "",
+    "limit": 30
+  },
+  "CompressionTestKD_1": {
+    "translation": "CT",
+    "notes": "Coloumn test",
+    "limit": 30
+  },
+  "CompressionTestKD_2": {
+    "translation": "ECT",
+    "notes": "Extended coloumn test",
     "limit": 30
   },
   "CountryKD_0": {
@@ -5239,15 +5239,15 @@
     "notes": "Avalanche",
     "limit": 30
   },
-  "GeoHazardKD_10_desc": {
-    "translation": "Valanga",
-    "notes": "Snow",
-    "limit": 1024
-  },
   "GeoHazardKD_100": {
     "translation": "Evento su ghiacciaio",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_10_desc": {
+    "translation": "Valanga",
+    "notes": "Snow",
+    "limit": 1024
   },
   "GeoHazardKD_110": {
     "translation": "Jøkulhlaup",
@@ -5259,15 +5259,15 @@
     "notes": "Earth slide",
     "limit": 30
   },
-  "GeoHazardKD_20_desc": {
-    "translation": "Scivolo di terra",
-    "notes": "Soil",
-    "limit": 1024
-  },
   "GeoHazardKD_200": {
     "translation": "Siccità",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_20_desc": {
+    "translation": "Scivolo di terra",
+    "notes": "Soil",
+    "limit": 1024
   },
   "GeoHazardKD_30": {
     "translation": "Terreno bagnato",
@@ -5749,11 +5749,6 @@
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
     "limit": 30
   },
-  "IceCoverBeforeKD_1_desc": {
-    "translation": "Nessun ghiaccio sul posto prima di oggi. Potrebbe esserci stato ghiaccio lungo la riva. \"Sito\" è generalmente un punto virtuale sul lago lontano dalla riva.",
-    "notes": "No ice, now first ice at site",
-    "limit": 1024
-  },
   "IceCoverBeforeKD_10": {
     "translation": "Ultima osservazione valida fin",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
@@ -5762,6 +5757,11 @@
   "IceCoverBeforeKD_10_desc": {
     "translation": "Continua osservazione. Si può supporre che la copertura di ghiaccio dalla precedente osservazione è valida fino a ieri. Oggi è un nuovo valore (o la stessa copertura di ghiaccio)",
     "notes": "Last obs valid until yesterday",
+    "limit": 1024
+  },
+  "IceCoverBeforeKD_1_desc": {
+    "translation": "Nessun ghiaccio sul posto prima di oggi. Potrebbe esserci stato ghiaccio lungo la riva. \"Sito\" è generalmente un punto virtuale sul lago lontano dalla riva.",
+    "notes": "No ice, now first ice at site",
     "limit": 1024
   },
   "IceCoverBeforeKD_2": {
@@ -6831,51 +6831,6 @@
     "notes": "",
     "limit": 50
   },
-  "UsageFlagKD_0": {
-    "translation": "Nessuna bandiera fornita",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_1": {
-    "translation": "Pronto per il database storico",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_10": {
-    "translation": "Approvato dall'amministratore ",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_101": {
-    "translation": "A scopo amministrativo",
-    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": 30
-  },
-  "UsageFlagKD_101_desc": {
-    "translation": "Il gruppo di osservazione ha uno scopo amministrativo. È altrove nascosto come se fosse stato cancellato.",
-    "notes": "For administarive purpose",
-    "limit": 1024
-  },
-  "UsageFlagKD_2": {
-    "translation": "Inviato al database storico",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_51": {
-    "translation": "Eliminato dall'utente",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_52": {
-    "translation": "Eliminato da admin",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_61": {
-    "translation": "Disapprovato da admin",
-    "notes": "",
-    "limit": 30
-  },
   "UTMSourceKD_0": {
     "translation": "Sconosciuto",
     "notes": "",
@@ -6930,6 +6885,51 @@
     "translation": "HydraII",
     "notes": "",
     "limit": 50
+  },
+  "UsageFlagKD_0": {
+    "translation": "Nessuna bandiera fornita",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_1": {
+    "translation": "Pronto per il database storico",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_10": {
+    "translation": "Approvato dall'amministratore ",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_101": {
+    "translation": "A scopo amministrativo",
+    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "limit": 30
+  },
+  "UsageFlagKD_101_desc": {
+    "translation": "Il gruppo di osservazione ha uno scopo amministrativo. È altrove nascosto come se fosse stato cancellato.",
+    "notes": "For administarive purpose",
+    "limit": 1024
+  },
+  "UsageFlagKD_2": {
+    "translation": "Inviato al database storico",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_51": {
+    "translation": "Eliminato dall'utente",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_52": {
+    "translation": "Eliminato da admin",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_61": {
+    "translation": "Disapprovato da admin",
+    "notes": "",
+    "limit": 30
   },
   "WaterAstrayKD_0": {
     "translation": "Sconosciuto",

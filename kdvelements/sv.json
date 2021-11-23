@@ -344,13 +344,13 @@
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },
@@ -443,176 +443,6 @@
     "translation": "Okänt",
     "notes": "",
     "limit": 50
-  },
-  "AvalancheDangerKD_0": {
-    "translation": "0 Ej angivet",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_1": {
-    "translation": "1 Liten",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_2": {
-    "translation": "2 Måttlig",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_3": {
-    "translation": "3 Betydande",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_4": {
-    "translation": "4 Stor",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_5": {
-    "translation": "5 Extrem",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheExtKD_0": {
-    "translation": "Ej angivet",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_10": {
-    "translation": "Torr lössnölavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_15": {
-    "translation": "Våt lössnölavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_20": {
-    "translation": "Torr flaklavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_25": {
-    "translation": "Våt flaklavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_27": {
-    "translation": "Glid lavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_30": {
-    "translation": "Slask lavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_40": {
-    "translation": "Hängdriva",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheKD_0": {
-    "translation": "Ej angivet",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_11": {
-    "translation": "Våt lössnölavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_12": {
-    "translation": "Torr lössnölavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_21": {
-    "translation": "Våt flaklavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_22": {
-    "translation": "Torr flaklavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_27": {
-    "translation": "Glid lavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_30": {
-    "translation": "Slasklavin",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_40": {
-    "translation": "Hängdriva",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_99": {
-    "translation": "Okänt",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_0": {
-    "translation": "Ej angivet",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_10": {
-    "translation": "Naturligt utlöst",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_22": {
-    "translation": "Fjärrutlöst",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_23": {
-    "translation": "Lavin utlöst på testsluttning",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_25": {
-    "translation": "Utlöst med sprängämnen",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_26": {
-    "translation": "Mänskligt utlöst",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_27": {
-    "translation": "Utlöst av snöskoter",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_99": {
-    "translation": "Okänt",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTypeKD_0": {
-    "translation": "Ej angivet",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_10": {
-    "translation": "Flaklavin",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_20": {
-    "translation": "Lössnölavin",
-    "notes": "",
-    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "Det svaga lagret kollapsar lätt och rent (sprickutbredning sker lätt).",
@@ -923,6 +753,176 @@
     "translation": "Mycket lätt att utlösa",
     "notes": "",
     "limit": 30
+  },
+  "AvalancheDangerKD_0": {
+    "translation": "0 Ej angivet",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_1": {
+    "translation": "1 Liten",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_2": {
+    "translation": "2 Måttlig",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_3": {
+    "translation": "3 Betydande",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_4": {
+    "translation": "4 Stor",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_5": {
+    "translation": "5 Extrem",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheExtKD_0": {
+    "translation": "Ej angivet",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_10": {
+    "translation": "Torr lössnölavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_15": {
+    "translation": "Våt lössnölavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_20": {
+    "translation": "Torr flaklavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_25": {
+    "translation": "Våt flaklavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_27": {
+    "translation": "Glid lavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_30": {
+    "translation": "Slask lavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_40": {
+    "translation": "Hängdriva",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheKD_0": {
+    "translation": "Ej angivet",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_11": {
+    "translation": "Våt lössnölavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_12": {
+    "translation": "Torr lössnölavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_21": {
+    "translation": "Våt flaklavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_22": {
+    "translation": "Torr flaklavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_27": {
+    "translation": "Glid lavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_30": {
+    "translation": "Slasklavin",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_40": {
+    "translation": "Hängdriva",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_99": {
+    "translation": "Okänt",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_0": {
+    "translation": "Ej angivet",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_10": {
+    "translation": "Naturligt utlöst",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_22": {
+    "translation": "Fjärrutlöst",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_23": {
+    "translation": "Lavin utlöst på testsluttning",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_25": {
+    "translation": "Utlöst med sprängämnen",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_26": {
+    "translation": "Mänskligt utlöst",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_27": {
+    "translation": "Utlöst av snöskoter",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_99": {
+    "translation": "Okänt",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTypeKD_0": {
+    "translation": "Ej angivet",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_10": {
+    "translation": "Flaklavin",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_20": {
+    "translation": "Lössnölavin",
+    "notes": "",
+    "limit": 100
   },
   "CloudCoverKD_0": {
     "translation": "Ej angivet",
@@ -1324,6 +1324,26 @@
     "notes": "*****",
     "limit": 1024
   },
+  "ComprTestFractureKD_0": {
+    "translation": "Ej angivet",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_1": {
+    "translation": "Q1",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_2": {
+    "translation": "Q2",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_3": {
+    "translation": "Q3",
+    "notes": "",
+    "limit": 30
+  },
   "CompressionTestKD_0": {
     "translation": "N/A",
     "notes": "",
@@ -1348,26 +1368,6 @@
     "translation": "Utvidgat kompressionstest",
     "notes": "ECT",
     "limit": 1024
-  },
-  "ComprTestFractureKD_0": {
-    "translation": "Ej angivet",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_1": {
-    "translation": "Q1",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_2": {
-    "translation": "Q2",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_3": {
-    "translation": "Q3",
-    "notes": "",
-    "limit": 30
   },
   "CountryKD_0": {
     "translation": "Not given",
@@ -5350,15 +5350,15 @@
     "notes": "Avalanche",
     "limit": 30
   },
-  "GeoHazardKD_10_desc": {
-    "translation": "Lavin",
-    "notes": "Snow",
-    "limit": 1024
-  },
   "GeoHazardKD_100": {
     "translation": "Händelse på glaciärer",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_10_desc": {
+    "translation": "Lavin",
+    "notes": "Snow",
+    "limit": 1024
   },
   "GeoHazardKD_110": {
     "translation": "Jökellopp",
@@ -5370,15 +5370,15 @@
     "notes": "Earth slide",
     "limit": 30
   },
-  "GeoHazardKD_20_desc": {
-    "translation": "Jordskred",
-    "notes": "Soil",
-    "limit": 1024
-  },
   "GeoHazardKD_200": {
     "translation": "Torka",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_20_desc": {
+    "translation": "Jordskred",
+    "notes": "Soil",
+    "limit": 1024
   },
   "GeoHazardKD_30": {
     "translation": "Våt jord",
@@ -5860,11 +5860,6 @@
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
     "limit": 30
   },
-  "IceCoverBeforeKD_1_desc": {
-    "translation": "Ingen is på mätplatsen före idag. Det kan ha varit is längs stranden. Mätplatsen är vanligtvis något ute på vattnet.",
-    "notes": "No ice, now first ice at site",
-    "limit": 1024
-  },
   "IceCoverBeforeKD_10": {
     "translation": "Sista obs giltig tills igår",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
@@ -5873,6 +5868,11 @@
   "IceCoverBeforeKD_10_desc": {
     "translation": "Kontinuerliga observationer. Vi kan anta att istäcket från tidigare observationer är giltigt fram till idag. Idag är ett nytt värde (eller samma istäcke)",
     "notes": "Last obs valid until yesterday",
+    "limit": 1024
+  },
+  "IceCoverBeforeKD_1_desc": {
+    "translation": "Ingen is på mätplatsen före idag. Det kan ha varit is längs stranden. Mätplatsen är vanligtvis något ute på vattnet.",
+    "notes": "No ice, now first ice at site",
     "limit": 1024
   },
   "IceCoverBeforeKD_2": {
@@ -6992,51 +6992,6 @@
     "notes": "",
     "limit": 50
   },
-  "UsageFlagKD_0": {
-    "translation": "Ingen flagga ges",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_1": {
-    "translation": "Redo för historisk db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_10": {
-    "translation": "Godkänd av datahanteraren",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_101": {
-    "translation": "För administrativt bruk",
-    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": 30
-  },
-  "UsageFlagKD_101_desc": {
-    "translation": "Observation eller grupp har en admin-funktion. Det är dold som om det raderades.",
-    "notes": "For administarive purpose",
-    "limit": 1024
-  },
-  "UsageFlagKD_2": {
-    "translation": "Skickad till historisk db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_51": {
-    "translation": "Raderad av användaren",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_52": {
-    "translation": "Raderad av admin",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_61": {
-    "translation": "Underkänd av datahanteraren",
-    "notes": "",
-    "limit": 30
-  },
   "UTMSourceKD_0": {
     "translation": "Okänt",
     "notes": "",
@@ -7091,6 +7046,51 @@
     "translation": "HydraII",
     "notes": "",
     "limit": 50
+  },
+  "UsageFlagKD_0": {
+    "translation": "Ingen flagga ges",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_1": {
+    "translation": "Redo för historisk db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_10": {
+    "translation": "Godkänd av datahanteraren",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_101": {
+    "translation": "För administrativt bruk",
+    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "limit": 30
+  },
+  "UsageFlagKD_101_desc": {
+    "translation": "Observation eller grupp har en admin-funktion. Det är dold som om det raderades.",
+    "notes": "For administarive purpose",
+    "limit": 1024
+  },
+  "UsageFlagKD_2": {
+    "translation": "Skickad till historisk db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_51": {
+    "translation": "Raderad av användaren",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_52": {
+    "translation": "Raderad av admin",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_61": {
+    "translation": "Underkänd av datahanteraren",
+    "notes": "",
+    "limit": 30
   },
   "WaterAstrayKD_0": {
     "translation": "Okänt",

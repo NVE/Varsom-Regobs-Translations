@@ -299,13 +299,13 @@
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },
@@ -398,176 +398,6 @@
     "translation": "Unbekannt",
     "notes": "",
     "limit": 50
-  },
-  "AvalancheDangerKD_0": {
-    "translation": "0 Nicht angegeben",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_1": {
-    "translation": "1 Gering",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_2": {
-    "translation": "2 Mässig",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_3": {
-    "translation": "3 Erheblich",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_4": {
-    "translation": "4 Gross",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_5": {
-    "translation": "5 Sehr gross",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheExtKD_0": {
-    "translation": "Nicht angegeben",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_10": {
-    "translation": "Trockene Lockerschneelawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_15": {
-    "translation": "Nasse Lockerschneelawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_20": {
-    "translation": "Trockene Schneebrettlawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_25": {
-    "translation": "Nasse Schneebrettlawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_27": {
-    "translation": "Gleitschneelawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_30": {
-    "translation": "Nassschneelawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_40": {
-    "translation": "Wächte",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheKD_0": {
-    "translation": "Nicht angegeben",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_11": {
-    "translation": "Nasse Lockerschneelawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_12": {
-    "translation": "Trockene Lockerschneelawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_21": {
-    "translation": "Nasse Schneebrettlawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_22": {
-    "translation": "Trockene Schneebrettlawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_27": {
-    "translation": "Gleitschneelawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_30": {
-    "translation": "Nassschneelawine",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_40": {
-    "translation": "Wächtenbruch",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_99": {
-    "translation": "Unbekannt",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_0": {
-    "translation": "Nicht angegeben",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_10": {
-    "translation": "Natürliche Auslösung",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_22": {
-    "translation": "Fernauslösung",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_23": {
-    "translation": "Künstliche Auslösung: Testhang",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_25": {
-    "translation": "Sprengauslösung",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_26": {
-    "translation": "Auslösung durch Person(en)",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_27": {
-    "translation": "Ausgelöst durch ein Snowmobile",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_99": {
-    "translation": "Unbekannt",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTypeKD_0": {
-    "translation": "Keine Angabe",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_10": {
-    "translation": "Schneebrettlawine",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_20": {
-    "translation": "Lockerschneelawine",
-    "notes": "",
-    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "Die Schwachschicht bricht leicht und glatt (gute Bruchausbreitung).",
@@ -878,6 +708,176 @@
     "translation": "Sehr leicht auszulösen",
     "notes": "",
     "limit": 30
+  },
+  "AvalancheDangerKD_0": {
+    "translation": "0 Nicht angegeben",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_1": {
+    "translation": "1 Gering",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_2": {
+    "translation": "2 Mässig",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_3": {
+    "translation": "3 Erheblich",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_4": {
+    "translation": "4 Gross",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_5": {
+    "translation": "5 Sehr gross",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheExtKD_0": {
+    "translation": "Nicht angegeben",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_10": {
+    "translation": "Trockene Lockerschneelawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_15": {
+    "translation": "Nasse Lockerschneelawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_20": {
+    "translation": "Trockene Schneebrettlawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_25": {
+    "translation": "Nasse Schneebrettlawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_27": {
+    "translation": "Gleitschneelawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_30": {
+    "translation": "Nassschneelawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_40": {
+    "translation": "Wächte",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheKD_0": {
+    "translation": "Nicht angegeben",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_11": {
+    "translation": "Nasse Lockerschneelawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_12": {
+    "translation": "Trockene Lockerschneelawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_21": {
+    "translation": "Nasse Schneebrettlawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_22": {
+    "translation": "Trockene Schneebrettlawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_27": {
+    "translation": "Gleitschneelawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_30": {
+    "translation": "Nassschneelawine",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_40": {
+    "translation": "Wächtenbruch",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_99": {
+    "translation": "Unbekannt",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_0": {
+    "translation": "Nicht angegeben",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_10": {
+    "translation": "Natürliche Auslösung",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_22": {
+    "translation": "Fernauslösung",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_23": {
+    "translation": "Künstliche Auslösung: Testhang",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_25": {
+    "translation": "Sprengauslösung",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_26": {
+    "translation": "Auslösung durch Person(en)",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_27": {
+    "translation": "Ausgelöst durch ein Snowmobile",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_99": {
+    "translation": "Unbekannt",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTypeKD_0": {
+    "translation": "Keine Angabe",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_10": {
+    "translation": "Schneebrettlawine",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_20": {
+    "translation": "Lockerschneelawine",
+    "notes": "",
+    "limit": 100
   },
   "CloudCoverKD_0": {
     "translation": "Keine Angabe",
@@ -1279,6 +1279,26 @@
     "notes": "*****",
     "limit": 1024
   },
+  "ComprTestFractureKD_0": {
+    "translation": "Nicht spezifiziert",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_1": {
+    "translation": "Q1",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_2": {
+    "translation": "Q2",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_3": {
+    "translation": "Q3",
+    "notes": "",
+    "limit": 30
+  },
   "CompressionTestKD_0": {
     "translation": "Keine Angabe",
     "notes": "",
@@ -1303,26 +1323,6 @@
     "translation": "Erweiterter Säulentest",
     "notes": "ECT",
     "limit": 1024
-  },
-  "ComprTestFractureKD_0": {
-    "translation": "Nicht spezifiziert",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_1": {
-    "translation": "Q1",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_2": {
-    "translation": "Q2",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_3": {
-    "translation": "Q3",
-    "notes": "",
-    "limit": 30
   },
   "CountryKD_0": {
     "translation": "Not given",
@@ -5300,15 +5300,15 @@
     "notes": "Avalanche",
     "limit": 30
   },
-  "GeoHazardKD_10_desc": {
-    "translation": "Lawine",
-    "notes": "Snow",
-    "limit": 1024
-  },
   "GeoHazardKD_100": {
     "translation": "Ereignis am Gletscher",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_10_desc": {
+    "translation": "Lawine",
+    "notes": "Snow",
+    "limit": 1024
   },
   "GeoHazardKD_110": {
     "translation": "Gletscherlauf",
@@ -5320,15 +5320,15 @@
     "notes": "Earth slide",
     "limit": 30
   },
-  "GeoHazardKD_20_desc": {
-    "translation": "Erdrutsch",
-    "notes": "Soil",
-    "limit": 1024
-  },
   "GeoHazardKD_200": {
     "translation": "Trockenheit",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_20_desc": {
+    "translation": "Erdrutsch",
+    "notes": "Soil",
+    "limit": 1024
   },
   "GeoHazardKD_30": {
     "translation": "Nasse Erde",
@@ -5810,11 +5810,6 @@
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
     "limit": 30
   },
-  "IceCoverBeforeKD_1_desc": {
-    "translation": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt.",
-    "notes": "No ice, now first ice at site",
-    "limit": 1024
-  },
   "IceCoverBeforeKD_10": {
     "translation": "Beobachtung gilt bis gestern",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
@@ -5823,6 +5818,11 @@
   "IceCoverBeforeKD_10_desc": {
     "translation": "Kontinuierliche Beobachtungen. Wir können davon ausgehen, dass die Eisbedeckung der vorherigen Beobachtung bis zum heutigen Tag gültig ist. Heute ist ein neuer Wert (oder die gleiche Eisdecke)",
     "notes": "Last obs valid until yesterday",
+    "limit": 1024
+  },
+  "IceCoverBeforeKD_1_desc": {
+    "translation": "Gestern kein Eis vor Ort. Möglicherweise war Eis am Ufer. Messpunkt liegt normalerweise etwas vom Ufer entfernt.",
+    "notes": "No ice, now first ice at site",
     "limit": 1024
   },
   "IceCoverBeforeKD_2": {
@@ -6912,51 +6912,6 @@
     "notes": "",
     "limit": 50
   },
-  "UsageFlagKD_0": {
-    "translation": "Keine Flagge gesetzt",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_1": {
-    "translation": "Bereit für die historische db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_10": {
-    "translation": "Genehmigt vom Administrator",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_101": {
-    "translation": "Zu administrativen Zwecken",
-    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": 30
-  },
-  "UsageFlagKD_101_desc": {
-    "translation": "Die Beobachtung einer zu einem Ausbildungszweck. Es wird so versteckt, als ob es gelöscht worden wäre.",
-    "notes": "For administarive purpose",
-    "limit": 1024
-  },
-  "UsageFlagKD_2": {
-    "translation": "Weitergeleitet an die hist db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_51": {
-    "translation": "Vom Benutzer gelöscht",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_52": {
-    "translation": "Gelöscht von Admin",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_61": {
-    "translation": "Vom Administrator abgelehnt",
-    "notes": "",
-    "limit": 30
-  },
   "UTMSourceKD_0": {
     "translation": "Unbekannt",
     "notes": "",
@@ -7011,6 +6966,51 @@
     "translation": "HydraII",
     "notes": "",
     "limit": 50
+  },
+  "UsageFlagKD_0": {
+    "translation": "Keine Flagge gesetzt",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_1": {
+    "translation": "Bereit für die historische db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_10": {
+    "translation": "Genehmigt vom Administrator",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_101": {
+    "translation": "Zu administrativen Zwecken",
+    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "limit": 30
+  },
+  "UsageFlagKD_101_desc": {
+    "translation": "Die Beobachtung einer zu einem Ausbildungszweck. Es wird so versteckt, als ob es gelöscht worden wäre.",
+    "notes": "For administarive purpose",
+    "limit": 1024
+  },
+  "UsageFlagKD_2": {
+    "translation": "Weitergeleitet an die hist db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_51": {
+    "translation": "Vom Benutzer gelöscht",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_52": {
+    "translation": "Gelöscht von Admin",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_61": {
+    "translation": "Vom Administrator abgelehnt",
+    "notes": "",
+    "limit": 30
   },
   "WaterAstrayKD_0": {
     "translation": "Unbekannt",

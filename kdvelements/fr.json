@@ -1,11 +1,11 @@
 {
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },

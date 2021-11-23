@@ -344,13 +344,13 @@
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },
@@ -443,176 +443,6 @@
     "translation": "Unknown",
     "notes": "",
     "limit": 50
-  },
-  "AvalancheDangerKD_0": {
-    "translation": "0 Not given",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_1": {
-    "translation": "1 Low",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_2": {
-    "translation": "2 Moderate",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_3": {
-    "translation": "3 Considerable",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_4": {
-    "translation": "4 High",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_5": {
-    "translation": "5 Extreme",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheExtKD_0": {
-    "translation": "Not given",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_10": {
-    "translation": "Loose dry avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_15": {
-    "translation": "Loose wet avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_20": {
-    "translation": "Dry slab avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_25": {
-    "translation": "Wet slab avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_27": {
-    "translation": "Glide avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_30": {
-    "translation": "Slush avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_40": {
-    "translation": "Cornice",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheKD_0": {
-    "translation": "Not given",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_11": {
-    "translation": "Wet loose-snow avalanche",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_12": {
-    "translation": "Dry loose-snow avalanche",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_21": {
-    "translation": "Wet slab avalanche",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_22": {
-    "translation": "Dry slab avalanche",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_27": {
-    "translation": "Glide avalanche",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_30": {
-    "translation": "Slush flow",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_40": {
-    "translation": "Cornice fall",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_99": {
-    "translation": "Unknown",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_0": {
-    "translation": "Not given",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_10": {
-    "translation": "Naturaly released",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_22": {
-    "translation": "Remotely triggered",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_23": {
-    "translation": "Artificial release test slope",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_25": {
-    "translation": "Released by explosives",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_26": {
-    "translation": "Human triggered",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_27": {
-    "translation": "Triggered by snowmobile",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_99": {
-    "translation": "Unknown",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTypeKD_0": {
-    "translation": "Not given",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_10": {
-    "translation": "Slab avalanche",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_20": {
-    "translation": "Loose snow avalanche",
-    "notes": "",
-    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "The weak layer collapses easily and clean (easy propagation).",
@@ -923,6 +753,176 @@
     "translation": "Very easy to trigger",
     "notes": "",
     "limit": 30
+  },
+  "AvalancheDangerKD_0": {
+    "translation": "0 Not given",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_1": {
+    "translation": "1 Low",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_2": {
+    "translation": "2 Moderate",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_3": {
+    "translation": "3 Considerable",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_4": {
+    "translation": "4 High",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_5": {
+    "translation": "5 Extreme",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheExtKD_0": {
+    "translation": "Not given",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_10": {
+    "translation": "Loose dry avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_15": {
+    "translation": "Loose wet avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_20": {
+    "translation": "Dry slab avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_25": {
+    "translation": "Wet slab avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_27": {
+    "translation": "Glide avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_30": {
+    "translation": "Slush avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_40": {
+    "translation": "Cornice",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheKD_0": {
+    "translation": "Not given",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_11": {
+    "translation": "Wet loose-snow avalanche",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_12": {
+    "translation": "Dry loose-snow avalanche",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_21": {
+    "translation": "Wet slab avalanche",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_22": {
+    "translation": "Dry slab avalanche",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_27": {
+    "translation": "Glide avalanche",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_30": {
+    "translation": "Slush flow",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_40": {
+    "translation": "Cornice fall",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_99": {
+    "translation": "Unknown",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_0": {
+    "translation": "Not given",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_10": {
+    "translation": "Naturaly released",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_22": {
+    "translation": "Remotely triggered",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_23": {
+    "translation": "Artificial release test slope",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_25": {
+    "translation": "Released by explosives",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_26": {
+    "translation": "Human triggered",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_27": {
+    "translation": "Triggered by snowmobile",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_99": {
+    "translation": "Unknown",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTypeKD_0": {
+    "translation": "Not given",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_10": {
+    "translation": "Slab avalanche",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_20": {
+    "translation": "Loose snow avalanche",
+    "notes": "",
+    "limit": 100
   },
   "CloudCoverKD_0": {
     "translation": "Not given",
@@ -1324,6 +1324,26 @@
     "notes": "*****",
     "limit": 1024
   },
+  "ComprTestFractureKD_0": {
+    "translation": "Not  specified",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_1": {
+    "translation": "Q1",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_2": {
+    "translation": "Q2",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_3": {
+    "translation": "Q3",
+    "notes": "",
+    "limit": 30
+  },
   "CompressionTestKD_0": {
     "translation": "N/A",
     "notes": "",
@@ -1348,26 +1368,6 @@
     "translation": "Extended coloumn test",
     "notes": "ECT",
     "limit": 1024
-  },
-  "ComprTestFractureKD_0": {
-    "translation": "Not  specified",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_1": {
-    "translation": "Q1",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_2": {
-    "translation": "Q2",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_3": {
-    "translation": "Q3",
-    "notes": "",
-    "limit": 30
   },
   "CountryKD_0": {
     "translation": "Not given",
@@ -5440,15 +5440,15 @@
     "notes": "Avalanche",
     "limit": 30
   },
-  "GeoHazardKD_10_desc": {
-    "translation": "Avalanche",
-    "notes": "Snow",
-    "limit": 1024
-  },
   "GeoHazardKD_100": {
     "translation": "Event on glacier",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_10_desc": {
+    "translation": "Avalanche",
+    "notes": "Snow",
+    "limit": 1024
   },
   "GeoHazardKD_110": {
     "translation": "Jøkulhlaup",
@@ -5460,15 +5460,15 @@
     "notes": "Earth slide",
     "limit": 30
   },
-  "GeoHazardKD_20_desc": {
-    "translation": "Earth slide",
-    "notes": "Soil",
-    "limit": 1024
-  },
   "GeoHazardKD_200": {
     "translation": "Drought",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_20_desc": {
+    "translation": "Earth slide",
+    "notes": "Soil",
+    "limit": 1024
   },
   "GeoHazardKD_30": {
     "translation": "Wet soil",
@@ -5950,11 +5950,6 @@
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
     "limit": 30
   },
-  "IceCoverBeforeKD_1_desc": {
-    "translation": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
-    "notes": "No ice, now first ice at site",
-    "limit": 1024
-  },
   "IceCoverBeforeKD_10": {
     "translation": "Last obs valid until yesterday",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
@@ -5963,6 +5958,11 @@
   "IceCoverBeforeKD_10_desc": {
     "translation": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
     "notes": "Last obs valid until yesterday",
+    "limit": 1024
+  },
+  "IceCoverBeforeKD_1_desc": {
+    "translation": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
+    "notes": "No ice, now first ice at site",
     "limit": 1024
   },
   "IceCoverBeforeKD_2": {
@@ -7082,51 +7082,6 @@
     "notes": "",
     "limit": 50
   },
-  "UsageFlagKD_0": {
-    "translation": "No flag given",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_1": {
-    "translation": "Ready for historical db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_10": {
-    "translation": "Approved by data admin",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_101": {
-    "translation": "For administarive purpose",
-    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": 30
-  },
-  "UsageFlagKD_101_desc": {
-    "translation": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "notes": "For administarive purpose",
-    "limit": 1024
-  },
-  "UsageFlagKD_2": {
-    "translation": "Forwarded to historical db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_51": {
-    "translation": "Deleted by user",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_52": {
-    "translation": "Deleted by admin",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_61": {
-    "translation": "Disapproved by data admin",
-    "notes": "",
-    "limit": 30
-  },
   "UTMSourceKD_0": {
     "translation": "Unknown",
     "notes": "",
@@ -7181,6 +7136,51 @@
     "translation": "HydraII",
     "notes": "",
     "limit": 50
+  },
+  "UsageFlagKD_0": {
+    "translation": "No flag given",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_1": {
+    "translation": "Ready for historical db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_10": {
+    "translation": "Approved by data admin",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_101": {
+    "translation": "For administarive purpose",
+    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "limit": 30
+  },
+  "UsageFlagKD_101_desc": {
+    "translation": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "notes": "For administarive purpose",
+    "limit": 1024
+  },
+  "UsageFlagKD_2": {
+    "translation": "Forwarded to historical db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_51": {
+    "translation": "Deleted by user",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_52": {
+    "translation": "Deleted by admin",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_61": {
+    "translation": "Disapproved by data admin",
+    "notes": "",
+    "limit": 30
   },
   "WaterAstrayKD_0": {
     "translation": "Unknown",

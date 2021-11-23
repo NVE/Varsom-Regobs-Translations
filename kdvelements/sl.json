@@ -344,13 +344,13 @@
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_10_desc": {
-    "translation": "08:00",
+  "AnticipatedObservationTimeKD_100_desc": {
+    "translation": "18:00",
     "notes": "",
     "limit": 1024
   },
-  "AnticipatedObservationTimeKD_100_desc": {
-    "translation": "18:00",
+  "AnticipatedObservationTimeKD_10_desc": {
+    "translation": "08:00",
     "notes": "",
     "limit": 1024
   },
@@ -443,176 +443,6 @@
     "translation": "Neznano",
     "notes": "",
     "limit": 50
-  },
-  "AvalancheDangerKD_0": {
-    "translation": "0 Ni podano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_1": {
-    "translation": "1 Majhna",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_2": {
-    "translation": "2 Zmerna",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_3": {
-    "translation": "3 Znatna",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_4": {
-    "translation": "4 Velika",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheDangerKD_5": {
-    "translation": "5 Zelo velika",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheExtKD_0": {
-    "translation": "Ni podano",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_10": {
-    "translation": "Plaz suhega nesprijetega snega",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_15": {
-    "translation": "Plaz mokrega snega",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_20": {
-    "translation": "Suh kložast plaz",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_25": {
-    "translation": "Moker kložast plaz",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_27": {
-    "translation": "Zdrsni plaz (največkrat talni)",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_30": {
-    "translation": "Plaz plundre",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheExtKD_40": {
-    "translation": "Opasti",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheKD_0": {
-    "translation": "Ni podano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_11": {
-    "translation": "Plaz mokrega snega",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_12": {
-    "translation": "Plaz suhega nesprijetega snega",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_21": {
-    "translation": "Moker kložast plaz",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_22": {
-    "translation": "Suh kložast plaz",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_27": {
-    "translation": "Zdrsni plaz (največkrat talni)",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_30": {
-    "translation": "Tok plundre",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_40": {
-    "translation": "Rušenje opasti",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheKD_99": {
-    "translation": "Neznano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_0": {
-    "translation": "Ni podano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_10": {
-    "translation": "Spontano sproženje",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_22": {
-    "translation": "Oddaljeno sproženje",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_23": {
-    "translation": "Umetno sproženo-testno pobočje",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_25": {
-    "translation": "Sproženo z eksplozivom",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_26": {
-    "translation": "Sprožil človek",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_27": {
-    "translation": "Sprožile snežne sani",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTriggerKD_99": {
-    "translation": "Neznano",
-    "notes": "",
-    "limit": 30
-  },
-  "AvalancheTypeKD_0": {
-    "translation": "Ni podano",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_10": {
-    "translation": "Kložasti plaz",
-    "notes": "",
-    "limit": 100
-  },
-  "AvalancheTypeKD_20": {
-    "translation": "Plaz nesprijetega snega",
-    "notes": "",
-    "limit": 100
   },
   "AvalCauseAttributFlags_1": {
     "translation": "Šibka plast se zruši enostavno in čisto (enostavno napredovanje).",
@@ -923,6 +753,176 @@
     "translation": "Zelo lahko sprožiti",
     "notes": "",
     "limit": 30
+  },
+  "AvalancheDangerKD_0": {
+    "translation": "0 Ni podano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_1": {
+    "translation": "1 Majhna",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_2": {
+    "translation": "2 Zmerna",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_3": {
+    "translation": "3 Znatna",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_4": {
+    "translation": "4 Velika",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheDangerKD_5": {
+    "translation": "5 Zelo velika",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheExtKD_0": {
+    "translation": "Ni podano",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_10": {
+    "translation": "Plaz suhega nesprijetega snega",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_15": {
+    "translation": "Plaz mokrega snega",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_20": {
+    "translation": "Suh kložast plaz",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_25": {
+    "translation": "Moker kložast plaz",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_27": {
+    "translation": "Zdrsni plaz (največkrat talni)",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_30": {
+    "translation": "Plaz plundre",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheExtKD_40": {
+    "translation": "Opasti",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheKD_0": {
+    "translation": "Ni podano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_11": {
+    "translation": "Plaz mokrega snega",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_12": {
+    "translation": "Plaz suhega nesprijetega snega",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_21": {
+    "translation": "Moker kložast plaz",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_22": {
+    "translation": "Suh kložast plaz",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_27": {
+    "translation": "Zdrsni plaz (največkrat talni)",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_30": {
+    "translation": "Tok plundre",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_40": {
+    "translation": "Rušenje opasti",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheKD_99": {
+    "translation": "Neznano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_0": {
+    "translation": "Ni podano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_10": {
+    "translation": "Spontano sproženje",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_22": {
+    "translation": "Oddaljeno sproženje",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_23": {
+    "translation": "Umetno sproženo-testno pobočje",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_25": {
+    "translation": "Sproženo z eksplozivom",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_26": {
+    "translation": "Sprožil človek",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_27": {
+    "translation": "Sprožile snežne sani",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTriggerKD_99": {
+    "translation": "Neznano",
+    "notes": "",
+    "limit": 30
+  },
+  "AvalancheTypeKD_0": {
+    "translation": "Ni podano",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_10": {
+    "translation": "Kložasti plaz",
+    "notes": "",
+    "limit": 100
+  },
+  "AvalancheTypeKD_20": {
+    "translation": "Plaz nesprijetega snega",
+    "notes": "",
+    "limit": 100
   },
   "CloudCoverKD_0": {
     "translation": "Ni podano",
@@ -1324,6 +1324,26 @@
     "notes": "*****",
     "limit": 1024
   },
+  "ComprTestFractureKD_0": {
+    "translation": "Ni podano",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_1": {
+    "translation": "Q1 - čist,gladek,hiter prelom",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_2": {
+    "translation": "Q2 - večinoma gladek prelom",
+    "notes": "",
+    "limit": 30
+  },
+  "ComprTestFractureKD_3": {
+    "translation": "Q3 - nepravilen, hrapav prelom",
+    "notes": "",
+    "limit": 30
+  },
   "CompressionTestKD_0": {
     "translation": "N/A",
     "notes": "",
@@ -1348,26 +1368,6 @@
     "translation": "Preizkus v razširjenem stolpcu",
     "notes": "ECT",
     "limit": 1024
-  },
-  "ComprTestFractureKD_0": {
-    "translation": "Ni podano",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_1": {
-    "translation": "Q1 - čist,gladek,hiter prelom",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_2": {
-    "translation": "Q2 - večinoma gladek prelom",
-    "notes": "",
-    "limit": 30
-  },
-  "ComprTestFractureKD_3": {
-    "translation": "Q3 - nepravilen, hrapav prelom",
-    "notes": "",
-    "limit": 30
   },
   "CountryKD_0": {
     "translation": "Ni podano",
@@ -5345,15 +5345,15 @@
     "notes": "Avalanche",
     "limit": 30
   },
-  "GeoHazardKD_10_desc": {
-    "translation": "Snežni plaz",
-    "notes": "Snow",
-    "limit": 1024
-  },
   "GeoHazardKD_100": {
     "translation": "Dogodek na ledeniku",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_10_desc": {
+    "translation": "Snežni plaz",
+    "notes": "Snow",
+    "limit": 1024
   },
   "GeoHazardKD_110": {
     "translation": "Poplava izpod ledenika",
@@ -5365,15 +5365,15 @@
     "notes": "Earth slide",
     "limit": 30
   },
-  "GeoHazardKD_20_desc": {
-    "translation": "Zemeljski plaz",
-    "notes": "Soil",
-    "limit": 1024
-  },
   "GeoHazardKD_200": {
     "translation": "Suša",
     "notes": "",
     "limit": 30
+  },
+  "GeoHazardKD_20_desc": {
+    "translation": "Zemeljski plaz",
+    "notes": "Soil",
+    "limit": 1024
   },
   "GeoHazardKD_30": {
     "translation": "Mokra zemlja",
@@ -5855,11 +5855,6 @@
     "notes": "No ice at site before today. There may have been ice along the shore. \"Site\" is generally a virtual point out on the lake away from the shore.",
     "limit": 30
   },
-  "IceCoverBeforeKD_1_desc": {
-    "translation": "Pred današnjim dnem na območju opažanja ni bilo ledu. Led je morda bil ob obali. \"Območje opažanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
-    "notes": "No ice, now first ice at site",
-    "limit": 1024
-  },
   "IceCoverBeforeKD_10": {
     "translation": "Opažanje veljavno do včeraj",
     "notes": "Continuous observations. We can assume that the ice cover from previous observation is valid until yeaterday. Today is a new value (or the same ice cover)",
@@ -5868,6 +5863,11 @@
   "IceCoverBeforeKD_10_desc": {
     "translation": "Neprekinjena opažanja. Lahko sklepamo, da je obseg ledene površine s prejšnjega opažanja veljaven do včerajšnjega dne. Danes je lahko vrednost drugačna (ali pa enaka).",
     "notes": "Last obs valid until yesterday",
+    "limit": 1024
+  },
+  "IceCoverBeforeKD_1_desc": {
+    "translation": "Pred današnjim dnem na območju opažanja ni bilo ledu. Led je morda bil ob obali. \"Območje opažanja\" je v splošnem navidezna točka na jezeru, ki ni ob obali.",
+    "notes": "No ice, now first ice at site",
     "limit": 1024
   },
   "IceCoverBeforeKD_2": {
@@ -6957,51 +6957,6 @@
     "notes": "",
     "limit": 50
   },
-  "UsageFlagKD_0": {
-    "translation": "Oznaka ni podana",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_1": {
-    "translation": "Pripravljeno za zgodovinsko db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_10": {
-    "translation": "Odobril skrbnik podatkov",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_101": {
-    "translation": "Za administrativne namene",
-    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
-    "limit": 30
-  },
-  "UsageFlagKD_101_desc": {
-    "translation": "To opažanje ali skupina ima skrbniško funkcijo. Sicer je skrita, kot bi bila izbrisana.",
-    "notes": "For administarive purpose",
-    "limit": 1024
-  },
-  "UsageFlagKD_2": {
-    "translation": "Posredovano zgodovinski db",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_51": {
-    "translation": "Izbrisal uporabnik",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_52": {
-    "translation": "Izbrisal skrbnik podatkov",
-    "notes": "",
-    "limit": 30
-  },
-  "UsageFlagKD_61": {
-    "translation": "Zavrnil skrbnik podatkov",
-    "notes": "",
-    "limit": 30
-  },
   "UTMSourceKD_0": {
     "translation": "Neznano",
     "notes": "",
@@ -7056,6 +7011,51 @@
     "translation": "HydraII",
     "notes": "",
     "limit": 50
+  },
+  "UsageFlagKD_0": {
+    "translation": "Oznaka ni podana",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_1": {
+    "translation": "Pripravljeno za zgodovinsko db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_10": {
+    "translation": "Odobril skrbnik podatkov",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_101": {
+    "translation": "Za administrativne namene",
+    "notes": "The observation or group has an administrative purpose. It is elswize hidden as though it has been deleted.",
+    "limit": 30
+  },
+  "UsageFlagKD_101_desc": {
+    "translation": "To opažanje ali skupina ima skrbniško funkcijo. Sicer je skrita, kot bi bila izbrisana.",
+    "notes": "For administarive purpose",
+    "limit": 1024
+  },
+  "UsageFlagKD_2": {
+    "translation": "Posredovano zgodovinski db",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_51": {
+    "translation": "Izbrisal uporabnik",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_52": {
+    "translation": "Izbrisal skrbnik podatkov",
+    "notes": "",
+    "limit": 30
+  },
+  "UsageFlagKD_61": {
+    "translation": "Zavrnil skrbnik podatkov",
+    "notes": "",
+    "limit": 30
   },
   "WaterAstrayKD_0": {
     "translation": "Neznano",
