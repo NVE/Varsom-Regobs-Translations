@@ -24,7 +24,7 @@
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_App_10_31": {
-    "translation": "\nAn **avalanche danger assessment** is a summary and conclusion of all tests and observations you have submitted.\n\n* How is the snow stability? Refer to tests you have done.\n* What is the expected development? Why?\n* Do you agree in todays forecast? This is a good feedback to the forecasters.\n\nWe use the ADAM-matrix to decide the danger level. Use the parameters fram your avalanche problems into the matrix.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\nAn **avalanche danger assessment** is a summary and conclusion of all tests and observations you have submitted.\n\n* How is the snow stability? Refer to tests you have done.\n* What is the expected development? Why?\n* Do you agree in todays forecast? This is a good feedback to the forecasters.\n\nWe use the ADAM-matrix to decide the danger level. Use the parameters fram your avalanche problems into the matrix.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_App_10_32": {
@@ -120,7 +120,7 @@
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_Web_10_31": {
-    "translation": "\nAn **avalanche danger assessement** is a summary and conclusion of all tests and observations you have submitted.\n\n* How is the snow stability? Refer to tests you have done.\n* What is the expected development? Why?\n* Do you agree in todays forecast? This is a good feedback to the forecasters.\n\nWe use the ADAM-matrix to decide the danger level. Use the parameters fram your avalanche problems into the matrix.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\nAn **avalanche danger assessement** is a summary and conclusion of all tests and observations you have submitted.\n\n* How is the snow stability? Refer to tests you have done.\n* What is the expected development? Why?\n* Do you agree in todays forecast? This is a good feedback to the forecasters.\n\nWe use the ADAM-matrix to decide the danger level. Use the parameters fram your avalanche problems into the matrix.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_Web_10_32": {
