@@ -2744,6 +2744,16 @@
     "notes": "",
     "limit": 30
   },
+  "DangerSignKD_14": {
+    "translation": "Shooting cracks",
+    "notes": "",
+    "limit": 30
+  },
+  "DangerSignKD_15": {
+    "translation": "Glide cracks",
+    "notes": "",
+    "limit": 30
+  },
   "DangerSignKD_2": {
     "translation": "Recent avalanches",
     "notes": "",
