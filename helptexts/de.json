@@ -28,7 +28,7 @@
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_App_10_31": {
-    "translation": "\nEine ** Lawinengefahrenbeurteilung ** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingereichten Tests und Beobachtungen.\n\n* Wie ist die Schneedeckenstabilität? Lesen Sie die von Ihnen durchgeführten Tests.\n* Wie sieht die erwartete Entwicklung aus? Warum?\n* Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker.\n\nWir verwenden die EAWS-Matrix, um das Gefährdungsniveau zu bestimmen. IS THAT RELEVANT? Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\nEine ** Lawinengefahrenbeurteilung ** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingereichten Tests und Beobachtungen.\n\n* Wie ist die Schneedeckenstabilität? Lesen Sie die von Ihnen durchgeführten Tests.\n* Wie sieht die erwartete Entwicklung aus? Warum?\n* Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker.\n\nWir verwenden die EAWS-Matrix, um das Gefährdungsniveau zu bestimmen. IS THAT RELEVANT? Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_App_10_32": {
@@ -104,7 +104,7 @@
     "notes": "App helptext for geohazard type \"Ice\", registration type \"Ice Cover\""
   },
   "Helptext_Web_10_31": {
-    "translation": "\nEine **Lawinengefahrenbeurteilung** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingegebenen Tests und Beobachtungen. \n\n * Wie ist die Schneestabilität? Beziehen Sie sich auf die von Ihnen durchgeführten Tests.\n * Was ist die erwartete Entwicklung? Warum?\n * Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker. \n\nWir verwenden die ADAM-Matrix, um die Gefahrenstufe zu bestimmen. Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix. \n\n ![ADAM.] (Http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\nEine **Lawinengefahrenbeurteilung** ist eine Zusammenfassung und Schlussfolgerung aller von Ihnen eingegebenen Tests und Beobachtungen. \n\n * Wie ist die Schneestabilität? Beziehen Sie sich auf die von Ihnen durchgeführten Tests.\n * Was ist die erwartete Entwicklung? Warum?\n * Stimmen Sie der heutigen Prognose zu? Dies ist ein gutes Feedback an die Prognostiker. \n\nWir verwenden die ADAM-Matrix, um die Gefahrenstufe zu bestimmen. Verwenden Sie die Parameter für Ihre Lawinenprobleme in der Matrix. \n\n ![ADAM.] (https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_Web_10_36": {

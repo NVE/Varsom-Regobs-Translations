@@ -28,7 +28,7 @@
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_App_10_31": {
-    "translation": "\nUna valutazione del pericolo di valanghe è una sintesi e una conclusione di tutti i test e le osservazioni che hai inviato.\n\nCome è la stabilità della neve? Fare riferimento ai test eseguiti.\nQual è lo sviluppo atteso? Perché?\nSei d'accordo al bollettino di oggi? Questo è un buon feedback per i previsori.\n\nUsiamo la matrice ADAM per decidere il livello di pericolo. Utilizzare i parametri inquadrare i problemi di valanga nella matrice.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\nUna valutazione del pericolo di valanghe è una sintesi e una conclusione di tutti i test e le osservazioni che hai inviato.\n\nCome è la stabilità della neve? Fare riferimento ai test eseguiti.\nQual è lo sviluppo atteso? Perché?\nSei d'accordo al bollettino di oggi? Questo è un buon feedback per i previsori.\n\nUsiamo la matrice ADAM per decidere il livello di pericolo. Utilizzare i parametri inquadrare i problemi di valanga nella matrice.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_App_10_32": {
@@ -132,7 +132,7 @@
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_Web_10_31": {
-    "translation": "Una valutazione del pericolo di valanghe è una sintesi e una conclusione di tutti i test e le osservazioni che hai inviato.\n\nCome è la stabilità della neve? Fare riferimento ai test eseguiti.\nQual è lo sviluppo atteso? Perché?\nSei d'accordo al bollettino di oggi? Questo è un buon feedback per i previsori.\n\nUsiamo la matrice ADAM per decidere il livello di pericolo. Utilizzare i parametri inquadrare i problemi di valanga nella matrice.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "Una valutazione del pericolo di valanghe è una sintesi e una conclusione di tutti i test e le osservazioni che hai inviato.\n\nCome è la stabilità della neve? Fare riferimento ai test eseguiti.\nQual è lo sviluppo atteso? Perché?\nSei d'accordo al bollettino di oggi? Questo è un buon feedback per i previsori.\n\nUsiamo la matrice ADAM per decidere il livello di pericolo. Utilizzare i parametri inquadrare i problemi di valanga nella matrice.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_Web_10_32": {

@@ -24,7 +24,7 @@
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_App_10_31": {
-    "translation": "\n**Ocena nevarnosti snežnih plazov** je povzetek in zaključek po vseh preizkusih in opažanjih, ki ste jih oddali.\n\n* Kakšna je stabilnost snežne odeje? Oprite se na preizkuse, ki ste jih izvedli.\n* Kakšen je pričakovani razvoj? Zakaj?\n* Se strinjate z napovedjo za danes? To je zelo koristna povratna informacija za prognostike.\n\nUporabljamo matriko ADAM za določanje stopnje nevarnosti. Vnesite parametre vašega plazovnega problema v matriko.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\n**Ocena nevarnosti snežnih plazov** je povzetek in zaključek po vseh preizkusih in opažanjih, ki ste jih oddali.\n\n* Kakšna je stabilnost snežne odeje? Oprite se na preizkuse, ki ste jih izvedli.\n* Kakšen je pričakovani razvoj? Zakaj?\n* Se strinjate z napovedjo za danes? To je zelo koristna povratna informacija za prognostike.\n\nUporabljamo matriko ADAM za določanje stopnje nevarnosti. Vnesite parametre vašega plazovnega problema v matriko.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "App helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_App_10_32": {
@@ -120,7 +120,7 @@
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Observation\""
   },
   "Helptext_Web_10_31": {
-    "translation": "\n**Ocena nevarnosti snežnih plazov** je povzetek in zaključek po vseh preizkusih in opažanjih, ki ste jih oddali.\n\n* Kakšna je stabilnost snežne odeje? Oprite se na preizkuse, ki ste jih izvedli.\n* Kakšen je pričakovani razvoj? Zakaj?\n* Se strinjate z napovedjo za danes? To je zelo koristna povratna informacija za prognostike.\n\nUporabljamo matriko ADAM za določanje stopnje nevarnosti. Vnesite parametre vašega plazovnega problema v matriko.\n\n![ADAM.](http://www.varsom.no/media/2001/adamnov18.jpg)",
+    "translation": "\n**Ocena nevarnosti snežnih plazov** je povzetek in zaključek po vseh preizkusih in opažanjih, ki ste jih oddali.\n\n* Kakšna je stabilnost snežne odeje? Oprite se na preizkuse, ki ste jih izvedli.\n* Kakšen je pričakovani razvoj? Zakaj?\n* Se strinjate z napovedjo za danes? To je zelo koristna povratna informacija za prognostike.\n\nUporabljamo matriko ADAM za določanje stopnje nevarnosti. Vnesite parametre vašega plazovnega problema v matriko.\n\n![ADAM.](https://varsom.no/media/3298/adam_2021_v2.png)",
     "notes": "Web helptext for geohazard type \"Snow\", registration type \"Avalanche Danger Assessment\""
   },
   "Helptext_Web_10_32": {
