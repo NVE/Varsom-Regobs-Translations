@@ -1281,7 +1281,7 @@
   },
   "CompetenceLevelKD_750": {
     "translation": "*****",
-    "notes": "Educated personel in NVE or eqivalent.",
+    "notes": "Educated personnel in NVE or equivalent.",
     "limit": 30
   },
   "CompetenceLevelKD_750_desc": {
@@ -1326,7 +1326,7 @@
   },
   "CompressionTestKD_2": {
     "translation": "ECT ",
-    "notes": "Extended coloumn test",
+    "notes": "Extended column test",
     "limit": 30
   },
   "CompressionTestKD_2_desc": {
@@ -4975,40 +4975,80 @@
     "notes": "Svalbard hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_3500_desc": {
+    "translation": "Svalbard hoved-region",
+    "notes": "Svalbard",
+    "limit": 1024
+  },
   "ForecastRegionKD_3501": {
     "translation": "Troms og Finnmark",
     "notes": "Troms og Finnmark hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_3501_desc": {
+    "translation": "Troms og Finnmark hoved-region",
+    "notes": "Troms og Finnmark",
+    "limit": 1024
   },
   "ForecastRegionKD_3502": {
     "translation": "Nordland",
     "notes": "Nordland hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_3502_desc": {
+    "translation": "Nordland hoved-region",
+    "notes": "Nordland",
+    "limit": 1024
+  },
   "ForecastRegionKD_3503": {
     "translation": "Nord-vestlandet",
     "notes": "Nord-vestlandet hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_3503_desc": {
+    "translation": "Nord-vestlandet hoved-region",
+    "notes": "Nord-vestlandet",
+    "limit": 1024
   },
   "ForecastRegionKD_3504": {
     "translation": "Vestlandet",
     "notes": "Vestlandet hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_3504_desc": {
+    "translation": "Vestlandet hoved-region",
+    "notes": "Vestlandet",
+    "limit": 1024
+  },
   "ForecastRegionKD_3505": {
     "translation": "Langfjellan",
     "notes": "Langfjellan hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_3505_desc": {
+    "translation": "Langfjellan hoved-region",
+    "notes": "Langfjellan",
+    "limit": 1024
   },
   "ForecastRegionKD_3506": {
     "translation": "Sør-Norge",
     "notes": "Sør-Norge hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_3506_desc": {
+    "translation": "Sør-Norge hoved-region",
+    "notes": "Sør-Norge",
+    "limit": 1024
+  },
   "ForecastRegionKD_3507": {
     "translation": "Østlandet",
     "notes": "Østlandet hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_3507_desc": {
+    "translation": "Østlandet hoved-region",
+    "notes": "Østlandet",
+    "limit": 1024
   },
   "ForecastRegionKD_399": {
     "translation": "Unbekannt",
@@ -5240,20 +5280,40 @@
     "notes": "Trøndelag - Møre og Romsdal hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_801_desc": {
+    "translation": "Trøndelag - Møre og Romsdal hoved-region",
+    "notes": "Trøndelag - Møre og Romsdal",
+    "limit": 1024
+  },
   "ForecastRegionKD_802": {
     "translation": "Sogn og Fjordane – Hordaland",
     "notes": "Sogn og Fjordane – Hordaland hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_802_desc": {
+    "translation": "Sogn og Fjordane – Hordaland hoved-region",
+    "notes": "Sogn og Fjordane – Hordaland",
+    "limit": 1024
   },
   "ForecastRegionKD_803": {
     "translation": "Rogaland – Agder",
     "notes": "Rogaland – Agder hoved-region",
     "limit": 50
   },
+  "ForecastRegionKD_803_desc": {
+    "translation": "Rogaland – Agder hoved-region",
+    "notes": "Rogaland – Agder",
+    "limit": 1024
+  },
   "ForecastRegionKD_804": {
     "translation": "Østlandet",
     "notes": "Østlandet hoved-region",
     "limit": 50
+  },
+  "ForecastRegionKD_804_desc": {
+    "translation": "Østlandet hoved-region",
+    "notes": "Østlandet",
+    "limit": 1024
   },
   "ForecastRegionTypeKD_0": {
     "translation": "Keine Angabe",

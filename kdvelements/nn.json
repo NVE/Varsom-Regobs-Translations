@@ -1246,7 +1246,7 @@
   },
   "CompetenceLevelKD_750": {
     "translation": "*****",
-    "notes": "Educated personel in NVE or eqivalent.",
+    "notes": "Educated personnel in NVE or equivalent.",
     "limit": 30
   },
   "CompetenceLevelKD_750_desc": {
@@ -1291,7 +1291,7 @@
   },
   "CompressionTestKD_2": {
     "translation": "ECT",
-    "notes": "Extended coloumn test",
+    "notes": "Extended column test",
     "limit": 30
   },
   "CompressionTestKD_2_desc": {
