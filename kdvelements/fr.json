@@ -189,6 +189,10 @@
     "notes": "",
     "limit": 30
   },
+  "ActivityInfluencedKD_615": {
+    "translation": "Intrumentation",
+    "limit": 30
+  },
   "ActivityInfluencedKD_620": {
     "translation": "Routes",
     "notes": "",
@@ -247,6 +251,14 @@
   "ActivityInfluencedKD_716": {
     "translation": "Traîneau à chiens",
     "notes": "",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_717": {
+    "translation": "Sauvetage d'animaux",
+    "limit": 30
+  },
+  "ActivityInfluencedKD_719": {
+    "translation": "Personne blessée par la glace",
     "limit": 30
   },
   "ActivityInfluencedKD_720": {
@@ -318,6 +330,12 @@
     "translation": "Glace à la dérive",
     "notes": "",
     "limit": 30
+  },
+  "ActivityInfluencedKD_775": {
+    "translation": "Barrage de glace de fond"
+  },
+  "ActivityInfluencedKD_776": {
+    "translation": "Bouchon de frasil"
   },
   "ActivityInfluencedKD_790": {
     "translation": "Autres",
@@ -1280,17 +1298,17 @@
     "limit": 30
   },
   "ComprTestFractureKD_1": {
-    "translation": "Q1",
+    "translation": "Q1 (rupture lisse et rapide)",
     "notes": "",
     "limit": 30
   },
   "ComprTestFractureKD_2": {
-    "translation": "Q2",
+    "translation": "Q2 (rupture intermédiaire)",
     "notes": "",
     "limit": 30
   },
   "ComprTestFractureKD_3": {
-    "translation": "Q3",
+    "translation": "Q3 ( rupture irrégulière)",
     "notes": "",
     "limit": 30
   },
@@ -1624,6 +1642,10 @@
     "notes": "",
     "limit": 1024
   },
+  "DamageTypeKD_4": {
+    "translation": "Terrains",
+    "limit": 1024
+  },
   "DamageTypeKD_5": {
     "translation": "Personne(s)",
     "notes": "",
@@ -1645,9 +1667,15 @@
     "limit": 30
   },
   "DangerSignKD_1": {
-    "translation": "Aucun signe de danger observé",
+    "translation": "Aucune obs d'instabilité",
     "notes": "",
     "limit": 30
+  },
+  "DangerSignKD_14": {
+    "translation": "Fissures"
+  },
+  "DangerSignKD_15": {
+    "translation": "Fissures de glissement"
   },
   "DangerSignKD_2": {
     "translation": "Avalanches récentes",
@@ -1660,7 +1688,7 @@
     "limit": 30
   },
   "DangerSignKD_201": {
-    "translation": "Aucun signe de danger observé",
+    "translation": "Aucune obs d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -1730,7 +1758,7 @@
     "limit": 30
   },
   "DangerSignKD_299": {
-    "translation": "Autre signes de danger",
+    "translation": "Autre signes d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -1755,7 +1783,7 @@
     "limit": 30
   },
   "DangerSignKD_601": {
-    "translation": "Aucun signe de danger observé",
+    "translation": "Aucune obs d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -1800,7 +1828,7 @@
     "limit": 30
   },
   "DangerSignKD_701": {
-    "translation": "Aucun signe de danger observé",
+    "translation": "Aucune obs d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -1855,7 +1883,7 @@
     "limit": 30
   },
   "DangerSignKD_99": {
-    "translation": "Autre signe de danger.Précisez",
+    "translation": "Autre signe d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -1870,7 +1898,7 @@
     "limit": 30
   },
   "DestructiveSizeKD_1_desc": {
-    "translation": "Ensevelissement peu probable  (mais peut faire chuter)",
+    "translation": "Ensevelissement peu probable (mais risque de chute)",
     "notes": "1 - Small",
     "limit": 1024
   },
@@ -5362,55 +5390,55 @@
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_11": {
-    "translation": "CTV",
+    "translation": "CTV- Effondrement à la découpe",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_12": {
-    "translation": "CTE",
+    "translation": "CTE - Série poignet 1 à 10",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_13": {
-    "translation": "CTM",
+    "translation": "CTM - Série coude 11 à 20",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_14": {
-    "translation": "CTH",
+    "translation": "CTH - Série épaule 21 à 30",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_15": {
-    "translation": "CTN",
+    "translation": "CTN - Négatif pas de fracture",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_21": {
-    "translation": "ECTPV",
+    "translation": "ECTPV-Propag. tot à la découpe",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_22": {
-    "translation": "ECTP",
+    "translation": "ECTP-Propagation tot. à n coup",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_23": {
-    "translation": "ECTN",
+    "translation": "ECTN -Pas de prog. totale en 1",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
   },
   "PropagationKD_24": {
-    "translation": "ECTX",
+    "translation": "ECTX - Negatif pas de fracture",
     "notes": "",
     "limit": 30,
     "context": "One of the snow stability tests one can choose to submit."
@@ -5432,7 +5460,7 @@
     "limit": 30
   },
   "RegistrationKD_13": {
-    "translation": "Signes de danger",
+    "translation": "Signe d'instabilité",
     "notes": "",
     "limit": 30
   },
@@ -5507,7 +5535,7 @@
     "limit": 30
   },
   "RegistrationKD_81": {
-    "translation": "Avalanches et signes de danger",
+    "translation": "Avalanche& signe d'instabilité",
     "notes": "Grupperings type - Skred og faretegn",
     "limit": 30
   },
@@ -5946,6 +5974,10 @@
     "notes": "",
     "limit": 30
   },
+  "WaterLevelRefKD_130": {
+    "translation": "Monument - crues historiques",
+    "limit": 30
+  },
   "WaterLevelRefKD_140": {
     "translation": "Voir la photo jointe",
     "notes": "",
@@ -5974,6 +6006,10 @@
   "WaterLevelRefKD_220": {
     "translation": "Point de repère bien connu",
     "notes": "",
+    "limit": 30
+  },
+  "WaterLevelRefKD_221": {
+    "translation": "Monument - crues historiques",
     "limit": 30
   },
   "WaterLevelRefKD_240": {
